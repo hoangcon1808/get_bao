@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Auto Get Báo Pages</title>
+    <style>
+        :root { --bg: #0f0f0f; --card-bg: #1e1e1e; --text: #efefef; --accent: #ff3e3e; }
+        body { background: var(--bg); color: var(--text); font-family: sans-serif; padding: 20px; margin: 0; }
+        .row { margin-bottom: 30px; }
+        .scroll-wrapper { display: flex; overflow-x: auto; gap: 15px; padding: 10px; scrollbar-width: none; }
+        .card { flex: 0 0 250px; background: var(--card-bg); border-radius: 10px; text-decoration: none; color: inherit; overflow: hidden; }
+        .card img { width: 100%; height: 140px; object-fit: cover; }
+        .card-info { padding: 10px; font-size: 0.9rem; }
+    </style>
+</head>
+<body>
+    <h1>Get Báo 6 Trang (Auto Update)</h1>
+    <div id="content">Đang tải tin tức...</div>
+
+    <script>
+        fetch('data.json')
+            .then(res => res.json())
+            .then(data => {
+                let html = '';
+                for (const [source, articles] of Object.entries(data)) {
+                    html += `<div class="row"><h2>${source}</h2><div class="scroll-wrapper">`;
+                    articles.forEach(art => {
+                        html += `
+                            <a href="${art.link}" target="_blank" class="card">
+                                <img src="${art.img || 'https://via.placeholder.com/250x140'}">
+                                <div class="card-info">${art.title}</div>
+                            </a>`;
+                    });
+                    html += `</div></div>`;
+                }
+                document.getElementById('content').innerHTML = html;
+            });
+    </script>
+</body>
+</html>
