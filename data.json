@@ -1,73 +1,37 @@
 {
-    "VNExpress": [
-        {
-            "title": "Đề xuất mở rộng phạm vi cấm ôtô trên 16 chỗ vào Hoàn Kiếm",
-            "link": "https://vnexpress.net/de-xuat-mo-rong-pham-vi-cam-oto-tren-16-cho-vao-hoan-kiem-5074047.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/05/14/cfc389901d8f9cd1c59e-177876607-2520-7437-1778766104.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=7pGOl61IqPJJEGjvQrLtKQ"
-        },
-        {
-            "title": "Ông Trump: Ông Tập đề nghị hỗ trợ mở lại eo biển Hormuz",
-            "link": "https://vnexpress.net/ong-trump-ong-tap-de-nghi-ho-tro-mo-lai-eo-bien-hormuz-5074067.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/05/14/afp-b2tg7h2-v1-highres-chinaus-3867-9769-1778774536.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=whnT52vPi2Ld0mrabD2rSg"
-        },
-        {
-            "title": "Những đoàn xe xuyên sa mạc giúp vùng Vịnh né 'cổ chai' Hormuz",
-            "link": "https://vnexpress.net/nhung-doan-xe-xuyen-sa-mac-giup-vung-vinh-ne-co-chai-hormuz-5073429.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/05/14/afp-a3bg8lf-v1-highres-saudiir-9579-9501-1778736353.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=jT_rG3rFaY3lRNoltPu58w"
-        },
-        {
-            "title": "CEO Xiaomi và Elon Musk gây sốt khi chụp selfie",
-            "link": "https://vnexpress.net/ceo-xiaomi-va-elon-musk-gay-sot-khi-chup-selfie-5074051.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/05/14/leijun-1778768818-5907-1778768918.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=DNRlItJkcseyN4H7p-QLdw"
-        },
-        {
-            "title": "Luật cho phép người lạ chiếm hữu nhà ở Florida",
-            "link": "https://vnexpress.net/luat-cho-phep-nguoi-la-chiem-huu-nha-o-florida-5069612.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/05/13/2611052-housing-florida-177866-9549-8311-1778665460.webp?w=220&h=132&q=100&dpr=1&fit=crop&s=UeFpjgfOfxJRolZV8ows-A"
-        },
-        {
-            "title": "Nhà ga sân bay Long Thành vắng lao động giai đoạn về đích",
-            "link": "https://vnexpress.net/nha-ga-san-bay-long-thanh-vang-lao-dong-giai-doan-ve-dich-5073862.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/05/14/anh-jpg-1778752437.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=DBN1YSBTuQvObwfcz_kENw"
-        },
-        {
-            "title": "Hà Nội thu phí thuê vỉa hè ra sao?",
-            "link": "https://vnexpress.net/ha-noi-thu-phi-thue-via-he-ra-sao-5073953.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/05/14/Thumbngang-1778748848-5645-1778749271.png?w=220&h=132&q=100&dpr=1&fit=crop&s=bIjpV49DBshJqTztx43EeQ"
-        },
-        {
-            "title": "Ly cocktail có độc của người vợ bí mật nuôi tình nhân",
-            "link": "https://vnexpress.net/ly-cocktail-co-doc-cua-nguoi-vo-bi-mat-nuoi-tinh-nhan-5074015.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/05/14/richins-eric-kouri-1778754791-2380-1778755993.png?w=220&h=132&q=100&dpr=1&fit=crop&s=JVQff-IzW0Wmo_zZiRb74A"
-        },
-        {
-            "title": "Iran cho 'hàng chục tàu Trung Quốc' đi qua eo biển Hormuz",
-            "link": "https://vnexpress.net/iran-cho-hang-chuc-tau-trung-quoc-di-qua-eo-bien-hormuz-5074093.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/05/15/afp-a9rn2pv-v2-highres-topshot-7253-3523-1778801716.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=Rfj7R2swlYs43xLBYP7rUw"
-        },
-        {
-            "title": "Tỷ phú Elon Musk diễn mặt hài hước, chụp ảnh cùng CEO Apple",
-            "link": "https://vnexpress.net/ty-phu-elon-musk-dien-mat-hai-huoc-chup-anh-cung-ceo-apple-5074071.html",
-            "img": "https://via.placeholder.com/300x200?text=No+Image"
-        }
-    ],
+    "VNExpress": [],
     "Tuổi Trẻ": [],
     "Thanh Niên": [],
     "Dân Trí": [
         {
+            "title": "Sai lầm của không ít du học sinh khi làm thêm ở Hàn Quốc",
+            "link": "https://dantri.com.vn/giao-duc/sai-lam-cua-khong-it-du-hoc-sinh-khi-lam-them-o-han-quoc-20260513090048161.htm",
+            "img": "https://cdnphoto.dantri.com.vn/mmFXJGnQ7e52z-PFWRFq7P5hs2w=/zoom/774_516/2026/05/13/dbdf39d9-4587-4d03-b6f6-73836c7bbb3f-1778637496678.jpg"
+        },
+        {
+            "title": "Hà Nội tổ chức 222 điểm thi tốt nghiệp THPT 2026",
+            "link": "https://dantri.com.vn/giao-duc/ha-noi-to-chuc-222-diem-thi-tot-nghiep-thpt-2026-20260515001930190.htm",
+            "img": "https://cdnphoto.dantri.com.vn/kx8zrBylNi0QgRYgrHcsl9wptRg=/zoom/351_234/2026/05/15/lop-10-hailong-cropped-1778779036228.jpg?watermark=true"
+        },
+        {
+            "title": "TPHCM đặt mục tiêu bỏ thi lớp 10",
+            "link": "https://dantri.com.vn/giao-duc/tphcm-dat-muc-tieu-bo-thi-lop-10-20260514225257373.htm",
+            "img": "https://cdnphoto.dantri.com.vn/18HuUTHEP64ba91T7uiEU2RWU4I=/zoom/351_234/2026/05/14/lop-10-trinh-nguyen-1778773661681.jpg"
+        },
+        {
             "title": "Ngành bị chê \"vô dụng\" có mức lương bao nhiêu?",
             "link": "https://dantri.com.vn/giao-duc/nganh-bi-che-vo-dung-co-muc-luong-bao-nhieu-20260514165540871.htm",
-            "img": "https://cdnphoto.dantri.com.vn/ABS5O4axLNw2wJiFFp86kuEmiCc=/zoom/774_516/2026/05/14/hanumyha2-cropped-1778752390087.jpg"
+            "img": "https://cdnphoto.dantri.com.vn/rsx-_oCksYTGAPbaKzDplJiTRO4=/zoom/192_128/2026/05/14/hanumyha2-cropped-1778752390087.jpg"
         },
         {
             "title": "Đạt giải cao kỳ thi quốc tế, học sinh được hỗ trợ 15-25 lần mức lương cơ sở",
             "link": "https://dantri.com.vn/giao-duc/dat-giai-cao-ky-thi-quoc-te-hoc-sinh-duoc-ho-tro-15-25-lan-muc-luong-co-so-20260514193500378.htm",
-            "img": "https://cdnphoto.dantri.com.vn/BtVZy4EnEIeFt6g98GxUSTELXbo=/zoom/351_234/2026/05/14/truong-1778762014808.jpg"
+            "img": "https://cdnphoto.dantri.com.vn/Z9td3DmaDC5XL3qiDjCrbWd_8p0=/zoom/192_128/2026/05/14/truong-1778762014808.jpg"
         },
         {
             "title": "Hành trình của 100 \"khăn quàng đỏ\" trên chuyến tàu đặc biệt",
             "link": "https://dantri.com.vn/giao-duc/hanh-trinh-cua-100-khan-quang-do-tren-chuyen-tau-dac-biet-20260514162115813.htm",
-            "img": "https://cdnphoto.dantri.com.vn/9ZnYTKK9_2hccZ9k0Jhdvnvx9I8=/zoom/351_234/2026/05/14/chuyen-tau-dac-biet19-1778749115587.jpg"
+            "img": "https://cdnphoto.dantri.com.vn/bSxFLrIoIheH0buPOQnoFN2rtw8=/zoom/192_128/2026/05/14/chuyen-tau-dac-biet19-1778749115587.jpg"
         },
         {
             "title": "Chủ tịch Đà Nẵng chia sẻ về thông tin “dời đô thị đại học”",
@@ -80,82 +44,67 @@
             "img": "https://cdnphoto.dantri.com.vn/fI5r-khPNJOKgExGr56Edv3tb0Q=/zoom/192_128/2025/11/07/le-khai-giang-20253jpg-1757042360550-edited-1762487824117.jpg"
         },
         {
-            "title": "“Bác” thông tin ĐH Bách khoa dừng chuyển về Hưng Yên để lên Hòa Lạc",
-            "link": "https://dantri.com.vn/giao-duc/bac-thong-tin-dh-bach-khoa-dung-chuyen-ve-hung-yen-de-len-hoa-lac-20260514120454933.htm",
-            "img": "https://cdnphoto.dantri.com.vn/s31nd1ufXJ4B6-WTcLzQes8Hny0=/zoom/192_128/2026/05/14/minh-hoa-bach-khoa-hung-yenmyha-cropped-1778734996204.jpg"
+            "title": "iPhone 16 tăng giá về gần mức niêm yết từ 2 năm trước",
+            "link": "https://dantri.com.vn/cong-nghe/iphone-16-tang-gia-ve-gan-muc-niem-yet-tu-2-nam-truoc-20260514232645805.htm",
+            "img": "https://cdnphoto.dantri.com.vn/2PKJrXOkC_ZM3VCWlM7i6rQMU70=/zoom/774_516/2024/10/18/iphone-16-theanh-12-1729269415619.jpg"
         },
         {
-            "title": "Học sinh lớp 6 bị bố và mẹ kế bạo hành do rửa bát, quét nhà chưa sạch?",
-            "link": "https://dantri.com.vn/giao-duc/hoc-sinh-lop-6-bi-bo-va-me-ke-bao-hanh-do-rua-bat-quet-nha-chua-sach-20260514112304079.htm",
-            "img": "https://cdnphoto.dantri.com.vn/zWobgCZHmTJd78e6132PZrtbWOM=/zoom/192_128/2026/05/14/be-edited-1778732218433.jpg"
-        },
-        {
-            "title": "Đề xuất miễn học phí cho người học tiến sĩ chương trình trọng điểm quốc gia",
-            "link": "https://dantri.com.vn/giao-duc/de-xuat-mien-hoc-phi-cho-nguoi-hoc-tien-si-chuong-trinh-trong-diem-quoc-gia-20260514102240815.htm",
-            "img": "https://cdnphoto.dantri.com.vn/8_5BFUQzmz1SX-Abv0qmUf8Sm6A=/zoom/192_128/2026/05/14/z4164101756875fac2fad911424466b0-1-cropped-1778728861212.jpg"
-        },
-        {
-            "title": "iOS 27 mang đến diện mạo mới cho Siri",
-            "link": "https://dantri.com.vn/cong-nghe/ios-27-mang-den-dien-mao-moi-cho-siri-20260514120353791.htm",
-            "img": "https://cdnphoto.dantri.com.vn/zU5QqbCnqI78uB7Pe-Ac23LLl6k=/zoom/774_516/2024/02/05/siri-digitaltrends-1707150058351.jpg"
-        },
-        {
-            "title": "Cấm trẻ dưới 16 tuổi dùng mạng xã hội: Bài toán của Australia",
-            "link": "https://dantri.com.vn/cong-nghe/cam-tre-duoi-16-tuoi-dung-mang-xa-hoi-bai-toan-cua-australia-20260514110837893.htm",
-            "img": "https://cdnphoto.dantri.com.vn/-uW9uAKCyWLdgzCpJeZUJVuXJSs=/zoom/351_234/2026/05/14/0thumb-1778731084348.png"
+            "title": "Lý do điện thoại cao cấp sẽ tăng giá mạnh trong năm 2027",
+            "link": "https://dantri.com.vn/cong-nghe/ly-do-dien-thoai-cao-cap-se-tang-gia-manh-trong-nam-2027-20260515011903957.htm",
+            "img": "https://cdnphoto.dantri.com.vn/sKY3adpoHSWAWztBm6l4qmlXiTY=/zoom/351_234/2026/05/15/gia-smartphone-cropped-1778782688190.jpg"
         }
     ],
     "VietnamNet": [],
     "Znews": [
         {
-            "title": "'Cuộc di cư' của người đọc sách lậu",
-            "link": "https://znews.vn/cuoc-di-cu-cua-nguoi-doc-sach-lau-post1651351.html",
-            "img": "https://photo.znews.vn/w1000/Uploaded/bpcgpivp/2026_05_14/IMG_3631_1.JPG"
+            "title": "'Áo mới' của chợ Tân Định",
+            "link": "https://znews.vn/ao-moi-cua-cho-tan-dinh-post1651497.html",
+            "img": "https://photo.znews.vn/w1000/Uploaded/ovhpihv/2026_05_14/Cho_Tan_Dinh_04_Znews.jpg"
         },
         {
-            "title": "Người đưa U17 Việt Nam tới World Cup là ai?",
-            "link": "https://znews.vn/nguoi-dua-u17-viet-nam-toi-world-cup-la-ai-post1651617.html",
-            "img": "https://photo.znews.vn/w480/Uploaded/yrfjpysfzyr/2026_05_14/roland_1_1.jpg"
+            "title": "Thấy gì khi U23, U17 Việt Nam liên tiếp nhất bảng giải châu Á?",
+            "link": "https://znews.vn/thay-gi-khi-u23-u17-viet-nam-lien-tiep-nhat-bang-giai-chau-a-post1651677.html",
+            "img": "https://photo.znews.vn/w480/Uploaded/fsmyz/2026_05_14/vn.jpg"
         },
         {
-            "title": "Trung Quốc 'tính từng giây' cho chuyến thăm của ông Trump",
-            "link": "https://znews.vn/trung-quoc-tinh-tung-giay-cho-chuyen-tham-cua-ong-trump-post1651383.html",
-            "img": "https://photo.znews.vn/w480/Uploaded/asfzyrwtys1/2026_05_14/8ef633652370_20260514_CUC_img_11zon.jpg"
+            "title": "Giao thông ngày đầu vận hành phân làn đảo chiều đường Cộng Hòa",
+            "link": "https://znews.vn/giao-thong-ngay-dau-van-hanh-phan-lan-dao-chieu-duong-cong-hoa-post1651680.html",
+            "img": "https://photo.znews.vn/w480/Uploaded/ovhpihv/2026_05_15/Cong_Hoa_07_Znews.jpg"
         },
         {
-            "title": "Công ty quản lý Miu Lê tiếp tục lên tiếng",
-            "link": "https://znews.vn/cong-ty-quan-ly-miu-le-tiep-tuc-len-tieng-post1651625.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/qfssu/2026_05_14/miu_le_12_1.jpg"
+            "title": "Giá vàng lao dốc, người mua ở đỉnh đã lỗ 30 triệu đồng/lượng",
+            "link": "https://znews.vn/gia-vang-lao-doc-nguoi-mua-o-dinh-da-lo-30-trieu-dongluong-post1651700.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/vpcvodbp/2026_05_15/gia_vang_nhan_znews_viet_linh.jpg"
         },
         {
-            "title": "Camavinga bị loại khỏi tuyển Pháp dự World Cup",
-            "link": "https://znews.vn/camavinga-bi-loai-khoi-tuyen-phap-du-world-cup-post1651408.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/pwivobiu/2026_05_14/Camavinga.JPG"
+            "title": "Việt Hương đính chính",
+            "link": "https://znews.vn/viet-huong-dinh-chinh-post1651661.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/wpdhnwhnw/2026_05_15/huonggggg_1.jpg"
         },
         {
-            "title": "Mbappe làm dậy sóng Real Madrid",
-            "link": "https://znews.vn/mbappe-lam-day-song-real-madrid-post1651635.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/mfnuy/2025_04_15/mbappe.jpeg"
+            "title": "TT Trump hội đàm kín với Chủ tịch Tập Cận Bình tại Trung Nam Hải",
+            "link": "https://znews.vn/tt-trump-hoi-dam-kin-voi-chu-tich-tap-can-binh-tai-trung-nam-hai-post1651716.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/asfzyrwtys1/2026_05_15/2026_05_15T031635Z_1146933197_RC2E9LAR171A_RTRMADP_3_CHINA_USA.JPG"
         },
         {
-            "title": "Không nhận ra 'ma nữ đẹp nhất Thái Lan'",
-            "link": "https://znews.vn/khong-nhan-ra-ma-nu-dep-nhat-thai-lan-post1651615.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/qfssu/2026_05_14/Mai_Davika__1.jpeg"
+            "title": "Nữ tỷ phú Trung Quốc ngồi giữa Tim Cook và Elon Musk là ai?",
+            "link": "https://znews.vn/nu-ty-phu-trung-quoc-ngoi-giua-tim-cook-va-elon-musk-la-ai-post1651658.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/ivpbciv2/2026_05_15/1280px_Tectonic_plates_282022_29.jpg"
         },
         {
-            "title": "Vụ án ma túy tại Cát Bà liên quan ca sĩ Miu Lê: Khởi tố 3 bị can",
-            "link": "https://znews.vn/vu-an-ma-tuy-tai-cat-ba-lien-quan-ca-si-miu-le-khoi-to-3-bi-can-post1651116.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/ecfzyryrzly/2026_05_13/72adb038_e312_43c6_aa54_df52087c5b7f.jpg"
+            "title": "Diễn viên Việt Hoa cưới",
+            "link": "https://znews.vn/dien-vien-viet-hoa-cuoi-post1651679.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/wpdhnwhnw/2026_05_15/viehoa_1.jpg"
         },
         {
-            "title": "Hậu 'Attack on Titan', manga kinh dị rung chuyển phương Tây",
-            "link": "https://znews.vn/hau-attack-on-titan-manga-kinh-di-rung-chuyen-phuong-tay-post1650992.html",
-            "img": "https://photo.znews.vn/Uploaded/qoswae/2026_05_13/manga_kinh_di.jpg"
+            "title": "Điều ẩn sau trang viết về công chúa nhà Trần",
+            "link": "https://znews.vn/dieu-an-sau-trang-viet-ve-cong-chua-nha-tran-post1650976.html",
+            "img": "https://photo.znews.vn/Uploaded/dqmblcvo/2026_05_12/AnTU1.jpg"
         },
         {
-            "title": "Tỉnh, thành phố tăng cường phòng, chống in lậu",
-            "link": "https://znews.vn/tinh-thanh-pho-tang-cuong-phong-chong-in-lau-post1651460.html",
-            "img": "https://photo.znews.vn/Uploaded/bpcgpivp/2026_05_14/tinh_hau_giang_sach_giao_khoa_gia_dms_2456_7679.jpg_2__1.jpg"
+            "title": "Quyền năng của dầu mỏ lớn tới đâu?",
+            "link": "https://znews.vn/quyen-nang-cua-dau-mo-lon-toi-dau-post1650725.html",
+            "img": "https://photo.znews.vn/Uploaded/caxwpqdwp/2026_05_12/tai_xuong_7_.jpg"
         }
     ]
 }
