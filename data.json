@@ -4,9 +4,14 @@
     "Thanh Niên": [],
     "Dân Trí": [
         {
+            "title": "Ngắm khu đô thị Đại học Quốc tế trị giá hơn 2 tỷ USD ở TPHCM",
+            "link": "https://dantri.com.vn/giao-duc/ngam-khu-do-thi-dai-hoc-quoc-te-tri-gia-hon-2-ty-usd-o-tphcm-20260508210702921.htm",
+            "img": "https://cdnphoto.dantri.com.vn/4jT700gZA8ed5K4Wk3zVIigNHjQ=/zoom/774_516/2026/05/08/vinhomehocmonbaoquyen-1778232948984.jpg?watermark=true"
+        },
+        {
             "title": "Sai lầm của không ít du học sinh khi làm thêm ở Hàn Quốc",
             "link": "https://dantri.com.vn/giao-duc/sai-lam-cua-khong-it-du-hoc-sinh-khi-lam-them-o-han-quoc-20260513090048161.htm",
-            "img": "https://cdnphoto.dantri.com.vn/mmFXJGnQ7e52z-PFWRFq7P5hs2w=/zoom/774_516/2026/05/13/dbdf39d9-4587-4d03-b6f6-73836c7bbb3f-1778637496678.jpg"
+            "img": "https://cdnphoto.dantri.com.vn/agFkjFT7z1ysPx4u8unl2sjN02M=/zoom/351_234/2026/05/13/dbdf39d9-4587-4d03-b6f6-73836c7bbb3f-1778637496678.jpg"
         },
         {
             "title": "Hà Nội tổ chức 222 điểm thi tốt nghiệp THPT 2026",
@@ -16,7 +21,7 @@
         {
             "title": "TPHCM đặt mục tiêu bỏ thi lớp 10",
             "link": "https://dantri.com.vn/giao-duc/tphcm-dat-muc-tieu-bo-thi-lop-10-20260514225257373.htm",
-            "img": "https://cdnphoto.dantri.com.vn/18HuUTHEP64ba91T7uiEU2RWU4I=/zoom/351_234/2026/05/14/lop-10-trinh-nguyen-1778773661681.jpg"
+            "img": "https://cdnphoto.dantri.com.vn/rB0ym6zPv0kBe2qTZvc_Y4qmRCU=/zoom/192_128/2026/05/14/lop-10-trinh-nguyen-1778773661681.jpg"
         },
         {
             "title": "Ngành bị chê \"vô dụng\" có mức lương bao nhiêu?",
@@ -39,11 +44,6 @@
             "img": "https://cdnphoto.dantri.com.vn/9daA8ioWKWkzPdUtJQ7nC8rYOOc=/zoom/192_128/2024/03/14/dai-hoc-da-nanghoai-son2-1710433368771.jpg"
         },
         {
-            "title": "Toàn cảnh quy hoạch Thủ đô Hà Nội tầm nhìn 100 năm về giáo dục",
-            "link": "https://dantri.com.vn/giao-duc/toan-canh-quy-hoach-thu-do-ha-noi-tam-nhin-100-nam-ve-giao-duc-20260514143046234.htm",
-            "img": "https://cdnphoto.dantri.com.vn/fI5r-khPNJOKgExGr56Edv3tb0Q=/zoom/192_128/2025/11/07/le-khai-giang-20253jpg-1757042360550-edited-1762487824117.jpg"
-        },
-        {
             "title": "iPhone 16 tăng giá về gần mức niêm yết từ 2 năm trước",
             "link": "https://dantri.com.vn/cong-nghe/iphone-16-tang-gia-ve-gan-muc-niem-yet-tu-2-nam-truoc-20260514232645805.htm",
             "img": "https://cdnphoto.dantri.com.vn/2PKJrXOkC_ZM3VCWlM7i6rQMU70=/zoom/774_516/2024/10/18/iphone-16-theanh-12-1729269415619.jpg"
@@ -57,14 +57,14 @@
     "VietnamNet": [],
     "Znews": [
         {
-            "title": "'Áo mới' của chợ Tân Định",
-            "link": "https://znews.vn/ao-moi-cua-cho-tan-dinh-post1651497.html",
-            "img": "https://photo.znews.vn/w1000/Uploaded/ovhpihv/2026_05_14/Cho_Tan_Dinh_04_Znews.jpg"
+            "title": "Bộ Y tế thu hồi toàn quốc thuốc nhỏ mắt Natri clorid 0,9%",
+            "link": "https://znews.vn/bo-y-te-thu-hoi-toan-quoc-thuoc-nho-mat-natri-clorid-0-9-post1651737.html",
+            "img": "https://photo.znews.vn/w1000/Uploaded/gtnvzv/2026_05_15/nho_mat.jpg"
         },
         {
-            "title": "Thấy gì khi U23, U17 Việt Nam liên tiếp nhất bảng giải châu Á?",
-            "link": "https://znews.vn/thay-gi-khi-u23-u17-viet-nam-lien-tiep-nhat-bang-giai-chau-a-post1651677.html",
-            "img": "https://photo.znews.vn/w480/Uploaded/fsmyz/2026_05_14/vn.jpg"
+            "title": "Ông Trump và ông Tập dạo vườn hồng, dự tiệc trà tại Trung Nam Hải",
+            "link": "https://znews.vn/ong-trump-va-ong-tap-dao-vuon-hong-du-tiec-tra-tai-trung-nam-hai-post1651736.html",
+            "img": "https://photo.znews.vn/w480/Uploaded/asfzyrwtys1/2026_05_15/Trung_Nam_Hai_4.JPG"
         },
         {
             "title": "Giao thông ngày đầu vận hành phân làn đảo chiều đường Cộng Hòa",
@@ -82,29 +82,29 @@
             "img": "https://photo.znews.vn/w210/Uploaded/wpdhnwhnw/2026_05_15/huonggggg_1.jpg"
         },
         {
-            "title": "TT Trump hội đàm kín với Chủ tịch Tập Cận Bình tại Trung Nam Hải",
-            "link": "https://znews.vn/tt-trump-hoi-dam-kin-voi-chu-tich-tap-can-binh-tai-trung-nam-hai-post1651716.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/asfzyrwtys1/2026_05_15/2026_05_15T031635Z_1146933197_RC2E9LAR171A_RTRMADP_3_CHINA_USA.JPG"
+            "title": "Người Trung Quốc 'vừa giận, vừa yêu' Elon Musk",
+            "link": "https://znews.vn/nguoi-trung-quoc-vua-gian-vua-yeu-elon-musk-post1651657.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/asfzyrwtys1/2026_05_15/Elon_Musk_tiec_toi.JPG"
         },
         {
-            "title": "Nữ tỷ phú Trung Quốc ngồi giữa Tim Cook và Elon Musk là ai?",
-            "link": "https://znews.vn/nu-ty-phu-trung-quoc-ngoi-giua-tim-cook-va-elon-musk-la-ai-post1651658.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/ivpbciv2/2026_05_15/1280px_Tectonic_plates_282022_29.jpg"
+            "title": "Vingroup mở đợt tuyển dụng quy mô lớn, cần hơn 20.000 người",
+            "link": "https://znews.vn/vingroup-mo-dot-tuyen-dung-quy-mo-lon-can-hon-20000-nguoi-post1651756.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/mrndcqjwq/2026_05_15/z7827884183050_cfd0bddd6e9871a330c192347302158b.jpg"
         },
         {
-            "title": "Diễn viên Việt Hoa cưới",
-            "link": "https://znews.vn/dien-vien-viet-hoa-cuoi-post1651679.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/wpdhnwhnw/2026_05_15/viehoa_1.jpg"
+            "title": "Giá vàng thế giới rơi thẳng đứng",
+            "link": "https://znews.vn/gia-vang-the-gioi-roi-thang-dung-post1651701.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/yzfsm/2026_02_24/Quy_vang_SPDR_Gold_Trust__1.jpg"
         },
         {
-            "title": "Điều ẩn sau trang viết về công chúa nhà Trần",
-            "link": "https://znews.vn/dieu-an-sau-trang-viet-ve-cong-chua-nha-tran-post1650976.html",
-            "img": "https://photo.znews.vn/Uploaded/dqmblcvo/2026_05_12/AnTU1.jpg"
+            "title": "Mô hình thực chiến về dữ liệu cho doanh nghiệp vừa và nhỏ",
+            "link": "https://znews.vn/mo-hinh-thuc-chien-ve-du-lieu-cho-doanh-nghiep-vua-va-nho-post1651573.html",
+            "img": "https://photo.znews.vn/Uploaded/bpcgpivp/2026_05_14/ho_tu_bao.jpeg"
         },
         {
-            "title": "Quyền năng của dầu mỏ lớn tới đâu?",
-            "link": "https://znews.vn/quyen-nang-cua-dau-mo-lon-toi-dau-post1650725.html",
-            "img": "https://photo.znews.vn/Uploaded/caxwpqdwp/2026_05_12/tai_xuong_7_.jpg"
+            "title": "Gen Z vẽ 'Dragon Ball', 'One Piece' lên gốm Lái Thiêu",
+            "link": "https://znews.vn/gen-z-ve-dragon-ball-one-piece-len-gom-lai-thieu-post1651207.html",
+            "img": "https://photo.znews.vn/Uploaded/zagtgt/2026_05_13/429915786_774401894835962_1394783494840846872_n_1024x1024.jpg"
         }
     ]
 }
