@@ -1,9 +1,39 @@
 {
     "VNExpress": [
         {
-            "title": "Hàng loạt công trình đang thi công ở ngoại thành Hà Nội",
-            "link": "https://vnexpress.net/hang-loat-cong-trinh-dang-thi-cong-o-ngoai-thanh-ha-noi-5077850.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/05/25/vd4-ctpvcd-1779692553.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=dZx-XfTwy5-V3LxCvUcQwQ"
+            "title": "Xăng E10 có khiến xe hao xăng, máy yếu?",
+            "link": "https://vnexpress.net/xang-e10-co-khien-xe-hao-xang-may-yeu-5077871.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/05/25/xang-e10-1779695161-2131-1779695173.webp?w=680&h=408&q=100&dpr=1&fit=crop&s=sfex_N2joy2tdhmyaJNAjQ"
+        },
+        {
+            "title": "Iran giải thích việc thu phí ở eo biển Hormuz",
+            "link": "https://vnexpress.net/iran-giai-thich-viec-thu-phi-o-eo-bien-hormuz-5078076.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/05/25/phat-ngon-vien-bo-ngoai-giao-i-5597-3218-1779709363.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=LZr99WMeA6oTtMez5-hvLg"
+        },
+        {
+            "title": "5 nước NATO 'chặn' kế hoạch tăng viện trợ quân sự cho Ukraine",
+            "link": "https://vnexpress.net/5-nuoc-nato-chan-ke-hoach-tang-vien-tro-quan-su-cho-ukraine-5077936.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/05/25/Ukraine-1779700043-5346-1779700077.png?w=220&h=132&q=100&dpr=1&fit=crop&s=s32mcnBVUvVfDntz2fNECw"
+        },
+        {
+            "title": "HLV Park Hang-seo tái xuất, dẫn dắt CLB của Thái Lan",
+            "link": "https://vnexpress.net/hlv-park-hang-seo-tai-xuat-dan-dat-clb-cua-thai-lan-5077968.html",
+            "img": "https://vcdn1-thethao.vnecdn.net/2026/05/25/screenshot-at-1779699320-8569-1779699330.png?w=220&h=132&q=100&dpr=1&fit=crop&s=zaXBKgYMOOF89YdQququUg"
+        },
+        {
+            "title": "5 vấn đề định đoạt thành bại của thỏa thuận hòa bình Mỹ - Iran",
+            "link": "https://vnexpress.net/5-van-de-dinh-doat-thanh-bai-cua-thoa-thuan-hoa-binh-my-iran-5077697.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/05/25/anh1-1779691948-8758-1779692409.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=owB37ytED8xs5PNGmx2dRQ"
+        },
+        {
+            "title": "Kẻ nổ súng gần Nhà Trắng từng tuyên bố mình là Chúa",
+            "link": "https://vnexpress.net/ke-no-sung-gan-nha-trang-tung-tuyen-bo-minh-la-chua-5078027.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/05/25/ap26144007227787-1779704997-3733-1779705075.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=T31H_SOexLpyGvLpOkT0BQ"
+        },
+        {
+            "title": "Vinhomes chuyển đổi vàng nhàn rỗi của người mua nhà như thế nào?",
+            "link": "https://vnexpress.net/vinhomes-chuyen-doi-vang-nhan-roi-cua-nguoi-mua-nha-nhu-the-nao-5077700.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/05/25/anhmanhinh20260525luc125144-17-2698-8895-1779688970.png?w=220&h=132&q=100&dpr=1&fit=crop&s=60G1sbTCQliA9FBEq4Lhfg"
         },
         {
             "title": "Ông Phạm Nhật Vượng lập thêm công ty vốn gần 80.000 tỷ đồng",
@@ -11,151 +41,121 @@
             "img": "https://vcdn1-kinhdoanh.vnecdn.net/2026/05/25/phamnhatvuong17768303598676177-4711-5711-1779682727.png?w=220&h=132&q=100&dpr=1&fit=crop&s=eWXI2rzkpDD71zdXwuxUTw"
         },
         {
-            "title": "Lý do nhiều vợ chồng Mỹ ly hôn ở tuổi 50",
-            "link": "https://vnexpress.net/ly-do-nhieu-vo-chong-my-ly-hon-o-tuoi-50-5077481.html",
-            "img": "https://vcdn1-giadinh.vnecdn.net/2026/05/24/screen-shot-at-1779559649-8161-1779560937.png?w=220&h=132&q=100&dpr=1&fit=crop&s=emLrI6ZbO9TgGdYQwJPaHA"
+            "title": "Những tài xế nhập cư bị 'treo bằng' vì quy định mới của ông Trump",
+            "link": "https://vnexpress.net/nhung-tai-xe-nhap-cu-bi-treo-bang-vi-quy-dinh-moi-cua-ong-trump-5077019.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/05/25/20251216-revoke-of-commercial-1440-4963-1779679259.png?w=220&h=132&q=100&dpr=1&fit=crop&s=bP1Qs620dYxNtizWdd4e9w"
         },
         {
-            "title": "Đại học Bách khoa Hà Nội có giám đốc mới",
-            "link": "https://vnexpress.net/gs-ts-le-anh-tuan-lam-giam-doc-dai-hoc-bach-khoa-ha-noi-5077963.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/05/25/2aoboqyretuvlyj0hah3e7ln7mbcwi-9821-7119-1779697900.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=cXf01vPz9IP3awmMzuQmUw"
-        },
-        {
-            "title": "Người Việt ở quận Cam hoang mang trước nguy cơ bồn hóa chất phát nổ",
-            "link": "https://vnexpress.net/nguoi-viet-o-quan-cam-hoang-mang-truoc-nguy-co-bon-hoa-chat-phat-no-5077769.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/05/25/thiet-ke-chua-co-tent095151-17-7156-9276-1779677707.png?w=220&h=132&q=100&dpr=1&fit=crop&s=avFBJEbw7Td_KjsePkL2iw"
-        },
-        {
-            "title": "Ngoại hạng Anh tự làm mất một suất Champions League 2026-2027",
-            "link": "https://vnexpress.net/ngoai-hang-anh-tu-lam-mat-mot-suat-champions-league-2026-2027-5077701.html",
-            "img": "https://vcdn1-thethao.vnecdn.net/2026/05/25/b8ca5c81b6d84d8697941967799cc9-4224-3004-1779669914.png?w=220&h=132&q=100&dpr=1&fit=crop&s=LDQ01qOAmfglJkhtd9Z07g"
-        },
-        {
-            "title": "Đàm phán Mỹ - Iran kéo dài có thể vì ông Khamenei 'ẩn mình' quá kỹ",
-            "link": "https://vnexpress.net/dam-phan-my-iran-keo-dai-co-the-vi-ong-khamenei-an-minh-qua-ky-5077886.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/05/25/afp-a2fw8nq-v2-highres-topshot-3727-3396-1779692679.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=yA1bqlzJ1JkHVLblmx3riQ"
-        },
-        {
-            "title": "Lời chia tay của Guardiola sau 10 năm cùng Man City",
-            "link": "https://vnexpress.net/loi-chia-tay-cua-guardiola-sau-10-nam-cung-man-city-5077884.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/05/25/mancityebp39m01bymp401025513st-2533-8862-1779691411.png?w=220&h=132&q=100&dpr=1&fit=crop&s=ogeUCh6uo7sLl54n8uPhBQ"
-        },
-        {
-            "title": "Đại học Quốc gia Hà Nội bổ nhiệm 4 hiệu trưởng mới",
-            "link": "https://vnexpress.net/dai-hoc-quoc-gia-ha-noi-bo-nhiem-4-hieu-truong-moi-5077798.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/05/25/066528dba54841598295b190ae00d7-6149-6294-1779685800.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=Qqm7XXVb0ns6mWPxmuFDZQ"
-        },
-        {
-            "title": "Ông Hun Sen: Nạn lừa đảo làm hoen ố danh tiếng Campuchia",
-            "link": "https://vnexpress.net/ong-hun-sen-nan-lua-dao-lam-hoen-o-danh-tieng-campuchia-5077885.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/05/25/afp2024040334nf627v1highrescam-6033-5237-1779694912.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=0hWM_DUu27Q5jBf8rz87MQ"
+            "title": "Dùng flycam truy bắt nhóm buôn ma túy ở Lào Cai",
+            "link": "https://vnexpress.net/dung-flycam-truy-bat-nhom-buon-ma-tuy-o-lao-cai-5078068.html",
+            "img": "https://via.placeholder.com/300x200?text=No+Image"
         }
     ],
     "Tuổi Trẻ": [],
     "Thanh Niên": [],
     "Dân Trí": [
         {
+            "title": "Đáp án, đề thi lớp 10 môn toán tỉnh Quảng Trị năm 2026",
+            "link": "https://dantri.com.vn/giao-duc/dap-an-de-thi-lop-10-mon-toan-tinh-quang-tri-nam-2026-20260525091121025.htm",
+            "img": "https://cdnphoto.dantri.com.vn/p2pKaTZNYJdPqsAf__CJ6vbXYug=/zoom/774_516/2026/05/25/thi-thpt-manhquan-cropped-cropped-1779674832550.jpg"
+        },
+        {
+            "title": "Đại học Bách khoa Hà Nội có tân Giám đốc",
+            "link": "https://dantri.com.vn/giao-duc/dai-hoc-bach-khoa-ha-noi-co-tan-giam-doc-20260525153332199.htm",
+            "img": "https://cdnphoto.dantri.com.vn/Ocpc9wsNhZDb2NXDsuHfH63a23I=/zoom/351_234/2026/05/25/le-anh-tuanmyha-1779697869169.jpg"
+        },
+        {
+            "title": "Đề và đáp án môn tiếng Anh thi lớp 10 Nghệ An năm 2026",
+            "link": "https://dantri.com.vn/giao-duc/de-va-dap-an-mon-tieng-anh-thi-lop-10-nghe-an-nam-2026-20260525161932328.htm",
+            "img": "https://cdnphoto.dantri.com.vn/2XdpJ0oZgbZDDmhOBCYeQcvWtWk=/zoom/351_234/2026/05/23/hoc-sinhnguyenvy-80-1779522877578.jpg"
+        },
+        {
+            "title": "Đề thi, đáp án vào lớp 10 môn toán tỉnh Hưng Yên",
+            "link": "https://dantri.com.vn/giao-duc/de-thi-dap-an-vao-lop-10-mon-toan-tinh-hung-yen-20260525123741469.htm",
+            "img": "https://cdnphoto.dantri.com.vn/Y8RCwriO_rNkTISCB2nexW9LyQ8=/zoom/192_128/2026/05/25/ky-thi4-edited-1779687321431.jpg"
+        },
+        {
+            "title": "Công an dùng ô tô đến tận nhà đưa thí sinh ngủ quên tới điểm thi",
+            "link": "https://dantri.com.vn/giao-duc/cong-an-dung-o-to-den-tan-nha-dua-thi-sinh-ngu-quen-toi-diem-thi-20260525151330766.htm",
+            "img": "https://cdnphoto.dantri.com.vn/7kb6-vZFTbx1-2cKHiZJAcHHpe4=/zoom/192_128/2026/05/25/76285-1779687257877.gif"
+        },
+        {
             "title": "Mạo danh cô chủ nhiệm để lừa hơn 50 triệu đồng tiền chữa bệnh của phụ huynh",
             "link": "https://dantri.com.vn/giao-duc/mao-danh-co-chu-nhiem-de-lua-hon-50-trieu-dong-tien-chua-benh-cua-phu-huynh-20260525145959973.htm",
-            "img": "https://cdnphoto.dantri.com.vn/faDman0Lbh7vMMasujF61zx0A4I=/zoom/774_516/2026/05/25/z7863581899945c65e639bd856e73234fea67a9fba6576-edited-1779695581114.jpg"
+            "img": "https://cdnphoto.dantri.com.vn/c5JFjSHfqLc1B_KqHgWbW0xGgn4=/zoom/192_128/2026/05/25/z7863581899945c65e639bd856e73234fea67a9fba6576-edited-1779695581114.jpg"
         },
         {
             "title": "Bị hạ thi đua, cắt khen thưởng, trường có văn bản \"xin\" được... biết lý do",
             "link": "https://dantri.com.vn/giao-duc/bi-ha-thi-dua-cat-khen-thuong-truong-co-van-ban-xin-duoc-biet-ly-do-20260525134604020.htm",
-            "img": "https://cdnphoto.dantri.com.vn/AA99GAnI4P2HkNawyr7aFvC1FHg=/zoom/351_234/2026/05/25/z7863135892278851b37a62ed8c95a5e88bf7a2c50999e-edited-1779690608804.jpg"
+            "img": "https://cdnphoto.dantri.com.vn/jlo5e5cKZQa_XtKD0GF1n4mCBxk=/zoom/192_128/2026/05/25/z7863135892278851b37a62ed8c95a5e88bf7a2c50999e-edited-1779690608804.jpg"
         },
         {
             "title": "Thí sinh Nghệ An nói gì về đề thi môn ngữ văn vào lớp 10?",
             "link": "https://dantri.com.vn/giao-duc/thi-sinh-nghe-an-noi-gi-ve-de-thi-mon-ngu-van-vao-lop-10-20260525103421509.htm",
-            "img": "https://cdnphoto.dantri.com.vn/TOino7UQwMALu-sIll0KjRif6z0=/zoom/351_234/2026/05/25/ky-thi-lop-12-nghe-an-nguyen-phe-3-cropped-1779679664004.jpg?watermark=true"
+            "img": "https://cdnphoto.dantri.com.vn/KNQ-M1X46IQEjodcIJEoe0yXIBk=/zoom/192_128/2026/05/25/ky-thi-lop-12-nghe-an-nguyen-phe-3-cropped-1779679664004.jpg?watermark=true"
         },
         {
-            "title": "Đại học Quốc gia Hà Nội bổ nhiệm loạt nhân sự mới",
-            "link": "https://dantri.com.vn/giao-duc/dai-hoc-quoc-gia-ha-noi-bo-nhiem-loat-nhan-su-moi-20260525111923652.htm",
-            "img": "https://cdnphoto.dantri.com.vn/q6_kDW1MXTCoqeyhHUE40j0CkdY=/zoom/192_128/2026/05/25/bo-nhiem-hieu-truong-cropped-1779692932166.jpg"
-        },
-        {
-            "title": "Đáp án, đề thi môn tiếng Anh vào lớp 10 của tỉnh Hà Tĩnh năm 2026",
-            "link": "https://dantri.com.vn/giao-duc/dap-an-de-thi-mon-tieng-anh-vao-lop-10-cua-tinh-ha-tinh-nam-2026-20260523115014977.htm",
-            "img": "https://cdnphoto.dantri.com.vn/q34L2yxwMlwxNTOu0CyiJlwpJyQ=/zoom/192_128/2026/05/23/lop-10-trinh-nguyen-cropped-cropped-1779511555439.jpg"
-        },
-        {
-            "title": "Đề thi và đáp án thi lớp 10 năm 2026 của tất cả 34 tỉnh thành",
-            "link": "https://dantri.com.vn/giao-duc/de-thi-va-dap-an-thi-lop-10-nam-2026-cua-tat-ca-34-tinh-thanh-20260523112559530.htm",
-            "img": "https://cdnphoto.dantri.com.vn/QFHL42CvS6DWb59nXwTxZ37-CCc=/zoom/192_128/2026/03/25/thpt-le-quy-don-huyen-nguyen-10-cropped-1774409690357.jpg"
-        },
-        {
-            "title": "PGS.TS Trần Thành Nam được bổ nhiệm làm Hiệu trưởng Đại học Giáo dục",
-            "link": "https://dantri.com.vn/giao-duc/pgsts-tran-thanh-nam-duoc-bo-nhiem-lam-hieu-truong-dai-hoc-giao-duc-20260525111124946.htm",
-            "img": "https://cdnphoto.dantri.com.vn/uYpDKZZhm3JtvB9P_uloIxkKvCE=/zoom/192_128/2026/05/25/sieu-tri-tue-nhimyha-edited-cropped-1779682128498.jpg"
-        },
-        {
-            "title": "Đề thi và đáp án môn ngữ văn lớp 10 Lai Châu năm 2026",
-            "link": "https://dantri.com.vn/giao-duc/de-thi-va-dap-an-mon-ngu-van-lop-10-lai-chau-nam-2026-20260524180836948.htm",
-            "img": "https://cdnphoto.dantri.com.vn/NVWFxw8OBmm4HuWXxMHgIYJX99g=/zoom/192_128/2026/04/13/lop-10-thanhdon-1776055820088.jpg?watermark=true"
+            "title": "4 mẫu iPhone đời cũ người dùng nên cân nhắc khi mua",
+            "link": "https://dantri.com.vn/cong-nghe/4-mau-iphone-doi-cu-nguoi-dung-nen-can-nhac-khi-mua-20260525105751098.htm",
+            "img": "https://cdnphoto.dantri.com.vn/x0XrZHBfsfSFUvBawGvJfk7ke0g=/zoom/774_516/2026/05/25/iphone-11-1779681346821.jpg"
         },
         {
             "title": "Vì sao nhiều website bắt người dùng xác minh “Tôi không phải robot”?",
             "link": "https://dantri.com.vn/cong-nghe/vi-sao-nhieu-website-bat-nguoi-dung-xac-minh-toi-khong-phai-robot-20260525113929941.htm",
-            "img": "https://cdnphoto.dantri.com.vn/g2gkSEkPKzeYjo7Klf74zN4LWPE=/zoom/774_516/2026/05/25/2-1-1779683830448.png"
-        },
-        {
-            "title": "Cảnh giác dịch vụ \"sang tên\" SIM trên mạng",
-            "link": "https://dantri.com.vn/cong-nghe/canh-giac-dich-vu-sang-ten-sim-tren-mang-20260523235158552.htm",
-            "img": "https://cdnphoto.dantri.com.vn/s61L3yBmSQivrm71lRpwu0qpdFg=/zoom/351_234/2023/09/10/8-se-xu-ly-xong-sai-pham-cua-thue-bao-so-huu-tren-10-sim-1-edited-1694280178566.jpeg"
+            "img": "https://cdnphoto.dantri.com.vn/7JIPPh6Aq_zJZDaQYiYLLOHfhKc=/zoom/351_234/2026/05/25/2-1-1779683830448.png"
         }
     ],
     "VietnamNet": [],
     "Znews": [
         {
-            "title": "Tôi là người bảo quản xác người hiến ở TP.HCM",
-            "link": "https://znews.vn/toi-la-nguoi-bao-quan-xac-nguoi-hien-o-tphcm-post1644807.html",
-            "img": "https://photo.znews.vn/w1000/Uploaded/kbfoplb/2026_04_18/nguoihienxac_znews_12_copy.jpg"
+            "title": "Nóng cực độ, tiêu thụ điện tại Hà Nội, TP.HCM cao kỷ lục",
+            "link": "https://znews.vn/nong-cuc-do-tieu-thu-dien-tai-ha-noi-tphcm-cao-ky-luc-post1654033.html",
+            "img": "https://photo.znews.vn/w1000/Uploaded/mrndcqjwq/2025_09_20/CongnhanEVN_5vietlinh_znews.jpg"
         },
         {
-            "title": "Vì sao 'Sinh con rồi mới sinh cha'?",
-            "link": "https://znews.vn/vi-sao-sinh-con-roi-moi-sinh-cha-post1653810.html",
-            "img": "https://photo.znews.vn/w480/Uploaded/zagtgt/2020_10_30/pexels_helenalopes_27176925_1.jpg"
+            "title": "Bên cạnh xăng E10, khách Việt còn có lựa chọn xăng nào khác?",
+            "link": "https://znews.vn/ben-canh-xang-e10-khach-viet-con-co-lua-chon-xang-nao-khac-post1654012.html",
+            "img": "https://photo.znews.vn/w480/Uploaded/ivspcwvo/2026_03_07/tram_xang_09_znews.jpg"
         },
         {
-            "title": "Chân dung chàng trai TP.HCM đưa hình ảnh Việt Nam lên phim Doraemon",
-            "link": "https://znews.vn/chan-dung-chang-trai-tphcm-dua-hinh-anh-viet-nam-len-phim-doraemon-post1654000.html",
-            "img": "https://photo.znews.vn/w480/Uploaded/sotnbn/2026_05_25/Doraemon_5_1.jpg"
+            "title": "Đã đến lúc xuất khẩu văn hóa",
+            "link": "https://znews.vn/da-den-luc-xuat-khau-van-hoa-post1652894.html",
+            "img": "https://photo.znews.vn/w480/Uploaded/sgtnrn/2026_05_20/cdn.baoquocte.vn_stores_news_dataimages_2025_102025_21_22_phu_nhan_tong_bi_thu_ba_ngo_phuong_ly_tang_tu_sach_tieng_viet_cho_trung_tam_oodi_phan_lan_20251021225048.jpg"
         },
         {
-            "title": "HLV Park Hang-seo tái xuất, dẫn dắt đội Hạng nhất Thái Lan",
-            "link": "https://znews.vn/hlv-park-hang-seo-tai-xuat-dan-dat-doi-hang-nhat-thai-lan-post1654024.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/yrfjpysfzyr/2026_05_25/THUMB.jpg"
+            "title": "'Đổ mồ hôi, trôi makeup' vì nắng nóng hơn 40 độ C ở Hà Nội",
+            "link": "https://lifestyle.znews.vn/do-mo-hoi-troi-makeup-vi-nang-nong-hon-40-do-c-o-ha-noi-post1654040.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/rotnba/2026_05_25/nang_nong_2_znews.jpg"
         },
         {
-            "title": "Khung giờ điện cao điểm sắp được áp dụng, người dân cần lưu ý gì?",
-            "link": "https://znews.vn/khung-gio-dien-cao-diem-sap-duoc-ap-dung-nguoi-dan-can-luu-y-gi-post1653976.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/mrndcqjwq/2026_05_25/thay_doi_khung_gia_dien_05240169.jpg"
+            "title": "Con trai ông Phạm Nhật Vượng làm Chủ tịch VinFast",
+            "link": "https://znews.vn/con-trai-ong-pham-nhat-vuong-lam-chu-tich-vinfast-post1654078.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/mrndcqjwq/2026_05_25/z7864512274870_79fe2333c1d80fad2f31f1c4b972260f_1_1.jpg"
         },
         {
-            "title": "Pep Guardiola không còn từ chối tuyển Anh",
-            "link": "https://znews.vn/pep-guardiola-khong-con-tu-choi-tuyen-anh-post1653934.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/bpivpawv/2024_10_14/pep.jpg"
+            "title": "Thảm hoạ Chelsea đang chờ sẵn Alonso",
+            "link": "https://znews.vn/tham-hoa-chelsea-dang-cho-san-alonso-post1653919.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/pwivobiu/2026_05_25/2026_05_16T184025Z_41064385_RC26XIAPWIIS_RTRMADP_3_SOCCER_ENGLAND_CHE.JPG"
         },
         {
-            "title": "Ông Phạm Nhật Vượng cùng 2 tỷ phú lập công ty mới vốn 3 tỷ USD",
-            "link": "https://znews.vn/ong-pham-nhat-vuong-cung-2-ty-phu-lap-cong-ty-moi-von-3-ty-usd-post1653993.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/yzfsm/2025_09_29/ong_pham_nhat_vuong_.png"
+            "title": "Ngọc Sơn nói về thông tin ăn chơi",
+            "link": "https://znews.vn/ngoc-son-noi-ve-thong-tin-an-choi-post1654058.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/qfssu/2026_05_25/ngoc_son_1.jpg"
         },
         {
-            "title": "Thấy gì khi Tuấn Hưng, Ngọc Sơn xét nghiệm ma túy",
-            "link": "https://znews.vn/thay-gi-khi-tuan-hung-ngoc-son-xet-nghiem-ma-tuy-post1653961.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/qfssu/2026_05_25/tuan_hung_1_1.jpg"
+            "title": "Cổ phiếu xăng dầu bị bán tháo",
+            "link": "https://znews.vn/co-phieu-xang-dau-bi-ban-thao-post1654035.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/rohuoct/2024_07_24/vietlinh6_znews.jpg"
         },
         {
-            "title": "Truyện xuyên không khiến độc giả chán ngán manga",
-            "link": "https://znews.vn/truyen-xuyen-khong-khien-doc-gia-chan-ngan-manga-post1652954.html",
-            "img": "https://photo.znews.vn/Uploaded/qoswae/2026_05_20/f997d594_69d3_4b08_bf0d_70fb7f968f49.jpg"
+            "title": "Truyện ngắn đoạt giải bị nghi do AI viết",
+            "link": "https://znews.vn/truyen-ngan-doat-giai-bi-nghi-do-ai-viet-post1653056.html",
+            "img": "https://photo.znews.vn/Uploaded/caxwpqdwp/2026_05_21/tai_xuong_6_.jpg"
         },
         {
-            "title": "Thế giới hào nhoáng, góc tối tại Stanford",
-            "link": "https://znews.vn/the-gioi-hao-nhoang-goc-toi-tai-stanford-post1653155.html",
-            "img": "https://photo.znews.vn/Uploaded/qoswae/2026_05_21/Stanford_1.jpg"
+            "title": "Khi một chiến dịch triệu USD có thể sụp đổ chỉ sau một đêm",
+            "link": "https://znews.vn/khi-mot-chien-dich-trieu-usd-co-the-sup-do-chi-sau-mot-dem-post1652868.html",
+            "img": "https://photo.znews.vn/Uploaded/cqjrzdhwq/2026_05_20/fa3a9cd9_f722_4bd0_892b_c547255e26c2.jpg"
         }
     ]
 }
