@@ -1,9 +1,34 @@
 {
     "VNExpress": [
         {
-            "title": "LiveMỹ - Paraguay: Lễ khai mạc cuối cùng bắt đầu",
+            "title": "Mỹ thắng đậm Paraguay ở trận ra quân World Cup",
             "link": "https://vnexpress.net/my-paraguay-5085195.html",
-            "img": "https://vcdn1-thethao.vnecdn.net/2026/06/13/khai-ma-c-1781307999-8749-1781308006.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=QK-D4_CJ3tOeC7kLJOvTAQ"
+            "img": "https://vcdn1-thethao.vnecdn.net/2026/06/13/my-reyna-1781320733-2459-1781320748.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=qLsI33fF1pPHPaHuCR4oJg"
+        },
+        {
+            "title": "Chủ tịch FIFA: 'World Cup nên tăng lên 64 hoặc 208 đội để Italy có vé'",
+            "link": "https://vnexpress.net/chu-tich-fifa-world-cup-nen-tang-len-64-hoac-208-doi-de-italy-co-ve-5085184.html",
+            "img": "https://vcdn1-thethao.vnecdn.net/2026/06/13/0abd623e12604f6f9f2457ddb96dbd-7074-9177-1781285268.png?w=220&h=132&q=100&dpr=1&fit=crop&s=8XyY_IGgeK8walXTr161TA"
+        },
+        {
+            "title": "Các nước chủ nhà World Cup lời hay lỗ?",
+            "link": "https://vnexpress.net/cac-nuoc-chu-nha-world-cup-loi-hay-lo-5085160.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/06/12/Thumbngang-1781272623-5964-1781272765.png?w=220&h=132&q=100&dpr=1&fit=crop&s=bkpg1nrqC3eTkRZDENL8Zg"
+        },
+        {
+            "title": "Không gian biệt thự của Phạm Hương ở Mỹ",
+            "link": "https://vnexpress.net/khong-gian-biet-thu-cua-pham-huong-o-my-5083774.html",
+            "img": "https://vcdn1-giaitri.vnecdn.net/2026/06/13/Cuoc-song-Pham-Huong-trong-biet-thu-trang-o-My-13-1781057664-1781311071.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=MeazT9Knf6GorPXnTLBeRw"
+        },
+        {
+            "title": "Elon Musk có 1.100 tỷ USD khi giá trị SpaceX vượt 2.000 tỷ USD",
+            "link": "https://vnexpress.net/elon-musk-co-1-100-ty-usd-khi-gia-tri-spacex-vuot-2-000-ty-usd-5085187.html",
+            "img": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/13/screenshot-1781304704-2738-1781304713.png?w=220&h=132&q=100&dpr=1&fit=crop&s=dqXH6A0IRKtAGRKarX3IlQ"
+        },
+        {
+            "title": "Canada giành một điểm lịch sử tại World Cup",
+            "link": "https://vnexpress.net/canada-gianh-mot-diem-lich-su-tai-world-cup-5085198.html",
+            "img": "https://vcdn1-thethao.vnecdn.net/2026/06/13/e7efbede2a6347c9bb17f0462a6fda-5220-7458-1781305746.png?w=220&h=132&q=100&dpr=1&fit=crop&s=P8m__2qTZPAihE-htju0og"
         },
         {
             "title": "Ba tổng thống Mỹ sinh cùng năm",
@@ -11,63 +36,53 @@
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/06/12/anhghep-1781253377-5656-1781254375.png?w=220&h=132&q=100&dpr=1&fit=crop&s=ZxMpAyVT6fiksHFmPHyMfA"
         },
         {
-            "title": "Thảm án trong cuộc hẹn cuối với chồng cũ",
-            "link": "https://vnexpress.net/tham-an-trong-cuoc-hen-cuoi-voi-chong-cu-5085134.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/06/12/image-1781263256-7625-1781263382.png?w=220&h=132&q=100&dpr=1&fit=crop&s=APeA17oEYQPH9Is91m3dQg"
+            "title": "Mỹ yêu cầu Anthropic 'ngăn công dân nước ngoài dùng mô hình AI tối tân'",
+            "link": "https://vnexpress.net/my-yeu-cau-anthropic-ngan-cong-dan-nuoc-ngoai-dung-mo-hinh-ai-toi-tan-5085252.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/06/13/claude-fable-1781317388-8641-1781317402.png?w=220&h=132&q=100&dpr=1&fit=crop&s=edZvAfauGcC4QiqkHCxobg"
         },
         {
-            "title": "Boston rúng động vì vụ nhóm trẻ bán nước chanh bị cướp tiền",
-            "link": "https://vnexpress.net/boston-rung-dong-vi-vu-nhom-tre-ban-nuoc-chanh-bi-cuop-tien-5085066.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/06/12/thiet-ke-chua-co-ten-178125363-9448-4324-1781253653.png?w=220&h=132&q=100&dpr=1&fit=crop&s=TdVPD3yRrk0dhmmK7dIZ7g"
+            "title": "Lễ gắn sao trên Đại lộ Danh vọng của David Beckham",
+            "link": "https://vnexpress.net/le-gan-sao-tren-dai-lo-danh-vong-cua-david-beckham-5085201.html",
+            "img": "https://vcdn1-giaitri.vnecdn.net/2026/06/13/gia-di-nh-beckham-ta-i-le-ga-n-2774-1483-1781312318.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=AOd3QFP4uAZ1D_hQ9YwDcQ"
         },
         {
             "title": "Dựng rạp cầu siêu liệt sĩ, đồng bào tại công viên Lê Thị Riêng",
             "link": "https://vnexpress.net/dung-rap-cau-sieu-liet-si-dong-bao-tai-cong-vien-le-thi-rieng-5085166.html",
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/06/12/td5-1781278691.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=w5AYesBvKdC3RtnGzCi41Q"
-        },
-        {
-            "title": "Mỹ - Iran đưa ra thông điệp mâu thuẫn về thỏa thuận tiềm năng",
-            "link": "https://vnexpress.net/my-iran-dua-ra-thong-diep-mau-thuan-ve-thoa-thuan-tiem-nang-5085161.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/06/12/ap26161558696611-1781276487-9115-1781276708.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=0rW-tnjAguc0Bwpv1zUo5w"
-        },
-        {
-            "title": "Facebook, Messenger gặp sự cố diện rộng",
-            "link": "https://vnexpress.net/facebook-messenger-gap-su-co-dien-rong-5085162.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/06/12/fb-jpeg-1781273617-7769-1781273649.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=hbgJDqdLwxtd1i1To_auvQ"
-        },
-        {
-            "title": "Trọng tài gây sốc trong trận khai mạc World Cup 2026",
-            "link": "https://vnexpress.net/trong-tai-gay-soc-trong-tran-khai-mac-world-cup-2026-5084868.html",
-            "img": "https://vcdn1-thethao.vnecdn.net/2026/06/12/ap261630267098551-1781238274-3311-1781238397.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=BU5ZGlvoSE4VRmdNgL1pEg"
-        },
-        {
-            "title": "Nhãn sầu riêng giá hơn 2 triệu đồng một kg ở TP HCM",
-            "link": "https://vnexpress.net/nhan-sau-rieng-gia-hon-2-trieu-dong-mot-kg-o-tp-hcm-5085039.html",
-            "img": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/12/nhan-1781252710-1386-1781252817.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=ux6V0j8iILDUqgsQ2mqGrQ"
-        },
-        {
-            "title": "Ông bố giám đốc nghỉ việc ở nhà chăm đàn con sinh 7",
-            "link": "https://vnexpress.net/ong-bo-giam-doc-nghi-viec-o-nha-cham-dan-con-sinh-7-5084936.html",
-            "img": "https://vcdn1-giadinh.vnecdn.net/2026/06/12/64380cd7912397dd0a0a97caeac661-9103-9790-1781239655.webp?w=220&h=132&q=100&dpr=1&fit=crop&s=wYqYd-ezkEQpjKVzUtHycw"
         }
     ],
     "Tuổi Trẻ": [],
     "Thanh Niên": [],
     "Dân Trí": [
         {
+            "title": "Tài xế chạy quá tốc độ vì chở người nguy kịch được hủy quyết định xử phạt",
+            "link": "https://dantri.com.vn/o-to-xe-may/tai-xe-chay-qua-toc-do-vi-cho-nguoi-nguy-kich-duoc-huy-quyet-dinh-xu-phat-20260612203523384.htm",
+            "img": "https://cdnphoto.dantri.com.vn/HTI7yErYPS-aYlUiF7ydONVpkEQ=/zoom/774_516/2026/06/12/72146837510285183428448173371466952600591740n-cropped-1781270784219.jpg"
+        },
+        {
+            "title": "10 ô tô kén khách nhất tháng 5: Xe giảm gần 200 triệu vẫn khó thoát “ế”",
+            "link": "https://dantri.com.vn/o-to-xe-may/10-o-to-ken-khach-nhat-thang-5-xe-giam-gan-200-trieu-van-kho-thoat-e-20260611111159653.htm",
+            "img": "https://cdnphoto.dantri.com.vn/ENW-S3Mn-e593rf9GqvTcXtfrEo=/zoom/351_234/2026/06/11/10-mau-xe-ban-cham-nhat-viet-nam-thang-5-2026-anh1-edited-1781150953499.jpg"
+        },
+        {
+            "title": "Thêm xe máy điện đổi pin được bán tại Việt Nam",
+            "link": "https://dantri.com.vn/o-to-xe-may/them-xe-may-dien-doi-pin-duoc-ban-tai-viet-nam-20260610225453215.htm",
+            "img": "https://cdnphoto.dantri.com.vn/d_h25K46R9WkI0aztYqsV2-8bzo=/zoom/351_234/2026/06/10/img5613-1781105843863.jpg"
+        },
+        {
             "title": "Suzuki Việt Nam nói về các xe máy cần kiểm tra trước khi dùng xăng E10",
             "link": "https://dantri.com.vn/o-to-xe-may/suzuki-viet-nam-noi-ve-cac-xe-may-can-kiem-tra-truoc-khi-dung-xang-e10-20260612123514829.htm",
-            "img": "https://cdnphoto.dantri.com.vn/tOESDvlxOo8Ac-pgNmOGom0vVro=/zoom/774_516/2026/06/12/lpt0046jpg-1762768311110-1781267620818.jpg"
+            "img": "https://cdnphoto.dantri.com.vn/OOUFf4F7oxBjwcgNZbv2fA5zTAQ=/zoom/192_128/2026/06/12/lpt0046jpg-1762768311110-1781267620818.jpg"
         },
         {
             "title": "Mitsubishi Xforce giảm sức hút hậu nâng cấp, Yaris Cross vẫn bán chạy",
             "link": "https://dantri.com.vn/o-to-xe-may/mitsubishi-xforce-giam-suc-hut-hau-nang-cap-yaris-cross-van-ban-chay-20260612131415137.htm",
-            "img": "https://cdnphoto.dantri.com.vn/-oqrRYWcniXmd3R6h_lJtUPKVXg=/zoom/351_234/2026/06/12/mitsubishi-xforce-giam-suc-hut-hau-nang-cap-yaris-cross-van-ban-chay-anh1-edited-1781243795849.jpg"
+            "img": "https://cdnphoto.dantri.com.vn/eV-w42EnO2qnh9UANyu4aiRbTZQ=/zoom/192_128/2026/06/12/mitsubishi-xforce-giam-suc-hut-hau-nang-cap-yaris-cross-van-ban-chay-anh1-edited-1781243795849.jpg"
         },
         {
             "title": "Tủ đổi pin xe máy điện của Honda Việt Nam tiện dụng đến đâu?",
             "link": "https://dantri.com.vn/o-to-xe-may/tu-doi-pin-xe-may-dien-cua-honda-viet-nam-tien-dung-den-dau-20260609231444998.htm",
-            "img": "https://cdnphoto.dantri.com.vn/IlHOpsgYdXQ55-rbBVVRk-M74XA=/zoom/351_234/2026/06/12/honda-cropped-1781247678781.jpg?watermark=true"
+            "img": "https://cdnphoto.dantri.com.vn/SjsmylSUMygSFkss0ackhGD6uho=/zoom/192_128/2026/06/12/honda-cropped-1781247678781.jpg?watermark=true"
         },
         {
             "title": "\"Đi ô tô vài cây số không cần ghế trẻ em là tư duy sai lầm\"",
@@ -80,82 +95,67 @@
             "img": "https://cdnphoto.dantri.com.vn/DST1BdQeFNBOosFfqyrhQhPrctQ=/zoom/192_128/2026/06/12/thumb-1781220699738.jpg"
         },
         {
-            "title": "Chủ xe Geely Coolray cảm thấy hụt hẫng do xe \"tụt đời\" quá nhanh",
-            "link": "https://dantri.com.vn/o-to-xe-may/chu-xe-geely-coolray-cam-thay-hut-hang-do-xe-tut-doi-qua-nhanh-20260610112751777.htm",
-            "img": "https://cdnphoto.dantri.com.vn/hQW-XVng1_oft_maKByW0MAJb7Q=/zoom/192_128/2026/06/10/chu-xe-geely-coolray-doi-cu-toi-cam-thay-mat-niem-tin-vao-thuong-hieu-anh1-cropped-1781065415816.jpg"
+            "title": "Nữ giáo viên trẻ tận tuỵ nơi vùng cao",
+            "link": "https://dantri.com.vn/giao-duc/nu-giao-vien-tre-tan-tuy-noi-vung-cao-20260612152935838.htm",
+            "img": "https://cdnphoto.dantri.com.vn/23_CYTgW51JAGr-pvLHOE7m3E10=/zoom/774_516/2026/06/12/co-ha-tuong-duong-nghe-an-nguyen-phe-3-1781252736497.jpg?watermark=true"
         },
         {
-            "title": "Quy định dùng ghế trẻ em trên ô tô từ 1/7 và những trường hợp ngoại lệ",
-            "link": "https://dantri.com.vn/o-to-xe-may/quy-dinh-dung-ghe-tre-em-tren-o-to-tu-17-va-nhung-truong-hop-ngoai-le-20260611120012885.htm",
-            "img": "https://cdnphoto.dantri.com.vn/t6sIEfGnh4UcDTp7HjfziNAXz0g=/zoom/192_128/2026/06/11/chicco-fit360popupar-mechanics-cropped-1781150992789.jpg"
-        },
-        {
-            "title": "BYD đặt mục tiêu trở thành hãng ô tô lớn nhất thế giới trong 5 năm tới",
-            "link": "https://dantri.com.vn/o-to-xe-may/byd-dat-muc-tieu-tro-thanh-hang-o-to-lon-nhat-the-gioi-trong-5-nam-toi-20260610234930526.htm",
-            "img": "https://cdnphoto.dantri.com.vn/p-3coNsIYsx9EHjcjPcZHR5BWlc=/zoom/192_128/2026/06/10/wang-chuanfubyd-cropped-1781106038239.jpg"
-        },
-        {
-            "title": "69 thí sinh bị đình chỉ vì mang điện thoại vào phòng thi tốt nghiệp THPT",
-            "link": "https://dantri.com.vn/giao-duc/69-thi-sinh-bi-dinh-chi-vi-mang-dien-thoai-vao-phong-thi-tot-nghiep-thpt-20260612233207364.htm",
-            "img": "https://cdnphoto.dantri.com.vn/Jh_7GYE7KJKwdmaf737rYeoOM6Y=/zoom/774_516/2026/06/12/screenshot-2026-06-12-at-232853-1781281747908.png"
-        },
-        {
-            "title": "Khi nào công bố đáp án chính thức tốt nghiệp THPT 2026?",
-            "link": "https://dantri.com.vn/giao-duc/khi-nao-cong-bo-dap-an-chinh-thuc-tot-nghiep-thpt-2026-20260612115345945.htm",
-            "img": "https://cdnphoto.dantri.com.vn/8XN5ojb4NpTJrIOwohvcDaULK_c=/zoom/351_234/2026/06/11/thi-thpt-tphcmphuongquyen9-1781141332755.jpg"
+            "title": "Thí sinh nhận xét về đề thi tốt nghiệp THPT 2026",
+            "link": "https://dantri.com.vn/giao-duc/thi-sinh-nhan-xet-ve-de-thi-tot-nghiep-thpt-2026-20260612214457247.htm",
+            "img": "https://cdnphoto.dantri.com.vn/cy7rW6jEGEnOJF7N83AVOK9BiiY=/zoom/351_234/2026/06/11/2aoboqciff4u6akjexhx1gaph8eamu7lplqfnlau-1781165578359.jpg"
         }
     ],
     "VietnamNet": [],
     "Znews": [
         {
-            "title": "Vừa khoe thắng lớn, ông Trump lại nổi giận",
-            "link": "https://znews.vn/vua-khoe-thang-lon-ong-trump-lai-noi-gian-post1659209.html",
-            "img": "https://photo.znews.vn/w1000/Uploaded/rotntv/2026_06_12/TRump1.jpg"
+            "title": "Những chiến sĩ biệt động Sài Gòn tham gia chiến dịch Mậu Thân 1968",
+            "link": "https://znews.vn/nhung-chien-si-biet-dong-sai-gon-tham-gia-chien-dich-mau-than-1968-post1659218.html",
+            "img": "https://photo.znews.vn/w1000/Uploaded/zagtgt/2026_06_12/Nu_biet_dong.jpg"
         },
         {
-            "title": "Cổ phiếu SpaceX tăng dựng đứng, Elon Musk lập kỷ lục 'vô tiền khoáng hậu'",
-            "link": "https://znews.vn/co-phieu-spacex-tang-dung-dung-elon-musk-lap-ky-luc-vo-tien-khoang-hau-post1659222.html",
-            "img": "https://photo.znews.vn/w480/Uploaded/yzfsm/2026_06_12/Dot_IPO_SpaceX_xo_do_moi_ky_luc_vuot_moc_dinh_gia_2.000_ty_USD.jpg"
+            "title": "Thủ tướng Lê Minh Hưng phát động thi đua tăng trưởng bền vững 2 con số",
+            "link": "https://znews.vn/thu-tuong-le-minh-hung-phat-dong-thi-dua-tang-truong-ben-vung-2-con-so-post1659256.html",
+            "img": "https://photo.znews.vn/w480/Uploaded/ovhpihv/2026_06_13/Lanh_Dao_07_Znews.jpg"
         },
         {
-            "title": "Chủ nhà World Cup làm nên lịch sử ở trận ra quân",
-            "link": "https://znews.vn/chu-nha-world-cup-lam-nen-lich-su-o-tran-ra-quan-post1659227.html",
-            "img": "https://photo.znews.vn/w480/Uploaded/vjuqvpbc/2026_06_13/2026_06_12T204240Z_1014774471_UP1EM6C1LJ2VC_RTRMADP_3_SOCCER_WORLDCUP_CAN_BIH.JPG"
+            "title": "Tuyển Mỹ hủy diệt Paraguay bằng thứ bóng đá rực lửa",
+            "link": "https://znews.vn/tuyen-my-huy-diet-paraguay-bang-thu-bong-da-ruc-lua-post1659229.html",
+            "img": "https://photo.znews.vn/w480/Uploaded/vjuqvpbc/2026_06_13/2026_06_13T013126Z_779860728_UP1EM6D048CBA_RTRMADP_3_SOCCER_WORLDCUP_USA_PRY.JPG"
         },
         {
-            "title": "Partey bị cấm dự World Cup",
-            "link": "https://znews.vn/partey-bi-cam-du-world-cup-post1659228.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/qdhcadxwp/2026_06_13/partey.JPG"
+            "title": "Tài sản vượt 1.100 tỷ USD khi IPO, Elon Musk có thể mua gì?",
+            "link": "https://znews.vn/tai-san-vuot-1100-ty-usd-khi-ipo-elon-musk-co-the-mua-gi-post1659295.html",
+            "img": "https://photo.znews.vn/Uploaded/asfzyrwtys1/2026_06_13/ezgif_767fa24b5d1c6a31.gif"
         },
         {
-            "title": "'Phí Phông' rời rạp",
-            "link": "https://znews.vn/phi-phong-roi-rap-post1659225.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/rohunaa/2026_06_13/image_2026_06_13T014131.024_1.jpg"
+            "title": "Mỹ ‘tuýt còi’, siêu AI thông minh nhất thế giới phải đóng cửa",
+            "link": "https://znews.vn/my-tuyt-coi-sieu-ai-thong-minh-nhat-the-gioi-phai-dong-cua-post1659271.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/sfrsm/2026_06_13/claude.jpg"
         },
         {
-            "title": "Ông Netanyahu bất ngờ về thỏa thuận Mỹ - Iran",
-            "link": "https://znews.vn/ong-netanyahu-bat-ngo-ve-thoa-thuan-my-iran-post1659216.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/mdfdroqsys/2026_06_02/2026TN.jpg"
+            "title": "Hình phạt lần đầu tiên xuất hiện tại World Cup",
+            "link": "https://znews.vn/hinh-phat-lan-dau-tien-xuat-hien-tai-world-cup-post1659236.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/qdhcadxwp/2026_06_13/kolasinac.JPG"
         },
         {
-            "title": "Hơn 70.000 hũ nước yến sào cao cấp được làm giả như thế nào?",
-            "link": "https://znews.vn/hon-70000-hu-nuoc-yen-sao-cao-cap-duoc-lam-gia-nhu-the-nao-post1656789.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/ecfzyryrzly/2026_06_03/gen_h_1011.jpg"
+            "title": "Quy định có hiệu lực từ 15/7, người dùng Internet Việt Nam cần biết",
+            "link": "https://znews.vn/quy-dinh-co-hieu-luc-tu-157-nguoi-dung-internet-viet-nam-can-biet-post1659241.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/ycivoviu/2026_06_01/vneid_1w_llo_vshbw_0o_12_1.jpg"
         },
         {
-            "title": "Dự báo mới về giá vàng, USD, dầu thô",
-            "link": "https://znews.vn/du-bao-moi-ve-gia-vang-usd-dau-tho-post1659191.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/dqmblcvo/2026_06_09/gia_vang.jpg"
+            "title": "Phim 200 triệu USD nguy cơ lỗ nặng",
+            "link": "https://znews.vn/phim-200-trieu-usd-nguy-co-lo-nang-post1659158.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/rohunaa/2026_06_12/z7929109099657_49f134432e8ef64a657d446996c7ce1b.jpg"
         },
         {
-            "title": "Cuộc chiến khiến hàng trăm liệt sĩ nằm lại công viên Lê Thị Riêng",
-            "link": "https://znews.vn/cuoc-chien-khien-hang-tram-liet-si-nam-lai-cong-vien-le-thi-rieng-post1658782.html",
-            "img": "https://photo.znews.vn/Uploaded/zagtgt/2026_06_11/Ong_Tu_Cang_znews.jpg"
+            "title": "Người ăn cả, kẻ về không trong giới KOL Trung Quốc",
+            "link": "https://znews.vn/nguoi-an-ca-ke-ve-khong-trong-gioi-kol-trung-quoc-post1658618.html",
+            "img": "https://photo.znews.vn/Uploaded/qoswae/2026_06_10/pexels_rdne_8369774.jpg"
         },
         {
-            "title": "Một quyết định của Isaac Newton khiến vàng thống trị thế giới",
-            "link": "https://znews.vn/mot-quyet-dinh-cua-isaac-newton-khien-vang-thong-tri-the-gioi-post1658833.html",
-            "img": "https://photo.znews.vn/Uploaded/caxwpqdwp/2026_06_11/zing_khovang2_1.jpg"
+            "title": "Trận chung kết mang bí ẩn lớn nhất lịch sử World Cup",
+            "link": "https://znews.vn/tran-chung-ket-mang-bi-an-lon-nhat-lich-su-world-cup-post1659101.html",
+            "img": "https://photo.znews.vn/Uploaded/bpcgpivp/2026_06_12/5efff044_2337_408a_b562_1addc438ee31.jpg"
         }
     ]
 }
