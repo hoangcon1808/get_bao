@@ -1,14 +1,44 @@
 {
     "VNExpress": [
         {
-            "title": "Hà Lan - Nhật Bản: Chờ tiếng nói của 'anh cả' châu Á ở World Cup 2026",
-            "link": "https://vnexpress.net/ha-lan-nhat-ban-cho-tieng-noi-cua-anh-ca-chau-a-o-world-cup-2026-5085602.html",
-            "img": "https://vcdn1-thethao.vnecdn.net/2026/06/14/TPTDC4OGYBJRZLKFS574QTYDTA-178-2498-1887-1781425611.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=zkz-vZRKoDY10FZTS062zw"
+            "title": "CĐV Hà Lan náo nhiệt trên đường phố Dallas",
+            "link": "https://vnexpress.net/cdv-ha-lan-nao-nhiet-tren-duong-pho-dallas-5085685.html",
+            "img": "https://via.placeholder.com/300x200?text=No+Image"
         },
         {
-            "title": "Châu Á thắng nhiều hơn châu Âu sau ba ngày đầu World Cup",
-            "link": "https://vnexpress.net/chau-a-thang-nhieu-hon-chau-au-sau-ba-ngay-dau-world-cup-5085595.html",
-            "img": "https://vcdn1-thethao.vnecdn.net/2026/06/14/ha-n-quo-c-vs-ch-czech-1781424-9434-5126-1781424595.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=Ze6Of4ITeI8cO5X62DlLDw"
+            "title": "Hai tàu va chạm ở vịnh Lan Hạ, một du khách tử vong",
+            "link": "https://vnexpress.net/hai-tau-va-cham-o-vinh-lan-ha-mot-du-khach-tu-vong-5085647.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/06/14/z7936017122816fed578a751a5ad35-1599-6124-1781444015.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=aFKfAQTNBPjW8-vx7eJD-g"
+        },
+        {
+            "title": "Giá vàng tuần này phụ thuộc tín hiệu từ Fed",
+            "link": "https://vnexpress.net/gia-vang-tuan-nay-phu-thuoc-tin-hieu-tu-fed-5085587.html",
+            "img": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/14/gxgq2siwxrmkzkyc3alezpbaoy-jpe-6191-8152-1781423475.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=O3Kr6anLeartCOFkHflW6g"
+        },
+        {
+            "title": "El Nino rất mạnh sẽ tác động như thế nào đến Việt Nam?",
+            "link": "https://vnexpress.net/el-nino-rat-manh-se-tac-dong-nhu-the-nao-den-viet-nam-5085535.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/06/14/z5317431018698e091e8cc947ce2d0-9573-9336-1781406870.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=47ulB2Rw5WPJXFc92ZpTVw"
+        },
+        {
+            "title": "Những tranh Việt lập kỷ lục đấu giá",
+            "link": "https://vnexpress.net/nhung-tranh-viet-lap-ky-luc-dau-gia-5085333.html",
+            "img": "https://vcdn1-giaitri.vnecdn.net/2026/06/14/tranh-Dan-huou-trong-rung-1781-4221-6452-1781234601-1781331245-1781452524.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=kpHD99DkUBLoSkH7XyPUNA"
+        },
+        {
+            "title": "Robot hình người loay hoay đi từ sân khấu đến đời thực",
+            "link": "https://vnexpress.net/robot-hinh-nguoi-loay-hoay-di-tu-san-khau-den-doi-thuc-5083349.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/06/08/screenshot20260522at1410495392-9557-5635-1780918868.png?w=220&h=132&q=100&dpr=1&fit=crop&s=riGbtHF0VNPmXv6t11KCYw"
+        },
+        {
+            "title": "Mua nhà nhưng không có quyền với đất, cán bộ khởi kiện khi bị thu hồi",
+            "link": "https://vnexpress.net/mua-nha-nhung-khong-co-quyen-voi-dat-can-bo-khoi-kien-khi-bi-thu-hoi-5085669.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/06/15/ok-1781456503-8241-1781456528.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=zdSIvFTlsVwwTJML1g7Vgw"
+        },
+        {
+            "title": "Tình thế nguy kịch của Ukraine ở cửa ngõ vành đai pháo đài Donetsk",
+            "link": "https://vnexpress.net/tinh-the-nguy-kich-cua-ukraine-o-cua-ngo-vanh-dai-phao-dai-donetsk-5085297.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/06/13/5563187178137269357e-178132433-4348-5299-1781325257.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=wt3FOvijJzbMaZ5MUVMYVg"
         },
         {
             "title": "Chứng khoán biến động mở ra cơ hội đầu tư 'giá rẻ'",
@@ -19,36 +49,6 @@
             "title": "Cựu tổng thống Obama hoài nghi về thỏa thuận Mỹ - Iran",
             "link": "https://vnexpress.net/cuu-tong-thong-obama-hoai-nghi-ve-thoa-thuan-my-iran-5085664.html",
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/06/14/ap24285050533722-1781452424-2433-1781452428.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=5uZVuqFqdE4TtoSQFQMS0A"
-        },
-        {
-            "title": "Real chiêu mộ Cucurella từ Chelsea",
-            "link": "https://vnexpress.net/real-chieu-mo-cucurella-tu-chelsea-5085675.html",
-            "img": "https://vcdn1-thethao.vnecdn.net/2026/06/14/ap24315668349411-1781454249-4068-1781454270.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=B8jugtvCr0vUF2W_ygARRQ"
-        },
-        {
-            "title": "Dùng flycam truy tìm nghi phạm giết người trốn trong rừng",
-            "link": "https://vnexpress.net/dung-flycam-truy-tim-nghi-pham-giet-nguoi-tron-trong-rung-5085629.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/06/14/20260614192318-1781439823-4823-1781439846.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=pu1RRPkU_W2sTHg8o5w8Yg"
-        },
-        {
-            "title": "Mark Zuckerberg: 'Meta mắc sai lầm khi chuyển dịch nhân sự'",
-            "link": "https://vnexpress.net/mark-zuckerberg-meta-mac-sai-lam-khi-chuyen-dich-nhan-su-5085603.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/06/14/ap24031601332088-1781428325-7135-1781428633.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=WQLPTBQOyert-RuwRn9gpg"
-        },
-        {
-            "title": "Israel tập kích 'sở chỉ huy Hezbollah', Iran cảnh báo sẽ đáp trả",
-            "link": "https://vnexpress.net/israel-tap-kich-so-chi-huy-hezbollah-iran-canh-bao-se-dap-tra-5085644.html",
-            "img": "https://via.placeholder.com/300x200?text=No+Image"
-        },
-        {
-            "title": "Elon Musk: 'Tương lai tiền sẽ không còn quan trọng'",
-            "link": "https://vnexpress.net/elon-musk-tuong-lai-tien-se-khong-con-quan-trong-5085331.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/06/13/AFP-20250305-36ZC99X-v1-HighRe-5295-3207-1781332735.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=zc6XmFAY5YEvJkbeddTF9w"
-        },
-        {
-            "title": "Quan chức Mexico bị sa thải vì phân biệt chủng tộc nữ CĐV Hàn Quốc",
-            "link": "https://vnexpress.net/quan-chuc-mexico-bi-sa-thai-vi-phan-biet-chung-toc-nu-cdv-han-quoc-5085573.html",
-            "img": "https://vcdn1-thethao.vnecdn.net/2026/06/14/ulises-bernal-1781418769-4142-1781419125.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=HNIn3VNvgx43foqCdBZlXw"
         }
     ],
     "Tuổi Trẻ": [],
@@ -108,19 +108,19 @@
     "VietnamNet": [],
     "Znews": [
         {
+            "title": "Tuyển Đức thắng 7-1 ở trận ra quân World Cup 2026",
+            "link": "https://znews.vn/tuyen-duc-thang-7-1-o-tran-ra-quan-world-cup-2026-post1659685.html",
+            "img": "https://photo.znews.vn/w1000/Uploaded/vjuqvpbc/2026_06_14/mu.jpg"
+        },
+        {
             "title": "Biển Sầm Sơn 'không còn chỗ trống'",
             "link": "https://znews.vn/bien-sam-son-khong-con-cho-trong-post1659666.html",
             "img": "https://photo.znews.vn/Uploaded/uqvpvpiv/2026_06_14/sam_son1_ezgif.com_resize.gif"
         },
         {
-            "title": "Tuyển Đức thắng 7-1 ở trận ra quân World Cup 2026",
-            "link": "https://znews.vn/tuyen-duc-thang-7-1-o-tran-ra-quan-world-cup-2026-post1659685.html",
-            "img": "https://photo.znews.vn/w480/Uploaded/vjuqvpbc/2026_06_14/mu.jpg"
-        },
-        {
-            "title": "Hà Lan 1-1 Nhật Bản: 'Samurai xanh' vùng lên",
-            "link": "https://znews.vn/ha-lan-1-1-nhat-ban-samurai-xanh-vung-len-post1659533.html",
-            "img": "https://photo.znews.vn/w480/Uploaded/sotnzt/2026_06_14/van.jpg"
+            "title": "Châu Á tiếp tục bất bại ở World Cup",
+            "link": "https://znews.vn/chau-a-tiep-tuc-bat-bai-o-world-cup-post1659533.html",
+            "img": "https://photo.znews.vn/w480/Uploaded/sotnzt/2026_06_14/2026_06_14T215558Z_1388442589_UP1EM6E1OX9EE_RTRMADP_3_SOCCER_WORLDCUP_NLD_JPN.JPG"
         },
         {
             "title": "'Tượng đài' pickleball Việt Nam rời sân bằng xe cấp cứu",
@@ -148,14 +148,14 @@
             "img": "https://photo.znews.vn/w210/Uploaded/wpdhnwhnw/2026_06_14/trucccc_1.jpg"
         },
         {
-            "title": "'Ông tổ' sách in xuất hiện trong đề thi tốt nghiệp THPT là ai?",
-            "link": "https://znews.vn/ong-to-sach-in-xuat-hien-trong-de-thi-tot-nghiep-thpt-la-ai-post1658916.html",
-            "img": "https://photo.znews.vn/Uploaded/bpcgpivp/2026_06_11/980c5efb_a341_4486_b74d_b4dff0c22af3_1260x863_1.jpg"
+            "title": "Vì sao bóng đá Việt Nam thời khó khăn lại đáng nhớ hơn?",
+            "link": "https://znews.vn/vi-sao-bong-da-viet-nam-thoi-kho-khan-lai-dang-nho-hon-post1658399.html",
+            "img": "https://photo.znews.vn/Uploaded/caxwpqdwp/2026_06_09/chien5_XBLV.jpg"
         },
         {
-            "title": "Người ăn cả, kẻ về không trong giới KOL Trung Quốc",
-            "link": "https://znews.vn/nguoi-an-ca-ke-ve-khong-trong-gioi-kol-trung-quoc-post1658618.html",
-            "img": "https://photo.znews.vn/Uploaded/qoswae/2026_06_10/pexels_rdne_8369774.jpg"
+            "title": "Cuộc chiến khiến hàng trăm liệt sĩ nằm lại công viên Lê Thị Riêng",
+            "link": "https://znews.vn/cuoc-chien-khien-hang-tram-liet-si-nam-lai-cong-vien-le-thi-rieng-post1658782.html",
+            "img": "https://photo.znews.vn/Uploaded/zagtgt/2026_06_11/Ong_Tu_Cang_znews.jpg"
         }
     ]
 }
