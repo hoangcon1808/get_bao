@@ -1,44 +1,39 @@
 {
     "VNExpress": [
         {
+            "title": "Ngập ngang người sau mưa lớn ở TP HCM",
+            "link": "https://vnexpress.net/ngap-ngang-nguoi-sau-mua-lon-o-tp-hcm-5086072.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/06/15/ngap-1781523606.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=T18J5-2Kies_NMFiW0-ibQ"
+        },
+        {
+            "title": "Nhân chứng vụ tàu chìm ở vịnh Lan Hạ: 'Chỉ kịp nghe còi cảnh báo hai giây'",
+            "link": "https://vnexpress.net/nhan-chung-vu-tau-chim-o-vinh-lan-ha-chi-kip-nghe-coi-canh-bao-hai-giay-5085991.html",
+            "img": "https://vcdn1-dulich.vnecdn.net/2026/06/15/gia-di-nh-na-n-nha-n-lan-ha-17-1806-6673-1781512446.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=YXxt3oZ0G_HKEYfeKw0IfA"
+        },
+        {
             "title": "Bộ trưởng Israel chỉ trích thỏa thuận hòa bình Mỹ - Iran",
             "link": "https://vnexpress.net/bo-truong-israel-chi-trich-thoa-thuan-hoa-binh-my-iran-5085945.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/06/15/bo-truong-israel-1781508625-5459-1781509269.webp?w=680&h=408&q=100&dpr=1&fit=crop&s=VYygH3NFfWfd4U-uy5IQDQ"
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/06/15/bo-truong-israel-1781508625-5459-1781509269.webp?w=220&h=132&q=100&dpr=1&fit=crop&s=84hKsVhwi5uno0JrjduToQ"
         },
         {
-            "title": "Du khách gặp nạn ở vịnh Lan Hạ: 'Tàu lật úp sau vài giây'",
-            "link": "https://vnexpress.net/du-khach-gap-nan-o-vinh-lan-ha-tau-lat-up-sau-vai-giay-5085886.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/06/15/Sequence0200031124Still001-178-8599-8808-1781498454.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=ThICDxlaw8zwgJQE8x4MxA"
+            "title": "Nam Em: Tôi tự đạp đổ hình ảnh của mình",
+            "link": "https://vnexpress.net/nam-em-toi-tu-dap-do-hinh-anh-cua-minh-5083261.html",
+            "img": "https://vcdn1-giaitri.vnecdn.net/2026/06/15/NamEm3-1781492585-7132-1781494381.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=TeHx2n2B13r5r2OtjofqXg"
         },
         {
-            "title": "Lần đầu dùng radar xuyên đất tìm mộ liệt sĩ ở công viên Lê Thị Riêng",
-            "link": "https://vnexpress.net/lan-dau-dung-radar-xuyen-dat-tim-mo-liet-si-o-cong-vien-le-thi-rieng-5086009.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/06/15/Sequence4700011603Still001-178-9709-4022-1781513101.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=ojPz4UcgiELz62J976Bg7A"
-        },
-        {
-            "title": "Quán cà phê phin vỉa hè, ghế nhựa ở Mỹ khiến khách xếp hàng dài",
-            "link": "https://vnexpress.net/quan-ca-phe-phin-via-he-ghe-nhua-o-my-khien-khach-xep-hang-dai-5082656.html",
-            "img": "https://vcdn1-dulich.vnecdn.net/2026/06/15/aa6e8612efe64eaa819bb6e02c7e62-2547-8769-1781493399.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=H1zdUZjpgnha7Qlh1N7RRw"
-        },
-        {
-            "title": "Quân đội Iran tuyên bố 'đã làm bẽ mặt Mỹ, Israel'",
-            "link": "https://vnexpress.net/quan-doi-iran-tuyen-bo-da-lam-be-mat-my-israel-5085744.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/06/15/download2-jpeg-1781486585-3063-1781486634.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=k7RvhIXn_AWrHPM-ygrcKQ"
-        },
-        {
-            "title": "Chae Rim: 'Tôi ly hôn vì không muốn cau có, oán hận'",
-            "link": "https://vnexpress.net/chae-rim-toi-ly-hon-vi-khong-muon-cau-co-oan-han-5085771.html",
-            "img": "https://vcdn1-giaitri.vnecdn.net/2026/06/15/rim5-1781491232-1889-1781491549.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=dH5SPSmzaWfKFVHRodaGJw"
-        },
-        {
-            "title": "Cảm biến chạm bóng lần đầu xác nhận bàn thắng tại World Cup",
-            "link": "https://vnexpress.net/cam-bien-cham-bong-lan-dau-xac-nhan-ban-thang-tai-world-cup-5085998.html",
-            "img": "https://vcdn1-thethao.vnecdn.net/2026/06/15/thu-y-die-n-1781511979-7009-1781512670.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=uIYKD4XONmf_Ght-TNDM9w"
-        },
-        {
-            "title": "Máy bay quân sự Pakistan lao xuống đất, suýt trúng người đi đường",
-            "link": "https://vnexpress.net/may-bay-quan-su-pakistan-lao-xuong-dat-suyt-trung-nguoi-di-duong-5085985.html",
+            "title": "Nước chảy xiết sau mưa lớn ở TP HCM",
+            "link": "https://vnexpress.net/nuoc-chay-xiet-sau-mua-lon-o-tp-hcm-5086100.html",
             "img": "https://via.placeholder.com/300x200?text=No+Image"
+        },
+        {
+            "title": "Vì sao Mỹ chưa từng sản sinh cầu thủ đẳng cấp thế giới?",
+            "link": "https://vnexpress.net/vi-sao-my-chua-tung-san-sinh-cau-thu-dang-cap-the-gioi-5083841.html",
+            "img": "https://vcdn1-thethao.vnecdn.net/2026/06/09/pulisic-png-1781016578-8815-1781017057.png?w=220&h=132&q=100&dpr=1&fit=crop&s=QVPMogn0r_aTn6DnI90LUg"
+        },
+        {
+            "title": "Brooklyn Beckham nói bố mẹ dàn cảnh em gái thăm nhà anh",
+            "link": "https://vnexpress.net/brooklyn-beckham-noi-bo-me-dan-canh-em-gai-tham-nha-anh-5085804.html",
+            "img": "https://vcdn1-giaitri.vnecdn.net/2026/06/15/harper-beckham-ben-ngoai-biet-6341-9787-1781512413.png?w=220&h=132&q=100&dpr=1&fit=crop&s=VqgzJaM-KIJHChnpQveZww"
         },
         {
             "title": "Ông Trudeau bỏ xem trận ra quân của Canada để cổ vũ Katy Perry",
@@ -46,28 +41,48 @@
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/06/15/image-1781508995-9103-1781509006.png?w=220&h=132&q=100&dpr=1&fit=crop&s=J5u2LuI6uZ7fnr0lfTRyWg"
         },
         {
-            "title": "Động đất Philippines khiến đáy biển bị nâng lên 2 mét",
-            "link": "https://vnexpress.net/dong-dat-philippines-khien-day-bien-bi-nang-len-2-met-5085743.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/06/15/ran-san-ho-jpeg-1781489110-4449-1781490182.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=1YehMc0P2Qs-5poYmL-7yA"
+            "title": "Mỹ sắp thí điểm dịch vụ hẹn phỏng vấn visa nhanh giá 750 USD",
+            "link": "https://vnexpress.net/my-sap-thi-diem-dich-vu-hen-phong-van-visa-nhanh-gia-750-usd-5086021.html",
+            "img": "https://vcdn1-dulich.vnecdn.net/2026/06/15/1-jpg-1781516282-9320-1781517149.webp?w=220&h=132&q=100&dpr=1&fit=crop&s=F8GWHfBiOZedmUH-UaiXDQ"
+        },
+        {
+            "title": "Việt Nam gọi 5 cầu thủ nhập tịch dự ASEAN Cup 2026",
+            "link": "https://vnexpress.net/viet-nam-goi-5-cau-thu-nhap-tich-du-asean-cup-2026-5085921.html",
+            "img": "https://vcdn1-thethao.vnecdn.net/2026/06/15/dong2197jpg-1781502984-1445-1781503252.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=mppPaP-XBeP6JJZ0rJ2Glg"
         }
     ],
     "Tuổi Trẻ": [],
     "Thanh Niên": [],
     "Dân Trí": [
         {
+            "title": "Thaco Auto công bố danh sách chi tiết ô tô, mô tô tương thích xăng E10",
+            "link": "https://dantri.com.vn/o-to-xe-may/thaco-auto-cong-bo-danh-sach-chi-tiet-o-to-mo-to-tuong-thich-xang-e10-20260615070124012.htm",
+            "img": "https://cdnphoto.dantri.com.vn/dZEVHQ6-NRPZTxDKAdKUjVAgWuQ=/zoom/774_516/2026/06/15/72306629116077436642517771132135642538547228n-cropped-1781493593230.jpg"
+        },
+        {
+            "title": "“Hoàng tử đen” Honda CD125T hơn 40 năm tuổi được rao giá 275 triệu đồng",
+            "link": "https://dantri.com.vn/o-to-xe-may/hoang-tu-den-honda-cd125t-hon-40-nam-tuoi-duoc-rao-gia-275-trieu-dong-20260615122006819.htm",
+            "img": "https://cdnphoto.dantri.com.vn/beM5q769iYWU4z99dyXW4gcho6k=/zoom/351_234/2026/06/15/honda-cd125t-benly-duoc-rao-gia-275-trieu-dong-anh1-1781500430471.jpg"
+        },
+        {
+            "title": "Kỷ lục thế giới mới của ô tô thương mại",
+            "link": "https://dantri.com.vn/o-to-xe-may/ky-luc-the-gioi-moi-cua-o-to-thuong-mai-20260614133915001.htm",
+            "img": "https://cdnphoto.dantri.com.vn/5uxXdYnvTYpZ5pfLLZMLmkwk0wU=/zoom/351_234/2026/06/15/ky-luc-the-gioi-moi-cua-o-to-thuong-mai-cropped-1781483878569.jpg"
+        },
+        {
             "title": "Audi mở rộng dải sản phẩm, tung thêm SUV mới tại Việt Nam",
             "link": "https://dantri.com.vn/o-to-xe-may/audi-mo-rong-dai-san-pham-tung-them-suv-moi-tai-viet-nam-20260614124654233.htm",
-            "img": "https://cdnphoto.dantri.com.vn/FWVy8DoFl5jyKwmI4vaw-izk8s8=/zoom/774_516/2026/06/14/dscf4407jpg-1769676196238-1781415641234.jpg"
+            "img": "https://cdnphoto.dantri.com.vn/ztqg5B29npEAkdNMLJ3x1D_B3_o=/zoom/192_128/2026/06/14/dscf4407jpg-1769676196238-1781415641234.jpg"
         },
         {
             "title": "Nổi bật tuần qua: Tài xế container đánh lái gấp tránh em bé lao ra đường",
             "link": "https://dantri.com.vn/o-to-xe-may/noi-bat-tuan-qua-tai-xe-container-danh-lai-gap-tranh-em-be-lao-ra-duong-20260614152408464.htm",
-            "img": "https://cdnphoto.dantri.com.vn/3hyG5Xwze3tFZocpP-hTRzVcDoE=/zoom/351_234/2026/06/14/tinh-huong-giao-thong-1781425351698.gif"
+            "img": "https://cdnphoto.dantri.com.vn/DJ0DopIcVDqj_aKJmw99MjHt3AI=/zoom/192_128/2026/06/14/tinh-huong-giao-thong-1781425351698.gif"
         },
         {
             "title": "Những câu hỏi điểm liệt trong bài thi lý thuyết sát hạch lái xe (Phần cuối)",
             "link": "https://dantri.com.vn/o-to-xe-may/nhung-cau-hoi-diem-liet-trong-bai-thi-ly-thuyet-sat-hach-lai-xe-phan-cuoi-20260605171545760.htm",
-            "img": "https://cdnphoto.dantri.com.vn/gmEf7s0IVXrSAgadmkf2bDXUpGY=/zoom/351_234/2023/05/16/vf8nhat-minh-crop-1684226258187jpeg-1684226320812.png"
+            "img": "https://cdnphoto.dantri.com.vn/jDgmBOrTGqJXWSYFKwvqDsCbRp0=/zoom/192_128/2023/05/16/vf8nhat-minh-crop-1684226258187jpeg-1684226320812.png"
         },
         {
             "title": "Mazda sắp bán CX-60 và MX-5 RF tại Việt Nam",
@@ -80,82 +95,67 @@
             "img": "https://cdnphoto.dantri.com.vn/0MXv9GVTO3VkkgYRjUsMZK3KTAI=/zoom/192_128/2026/06/12/10-xe-xang-va-dau-ban-chay-thang-5-2026-anh1-edited-1781234192142.jpg"
         },
         {
-            "title": "Lựa chọn ghế trẻ em trên ô tô như thế nào cho phù hợp?",
-            "link": "https://dantri.com.vn/o-to-xe-may/lua-chon-ghe-tre-em-tren-o-to-nhu-the-nao-cho-phu-hop-20260612002936446.htm",
-            "img": "https://cdnphoto.dantri.com.vn/Hm6XXYIO4BBBiJ9s64a9ytQTnT8=/zoom/192_128/2026/06/11/thumb-ghe-tre-emtuan-nghiajpg-1781195297720.jpg?watermark=true"
+            "title": "Trường THPT chuyên Sư phạm đính chính thời gian công bố điểm thi lớp 10",
+            "link": "https://dantri.com.vn/giao-duc/truong-thpt-chuyen-su-pham-dinh-chinh-thoi-gian-cong-bo-diem-thi-lop-10-20260615175659208.htm",
+            "img": "https://cdnphoto.dantri.com.vn/5Ma5O5UM-qhTOOAiCuhf9AjYsu4=/zoom/774_516/2026/06/15/thi-lop-10-chuyen-su-phammyha59-cropped-1781520398749.jpg"
         },
         {
-            "title": "Ô tô Subaru tại Việt Nam có gặp lỗi hút cạn ắc quy như xe tại Bắc Mỹ?",
-            "link": "https://dantri.com.vn/o-to-xe-may/o-to-subaru-tai-viet-nam-co-gap-loi-hut-can-ac-quy-nhu-xe-tai-bac-my-20260613110952794.htm",
-            "img": "https://cdnphoto.dantri.com.vn/win3Sedg7iQCLzmtcqErqHSbHzs=/zoom/192_128/2026/06/13/subaru-tai-viet-nam-lieu-co-gap-loi-hut-can-ac-quy-nhu-xe-tai-thi-truong-my-anh1-1781323641133.jpg"
-        },
-        {
-            "title": "Những câu hỏi điểm liệt trong bài thi lý thuyết sát hạch lái xe (Phần 5)",
-            "link": "https://dantri.com.vn/o-to-xe-may/nhung-cau-hoi-diem-liet-trong-bai-thi-ly-thuyet-sat-hach-lai-xe-phan-5-20260611161833778.htm",
-            "img": "https://cdnphoto.dantri.com.vn/sYhD7ZlGfgW3O7NJu3sctBYAWC8=/zoom/192_128/2025/11/14/nguoi-di-bo-2gif-1763109941659.gif"
-        },
-        {
-            "title": "Chỉ tiêu lớp 1, lớp 6, lớp 10 toàn bộ các trường tư thục ở TPHCM",
-            "link": "https://dantri.com.vn/giao-duc/chi-tieu-lop-1-lop-6-lop-10-toan-bo-cac-truong-tu-thuc-o-tphcm-20260615132657592.htm",
-            "img": "https://cdnphoto.dantri.com.vn/w5mdf6wpJ2Ex859-kTFu1bjL_nQ=/zoom/774_516/2026/06/15/chi-tieu6-cropped-1781504628654.jpg"
-        },
-        {
-            "title": "Có thể xuất hiện \"mưa điểm 10\" tiếng Anh thi vào lớp 10 TPHCM năm 2026",
-            "link": "https://dantri.com.vn/giao-duc/co-the-xuat-hien-mua-diem-10-tieng-anh-thi-vao-lop-10-tphcm-nam-2026-20260615125957239.htm",
-            "img": "https://cdnphoto.dantri.com.vn/Tghw8SuVoNUjLLMlO4HbIQOquGM=/zoom/351_234/2026/06/15/thi-lop-10-tphcm-yen-hoa-cropped-1781503001428.jpg"
+            "title": "Chỉ đạo khẩn vụ phản ánh dùng \"phao\" thi tốt nghiệp THPT không bị xử lý",
+            "link": "https://dantri.com.vn/giao-duc/chi-dao-khan-vu-phan-anh-dung-phao-thi-tot-nghiep-thpt-khong-bi-xu-ly-20260615161634293.htm",
+            "img": "https://cdnphoto.dantri.com.vn/PdkC93oISoKoWCW_v9LRgRwKkWE=/zoom/351_234/2026/06/15/thi-thptai-1-1781513941777.jpg"
         }
     ],
     "VietnamNet": [],
     "Znews": [
         {
-            "title": "Trận đánh gây chấn động dư luận Mỹ của chiến sĩ biệt động Sài Gòn",
-            "link": "https://znews.vn/tran-danh-gay-chan-dong-du-luan-my-cua-chien-si-biet-dong-sai-gon-post1659671.html",
-            "img": "https://photo.znews.vn/w1000/Uploaded/zagtgt/2026_06_14/mau_than_25123a.jpeg"
+            "title": "Tin mới nhất về xăng E10",
+            "link": "https://znews.vn/tin-moi-nhat-ve-xang-e10-post1659994.html",
+            "img": "https://photo.znews.vn/w1000/Uploaded/rohuoct/2026_05_26/He_thong_cua_hang_xang_dau_tren_ca_nuoc_san_sang_phan_phoi_xang_E10_danh_dau_buoc_chuyen_sang_nhien_lieu_sach_hon_26c87.jpg"
         },
         {
-            "title": "Cổ phiếu Vietnam Airlines tăng dựng đứng",
-            "link": "https://znews.vn/co-phieu-vietnam-airlines-tang-dung-dung-post1659928.html",
-            "img": "https://photo.znews.vn/w480/Uploaded/mrndcqjwq/2025_12_14/may_bay_vietnam_airlines_1804_2.jpg"
+            "title": "Rộ tin HLV đầu tiên bị sa thải ở World Cup 2026",
+            "link": "https://znews.vn/ro-tin-hlv-dau-tien-bi-sa-thai-o-world-cup-2026-post1659965.html",
+            "img": "https://photo.znews.vn/w480/Uploaded/wobjcak/2026_06_15/2026_06_13T220139Z_142588122_UP1EM6D1P6QAB_RTRMADP_3_SOCCER_WORLDCUP_SWE_TUN_PREVIEW_1.JPG"
         },
         {
-            "title": "HLV Troussier: 'Nhật Bản nguy hiểm nhất khi biết thay đổi'",
-            "link": "https://znews.vn/hlv-troussier-nhat-ban-nguy-hiem-nhat-khi-biet-thay-doi-post1659920.html",
-            "img": "https://photo.znews.vn/w480/Uploaded/wobjcak/2026_06_15/2026_06_14T214808Z_709655035_UP1EM6E1OK6D3_RTRMADP_3_SOCCER_WORLDCUP_NLD_JPN.JPG"
+            "title": "'Trận đấu ô nhục' khiến World Cup đổi luật vòng bảng vĩnh viễn",
+            "link": "https://znews.vn/tran-dau-o-nhuc-khien-world-cup-doi-luat-vong-bang-vinh-vien-post1659957.html",
+            "img": "https://photo.znews.vn/w480/Uploaded/bpcgpivp/2026_06_15/algeria_1.jpg"
         },
         {
-            "title": "Phó chủ tịch thường trực TP.HCM thăm, chúc mừng Tri Thức - Znews nhân ngày 21/6",
-            "link": "https://znews.vn/pho-chu-tich-thuong-truc-tphcm-tham-chuc-mung-tri-thuc-znews-nhan-ngay-216-post1659857.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/rgtgtn/2026_06_15/24_znews.jpg"
+            "title": "TP.HCM huy động 400 cán bộ lấy mẫu ADN hài cốt liệt sĩ",
+            "link": "https://znews.vn/tphcm-huy-dong-400-can-bo-lay-mau-adn-hai-cot-liet-si-post1659607.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/lce_jwqqc/2026_06_15/HKT03261_1_.jpg"
         },
         {
-            "title": "Một tập đoàn mang 'núi tiền' hơn 376.000 tỷ gửi ngân hàng lấy lãi",
-            "link": "https://znews.vn/mot-tap-doan-mang-nui-tien-hon-376000-ty-gui-ngan-hang-lay-lai-post1659875.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/rohuoct/2024_01_06/PVDriling_1.jpg"
+            "title": "Đối tượng thứ 2 vụ vác điếu cày đánh người đầu thú",
+            "link": "https://znews.vn/doi-tuong-thu-2-vu-vac-dieu-cay-danh-nguoi-dau-thu-post1659815.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/ecfzyryrzly/2026_06_15/danh_nguoi.jpg"
         },
         {
-            "title": "Nhân viên hợp đồng kỳ nghỉ gọi điện cho mẹ Hà Anh 'xin không bêu tên'",
-            "link": "https://znews.vn/nhan-vien-hop-dong-ky-nghi-goi-dien-cho-me-ha-anh-xin-khong-beu-ten-post1659909.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/rohunaa/2026_06_15/z7938837068196_1b457a4de3ac61b3d77763b4abdd863b_1.jpg"
+            "title": "TP.HCM làm rõ việc lô đất tại Bãi Sau được nâng từ 30 lên 50 tầng",
+            "link": "https://znews.vn/tphcm-lam-ro-viec-lo-dat-tai-bai-sau-duoc-nang-tu-30-len-50-tang-post1659963.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/zdhwqmjwq/2022_02_15/vungtau_zing_12.jpg"
         },
         {
-            "title": "Nước mắt hạnh phúc của cựu tuyển thủ Việt Nam từng nhúng chàm",
-            "link": "https://znews.vn/nuoc-mat-hanh-phuc-cua-cuu-tuyen-thu-viet-nam-tung-nhung-cham-post1659713.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/viuoqivo/2026_06_15/724614546_1535266241944163_6522923570573474219_n.jpg"
+            "title": "Diễn biến mới vụ cô gái nhảy bungee tử vong vì quên móc dây an toàn",
+            "link": "https://znews.vn/dien-bien-moi-vu-co-gai-nhay-bungee-tu-vong-vi-quen-moc-day-an-toan-post1659968.html",
+            "img": "https://photo.znews.vn/Uploaded/lce_jwqqc/2026_06_15/TragicBungeeJumpingAccidentinBrazil_WomanDiesWithoutSafetyRope_WorldNews_TheTimesofIndia_ezgif.com_crop.gif"
         },
         {
-            "title": "Báo Thái Lan chỉ ra 'nghịch lý du lịch Việt Nam'",
-            "link": "https://znews.vn/bao-thai-lan-chi-ra-nghich-ly-du-lich-viet-nam-post1659842.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/uqvpvpiv/2026_02_22/Thai_Lan_du_khach_Trung_Quoc.jpg"
+            "title": "Khát đến mấy cũng đừng uống nước mía kiểu này, cực hại cho sức khỏe",
+            "link": "https://znews.vn/khat-den-may-cung-dung-uong-nuoc-mia-kieu-nay-cuc-hai-cho-suc-khoe-post1659929.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/yrfjpyesfly/2026_06_15/mia.jpg"
         },
         {
-            "title": "Zidane húc đầu, Lippi tháo kính, Italy lên đỉnh thế giới",
-            "link": "https://znews.vn/zidane-huc-dau-lippi-thao-kinh-italy-len-dinh-the-gioi-post1659123.html",
-            "img": "https://photo.znews.vn/Uploaded/bpcgpivp/2026_06_12/italy_1780369987030_1.jpg"
+            "title": "'Steve Jobs Việt Nam' có thể xuất hiện chỉ bằng nỗ lực cá nhân?",
+            "link": "https://znews.vn/steve-jobs-viet-nam-co-the-xuat-hien-chi-bang-no-luc-ca-nhan-post1659425.html",
+            "img": "https://photo.znews.vn/Uploaded/bpcgpivp/2026_06_13/steve_jobs_1.jpeg"
         },
         {
-            "title": "5 cách để có một ly cà phê ngon",
-            "link": "https://znews.vn/5-cach-de-co-mot-ly-ca-phe-ngon-post1659692.html",
-            "img": "https://photo.znews.vn/Uploaded/ofh_cgkztmzt/2026_06_14/Ca_phe_ngon.jpeg"
+            "title": "Điều hành công ty kiểu 'thầy bói xem voi'",
+            "link": "https://znews.vn/dieu-hanh-cong-ty-kieu-thay-boi-xem-voi-post1658676.html",
+            "img": "https://photo.znews.vn/Uploaded/ofh_cgkztmzt/2026_06_10/Thay_boi_xem_voi.jpg"
         }
     ]
 }
