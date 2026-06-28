@@ -1,24 +1,14 @@
 {
     "VNExpress": [
         {
-            "title": "Chính phủ đặt mục tiêu tăng trưởng GDP 11,9% trong 6 tháng cuối năm",
-            "link": "https://vnexpress.net/chinh-phu-dat-muc-tieu-tang-truong-gdp-11-9-trong-6-thang-cuoi-nam-5090797.html",
-            "img": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/28/z6188542408744d58080841c5d8257-4546-6625-1782639030.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=gkgvSEUq9YRjWfdOmSOEOQ"
-        },
-        {
             "title": "Châu Âu vật lộn với đợt nóng vượt 40 độ",
             "link": "https://vnexpress.net/chau-au-vat-lon-voi-dot-nong-vuot-40-do-5090850.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/06/28/20260628204624-1782654408-8841-1782654423.png?w=220&h=132&q=100&dpr=1&fit=crop&s=LkH-LUstqYFws57dRKJHFQ"
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/06/28/20260628204624-1782654408-8841-1782654423.png?w=680&h=408&q=100&dpr=1&fit=crop&s=oJpKUDqLojoPwUoS7J1FCw"
         },
         {
-            "title": "Xe điện Polestar bị cấm tại Mỹ vì dính líu tới Trung Quốc",
-            "link": "https://vnexpress.net/xe-dien-polestar-bi-cam-tai-my-vi-dinh-liu-toi-trung-quoc-5090727.html",
-            "img": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/28/2026t144842z-rc2z4labb79w-rtrm-9648-8697-1782615815.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=Klj8vRhO0JRyzPtO87zUYg"
-        },
-        {
-            "title": "Xác định đủ 16 trận vòng knock-out World Cup 2026",
-            "link": "https://vnexpress.net/xac-dinh-du-16-tran-vong-knock-out-world-cup-2026-5090746.html",
-            "img": "https://vcdn1-thethao.vnecdn.net/2026/06/28/ronaldo-1782623943-7479-1782624588.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=06YaY1V_65FAfahEGQEDsA"
+            "title": "Phe Cộng hòa lo ngại về ứng viên được lòng ông Trump ở Georgia",
+            "link": "https://vnexpress.net/phe-cong-hoa-lo-ngai-ve-ung-vien-duoc-long-ong-trump-o-georgia-5088894.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/06/26/tns-1782459799-9330-1782460180.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=bkFZv4l_1pFxqVyvSu32uw"
         },
         {
             "title": "Messi, Mbappe, Haaland vào đội hình hay nhất vòng bảng World Cup",
@@ -26,29 +16,39 @@
             "img": "https://vcdn1-thethao.vnecdn.net/2026/06/28/messi-2-1782646782.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=9sGRXikM37kWq0vtmLplUg"
         },
         {
-            "title": "Iraq điều xe tăng, lính đặc nhiệm bắt quan chức bị nghi tham nhũng",
-            "link": "https://vnexpress.net/iraq-dieu-xe-tang-linh-dac-nhiem-bat-quan-chuc-bi-nghi-tham-nhung-5090805.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/06/28/5563187178137269381a-178263852-1213-4349-1782638979.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=fNADEvZSZww_q1qcBIi9yg"
+            "title": "Áo, Algeria bác nghi vấn 'bắt tay nhau' đi tiếp ở World Cup 2026",
+            "link": "https://vnexpress.net/ao-algeria-bac-nghi-van-bat-tay-nhau-di-tiep-o-world-cup-2026-5090785.html",
+            "img": "https://vcdn1-thethao.vnecdn.net/2026/06/28/ao-png-1782632361-9326-1782632545.png?w=220&h=132&q=100&dpr=1&fit=crop&s=VDS9NhqPiKR0-Aqzj6Iruw"
+        },
+        {
+            "title": "Messi chủ động nhường suất thi đấu cho các đồng đội ở World Cup",
+            "link": "https://vnexpress.net/messi-chu-dong-nhuong-suat-thi-dau-cho-cac-dong-doi-o-world-cup-5090776.html",
+            "img": "https://vcdn1-thethao.vnecdn.net/2026/06/28/messi-png-1782629148-5165-1782629250.png?w=220&h=132&q=100&dpr=1&fit=crop&s=z6VbYSJ44doFYBTMVm-0JA"
+        },
+        {
+            "title": "Xác định đủ 16 trận vòng knock-out World Cup 2026",
+            "link": "https://vnexpress.net/xac-dinh-du-16-tran-vong-knock-out-world-cup-2026-5090746.html",
+            "img": "https://vcdn1-thethao.vnecdn.net/2026/06/28/ronaldo-1782623943-7479-1782624588.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=06YaY1V_65FAfahEGQEDsA"
+        },
+        {
+            "title": "HLV Bồ Đào Nha: 'Chỉ trẻ con mới so sánh Ronaldo với Messi'",
+            "link": "https://vnexpress.net/hlv-bo-dao-nha-chi-tre-con-moi-so-sanh-ronaldo-voi-messi-5090740.html",
+            "img": "https://vcdn1-thethao.vnecdn.net/2026/06/28/ronaldo-png-1782619751-1223-1782619836.png?w=220&h=132&q=100&dpr=1&fit=crop&s=33PPWFZc3eZ74m3idj735w"
+        },
+        {
+            "title": "4.000 người tham gia diễn tập ứng phó với siêu bão",
+            "link": "https://vnexpress.net/4-000-nguoi-tham-gia-dien-tap-ung-pho-voi-sieu-bao-5090843.html",
+            "img": "https://via.placeholder.com/300x200?text=No+Image"
+        },
+        {
+            "title": "Đoàn phim 'Đất đỏ' nỗ lực tìm diễn viên đóng anh hùng Võ Thị Sáu",
+            "link": "https://vnexpress.net/doan-phim-dat-do-no-luc-tim-dien-vien-dong-anh-hung-vo-thi-sau-5090774.html",
+            "img": "https://vcdn1-giaitri.vnecdn.net/2026/06/28/chan-dung-anh-hung-vo-thi-sau-5697-9760-1782642228.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=LVqPQKa-RUnxmANa5dOdvQ"
         },
         {
             "title": "Những cái nhất sau vòng bảng World Cup 2026",
             "link": "https://vnexpress.net/nhung-cai-nhat-sau-vong-bang-world-cup-2026-5090794.html",
             "img": "https://vcdn1-thethao.vnecdn.net/2026/06/28/skysports-messi-vini-graphic-1782634969.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=lHJ4d-J02BqxPZTDjRlYqQ"
-        },
-        {
-            "title": "Ôtô khách chở hơn 20 người cháy trên cao tốc",
-            "link": "https://vnexpress.net/oto-khach-cho-hon-20-nguoi-chay-tren-cao-toc-5090872.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/06/28/20260628230026-1782662437-5480-1782662440.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=vS9x7D-rf6IBorjcGuCDfQ"
-        },
-        {
-            "title": "Rơi máy bay ở Pháp, 11 người thiệt mạng",
-            "link": "https://vnexpress.net/roi-may-bay-o-phap-11-nguoi-thiet-mang-5090846.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/06/28/xa-c-ma-y-bay-jpeg-1782647489-8037-1782647720.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=mQ0EidRrXO7LOnaNUy5pgQ"
-        },
-        {
-            "title": "Châu Á có nhiều đội bị loại nhất World Cup 2026",
-            "link": "https://vnexpress.net/chau-a-co-nhieu-doi-bi-loai-nhat-world-cup-2026-5090760.html",
-            "img": "https://vcdn1-thethao.vnecdn.net/2026/06/28/ap26176113022525-1782624493-7304-1782624582.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=sQRYiIPDooI4Ym3x4stD5Q"
         }
     ],
     "Tuổi Trẻ": [],
@@ -108,19 +108,19 @@
     "VietnamNet": [],
     "Znews": [
         {
+            "title": "Vừa tăng giá loạt sản phẩm, Apple sẽ làm gì tiếp theo?",
+            "link": "https://znews.vn/apple-se-khong-ra-mat-chip-m6-pro-va-m6-max-post1663230.html",
+            "img": "https://photo.znews.vn/w1000/Uploaded/yqdlcqrwq/2026_06_26/11526062026_apple_chip_m6_m7_pro_m7_max.jpg"
+        },
+        {
             "title": "Ác mộng của tuyển Anh",
             "link": "https://znews.vn/ac-mong-cua-tuyen-anh-post1664009.html",
-            "img": "https://photo.znews.vn/w1000/Uploaded/qdhcadxwp/2026_06_28/quansah.JPG"
+            "img": "https://photo.znews.vn/w480/Uploaded/qdhcadxwp/2026_06_28/quansah.JPG"
         },
         {
             "title": "Việt Nam cần tăng trưởng GDP gần 12% trong nửa cuối năm",
             "link": "https://znews.vn/viet-nam-can-tang-truong-gdp-gan-12-trong-nua-cuoi-nam-post1663987.html",
             "img": "https://photo.znews.vn/w480/Uploaded/yqdxwpujv/2025_04_28/30_4_znews_4.jpg"
-        },
-        {
-            "title": "Vừa tăng giá loạt sản phẩm, Apple sẽ làm gì tiếp theo?",
-            "link": "https://znews.vn/apple-se-khong-ra-mat-chip-m6-pro-va-m6-max-post1663230.html",
-            "img": "https://photo.znews.vn/w480/Uploaded/yqdlcqrwq/2026_06_26/11526062026_apple_chip_m6_m7_pro_m7_max.jpg"
         },
         {
             "title": "Cầu thủ Argentina mất vợ và 2 con trong trận động đất ở Venezuela",
@@ -148,14 +148,14 @@
             "img": "https://photo.znews.vn/w210/Uploaded/wpdhnwhnw/2026_06_28/img_4663_1.jpg"
         },
         {
-            "title": "Sức hút kỳ lạ của TP.HCM",
-            "link": "https://znews.vn/suc-hut-ky-la-cua-tphcm-post1662478.html",
-            "img": "https://photo.znews.vn/Uploaded/zagtgt/2026_06_23/Notre_Dam_2008__1.JPG"
+            "title": "Cuốn sách khiến độc giả Trung, Hàn 'phát cuồng'",
+            "link": "https://znews.vn/cuon-sach-khien-doc-gia-trung-han-phat-cuong-post1662239.html",
+            "img": "https://photo.znews.vn/Uploaded/qoswae/2026_06_23/2a7c2c15_dc9f_4d85_b1d4_4809b43fdde8_1.jpg"
         },
         {
-            "title": "Công chúng đang đổ xô tới các lễ hội sách",
-            "link": "https://znews.vn/cong-chung-dang-do-xo-toi-cac-le-hoi-sach-post1662533.html",
-            "img": "https://photo.znews.vn/Uploaded/qoswae/2026_06_24/e8ce49fd_fdbe_499e_b2a0_487c4a48483d.jpg"
+            "title": "Chiến lược AI trong đà phát triển nóng của giới sách Trung Quốc",
+            "link": "https://znews.vn/chien-luoc-ai-trong-da-phat-trien-nong-cua-gioi-sach-trung-quoc-post1662907.html",
+            "img": "https://photo.znews.vn/Uploaded/qoswae/2026_06_25/AI.jpg"
         }
     ]
 }
