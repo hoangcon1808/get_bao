@@ -1,24 +1,9 @@
 {
     "VNExpress": [
         {
-            "title": "Cách tính chi phí bản quyền âm nhạc cho các quán cà phê, nhà hàng",
-            "link": "https://vnexpress.net/cach-tinh-chi-phi-ban-quyen-am-nhac-cho-cac-quan-ca-phe-nha-hang-5090526.html",
-            "img": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/27/20260609-1782534783-4787-1782534798.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=5TqJcjra0y1kUn6VfJSBfg"
-        },
-        {
-            "title": "Cô gái Đức tìm được tình yêu khi sang Việt Nam 'chữa lành'",
-            "link": "https://vnexpress.net/co-gai-duc-tim-duoc-tinh-yeu-khi-sang-viet-nam-chua-lanh-5087525.html",
-            "img": "https://vcdn1-giadinh.vnecdn.net/2026/06/21/z7934900709241-9dfd53d93e2d757-5597-4846-1782029632.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=yN1XAVWA98HQx0-57aJo_A"
-        },
-        {
-            "title": "Messi sút phạt ghi bàn, giúp Argentina toàn thắng vòng bảng",
-            "link": "https://vnexpress.net/jordan-vs-argentina-5090701-tong-thuat.html",
-            "img": "https://vcdn1-thethao.vnecdn.net/2026/06/28/messi-mu-ng-ba-n-1782619493-9632-1782619504.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=t-5s9PdW1auBvO74LcqYQg"
-        },
-        {
-            "title": "Hàn Quốc bị loại ở vòng bảng World Cup 2026",
-            "link": "https://vnexpress.net/han-quoc-bi-loai-o-vong-bang-world-cup-2026-5090709.html",
-            "img": "https://vcdn1-thethao.vnecdn.net/2026/06/28/ap26176115657919-1782609877-4771-1782610050.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=aJwPBcvUNb9DZEHjQPl5QQ"
+            "title": "Xác định đủ 16 trận vòng knock-out World Cup 2026",
+            "link": "https://vnexpress.net/xac-dinh-du-16-tran-vong-knock-out-world-cup-2026-5090746.html",
+            "img": "https://vcdn1-thethao.vnecdn.net/2026/06/28/ronaldo-1782623943-7479-1782624588.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=2SpCDrqlvZiKutWTImAzGg"
         },
         {
             "title": "Argentina vào nhánh knock-out thuận lợi ở World Cup 2026",
@@ -26,19 +11,19 @@
             "img": "https://vcdn1-thethao.vnecdn.net/2026/06/28/ap26179135801223-1782630287-7670-1782630335.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=WiMe8SmX94h9Q1cHFCSchg"
         },
         {
+            "title": "Nghệ sĩ Việt Anh đón tuổi 68",
+            "link": "https://vnexpress.net/nghe-si-viet-anh-don-tuoi-68-5090731.html",
+            "img": "https://vcdn1-giaitri.vnecdn.net/2026/06/28/nghesivietanh2-1782623961-5631-1782624321.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=zpUWjmwsoUNvbGg5NiT9Iw"
+        },
+        {
+            "title": "Hàn Quốc bị loại ở vòng bảng World Cup 2026",
+            "link": "https://vnexpress.net/han-quoc-bi-loai-o-vong-bang-world-cup-2026-5090709.html",
+            "img": "https://vcdn1-thethao.vnecdn.net/2026/06/28/ap26176115657919-1782609877-4771-1782610050.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=aJwPBcvUNb9DZEHjQPl5QQ"
+        },
+        {
             "title": "Châu Á có nhiều đội bị loại nhất World Cup 2026",
             "link": "https://vnexpress.net/chau-a-co-nhieu-doi-bi-loai-nhat-world-cup-2026-5090760.html",
             "img": "https://vcdn1-thethao.vnecdn.net/2026/06/28/ap26176113022525-1782624493-7304-1782624582.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=sQRYiIPDooI4Ym3x4stD5Q"
-        },
-        {
-            "title": "Messi phá thêm hai kỷ lục World Cup",
-            "link": "https://vnexpress.net/messi-pha-them-hai-ky-luc-world-cup-5090743.html",
-            "img": "https://vcdn1-thethao.vnecdn.net/2026/06/28/messi-1782620336-7593-1782620361.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=JO17mhXJkf1SQqidSsI_nw"
-        },
-        {
-            "title": "111 ngành mà sinh viên được học bổng 3,7-5,5 triệu đồng/tháng",
-            "link": "https://vnexpress.net/111-nganh-ma-sinh-vien-duoc-hoc-bong-3-7-5-5-trieu-dong-thang-5090765.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/06/28/616224982-n-1782627063-6013-1782627462.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=vcsV5BdR5ApAKUP-cNWpPg"
         },
         {
             "title": "'Ma trận' giấy phép để được lắp điều hòa tại Pháp",
@@ -46,18 +31,38 @@
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/06/26/2025t141755z-mt1hnslcs000yw07u-5895-5043-1782448175.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=Rhb0KPTkxMXSiLNRM7BQig"
         },
         {
-            "title": "Nghệ sĩ Việt Anh đón tuổi 68",
-            "link": "https://vnexpress.net/nghe-si-viet-anh-don-tuoi-68-5090731.html",
-            "img": "https://vcdn1-giaitri.vnecdn.net/2026/06/28/nghesivietanh2-1782623961-5631-1782624321.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=zpUWjmwsoUNvbGg5NiT9Iw"
+            "title": "Messi phá thêm hai kỷ lục World Cup",
+            "link": "https://vnexpress.net/messi-pha-them-hai-ky-luc-world-cup-5090743.html",
+            "img": "https://vcdn1-thethao.vnecdn.net/2026/06/28/messi-1782620336-7593-1782620361.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=JO17mhXJkf1SQqidSsI_nw"
+        },
+        {
+            "title": "Bãi biển Quất Lâm hoang vắng",
+            "link": "https://vnexpress.net/bai-bien-quat-lam-hoang-vang-5089525.html",
+            "img": "https://vcdn1-dulich.vnecdn.net/2026/06/27/quat-lam-a-1782530195.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=pi52-UJ6cFe9Q_LIa2E_MQ"
+        },
+        {
+            "title": "Chính phủ đặt mục tiêu tăng trưởng GDP 11,9% trong 6 tháng cuối năm",
+            "link": "https://vnexpress.net/chinh-phu-dat-muc-tieu-tang-truong-gdp-11-9-trong-6-thang-cuoi-nam-5090797.html",
+            "img": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/28/z6188542408744d58080841c5d8257-4546-6625-1782639030.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=AokKdbc0alz4-2ZYe267Fg"
+        },
+        {
+            "title": "Musk đồng tình với Tim Cook: 'Giá chip nhớ tăng chưa từng có'",
+            "link": "https://vnexpress.net/musk-dong-tinh-voi-tim-cook-gia-chip-nho-tang-chua-tung-co-5090779.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/06/28/afp-v3-highres-milkeninstitute-3860-6582-1782631080.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=K6fTMO7EEx13Q4KA-GwlQg"
         }
     ],
     "Tuổi Trẻ": [],
     "Thanh Niên": [],
     "Dân Trí": [
         {
+            "title": "Bỏ phần mô phỏng, thi sát hạch lái xe ô tô còn những thay đổi gì từ 1/7?",
+            "link": "https://dantri.com.vn/o-to-xe-may/bo-phan-mo-phong-thi-sat-hach-lai-xe-o-to-con-nhung-thay-doi-gi-tu-17-20260627120845472.htm",
+            "img": "https://cdnphoto.dantri.com.vn/EvU0NdsocsfBQ2eY6bKsc_Qkh0o=/zoom/774_516/2026/06/27/bo-phan-thi-mo-phong-tu-1-7-quy-trinh-sat-hach-lai-xe-o-to-con-nhung-thay-doi-gi-anh2-1782536681132.jpg"
+        },
+        {
             "title": "Lựa chọn xe máy tầm giá 60 triệu đồng",
             "link": "https://dantri.com.vn/o-to-xe-may/lua-chon-xe-may-tam-gia-60-trieu-dong-20260627120608815.htm",
-            "img": "https://cdnphoto.dantri.com.vn/7BxZ6FOJ_lyq1G1KSzd9EP-7HgI=/zoom/774_516/2026/06/04/hondaxemayev1-cropped-1780557371141.jpg"
+            "img": "https://cdnphoto.dantri.com.vn/Zvv66OapxhEPPfwpHrV80aoEm-c=/zoom/351_234/2026/06/04/hondaxemayev1-cropped-1780557371141.jpg"
         },
         {
             "title": "Xe điện Ford Mustang Mach-E có nguy cơ bị khai tử?",
@@ -67,7 +72,7 @@
         {
             "title": "Khách Việt không còn cơ hội mua Fortuner máy dầu, thêm lợi thế cho Everest",
             "link": "https://dantri.com.vn/o-to-xe-may/khach-viet-khong-con-co-hoi-mua-fortuner-may-dau-them-loi-the-cho-everest-20260627135501052.htm",
-            "img": "https://cdnphoto.dantri.com.vn/FZvU9ieRSo1zAtJLfykkENzz1QQ=/zoom/351_234/2026/06/27/khach-viet-khong-con-co-hoi-mua-toyota-fortuner-may-dau-anh1-1782543003306.jpg"
+            "img": "https://cdnphoto.dantri.com.vn/sPCcfdSoWVWizuDAHA_0voBoBWM=/zoom/192_128/2026/06/27/khach-viet-khong-con-co-hoi-mua-toyota-fortuner-may-dau-anh1-1782543003306.jpg"
         },
         {
             "title": "Người đi xe máy chở vật liệu cồng kềnh đâm xuyên cửa kính ô tô",
@@ -90,27 +95,22 @@
             "img": "https://cdnphoto.dantri.com.vn/x6pW-Qdibjbb3o5rM9r_G1vREbo=/zoom/192_128/2026/06/27/mo-phong-crop-1704250944264-1782525220144.jpg"
         },
         {
-            "title": "Hyundai Elantra 2027 ra mắt: Thiết kế hoàn toàn mới, động cơ được nâng cấp",
-            "link": "https://dantri.com.vn/o-to-xe-may/hyundai-elantra-2027-ra-mat-thiet-ke-hoan-toan-moi-dong-co-duoc-nang-cap-20260627011300556.htm",
-            "img": "https://cdnphoto.dantri.com.vn/mAIWdfGQlXpMAogpuWqTobYV6Qk=/zoom/192_128/2026/06/27/hyundai-avante-elantra-1s-cropped-1782493639755.jpg"
+            "title": "Bảo vệ trẻ em trên mạng xã hội: Cần phải có \"lá chắn đa tầng\"",
+            "link": "https://dantri.com.vn/giao-duc/bao-ve-tre-em-tren-mang-xa-hoi-can-phai-co-la-chan-da-tang-20260628075230443.htm",
+            "img": "https://cdnphoto.dantri.com.vn/MHWwLulFc0k97g2yZxALQBmXmMY=/zoom/774_516/2025/12/17/tre-em-su-dung-mang-xa-hoi-pexelsjpg-1765984363600.jpg"
         },
         {
             "title": "Đề thi và đáp án môn toán thi lớp 10 tỉnh Gia Lai",
             "link": "https://dantri.com.vn/giao-duc/de-thi-va-dap-an-mon-toan-thi-lop-10-tinh-gia-lai-20260628075125073.htm",
-            "img": "https://cdnphoto.dantri.com.vn/2QxAPiI1WZpa-pQdglrXLj27d3E=/zoom/774_516/2026/06/28/gia-laihoai-nam-cropped-1782607706715.jpg"
-        },
-        {
-            "title": "Thủ khoa Đồng Tháp chỉ mất 30 phút để đạt điểm tuyệt đối thi lớp 10 chuyên",
-            "link": "https://dantri.com.vn/giao-duc/thu-khoa-dong-thap-chi-mat-30-phut-de-dat-diem-tuyet-doi-thi-lop-10-chuyen-20260626160335503.htm",
-            "img": "https://cdnphoto.dantri.com.vn/XCZgRktf6ibtQ4t6QRarmUEv-aw=/zoom/351_234/2026/06/26/nam-sinhnvcc-9-edited-cropped-1782464469830.jpg"
+            "img": "https://cdnphoto.dantri.com.vn/2QhsaSbibsFm3LoA3HUX9fqPy1s=/zoom/351_234/2026/06/28/gia-laihoai-nam-cropped-1782607706715.jpg"
         }
     ],
     "VietnamNet": [],
     "Znews": [
         {
-            "title": "Đã xác định 16 cặp đấu vòng knock-out World Cup 2026",
-            "link": "https://znews.vn/da-xac-dinh-16-cap-dau-vong-knock-out-world-cup-2026-post1663866.html",
-            "img": "https://photo.znews.vn/w1000/Uploaded/mfnuy/2026_06_28/ronaldo_modric.jpg"
+            "title": "Martinez đang dùng sai Ronaldo?",
+            "link": "https://znews.vn/martinez-dang-dung-sai-ronaldo-post1663949.html",
+            "img": "https://photo.znews.vn/w1000/Uploaded/sotnzt/2026_06_28/2026_06_28T015158Z_2022706948_UP1EM6S02L6ZQ_RTRMADP_3_SOCCER_WORLDCUP_COL_POR.JPG"
         },
         {
             "title": "Điều gì đang xảy ra với cổ phiếu LPBank?",
@@ -123,39 +123,39 @@
             "img": "https://photo.znews.vn/w480/Uploaded/ukrspuo/2026_06_27/dut_gay_the_he_thumbs.jpg"
         },
         {
+            "title": "Iran phóng tên lửa vào căn cứ Mỹ tại Bahrain và Kuwait",
+            "link": "https://znews.vn/iran-phong-ten-lua-vao-can-cu-my-tai-bahrain-va-kuwait-post1663838.html",
+            "img": "https://photo.znews.vn/Uploaded/asfzyrwtys1/2026_03_21/ten_lua_Iran_1.gif"
+        },
+        {
+            "title": "Lương Bích Hữu giữa tranh luận",
+            "link": "https://znews.vn/luong-bich-huu-giua-tranh-luan-post1663919.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/wpdhnwhnw/2026_06_28/luongich_1.jpg"
+        },
+        {
+            "title": "Phẫn nộ cảnh con dâu đánh, chửi mẹ chồng già yếu ở Quảng Ninh",
+            "link": "https://znews.vn/phan-no-canh-con-dau-danh-chui-me-chong-gia-yeu-o-quang-ninh-post1663495.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/ecfzyryrzly/2026_06_24/danhmechong_2_11343694_1_.jpg"
+        },
+        {
+            "title": "Không cần đường cong hoàn hảo, Messi vẫn ghi dấu với vũ khí sút phạt",
+            "link": "https://znews.vn/khong-can-duong-cong-hoan-hao-messi-van-ghi-dau-voi-vu-khi-sut-phat-post1663915.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/ivpbciv2/2026_06_28/8f568adf90e83cc3c4c4f7add31ce5ab1b9ad868.jpg"
+        },
+        {
             "title": "Đội duy nhất bị loại ở World Cup 2026 dù không thua trận nào",
             "link": "https://znews.vn/doi-duy-nhat-bi-loai-o-world-cup-2026-du-khong-thua-tran-nao-post1663911.html",
             "img": "https://photo.znews.vn/w210/Uploaded/mfnuy/2026_06_16/iran_1.JPG"
         },
         {
-            "title": "Cơn thịnh nộ của CĐV Hàn Quốc sau cú sốc bị loại ở World Cup",
-            "link": "https://znews.vn/con-thinh-no-cua-cdv-han-quoc-sau-cu-soc-bi-loai-o-world-cup-post1663235.html",
-            "img": "https://photo.znews.vn/Uploaded/lce_jwqqc/2026_06_25/Han_Quoc.gif"
+            "title": "Sức hút kỳ lạ của TP.HCM",
+            "link": "https://znews.vn/suc-hut-ky-la-cua-tphcm-post1662478.html",
+            "img": "https://photo.znews.vn/Uploaded/zagtgt/2026_06_23/Notre_Dam_2008__1.JPG"
         },
         {
-            "title": "Nắng nóng trên 40°C gây xáo trộn khắp châu Âu",
-            "link": "https://znews.vn/nang-nong-tren-40-c-gay-xao-tron-khap-chau-au-post1663833.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/zngube/2026_06_28/2026_06_27T221903Z_1674054085_RC2F2MA7II4U_RTRMADP_3_EUROPE_WEATHER_FRANCE.JPG"
-        },
-        {
-            "title": "Messi rực sáng, Argentina toàn thắng ở vòng bảng World Cup 2026",
-            "link": "https://znews.vn/messi-ruc-sang-argentina-toan-thang-o-vong-bang-world-cup-2026-post1663725.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/wobjcak/2026_06_27/messi_1_.JPG"
-        },
-        {
-            "title": "Kịch bản duy nhất để Ronaldo gặp Messi ở World Cup 2026",
-            "link": "https://znews.vn/kich-ban-duy-nhat-de-ronaldo-gap-messi-o-world-cup-2026-post1663868.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/mfnuy/2026_06_28/ronaldo_messi.jpeg"
-        },
-        {
-            "title": "Những ấn phẩm chào mừng Đại hội Đoàn TNCS Hồ Chí Minh lần thứ XIII",
-            "link": "https://znews.vn/nhung-an-pham-chao-mung-dai-hoi-doan-tncs-ho-chi-minh-lan-thu-xiii-post1663006.html",
-            "img": "https://photo.znews.vn/Uploaded/caxwpqdwp/2026_06_25/009a4ef9_c732_43aa_a642_563eb71c5257.jpg"
-        },
-        {
-            "title": "Cuốn sách khiến độc giả Trung, Hàn 'phát cuồng'",
-            "link": "https://znews.vn/cuon-sach-khien-doc-gia-trung-han-phat-cuong-post1662239.html",
-            "img": "https://photo.znews.vn/Uploaded/qoswae/2026_06_23/2a7c2c15_dc9f_4d85_b1d4_4809b43fdde8_1.jpg"
+            "title": "Tiệm trà có hàng nghìn cuốn truyện tranh 'hút' thiếu nhi",
+            "link": "https://znews.vn/tiem-tra-co-hang-nghin-cuon-truyen-tranh-hut-thieu-nhi-post1660985.html",
+            "img": "https://photo.znews.vn/Uploaded/zgsgtn/2026_06_18/tiem_truyen_tra_truyen_tranh_lorn_collection_ha_noi.jpg"
         }
     ]
 }
