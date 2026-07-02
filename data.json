@@ -11,14 +11,14 @@
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/02/cats-1782984631-3442-1782984669.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=0ZZUqKyopmxttTRvqverNQ"
         },
         {
-            "title": "Lễ ký sắc lệnh biến thành khẩu chiến ở Phòng Bầu dục",
-            "link": "https://vnexpress.net/le-ky-sac-lenh-bien-thanh-khau-chien-o-phong-bau-duc-5092413.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/02/afp-b7xd8a8-v2-midres-uspoliti-8231-1414-1782967143.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=PyCgEWaKn-18LHGj-Eomig"
-        },
-        {
             "title": "Trợ lý Nhà Trắng khoe nội thất chuyên cơ Không lực Một mới",
             "link": "https://vnexpress.net/tro-ly-nha-trang-khoe-noi-that-chuyen-co-khong-luc-mot-moi-5092430.html",
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/02/chuyen-co-1782962259-1968-1782965116.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=CYN47M7T730XSKHBVTM4PA"
+        },
+        {
+            "title": "10 thương hiệu giá trị nhất Việt Nam",
+            "link": "https://vnexpress.net/10-thuong-hieu-gia-tri-nhat-viet-nam-5092673.html",
+            "img": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/02/trung-tam-du-lieu-datacenter-v-4345-2252-1782984962.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=DH2fhF98YnCHiqUTvfSmcQ"
         },
         {
             "title": "Tăng Thanh Hà đóng phim 'Hoàng hậu cuối cùng'",
@@ -31,9 +31,14 @@
             "img": "https://vcdn1-giaitri.vnecdn.net/2026/07/02/thien-than-world-cup-1782965660.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=01ptFyXwjKonSaC2F-ZEww"
         },
         {
-            "title": "5 giờ chạy đua tổ chức chuyến bay cứu trợ đến Venezuela",
-            "link": "https://vnexpress.net/5-gio-chay-dua-to-chuc-chuyen-bay-cuu-tro-den-venezuela-5092304.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/02/3-vietnam-airlines-van-chuye-1-5337-4068-1782984139.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=p9MAF7egAfqcaVTEytldww"
+            "title": "Lễ tuyên Chân phước linh mục Trương Bửu Diệp",
+            "link": "https://vnexpress.net/le-tuyen-chan-phuoc-linh-muc-truong-buu-diep-5092419.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/02/chanphuoc-1782975657.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=lP1PiZ1tMtLK-ClxoX1v7A"
+        },
+        {
+            "title": "Quách Phú Thành xuất hiện cùng vợ con",
+            "link": "https://vnexpress.net/quach-phu-thanh-xuat-hien-cung-vo-con-5092686.html",
+            "img": "https://vcdn1-giaitri.vnecdn.net/2026/07/02/thanh6-1782983115-8799-1782983389.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=RM5qmbLi0guG-ZCSWhhWDQ"
         },
         {
             "title": "4 'chàng ngự lâm' Pháp và chiến thuật xé tan hàng thủ Thụy Điển",
@@ -44,11 +49,6 @@
             "title": "Phe MAGA đề xuất cấm phụ nữ nước ngoài mang thai đến Mỹ",
             "link": "https://vnexpress.net/phe-maga-de-xuat-cam-phu-nu-nuoc-ngoai-mang-thai-den-my-5092504.html",
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/02/gxyslohwoaakdq3-1782978011-5861-1782978086.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=NDWdGBxGWD52ktmwoB9K5A"
-        },
-        {
-            "title": "Rooney: 'Cứ chơi thế này, Anh sẽ bị loại'",
-            "link": "https://vnexpress.net/rooney-cu-choi-the-nay-anh-se-bi-loai-5092522.html",
-            "img": "https://vcdn1-thethao.vnecdn.net/2026/07/02/ap26182583984572-1782976765-5516-1782976780.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=4O-MLyYL-X-9KRQ2EFNI4w"
         }
     ],
     "Tuổi Trẻ": [],
@@ -95,32 +95,32 @@
             "img": "https://cdnphoto.dantri.com.vn/CHNlNqMOq5ZlWqeuDsyQyjzzk90=/zoom/192_128/2026/07/01/santa-fe-2027-rendernymanmoth-cropped-1782882232043.jpg"
         },
         {
-            "title": "Sáp nhập trường phổ thông từ 1/7, sẽ giảm khoảng 30% cơ sở giáo dục",
-            "link": "https://dantri.com.vn/giao-duc/sap-nhap-truong-pho-thong-tu-17-se-giam-khoang-30-co-so-giao-duc-20260702175749562.htm",
-            "img": "https://cdnphoto.dantri.com.vn/BdSL6oab6DML5le0yiiVZnVHnVU=/zoom/774_516/2026/07/02/sach-giao-khoa-huyen-nguyen-6jpg-1763293002583-1782989718360.jpg"
+            "title": "Ngày đầu mở cổng xét tuyển đại học, hơn 652.000 nguyện vọng được đăng ký",
+            "link": "https://dantri.com.vn/giao-duc/ngay-dau-mo-cong-xet-tuyen-dai-hoc-hon-652000-nguyen-vong-duoc-dang-ky-20260702185628195.htm",
+            "img": "https://cdnphoto.dantri.com.vn/PyWf6pvAPpYIw-2LHVWYc123dZw=/zoom/774_516/2026/06/12/thi-tot-nghiep-thpt-2026-manh-quan-1781236098688.jpg"
         },
         {
-            "title": "Khi nào công bố điểm và điểm chuẩn khảo sát lớp 6 Trần Đại Nghĩa?",
-            "link": "https://dantri.com.vn/giao-duc/khi-nao-cong-bo-diem-va-diem-chuan-khao-sat-lop-6-tran-dai-nghia-20260702161925996.htm",
-            "img": "https://cdnphoto.dantri.com.vn/__h-o2AcXbrR2vfkn0dshoYsJgw=/zoom/351_234/2025/12/04/hocsinhlop1tuutruongtphcmbaoquye-1jpg-1764824579327.jpg"
+            "title": "Vụ thầy giáo THPT bị tố có con riêng, bạo hành vợ: Đề nghị công an vào cuộc",
+            "link": "https://dantri.com.vn/giao-duc/vu-thay-giao-thpt-bi-to-co-con-rieng-bao-hanh-vo-de-nghi-cong-an-vao-cuoc-20260702145652596.htm",
+            "img": "https://cdnphoto.dantri.com.vn/NogxEF60fFjJyNpvDLs89k38XVs=/zoom/351_234/2026/06/30/truc-edited-1782827929274.jpg"
         }
     ],
     "VietnamNet": [],
     "Znews": [
         {
+            "title": "Toàn cảnh Lễ kỷ niệm 50 năm TP.HCM mang tên Bác",
+            "link": "https://znews.vn/toan-canh-le-ky-niem-50-nam-tphcm-mang-ten-bac-post1665420.html",
+            "img": "https://photo.znews.vn/w1000/Uploaded/kbfoplb/2026_07_02/thumb_toancanh.jpg"
+        },
+        {
             "title": "Giá xăng giảm về sát 20.000 đồng/lít",
             "link": "https://znews.vn/gia-xang-giam-ve-sat-20000-donglit-post1665484.html",
-            "img": "https://photo.znews.vn/w1000/Uploaded/ovhpihv/2026_05_27/Xang_E10_13_Znews.jpg"
+            "img": "https://photo.znews.vn/w480/Uploaded/ovhpihv/2026_05_27/Xang_E10_13_Znews.jpg"
         },
         {
             "title": "Bảo tàng TP.HCM khác lạ sau 19h",
             "link": "https://znews.vn/bao-tang-tphcm-khac-la-sau-19h-post1665439.html",
             "img": "https://photo.znews.vn/w480/Uploaded/anqyy/2026_07_02/bao_tang_1.jpg"
-        },
-        {
-            "title": "Toàn cảnh Lễ kỷ niệm 50 năm TP.HCM mang tên Bác",
-            "link": "https://znews.vn/toan-canh-le-ky-niem-50-nam-tphcm-mang-ten-bac-post1665420.html",
-            "img": "https://photo.znews.vn/w480/Uploaded/kbfoplb/2026_07_02/thumb_toancanh.jpg"
         },
         {
             "title": "Cầu thủ không thể bị đánh bại ở World Cup 2026",
@@ -148,14 +148,14 @@
             "img": "https://photo.znews.vn/w210/Uploaded/wpdhnwhnw/2026_07_02/hahaa_1.jpg"
         },
         {
-            "title": "Con đường có 12 nhà sách ở TP.HCM",
-            "link": "https://znews.vn/con-duong-co-12-nha-sach-o-tphcm-post1664239.html",
-            "img": "https://photo.znews.vn/Uploaded/zagtgt/2026_06_29/thumb_psu_2.jpg"
+            "title": "Nhiếp ảnh gia đứng cạnh Tổng thống Bill Clinton ở TP.HCM",
+            "link": "https://znews.vn/nhiep-anh-gia-dung-canh-tong-thong-bill-clinton-o-tphcm-post1662691.html",
+            "img": "https://photo.znews.vn/Uploaded/zagtgt/2026_06_24/M1H6124.jpg"
         },
         {
-            "title": "Khai mạc Hội sách Thiếu nhi TP.HCM quy mô lớn nhất từ trước đến nay",
-            "link": "https://znews.vn/khai-mac-hoi-sach-thieu-nhi-tphcm-quy-mo-lon-nhat-tu-truoc-den-nay-post1663334.html",
-            "img": "https://photo.znews.vn/Uploaded/zagtgt/2026_06_27/Thumb_TP.HCM_50_nam_5_.jpg"
+            "title": "TP.HCM cụ thể hóa Chỉ thị 16, đưa ngành xuất bản cất cánh",
+            "link": "https://znews.vn/tphcm-cu-the-hoa-chi-thi-16-dua-nganh-xuat-ban-cat-canh-post1664286.html",
+            "img": "https://photo.znews.vn/Uploaded/zagtgt/2026_06_29/Thumb_TP.HCM_50_nam_12_.jpg"
         }
     ]
 }
