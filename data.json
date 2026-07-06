@@ -1,73 +1,88 @@
 {
     "VNExpress": [
         {
-            "title": "Rãnh chôn tập thể nơi phát hiện 7 hài cốt ở công viên Lê Thị Riêng",
-            "link": "https://vnexpress.net/ranh-chon-tap-the-noi-phat-hien-7-hai-cot-o-cong-vien-le-thi-rieng-5093837.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/06/lethirieng-1783312379.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=K47FnpCz-xzZQ1GBOL_2_g"
+            "title": "Người đàn ông nhận là em liệt sĩ tìm thấy ở công viên Lê Thị Riêng",
+            "link": "https://vnexpress.net/nguoi-dan-ong-nhan-la-em-liet-si-tim-thay-o-cong-vien-le-thi-rieng-5094143.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/06/z8013553262240-de6e59311827057-8883-2287-1783334513.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=Gix8P8OEDZ8QSC7D-Kt4eA"
+        },
+        {
+            "title": "Đề xuất kéo dài metro Vũng Tàu đến sân bay Long Thành",
+            "link": "https://vnexpress.net/de-xuat-keo-dai-metro-vung-tau-den-san-bay-long-thanh-5093862.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/06/740152540-n-1783322577-3241-1783322623.png?w=220&h=132&q=100&dpr=1&fit=crop&s=8a3mC21Ii-_4j736vuzdwA"
+        },
+        {
+            "title": "Tên lửa Patriot nghi lao xuống Kiev khi đối phó đòn tập kích của Nga",
+            "link": "https://vnexpress.net/ten-lua-patriot-nghi-lao-xuong-kiev-khi-doi-pho-don-tap-kich-cua-nga-5094063.html",
+            "img": "https://via.placeholder.com/300x200?text=No+Image"
+        },
+        {
+            "title": "Bà Cao Thị Ngọc Dung: 28.000 viên kim cương buôn lậu không vào hệ thống PNJ",
+            "link": "https://vnexpress.net/ba-cao-thi-ngoc-dung-28-000-vien-kim-cuong-buon-lau-khong-vao-he-thong-pnj-5094012.html",
+            "img": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/06/caothingocdung-pnj-jpg-1783317-7093-1303-1783317448.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=K-UKFXaE-SwEgK3ZoU_AzQ"
+        },
+        {
+            "title": "Đề xuất BHYT trả chi phí chụp PET/CT cho nhiều loại ung thư",
+            "link": "https://vnexpress.net/de-xuat-bhyt-tra-chi-phi-chup-pet-ct-cho-nhieu-loai-ung-thu-5094093.html",
+            "img": "https://vcdn1-suckhoe.vnecdn.net/2026/07/06/233a2981-1783327722-8167-1783327733.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=19PrTqVJoML7gbBCmEMpOg"
+        },
+        {
+            "title": "Nỗ lực hậu trường có thể giúp tiền đạo Mỹ được xóa án treo giò",
+            "link": "https://vnexpress.net/no-luc-hau-truong-co-the-giup-tien-dao-my-duoc-xoa-an-treo-gio-5093896.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/06/afp-v1-highres-worldcupdraw-17-6010-5947-1783309045.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=yLJLBmBd4iWiSn9HS3lBDw"
+        },
+        {
+            "title": "Henderson chấn thương nặng khi ăn mừng Anh hạ Mexico",
+            "link": "https://vnexpress.net/henderson-chan-thuong-nang-khi-an-mung-anh-ha-mexico-5093997.html",
+            "img": "https://vcdn1-thethao.vnecdn.net/2026/07/06/jordan-henderson-1783314049-6358-1783314239.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=zCz0mvhoNhMXx5BJ1u7Kzg"
+        },
+        {
+            "title": "Tổng lãnh sự Anh tổ chức xem World Cup tại nhà cùng người hâm mộ",
+            "link": "https://vnexpress.net/tong-lanh-su-anh-to-chuc-xem-world-cup-tai-nha-cung-nguoi-ham-mo-5094013.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/06/tnn-1783323625-8837-1783323688.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=ZLRDSkIkPdZZd3vmlPj2Xg"
+        },
+        {
+            "title": "5 ôtô giá rẻ nhất Việt Nam",
+            "link": "https://vnexpress.net/5-oto-gia-re-nhat-viet-nam-5094054.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/06/otogiarenhatVNVNEXPRESS-178332-8161-1673-1783325780.png?w=220&h=132&q=100&dpr=1&fit=crop&s=AURVf6-Nb17BAWRDdHC5Pg"
         },
         {
             "title": "Nghiên cứu sáp nhập 705 xã, phường để tránh phân tán nguồn lực",
             "link": "https://vnexpress.net/nghien-cuu-sap-nhap-705-xa-phuong-de-tranh-phan-tan-nguon-luc-5093357.html",
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/05/hoguom1-1783221919-5468-1783222259.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=57X7HoWbyhxuxS2Jqp3Lzw"
-        },
-        {
-            "title": "Hà Nội quy hoạch 9 trục động lực phát triển, lấy sông Hồng làm trung tâm",
-            "link": "https://vnexpress.net/ha-noi-quy-hoach-9-truc-dong-luc-phat-trien-lay-song-hong-lam-trung-tam-5093319.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/06/snapedit1783311371429-17833167-8948-8957-1783316755.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=y7wtCLD2YJ7alg_1mjXkeQ"
-        },
-        {
-            "title": "Xác định 2 cặp tứ kết đầu tiên ở World Cup 2026",
-            "link": "https://vnexpress.net/xac-dinh-2-cap-tu-ket-dau-tien-o-world-cup-2026-5093954.html",
-            "img": "https://vcdn1-thethao.vnecdn.net/2026/07/06/anh-mexico-1783310212-2516-1783310565.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=ytGUdvWaDMViypD9uYcH2g"
-        },
-        {
-            "title": "Giải cứu tài xế mắc kẹt sau tai nạn xe container",
-            "link": "https://vnexpress.net/giai-cuu-tai-xe-mac-ket-sau-tai-nan-xe-container-5093898.html",
-            "img": "https://via.placeholder.com/300x200?text=No+Image"
-        },
-        {
-            "title": "Cháy siêu thị điện máy bỏ không ở Hà Nội",
-            "link": "https://vnexpress.net/chay-sieu-thi-dien-may-bo-khong-o-ha-noi-5093928.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/06/2aOboQiRSu9XmaJ4MX67cF3kPbBx3o-1545-7281-1783308961.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=oMs-gjWkY7VJg6NtYa0QUQ"
-        },
-        {
-            "title": "Ông Tập bổ nhiệm tướng chống tham nhũng mới",
-            "link": "https://vnexpress.net/ong-tap-bo-nhiem-tuong-chong-tham-nhung-moi-5093859.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/06/thu-o-ng-tu-o-ng-jpeg-17833051-5011-2568-1783305570.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=WoVlFXAzvihKUzGSBprvYQ"
-        },
-        {
-            "title": "Haaland: 'Hạ Brazil là chiến thắng vĩ đại nhất lịch sử Na Uy'",
-            "link": "https://vnexpress.net/haaland-ha-brazil-la-chien-thang-vi-dai-nhat-lich-su-na-uy-5093876.html",
-            "img": "https://vcdn1-thethao.vnecdn.net/2026/07/06/ap26186780341723-1783316301-5438-1783316308.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=mdQG3N_XHWLhGIdzf2SG7A"
-        },
-        {
-            "title": "GDP tăng 10%, ví tiền của bạn có 'dày' lên?",
-            "link": "https://vnexpress.net/gdp-tang-10-vi-tien-cua-ban-co-day-len-5093570.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/04/Thumbngang2-1783180982-7333-1783181101.png?w=220&h=132&q=100&dpr=1&fit=crop&s=Y9rwIKtLqbi15cXXNUl0lQ"
-        },
-        {
-            "title": "Thủ tướng dự lễ tìm kiếm hài cốt liệt sĩ ở công viên Lê Thị Riêng",
-            "link": "https://vnexpress.net/thu-tuong-du-le-tim-kiem-hai-cot-liet-si-o-cong-vien-le-thi-rieng-5093810.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/06/1783303421896efd1642037da1e404-5672-3967-1783303822.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=Zq7cTyA9fQgTkVitRY2A8g"
         }
     ],
     "Tuổi Trẻ": [],
     "Thanh Niên": [],
     "Dân Trí": [
         {
+            "title": "Ô tô lùi bất cẩn, gây họa cho người đi xe máy và một ô tô khác",
+            "link": "https://dantri.com.vn/o-to-xe-may/o-to-lui-bat-can-gay-hoa-cho-nguoi-di-xe-may-va-mot-o-to-khac-20260706155222930.htm",
+            "img": "https://cdnphoto.dantri.com.vn/4nqXMFSCW-R4V5BJbg80gfLFB8M=/zoom/774_516/2026/07/06/lui-xe-ava-1783326676026.gif"
+        },
+        {
+            "title": "Độ ghế ô tô thế nào để không bị từ chối đăng kiểm?",
+            "link": "https://dantri.com.vn/o-to-xe-may/do-ghe-o-to-the-nao-de-khong-bi-tu-choi-dang-kiem-20260706120325747.htm",
+            "img": "https://cdnphoto.dantri.com.vn/JHVrTVHysHarn0Q2sTRWmMQBH30=/zoom/351_234/2026/07/06/do-ghe-o-to-nhu-the-nao-de-van-duoc-dang-kiem-anh1-1783319042498.jpg"
+        },
+        {
+            "title": "Tuyên bố gây chú ý của Ford về mẫu Ranger PHEV",
+            "link": "https://dantri.com.vn/o-to-xe-may/tuyen-bo-gay-chu-y-cua-ford-ve-mau-ranger-phev-20260706002631541.htm",
+            "img": "https://cdnphoto.dantri.com.vn/96pxV2IGhD2uURmxxklArtD0iyk=/zoom/351_234/2026/07/06/tuyen-bo-gay-chu-y-cua-ford-ve-mau-ranger-phev-cropped-1783302092064.jpg"
+        },
+        {
             "title": "VinFast VF 2 giá 188 triệu đồng và các lựa chọn ô tô siêu nhỏ tại Việt Nam",
             "link": "https://dantri.com.vn/o-to-xe-may/vinfast-vf-2-gia-188-trieu-dong-va-cac-lua-chon-o-to-sieu-nho-tai-viet-nam-20260705234434700.htm",
-            "img": "https://cdnphoto.dantri.com.vn/ADS54ioqIwzfRXPFimschDrgUCg=/zoom/774_516/2026/07/05/vinfast-vf2-1-cropped-1783242560940.jpg"
+            "img": "https://cdnphoto.dantri.com.vn/wDjIi7ZdJrtHNNdkbjpf-v0g2-w=/zoom/192_128/2026/07/05/vinfast-vf2-1-cropped-1783242560940.jpg"
         },
         {
             "title": "Kia hạ giá loạt xe, Sonet có giá khởi điểm rẻ hơn Venue và Raize",
             "link": "https://dantri.com.vn/o-to-xe-may/kia-ha-gia-loat-xe-sonet-co-gia-khoi-diem-re-hon-venue-va-raize-20260704133047515.htm",
-            "img": "https://cdnphoto.dantri.com.vn/3vnxwsX3SgmisVfGojLvKykejaA=/zoom/351_234/2026/07/04/kia-viet-nam-giam-gia-loat-xe-sonet-co-gia-moi-tu-469-trieu-dong-anh1-cropped-1783146497106.jpg"
+            "img": "https://cdnphoto.dantri.com.vn/KGhNNFxsQrLm45OBIsOIAAfpsJ8=/zoom/192_128/2026/07/04/kia-viet-nam-giam-gia-loat-xe-sonet-co-gia-moi-tu-469-trieu-dong-anh1-cropped-1783146497106.jpg"
         },
         {
             "title": "Đại lý ồ ạt nhận cọc VinFast VF 2, dự kiến giao xe từ tháng 9",
             "link": "https://dantri.com.vn/o-to-xe-may/dai-ly-o-at-nhan-coc-vinfast-vf-2-du-kien-giao-xe-tu-thang-9-20260705100807987.htm",
-            "img": "https://cdnphoto.dantri.com.vn/mbzlsvJfOhUMQuZoiWbTMFWLVko=/zoom/351_234/2026/07/05/vinfast-vf2-dantri-1783216497634.jpg"
+            "img": "https://cdnphoto.dantri.com.vn/jSt-WgrVDqwcv3IFIMN4HhzUBZY=/zoom/192_128/2026/07/05/vinfast-vf2-dantri-1783216497634.jpg"
         },
         {
             "title": "Suzuki Satria 2026 giá cao nhất 59 triệu đồng tại Việt Nam",
@@ -80,37 +95,27 @@
             "img": "https://cdnphoto.dantri.com.vn/NdPaDnxhDIEn6whY2EXiOhkanLM=/zoom/192_128/2026/07/02/xe-cuu-hoahoang-huong-1783011435345.jpg"
         },
         {
-            "title": "Honda HR-V hạ giá, cạnh tranh với Mitsubishi Xforce và Toyota Yaris Cross",
-            "link": "https://dantri.com.vn/o-to-xe-may/honda-hr-v-ha-gia-canh-tranh-voi-mitsubishi-xforce-va-toyota-yaris-cross-20260704122238956.htm",
-            "img": "https://cdnphoto.dantri.com.vn/dUDEMynQnhjFepCBQToy5HSkcVU=/zoom/192_128/2026/07/04/honda-hr-v-tieu-chuan-co-gia-ban-moi-giam-30-trieu-dong-anh1-1783142400347.jpg"
+            "title": "ĐH Công nghiệp Hà Nội công bố điểm sàn và quy đổi các phương thức xét tuyển",
+            "link": "https://dantri.com.vn/giao-duc/dh-cong-nghiep-ha-noi-cong-bo-diem-san-va-quy-doi-cac-phuong-thuc-xet-tuyen-20260706164255254.htm",
+            "img": "https://cdnphoto.dantri.com.vn/KNR99U4K9gBv60F8CVyxPJZ-2g0=/zoom/774_516/2026/07/06/truong-dai-hoc-cong-nghiep-ha-noi-len-dai-hoc-dspl-2-09002138-1783330892869.jpg"
         },
         {
-            "title": "Cuộc tái cơ cấu dải sản phẩm của ông lớn Thaco và Toyota tại Việt Nam",
-            "link": "https://dantri.com.vn/o-to-xe-may/cuoc-tai-co-cau-dai-san-pham-cua-ong-lon-thaco-va-toyota-tai-viet-nam-20260703072809573.htm",
-            "img": "https://cdnphoto.dantri.com.vn/6ouvDe47jYCqrLmxkt53TFmBoc4=/zoom/192_128/2026/07/03/mazda-cx-5-1783054282137.jpg"
-        },
-        {
-            "title": "Mitsubishi Xforce và loạt xe giảm giá trong tháng 7",
-            "link": "https://dantri.com.vn/o-to-xe-may/mitsubishi-xforce-va-loat-xe-giam-gia-trong-thang-7-20260703131021544.htm",
-            "img": "https://cdnphoto.dantri.com.vn/lk704_aSKyDBQl-IoBdqpJ70QV8=/zoom/192_128/2026/07/03/mitsubishi-xforce-ruc-rich-nang-cap-dai-ly-khan-hang-ban-cao-cap-nhat-anh1-1775806864523-1783058070820.jpg"
-        },
-        {
-            "title": "7h sáng mai TPHCM công bố điểm khảo sát lớp 6 Trần Đại Nghĩa",
-            "link": "https://dantri.com.vn/giao-duc/7h-sang-mai-tphcm-cong-bo-diem-khao-sat-lop-6-tran-dai-nghia-20260706122134422.htm",
-            "img": "https://cdnphoto.dantri.com.vn/oXfMZjgEQdE-Ec2qa2znb3vQZOk=/zoom/774_516/2025/11/13/khaigiangptcsxadan-2jpg-17570496-2jpg-1763020786015.jpg"
-        },
-        {
-            "title": "Lý do một lớp không chuyên có 9 em đạt điểm 10 môn toán",
-            "link": "https://dantri.com.vn/giao-duc/ly-do-mot-lop-khong-chuyen-co-9-em-dat-diem-10-mon-toan-20260706072009101.htm",
-            "img": "https://cdnphoto.dantri.com.vn/l2wd2y_1TQ5yCoDXD6jFFULNVeA=/zoom/351_234/2026/07/06/manh-edited-1783296937308.jpg"
+            "title": "Đội thi Singapore giành quán quân Asian Hackathon for Green Future 2026",
+            "link": "https://dantri.com.vn/giao-duc/doi-thi-singapore-gianh-quan-quan-asian-hackathon-for-green-future-2026-20260706160608878.htm",
+            "img": "https://cdnphoto.dantri.com.vn/QZSc2DtSkph8uCqUIvewyiIkpbE=/zoom/351_234/2026/07/06/anh-5-cropped-1783328673034.jpg"
         }
     ],
     "VietnamNet": [],
     "Znews": [
         {
-            "title": "Tuyển Anh thắng điên rồ, Tuchel đáp trả tất cả",
-            "link": "https://znews.vn/tuyen-anh-thang-dien-ro-tuchel-dap-tra-tat-ca-post1666524.html",
-            "img": "https://photo.znews.vn/w1000/Uploaded/pwivobiu/2026_07_04/2026_07_06T025817Z_181407298_UP1EM760894HK_RTRMADP_3_SOCCER_WORLDCUP_MEX_ENG.JPG"
+            "title": "'Chưa bao giờ TP.HCM có cơ chế thoáng và rộng mở như hiện nay'",
+            "link": "https://znews.vn/chua-bao-gio-tphcm-co-co-che-thoang-va-rong-mo-nhu-hien-nay-post1666721.html",
+            "img": "https://photo.znews.vn/w1000/Uploaded/wohuhuo/2026_07_06/Bi_thu_Thanh_uy_TPHCM_znews_1.jpg"
+        },
+        {
+            "title": "Ronaldo trước Yamal - bản lĩnh già đấu sức trẻ",
+            "link": "https://znews.vn/ronaldo-truoc-yamal-ban-linh-gia-dau-suc-tre-post1666310.html",
+            "img": "https://photo.znews.vn/w480/Uploaded/pwivobiu/2026_07_04/2026_07_03T004502Z_424911320_UP1EM730230UW_RTRMADP_3_SOCCER_WORLDCUP_POR_CRO_1_.JPG"
         },
         {
             "title": "Lễ di quan hài cốt liệt sĩ tại công viên Lê Thị Riêng",
@@ -118,14 +123,24 @@
             "img": "https://photo.znews.vn/w480/Uploaded/kbfoplb/2026_07_05/50nam_znews_5.JPG"
         },
         {
-            "title": "Khu vực xây metro Bến Thành - Cần Giờ sau hơn nửa năm động thổ",
-            "link": "https://znews.vn/khu-vuc-xay-metro-ben-thanh-can-gio-sau-hon-nua-nam-dong-tho-post1666503.html",
-            "img": "https://photo.znews.vn/w480/Uploaded/zdhwqmjwq/2026_07_05/metrotrumg.jpg"
+            "title": "Chứng khoán bị bán tháo cuối chiều",
+            "link": "https://znews.vn/chung-khoan-bi-ban-thao-cuoi-chieu-post1666751.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/rohuoct/2026_06_28/30chungkhoan2_znews.jpg"
         },
         {
-            "title": "Phát hiện rãnh mộ 25 m, tìm thấy 7 bộ hài cốt ở công viên Lê Thị Riêng",
-            "link": "https://znews.vn/phat-hien-ranh-mo-25-m-tim-thay-7-bo-hai-cot-o-cong-vien-le-thi-rieng-post1666622.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/kbfoplb/2026_07_05/50nam_znews_26.JPG"
+            "title": "Có người liên hệ nhận thân nhân với liệt sĩ Huỳnh Văn Quên, đơn vị 962",
+            "link": "https://znews.vn/co-nguoi-lien-he-nhan-than-nhan-voi-liet-si-huynh-van-quen-don-vi-962-post1666732.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/anqyy/2026_07_06/di_vat_1.jpg"
+        },
+        {
+            "title": "Toàn cảnh 21,7 km Quốc lộ 6 phải hoàn thành quý I/2027",
+            "link": "https://znews.vn/toan-canh-21-7-km-quoc-lo-6-phai-hoan-thanh-quy-i2027-post1665590.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/bokzng/2026_07_02/quoclo6_29_znews_1.jpg"
+        },
+        {
+            "title": "Bà Cao Thị Ngọc Dung: 28.000 viên kim cương buôn lậu không vào PNJ",
+            "link": "https://znews.vn/ba-cao-thi-ngoc-dung-28000-vien-kim-cuong-buon-lau-khong-vao-pnj-post1666739.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/spluwao/2026_07_06/DSC08353_1__1.jpg"
         },
         {
             "title": "Ancelotti mất tất cả sau nước cờ Neymar",
@@ -133,29 +148,14 @@
             "img": "https://photo.znews.vn/w210/Uploaded/pwivobiu/2026_07_06/2026_07_05T210021Z_1635540957_UP1EM751MCJHC_RTRMADP_3_SOCCER_WORLDCUP_BRA_NOR.JPG"
         },
         {
-            "title": "Vinicius lên tiếng khi không được đá phạt đền",
-            "link": "https://znews.vn/vinicius-len-tieng-khi-khong-duoc-da-phat-den-post1666619.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/pwivobiu/2026_07_06/2026_07_05T204254Z_1331946749_UP1EM751LJHFA_RTRMADP_3_SOCCER_WORLDCUP_BRA_NOR.JPG"
+            "title": "Một lời chế giễu đã khai sinh trường phái Ấn tượng",
+            "link": "https://znews.vn/mot-loi-che-gieu-da-khai-sinh-truong-phai-an-tuong-post1664909.html",
+            "img": "https://photo.znews.vn/Uploaded/caxwpqdwp/2026_06_30/960px_Monet_Impression_Sunris_1.jpg"
         },
         {
-            "title": "Khách Mỹ sốc khi cầm hóa đơn khám bệnh ở Việt Nam",
-            "link": "https://znews.vn/khach-my-soc-khi-cam-hoa-don-kham-benh-o-viet-nam-post1665020.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/rfkbflu/2026_07_01/0629_1_1__1.jpg"
-        },
-        {
-            "title": "Bắt giữ nghi phạm sát hại người phụ nữ trong phòng trọ ở TP.HCM",
-            "link": "https://znews.vn/bat-giu-nghi-pham-sat-hai-nguoi-phu-nu-trong-phong-tro-o-tphcm-post1665652.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/ecfzyryrzly/2026_07_03/nan_nhan.jpg"
-        },
-        {
-            "title": "'Bí mật tối thượng' của tác giả sách ăn khách",
-            "link": "https://znews.vn/bi-mat-toi-thuong-cua-tac-gia-sach-an-khach-post1666257.html",
-            "img": "https://photo.znews.vn/Uploaded/caxwpqdwp/2026_07_04/10_Dan_Brown_Photo_Credit_JJP_1200px_1.jpg"
-        },
-        {
-            "title": "Sự nổi lên của tiểu thuyết thể thao với Hollywood",
-            "link": "https://znews.vn/su-noi-len-cua-tieu-thuyet-the-thao-voi-hollywood-post1665881.html",
-            "img": "https://photo.znews.vn/Uploaded/qoswae/2026_07_03/the_thao_1.jpg"
+            "title": "Giới sách hiếm châu Âu lên tiếng trước làn sóng 'đặt hàng' cho AI",
+            "link": "https://znews.vn/gioi-sach-hiem-chau-au-len-tieng-truoc-lan-song-dat-hang-cho-ai-post1664479.html",
+            "img": "https://photo.znews.vn/Uploaded/qoswae/2026_06_30/AI.jpg"
         }
     ]
 }
