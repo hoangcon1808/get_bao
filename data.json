@@ -1,24 +1,9 @@
 {
     "VNExpress": [
         {
-            "title": "Nhiều phố Hà Nội ngập sâu, giao thông ùn tắc sau mưa lớn",
-            "link": "https://vnexpress.net/nhieu-pho-ha-noi-ngap-sau-giao-thong-un-tac-sau-mua-lon-5096030.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/10/1783677992284a411157d47b1840d61ceaded7879746-1783684466.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=2rsHAAZheZKJ7enCPWcG0A"
-        },
-        {
-            "title": "Tìm thấy 13 hài cốt liệt sĩ trong hố 20 m2 ở công viên Lê Thị Riêng",
-            "link": "https://vnexpress.net/tim-thay-13-hai-cot-liet-si-trong-ho-20-m2-o-cong-vien-le-thi-rieng-5095904.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/10/2aoboqjdw6oeuqhxj0uaijaicdqc3q-7787-6932-1783669307.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=y9Cb36Phv-hLKBnUlcNjXw"
-        },
-        {
-            "title": "Ivanka Trump, Jeff Bezos dự 'trại hè tỷ phú'",
-            "link": "https://vnexpress.net/ivanka-trump-jeff-bezos-du-trai-he-ty-phu-5095843.html",
-            "img": "https://vcdn1-giaitri.vnecdn.net/2026/07/10/ivanka-trump-1783668708.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=yArQmTEEWiS744ZUYkJLVA"
-        },
-        {
-            "title": "Giá nhà tại Mỹ tăng lên mức kỷ lục",
-            "link": "https://vnexpress.net/gia-nha-tai-my-tang-len-muc-ky-luc-5095770.html",
-            "img": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/10/screenshot-1783657036-3429-1783657177.png?w=220&h=132&q=100&dpr=1&fit=crop&s=Ppx3m_AlrNZ5Lw2Vre42Ng"
+            "title": "Đề xuất hỗ trợ 50% lãi vay để doanh nghiệp đổi mới công nghệ",
+            "link": "https://vnexpress.net/de-xuat-ho-tro-50-lai-vay-de-doanh-nghiep-doi-moi-cong-nghe-5096061.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/10/day-chuyen-han-robot-tai-nha-m-9186-8848-1783690004.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=7oxyW8Py5rbCaATEWmWenQ"
         },
         {
             "title": "Cửa sổ máy bay Ireland bung giữa trời, hành khách suýt bị hút ra ngoài",
@@ -26,29 +11,44 @@
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/10/copy-of-imaget111047-jpeg-1783-1861-8492-1783681743.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=sYXIUwtDRStPkpU4rN8nOQ"
         },
         {
+            "title": "Ronaldo, Messi và sự khác biệt về cái tôi",
+            "link": "https://vnexpress.net/ronaldo-messi-va-su-khac-biet-ve-cai-toi-5095111.html",
+            "img": "https://vcdn1-thethao.vnecdn.net/2026/07/10/lionelmessiargentinacristianor-8660-3513-1783657538.webp?w=220&h=132&q=100&dpr=1&fit=crop&s=1VZ0lAz2qseWU9fAl5TzPg"
+        },
+        {
+            "title": "Sân khấu kịch Thiên Đăng đóng cửa",
+            "link": "https://vnexpress.net/san-khau-kich-thien-dang-dong-cua-5096036.html",
+            "img": "https://vcdn1-giaitri.vnecdn.net/2026/07/10/san-khau-kich-thien-dang-17836-4389-8248-1783685080.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=i2HaPzR7M3F6s_TExWpRoA"
+        },
+        {
+            "title": "Ivanka Trump, Jeff Bezos dự 'trại hè tỷ phú'",
+            "link": "https://vnexpress.net/ivanka-trump-jeff-bezos-du-trai-he-ty-phu-5095843.html",
+            "img": "https://vcdn1-giaitri.vnecdn.net/2026/07/10/ivanka-trump-1783668708.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=yArQmTEEWiS744ZUYkJLVA"
+        },
+        {
             "title": "Trung Quốc thu hồi thành công tên lửa tái sử dụng",
             "link": "https://vnexpress.net/trung-quoc-thu-hoi-thanh-cong-ten-lua-tai-su-dung-5095997.html",
             "img": "https://via.placeholder.com/300x200?text=No+Image"
         },
         {
-            "title": "Hệ lụy khi Mỹ - Iran tái chiến",
-            "link": "https://vnexpress.net/he-luy-khi-my-iran-tai-chien-5095697.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/10/2026t175151z-rc2m9mafhvm3-rtrm-3059-7715-1783663851.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=g8fJY76QYPOe_0hEPfLocA"
+            "title": "Nhiều phố Hà Nội ngập sâu, giao thông ùn tắc sau mưa lớn",
+            "link": "https://vnexpress.net/nhieu-pho-ha-noi-ngap-sau-giao-thong-un-tac-sau-mua-lon-5096030.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/10/1783677992284a411157d47b1840d61ceaded7879746-1783684466.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=X22AvpppMKTiAEncpJX0_Q"
         },
         {
-            "title": "Những hiện tượng khác thường ở nơi chia đôi Trái Đất",
-            "link": "https://vnexpress.net/nhung-hien-tuong-khac-thuong-o-noi-chia-doi-trai-dat-5095130.html",
-            "img": "https://vcdn1-dulich.vnecdn.net/2026/07/08/tai-xuong-1783504887-5626-1783505090.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=1cQ8ysJBYf6NMpAA_9TJaw"
+            "title": "Lý do nhiều cầu thủ đi giày khoét gót khi thi đấu",
+            "link": "https://vnexpress.net/ly-do-nhieu-cau-thu-di-giay-khoet-got-khi-thi-dau-5095980.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/10/Neto-2-8114-1783675928.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=fkTjyEKyGTBLD0AGhNGxGw"
         },
         {
-            "title": "Chuyện tình Haaland và bạn gái quen từ thuở nhỏ",
-            "link": "https://vnexpress.net/chuyen-tinh-haaland-va-ban-gai-quen-tu-thuo-nho-5094951.html",
-            "img": "https://vcdn1-giaitri.vnecdn.net/2026/07/09/halland-1783572108-4171-1783572252.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=FmuEwZDo7MFJgLLm1eT0cw"
+            "title": "Tìm thấy 13 hài cốt liệt sĩ trong hố 20 m2 ở công viên Lê Thị Riêng",
+            "link": "https://vnexpress.net/tim-thay-13-hai-cot-liet-si-trong-ho-20-m2-o-cong-vien-le-thi-rieng-5095904.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/10/2aoboqjdw6oeuqhxj0uaijaicdqc3q-7787-6932-1783669307.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=y9Cb36Phv-hLKBnUlcNjXw"
         },
         {
-            "title": "Bỉ và vết thương lòng của Tây Ban Nha ở World Cup 1986",
-            "link": "https://vnexpress.net/bi-va-vet-thuong-long-cua-tay-ban-nha-o-world-cup-1986-5095991.html",
-            "img": "https://vcdn1-thethao.vnecdn.net/2026/07/10/screenshot20260710162902-17836-6040-1245-1783683554.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=L1OE7tLkYWExj3aED5oGFg"
+            "title": "Harper Beckham đón tuổi 15",
+            "link": "https://vnexpress.net/harper-beckham-don-tuoi-15-5096067.html",
+            "img": "https://vcdn1-giaitri.vnecdn.net/2026/07/10/harper-beckham-don-tuoi-15-1783692779.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=lHj7CUiLfmUSRjRGUY3kIw"
         }
     ],
     "Tuổi Trẻ": [],
@@ -60,11 +60,6 @@
             "img": "https://cdnphoto.dantri.com.vn/EILuU18pZ4fpFRChSPlM0-dS3zE=/zoom/774_516/2026/07/10/jaecoo-j5-vietnam-ev-2026-cropped-1783664436476.jpg"
         },
         {
-            "title": "VinFast lập kỷ lục doanh số trong nửa đầu năm",
-            "link": "https://dantri.com.vn/o-to-xe-may/vinfast-lap-ky-luc-doanh-so-trong-nua-dau-nam-20260710192502627.htm",
-            "img": "https://cdnphoto.dantri.com.vn/BDX445JRV8Bd1rUuDY8RplKDvb4=/zoom/351_234/2026/07/10/a8-cropped-1783686225493.jpg"
-        },
-        {
             "title": "Hai mô tô Honda CB500 SF và CBR500R Four mới về Việt Nam, nhập khẩu tư nhân",
             "link": "https://dantri.com.vn/o-to-xe-may/hai-mo-to-honda-cb500-sf-va-cbr500r-four-moi-ve-viet-nam-nhap-khau-tu-nhan-20260706013507143.htm",
             "img": "https://cdnphoto.dantri.com.vn/tm3nMWuqc2qJ9URjtX0CY4feGqc=/zoom/351_234/2026/07/03/hondacb500r-1-1783067052604.jpg"
@@ -72,7 +67,7 @@
         {
             "title": "VinFast tiếp tục khuyến mãi, giá VF 5 Plus lần đầu về mốc 471 triệu đồng",
             "link": "https://dantri.com.vn/o-to-xe-may/vinfast-tiep-tuc-khuyen-mai-gia-vf-5-plus-lan-dau-ve-moc-471-trieu-dong-20260707185523085.htm",
-            "img": "https://cdnphoto.dantri.com.vn/rO3BOlSc47ChpenR9-IJHvI3bWM=/zoom/192_128/2026/07/10/vinfast-vf-5-dantri-1-edited-1783653233709.jpg"
+            "img": "https://cdnphoto.dantri.com.vn/fP_O2zzr206F12WpC3NtHjhwjwA=/zoom/351_234/2026/07/10/vinfast-vf-5-dantri-1-edited-1783653233709.jpg"
         },
         {
             "title": "Người Việt còn chủ quan với lỗi túi khí trên ô tô",
@@ -95,37 +90,57 @@
             "img": "https://cdnphoto.dantri.com.vn/_egQ5IN6izpVqYGe_mWkEPQOcA0=/zoom/192_128/2026/07/09/dang-kiem-xe-manh-quan-edited-1677819671364-1783585702172.jpg"
         },
         {
-            "title": "\"Học không bao giờ cùng\" càng trở nên cấp thiết trong kỷ nguyên mới",
-            "link": "https://dantri.com.vn/giao-duc/hoc-khong-bao-gio-cung-cang-tro-nen-cap-thiet-trong-ky-nguyen-moi-20260710103818712.htm",
-            "img": "https://cdnphoto.dantri.com.vn/FalG1KsTMRn2jBLGx2hNJDXDMGE=/zoom/774_516/2026/07/10/z8027738894861612d797744cf7f65b662a7c18b5529ec-1783668820298.jpg"
+            "title": "Thêm ô tô điện sắp mở bán tại Việt Nam",
+            "link": "https://dantri.com.vn/o-to-xe-may/them-o-to-dien-sap-mo-ban-tai-viet-nam-20260708200250741.htm",
+            "img": "https://cdnphoto.dantri.com.vn/AtbPSfAX5KprIwQnHTVNMlbpcd0=/zoom/192_128/2026/07/08/zeekr-009-7x-vietnam-cropped-1783515425436.jpg"
         },
         {
-            "title": "Thông tin mới nhất về phương án sáp nhập trường công lập ở TPHCM",
-            "link": "https://dantri.com.vn/giao-duc/thong-tin-moi-nhat-ve-phuong-an-sap-nhap-truong-cong-lap-o-tphcm-20260710122507348.htm",
-            "img": "https://cdnphoto.dantri.com.vn/NnTvPs8y9pvm4ieaBHko53gahFA=/zoom/351_234/2026/07/10/1bong-bay-1783660834453.jpg"
+            "title": "Cuộc thi \"50 năm Thành phố trong tôi\" bồi đắp tình yêu quê hương",
+            "link": "https://dantri.com.vn/giao-duc/cuoc-thi-50-nam-thanh-pho-trong-toi-boi-dap-tinh-yeu-que-huong-20260710150407854.htm",
+            "img": "https://cdnphoto.dantri.com.vn/bb4xVAMKyplplE3VYJUyTOa1Yzw=/zoom/774_516/2026/07/10/traogiai-cuocthi-namanh-edited-1783671557462.jpg"
+        },
+        {
+            "title": "\"Học không bao giờ cùng\" càng trở nên cấp thiết trong kỷ nguyên mới",
+            "link": "https://dantri.com.vn/giao-duc/hoc-khong-bao-gio-cung-cang-tro-nen-cap-thiet-trong-ky-nguyen-moi-20260710103818712.htm",
+            "img": "https://cdnphoto.dantri.com.vn/veHo5cyDN6KBDTPXrf3r6_txrGg=/zoom/351_234/2026/07/10/z8027738894861612d797744cf7f65b662a7c18b5529ec-1783668820298.jpg"
         }
     ],
     "VietnamNet": [],
     "Znews": [
         {
+            "title": "Điều dưỡng triệu view và những bài học cuối đời",
+            "link": "https://znews.vn/dieu-duong-trieu-view-va-nhung-bai-hoc-cuoi-doi-post1668087.html",
+            "img": "https://photo.znews.vn/w1000/Uploaded/cqjrzdhwq/2026_07_10/Hadley_Vlahos.png"
+        },
+        {
             "title": "Không nhận ra tuyển Bỉ",
             "link": "https://znews.vn/khong-nhan-ra-tuyen-bi-post1667636.html",
-            "img": "https://photo.znews.vn/w1000/Uploaded/pwivobiu/2026_07_09/2026_07_07T005927Z_1297510720_UP1EM7702R13E_RTRMADP_3_SOCCER_WORLDCUP_USA_BEL.JPG"
+            "img": "https://photo.znews.vn/w480/Uploaded/pwivobiu/2026_07_09/2026_07_07T005927Z_1297510720_UP1EM7702R13E_RTRMADP_3_SOCCER_WORLDCUP_USA_BEL.JPG"
         },
         {
-            "title": "Chủ show 'Say Hi' và 'Anh trai vượt ngàn chông gai': Ai kiếm tiền giỏi hơn",
-            "link": "https://znews.vn/chu-show-say-hi-va-anh-trai-vuot-ngan-chong-gai-ai-kiem-tien-gioi-hon-post1667774.html",
-            "img": "https://photo.znews.vn/w480/Uploaded/mrndcqjwq/2026_07_09/740183951_122112231374633607_7946843807940913932_n_1.jpg"
+            "title": "Gần 1.700 tỷ vốn ngoại đổ vào cổ phiếu Vingroup",
+            "link": "https://znews.vn/gan-1700-ty-von-ngoai-do-vao-co-phieu-vingroup-post1668144.html",
+            "img": "https://photo.znews.vn/w480/Uploaded/rohuoct/2025_09_23/pham_nhat_vuong_vic.jpg"
         },
         {
-            "title": "Thêm nhiều hài cốt xuất lộ ở công viên Lê Thị Riêng",
-            "link": "https://znews.vn/them-nhieu-hai-cot-xuat-lo-o-cong-vien-le-thi-rieng-post1668077.html",
-            "img": "https://photo.znews.vn/w480/Uploaded/anqyy/2026_07_10/lethirieng_znews.JPG"
+            "title": "Ông Park và Son Heung-min phải điều trần trước Quốc hội Hàn Quốc",
+            "link": "https://znews.vn/ong-park-va-son-heung-min-phai-dieu-tran-truoc-quoc-hoi-han-quoc-post1668161.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/jopluat/2018_10_09/Park_Hangseo.jpg"
         },
         {
-            "title": "Vàng bị 'cá mập' bán tháo",
-            "link": "https://znews.vn/vang-bi-ca-map-ban-thao-post1668078.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/yzfsm/2025_10_17/gold_gold_16_10.jpg"
+            "title": "Cầu thủ thứ 2 rời MU",
+            "link": "https://znews.vn/cau-thu-thu-2-roi-mu-post1668167.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/mfnuy/2026_07_10/bayindir_onana.jpg"
+        },
+        {
+            "title": "Điều bất ngờ sau vụ 900 con rắn sổng chuồng ở Trung Quốc",
+            "link": "https://znews.vn/dieu-bat-ngo-sau-vu-900-con-ran-song-chuong-o-trung-quoc-post1668099.html",
+            "img": "https://photo.znews.vn/Uploaded/uqvpvpiv/2026_07_10/22790180_distro_ezgif.com_crop_2.gif"
+        },
+        {
+            "title": "Sân khấu kịch Thiên Đăng ở TP.HCM đóng cửa",
+            "link": "https://znews.vn/san-khau-kich-thien-dang-o-tphcm-dong-cua-post1668175.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/wpdhnwhnw/2026_07_10/thiendang1_1_1.jpeg"
         },
         {
             "title": "Đinh Tiến Dũng dừng tham gia 'Anh trai vượt ngàn chông gai'",
@@ -133,29 +148,14 @@
             "img": "https://photo.znews.vn/w210/Uploaded/vrwqcqdjw/2026_07_10/BetterImage_1783675635035_1.jpeg"
         },
         {
-            "title": "VinFast ra mắt xe máy điện mới tại Việt Nam?",
-            "link": "https://znews.vn/vinfast-ra-mat-xe-may-dien-moi-tai-viet-nam-post1668089.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/bpivptvl/2026_07_10/vinfast_xe_moi_z.jpg"
+            "title": "Từ thông dụng nhất thế giới là gì?",
+            "link": "https://znews.vn/tu-thong-dung-nhat-the-gioi-la-gi-post1667334.html",
+            "img": "https://photo.znews.vn/Uploaded/zagtgt/2025_05_31/pexels_helenalopes_27176644_1.jpg"
         },
         {
-            "title": "Điều gì đã xảy ra với môn thể thao vua ở World Cup 2026?",
-            "link": "https://znews.vn/dieu-gi-da-xay-ra-voi-mon-the-thao-vua-o-world-cup-2026-post1667863.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/asfzyrwtys1/2026_07_10/2026_07_03T234849Z_522090087_UP1EM731U5BVZ_RTRMADP_3_SOCCER_WORLDCUP_ARG_CPV.JPG"
-        },
-        {
-            "title": "Sự lừa dối sau bức ảnh gây sửng sốt ở World Cup 2026",
-            "link": "https://znews.vn/su-lua-doi-sau-buc-anh-gay-sung-sot-o-world-cup-2026-post1668057.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/lce_jwqqc/2026_07_10/messi.jpg"
-        },
-        {
-            "title": "Bài học làm giàu của nước Mỹ trong lịch sử lập quốc",
-            "link": "https://znews.vn/bai-hoc-lam-giau-cua-nuoc-my-trong-lich-su-lap-quoc-post1666872.html",
-            "img": "https://photo.znews.vn/Uploaded/qoswae/2026_07_07/My.jpg"
-        },
-        {
-            "title": "124 lá thư tiết lộ góc khuất ít biết về nhà bác học Galileo",
-            "link": "https://znews.vn/124-la-thu-tiet-lo-goc-khuat-it-biet-ve-nha-bac-hoc-galileo-post1664778.html",
-            "img": "https://photo.znews.vn/Uploaded/dqmblcvo/2026_06_30/fcacc64f_fef7_4726_98dc_f87addd9bea3.jpg"
+            "title": "Giới xuất bản quốc tế vật lộn với AI",
+            "link": "https://znews.vn/gioi-xuat-ban-quoc-te-vat-lon-voi-ai-post1666798.html",
+            "img": "https://photo.znews.vn/Uploaded/qoswae/2026_07_06/AI.jpg"
         }
     ]
 }
