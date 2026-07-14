@@ -1,14 +1,9 @@
 {
     "VNExpress": [
         {
-            "title": "Hà Nội tính kịch bản tăng trưởng 13% nửa cuối năm",
-            "link": "https://vnexpress.net/ha-noi-tinh-kich-ban-tang-truong-13-nua-cuoi-nam-5097500.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/14/CTHN-1784043613-2973-1784044101.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=g887AL3Ln7aPwK2VUalGqQ"
-        },
-        {
-            "title": "Ông Trump bỏ kế hoạch thu phí qua eo biển Hormuz",
-            "link": "https://vnexpress.net/ong-trump-bo-ke-hoach-thu-phi-qua-eo-bien-hormuz-5097505.html",
-            "img": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/14/AP26190188330509-3470-1784044065.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=RH0Huq5ImLeXhLSkKmvHPg"
+            "title": "Tây Ban Nha thắng Pháp, lần thứ hai vào chung kết World Cup",
+            "link": "https://vnexpress.net/phap-tay-ban-nha-mbappe-doi-dau-yamal-5097478.html",
+            "img": "https://vcdn1-thethao.vnecdn.net/2026/07/15/yamal3-png-1784063086-3679-1784063095.png?w=680&h=408&q=100&dpr=1&fit=crop&s=veeAn6XeAz-tDkaOTzfRzw"
         },
         {
             "title": "Thời trang bầu của 'Người đẹp nhất thế giới 2026'",
@@ -16,14 +11,14 @@
             "img": "https://vcdn1-giaitri.vnecdn.net/2026/07/12/Anne-Hathaway-thoi-trang-bau-1783856738.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=hkijgVAchHdlh7mnfWS0Zg"
         },
         {
-            "title": "Quả trầu bà được săn lùng nhờ 'trào lưu mukbang'",
-            "link": "https://vnexpress.net/qua-trau-ba-duoc-san-lung-nho-trao-luu-mukbang-5097334.html",
-            "img": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/14/trau-ba-1784016101-4118-1784017537.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=f9EHW4prRb971HDyYh6esw"
-        },
-        {
             "title": "Phi công viết dòng chữ 'Tôi chán' lên bầu trời",
             "link": "https://vnexpress.net/phi-cong-viet-dong-chu-toi-chan-len-bau-troi-5097415.html",
             "img": "https://vcdn1-dulich.vnecdn.net/2026/07/14/AA27RCrY-1784020062-5124-1784020168.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=vJDuGlicKIyAZT4cm1HGdA"
+        },
+        {
+            "title": "Iran tuyên bố chiến đấu vì Hormuz tới 'hơi thở cuối cùng'",
+            "link": "https://vnexpress.net/iran-tuyen-bo-chien-dau-vi-hormuz-toi-hoi-tho-cuoi-cung-5097476.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/14/Iran-1784035123-3187-1784035823.png?w=220&h=132&q=100&dpr=1&fit=crop&s=W5WcnE86XwJwnP13R7gLog"
         },
         {
             "title": "Mẫu xuồng tự sát Mỹ dùng để tập kích quân cảng Iran",
@@ -31,24 +26,29 @@
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/14/5563187178137269156b-178401306-9510-5477-1784013464.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=pZ6kcAaLgy7xEMfYvwJMOQ"
         },
         {
-            "title": "Chung cư mini ồ ạt treo biển tìm khách thuê",
-            "link": "https://vnexpress.net/chung-cu-mini-o-at-treo-bien-tim-khach-thue-5097509.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/14/img-1784044209-1118-1784044701.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=4tKS8piotF40ZamVppeGOw"
+            "title": "Món cà chua xào trứng giá 75 USD gây tranh cãi ở Trung Quốc",
+            "link": "https://vnexpress.net/mon-ca-chua-xao-trung-gia-75-usd-gay-tranh-cai-o-trung-quoc-5097282.html",
+            "img": "https://vcdn1-dulich.vnecdn.net/2026/07/14/chinese-tomato-egg-previewx117-4432-3538-1784019011.webp?w=220&h=132&q=100&dpr=1&fit=crop&s=CmZYQV49N6JlfIqCrUdZAw"
         },
         {
-            "title": "Quần đảo châm ngòi tranh cãi giữa Anh - Argentina",
-            "link": "https://vnexpress.net/quan-dao-cham-ngoi-tranh-cai-giua-anh-argentina-5096915.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/13/2018t000000z-rc1441a31900-rtrm-8711-2405-1783957606.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=4OyBq41-mwrIvLYMyPNbZQ"
-        },
-        {
-            "title": "Arsenal chia tay Leandro Trossard",
-            "link": "https://vnexpress.net/arsenal-chia-tay-leandro-trossard-5096564.html",
-            "img": "https://vcdn1-thethao.vnecdn.net/2026/07/12/arsenal-png-1783867897-5850-1783867935.png?w=220&h=132&q=100&dpr=1&fit=crop&s=XM9iLqoUW5OJd98TqiH_LQ"
+            "title": "Ông Trump hủy kế hoạch thu 'phí bảo vệ' ở Hormuz",
+            "link": "https://vnexpress.net/ong-trump-huy-ke-hoach-thu-phi-bao-ve-o-hormuz-5097507.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/14/Trump-1784046210-7315-1784046659.png?w=220&h=132&q=100&dpr=1&fit=crop&s=jMDIoKDsgUdEdqJefY8Weg"
         },
         {
             "title": "Erling Haaland - tay chơi túi hiệu",
             "link": "https://vnexpress.net/erling-haaland-tay-choi-tui-hieu-5097173.html",
             "img": "https://vcdn1-giaitri.vnecdn.net/2026/07/14/haaland-viking-san-tui-hieu-1784004042.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=_qxHie7o7_3MXuiXEVUbvA"
+        },
+        {
+            "title": "Các siêu sao World Cup 2026 ăn gì để có phong độ đỉnh cao?",
+            "link": "https://vnexpress.net/cac-sieu-sao-world-cup-2026-an-gi-de-co-phong-do-dinh-cao-5097293.html",
+            "img": "https://vcdn1-suckhoe.vnecdn.net/2026/07/14/4-1784017476-2042-1784018590.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=laBbuITU_9p8KETPfdnwmQ"
+        },
+        {
+            "title": "Trung tướng Đinh Văn Nơi làm Phó bí thư An Giang",
+            "link": "https://vnexpress.net/trung-tuong-dinh-van-noi-lam-pho-bi-thu-an-giang-5097142.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/14/settop-ag-1784022816-1622-1784022885.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=7kzJAVwFZn0Ec0GWYBJWTg"
         }
     ],
     "Tuổi Trẻ": [],
@@ -113,9 +113,9 @@
             "img": "https://photo.znews.vn/w1000/Uploaded/vrwqcqdjw/2026_07_14/thumb.jpg"
         },
         {
-            "title": "Pháp 0-1 Tây Ban Nha: Sai lầm đáng trách",
-            "link": "https://znews.vn/phap-0-1-tay-ban-nha-sai-lam-dang-trach-post1669142.html",
-            "img": "https://photo.znews.vn/w480/Uploaded/qdhcadxwp/2026_07_14/2026_07_14T192306Z_78049389_UP1EM7E1HUGLP_RTRMADP_3_SOCCER_WORLDCUP_FRA_ESP.JPG"
+            "title": "Pháp gục ngã, Mbappe lại ôm hận trước Yamal",
+            "link": "https://znews.vn/phap-guc-nga-mbappe-lai-om-han-truoc-yamal-post1669142.html",
+            "img": "https://photo.znews.vn/w480/Uploaded/qdhcadxwp/2026_07_14/2026_07_14T203835Z_16221291_UP1EM7E1L5QX3_RTRMADP_3_SOCCER_WORLDCUP_FRA_ESP.JPG"
         },
         {
             "title": "Sách ‘Câu đố Việt Nam’ gây tranh cãi vì gợi liên tưởng tình dục",
@@ -148,14 +148,14 @@
             "img": "https://photo.znews.vn/w210/Uploaded/yzfsm/2026_07_14/2026_07_08T082618Z_999574704_RC2BMEAHLDUO_RTRMADP_3_AUTOS_CHINA_EU.JPG"
         },
         {
-            "title": "Có gì trong hiệu sách chữa lành?",
-            "link": "https://znews.vn/co-gi-trong-hieu-sach-chua-lanh-post1664248.html",
-            "img": "https://photo.znews.vn/Uploaded/zgsgtn/2026_06_29/chao_mung_den_hieu_sach_hyunam_dong.jpg"
+            "title": "Columbus nỗ lực suốt đời củng cố thân phận",
+            "link": "https://znews.vn/columbus-no-luc-suot-doi-cung-co-than-phan-post1668310.html",
+            "img": "https://photo.znews.vn/Uploaded/ofh_cgkztmzt/2026_07_11/Columbus.JPG"
         },
         {
-            "title": "Linh hồn trong 'lời ăn, tiếng nói' người Việt",
-            "link": "https://znews.vn/linh-hon-trong-loi-an-tieng-noi-nguoi-viet-post1668419.html",
-            "img": "https://photo.znews.vn/Uploaded/zagtgt/2026_07_11/20260711_094758_znews.jpg"
+            "title": "Đọc sách với 5.000 đồng/tiếng ở trụ sở mới của Nhà văn hóa Thanh niên",
+            "link": "https://znews.vn/doc-sach-voi-5000-dongtieng-o-tru-so-moi-cua-nha-van-hoa-thanh-nien-post1668589.html",
+            "img": "https://photo.znews.vn/Uploaded/zagtgt/2026_06_10/Book_Space_NVHTN.jpg"
         }
     ]
 }
