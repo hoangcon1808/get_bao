@@ -1,9 +1,19 @@
 {
     "VNExpress": [
         {
-            "title": "Bão Noul vào Biển Đông",
-            "link": "https://vnexpress.net/bao-noul-vao-bien-dong-5101439.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/25/screenshot-1784938487-6217-1784938502.png?w=680&h=408&q=100&dpr=1&fit=crop&s=Vb08WPJ6qQs0BTtGwA4w5A"
+            "title": "Gần 1.500 hài cốt liệt sĩ được quy tập sau 4 tháng",
+            "link": "https://vnexpress.net/gan-1-500-hai-cot-liet-si-duoc-quy-tap-sau-4-thang-5101407.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/25/wm1-wm1-75270804110762780416434272-9234-5028-1784956766.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=0sHhmcO0A6SlBi1jlwWSAQ"
+        },
+        {
+            "title": "Ông Trump cảnh báo Nga - Trung không giúp đỡ Iran",
+            "link": "https://vnexpress.net/ong-trump-canh-bao-nga-trung-khong-giup-do-iran-5101422.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/25/20260724T195734Z240584802RC2FK-8464-8106-1784938129.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=PoUKocnyy2L5AyqJiYsdDA"
+        },
+        {
+            "title": "Ba ôtô thi nhún nhảy khi dừng đèn đỏ",
+            "link": "https://vnexpress.net/ba-oto-thi-nhun-nhay-khi-dung-den-do-5101169.html",
+            "img": "https://via.placeholder.com/300x200?text=No+Image"
         },
         {
             "title": "Xuân Son: 'Thật dễ dàng khi chơi cạnh các đồng đội thông minh'",
@@ -11,53 +21,48 @@
             "img": "https://vcdn1-thethao.vnecdn.net/2026/07/25/1784903549986-g875518108444767-7111-2511-1784917713.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=71am8YLgw_7JKPHuZMJYag"
         },
         {
+            "title": "Thành Long: Chậm lại để vui vẻ hơn",
+            "link": "https://vnexpress.net/thanh-long-cham-lai-de-vui-ve-hon-5101484.html",
+            "img": "https://vcdn1-giaitri.vnecdn.net/2026/07/25/thanh-long6-1784947811-1764-1784948077.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=c9FOdHd3EHzN3yqqOS0Bdg"
+        },
+        {
+            "title": "Phạm Băng Băng 'như búp bê' với tóc hồng",
+            "link": "https://vnexpress.net/pham-bang-bang-nhu-bup-be-voi-toc-hong-5101511.html",
+            "img": "https://vcdn1-giaitri.vnecdn.net/2026/07/25/pbb-1784952124.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=SAtF_OMT4_8Wfu7zkAX8hg"
+        },
+        {
+            "title": "Lĩnh hai năm tù vì buôn lậu trứng gà Đông Tảo vào Mỹ",
+            "link": "https://vnexpress.net/linh-hai-nam-tu-vi-buon-lau-trung-ga-dong-tao-vao-my-5101394.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/25/wtmaz57sjnnb5kata55pweug5i-178-8698-6376-1784942266.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=Lj17BrIsRhe3DkKmjHtUyA"
+        },
+        {
             "title": "Mỹ khai hỏa, vô hiệu hóa tàu dầu '4 lần cố vượt lệnh phong tỏa'",
             "link": "https://vnexpress.net/my-khai-hoa-vo-hieu-hoa-tau-dau-4-lan-co-vuot-lenh-phong-toa-5101448.html",
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/25/ussdonaldcook1JPG-1784945877-9544-1784947224.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=bi3Rfn3A7r7yL3UmE6e95g"
         },
         {
-            "title": "Chàng trai 'lột xác' sau 20 lần dao kéo thẩm mỹ",
-            "link": "https://vnexpress.net/chang-trai-lot-xac-sau-20-lan-dao-keo-tham-my-5096637.html",
-            "img": "https://vcdn1-suckhoe.vnecdn.net/2026/07/14/2aoboqkmoezqmccswei2igvbn8pzkq-6129-8090-1784031481.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=Mb_VCJovWBflCU0YSfSwwQ"
+            "title": "Cựu vô địch Grand Slam mất 41 triệu USD vì chồng cũ",
+            "link": "https://vnexpress.net/cuu-vo-dich-grand-slam-mat-41-trieu-usd-vi-chong-cu-5101406.html",
+            "img": "https://vcdn1-thethao.vnecdn.net/2026/07/24/vdv-1784905843-9291-1784905870.webp?w=220&h=132&q=100&dpr=1&fit=crop&s=Uf6Zm2sfoDSA__3diO1xOw"
         },
         {
             "title": "Nữ kiến trúc sư điều hành 'cỗ máy drone' của Ukraine",
             "link": "https://vnexpress.net/nu-kien-truc-su-dieu-hanh-co-may-drone-cua-ukraine-5101454.html",
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/25/anh1-1784949257-5511-1784949709.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=ww3z7UaNbVs2yXsqv4rXBw"
-        },
-        {
-            "title": "Quần nội y 'cháy hàng' nhờ Yamal",
-            "link": "https://vnexpress.net/quan-noi-y-chay-hang-nho-yamal-5101312.html",
-            "img": "https://vcdn1-giaitri.vnecdn.net/2026/07/24/lamineyamal-1784887486-4856-1784887718.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=dpQuhw7jbnsq4yi5GYLKrQ"
-        },
-        {
-            "title": "7 địa chỉ thưởng thức cơm nhà ở TP HCM cuối tuần",
-            "link": "https://vnexpress.net/7-dia-chi-thuong-thuc-com-nha-o-tp-hcm-cuoi-tuan-5101433.html",
-            "img": "https://vcdn1-dulich.vnecdn.net/2026/07/25/7-1784919849.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=nw32e6DpPp4w3zHraeKylA"
-        },
-        {
-            "title": "Tình phụ tử mái tóc dài của cầu thủ Cucurella",
-            "link": "https://vnexpress.net/tinh-phu-tu-mai-toc-dai-cua-cau-thu-cucurella-5101434.html",
-            "img": "https://vcdn1-giadinh.vnecdn.net/2026/07/25/screen-shot-at-1784931591-3600-1784931607.png?w=220&h=132&q=100&dpr=1&fit=crop&s=WU_4LP-qFEwob5-Thc5Gvg"
-        },
-        {
-            "title": "Bức xúc vì bị ôtô đỗ chặn cửa nhà",
-            "link": "https://vnexpress.net/buc-xuc-vi-bi-oto-do-chan-cua-nha-5099235.html",
-            "img": "https://vcdn1-giadinh.vnecdn.net/2026/07/24/Doxe1-1784912067-3324-1784912121.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=_M_tgNTfnag4FqXUL2ZCNg"
-        },
-        {
-            "title": "Nước chanh mật ong uống buổi tối tốt hơn sáng?",
-            "link": "https://vnexpress.net/nuoc-chanh-mat-ong-uong-buoi-toi-tot-hon-sang-5101326.html",
-            "img": "https://vcdn1-suckhoe.vnecdn.net/2026/07/24/nuoc-chanh-mat-ong-phunutoday-7040-5264-1784885817.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=YiI5BK5uiJmfF8YXDCKC2w"
         }
     ],
     "Tuổi Trẻ": [],
     "Thanh Niên": [],
     "Dân Trí": [
         {
+            "title": "Bộ trưởng Bộ GD&ĐT chia sẻ thẳng thắn nguyên nhân sai phạm thi cử",
+            "link": "https://dantri.com.vn/giao-duc/bo-truong-bo-gddt-chia-se-thang-than-nguyen-nhan-sai-pham-thi-cu-20260724185101091.htm",
+            "img": "https://cdnphoto.dantri.com.vn/MnRFdEnqueDULbjCmKFGmOSfAQM=/zoom/774_516/2026/07/24/bo-truong-bo-giao-duc-myha-edited-cropped-1784893721806.jpg"
+        },
+        {
             "title": "Nguyên hiệu trưởng chiếm 500m2 đất của trường: Bất ngờ lý do xin xây dựng",
             "link": "https://dantri.com.vn/giao-duc/nguyen-hieu-truong-chiem-500m2-dat-cua-truong-bat-ngo-ly-do-xin-xay-dung-20260725065331628.htm",
-            "img": "https://cdnphoto.dantri.com.vn/-OUzybfFR8otwVe4C0MNQWFM0Lw=/zoom/774_516/2026/07/21/truong-hocctv-edited-1784602611175.jpg"
+            "img": "https://cdnphoto.dantri.com.vn/q6uJlAh5Yp4tUUolJH-37xR7A28=/zoom/351_234/2026/07/21/truong-hocctv-edited-1784602611175.jpg"
         },
         {
             "title": "Sai phạm thi tốt nghiệp THPT 2026: Những lỗ hổng chỉ lộ ra sau kỳ thi",
@@ -67,7 +72,7 @@
         {
             "title": "Cấm hội phụ huynh thu tiền hộ nhà trường: Cần chấm dứt cả \"thỏa thuận ngầm\"",
             "link": "https://dantri.com.vn/giao-duc/cam-hoi-phu-huynh-thu-tien-ho-nha-truong-can-cham-dut-ca-thoa-thuan-ngam-20260724135959744.htm",
-            "img": "https://cdnphoto.dantri.com.vn/tSYkKMQgBNjA4l46txNPwMbJrGE=/zoom/351_234/2025/06/26/thitotnghiepthpt-trinhnguyen1-edited-1750902491494.jpg"
+            "img": "https://cdnphoto.dantri.com.vn/7hovh0esVNk4Tnahd5nggUvFiK0=/zoom/192_128/2025/06/26/thitotnghiepthpt-trinhnguyen1-edited-1750902491494.jpg"
         },
         {
             "title": "Sai phạm điểm thi tại Tuyên Quang, Quảng Trị xuất phát từ hành vi cố ý",
@@ -90,11 +95,6 @@
             "img": "https://cdnphoto.dantri.com.vn/tirfJ8WffZAWso0WiYudGB-NgpA=/zoom/192_128/2026/07/23/sach-giao-khoa-huyen-nguyen-8-1784821655939.jpg"
         },
         {
-            "title": "Bố trí hiệu trưởng, hiệu phó “dôi dư” thế nào khi sắp xếp trường học?",
-            "link": "https://dantri.com.vn/giao-duc/bo-tri-hieu-truong-hieu-pho-doi-du-the-nao-khi-sap-xep-truong-hoc-20260723110914345.htm",
-            "img": "https://cdnphoto.dantri.com.vn/eBLZ3juQxNZ5WCfD4B-pSy-P0n0=/zoom/192_128/2026/07/23/dai-bieu-qh-nguyen-thi-viet-nga-1784780006562.jpg"
-        },
-        {
             "title": "Galaxy S27 lộ diện với tên mã mới, xuất hiện tin đồn về phiên bản Pro",
             "link": "https://dantri.com.vn/cong-nghe/galaxy-s27-lo-dien-voi-ten-ma-moi-xuat-hien-tin-don-ve-phien-ban-pro-20260724234027306.htm",
             "img": "https://cdnphoto.dantri.com.vn/-FpLZw-0zsGRTuvcoGvG0MnX0BM=/zoom/774_516/2026/02/26/galaxy-s26-ultra-1-edited-1772118084850.jpg"
@@ -108,19 +108,24 @@
     "VietnamNet": [],
     "Znews": [
         {
+            "title": "Đại tướng Phan Văn Giang tưởng niệm liệt sĩ tại công viên Lê Thị Riêng",
+            "link": "https://znews.vn/dai-tuong-phan-van-giang-tuong-niem-liet-si-tai-cong-vien-le-thi-rieng-post1672243.html",
+            "img": "https://photo.znews.vn/w1000/Uploaded/anqyy/2026_07_25/daituong_phanvangiang_znews_1.JPG"
+        },
+        {
+            "title": "Shopee, TikTok và Lazada đã tìm thấy 'mỏ vàng'",
+            "link": "https://znews.vn/shopee-tiktok-va-lazada-da-tim-thay-mo-vang-post1672124.html",
+            "img": "https://photo.znews.vn/w480/Uploaded/rohuoct/2024_09_27/phuongthao_znews.jpg"
+        },
+        {
             "title": "Loạt hạn chế với người dùng mạng xã hội khi chưa xác thực",
             "link": "https://znews.vn/loat-han-che-voi-nguoi-dung-mang-xa-hoi-khi-chua-xac-thuc-post1671998.html",
-            "img": "https://photo.znews.vn/w1000/Uploaded/aeixrdbkxq/2023_03_17/thubm.jpg"
+            "img": "https://photo.znews.vn/w480/Uploaded/aeixrdbkxq/2023_03_17/thubm.jpg"
         },
         {
-            "title": "Đình Bắc sau hat-trick là về lại ghế dự bị?",
-            "link": "https://znews.vn/dinh-bac-sau-hat-trick-la-ve-lai-ghe-du-bi-post1672164.html",
-            "img": "https://photo.znews.vn/w480/Uploaded/viuoqivo/2026_07_24/Dinh_Bac_znews_1.jpg"
-        },
-        {
-            "title": "Từ chiếc răng ở công viên Lê Thị Riêng đến hành trình tìm tên liệt sĩ",
-            "link": "https://znews.vn/tu-chiec-rang-o-cong-vien-le-thi-rieng-den-hanh-trinh-tim-ten-liet-si-post1671278.html",
-            "img": "https://photo.znews.vn/w480/Uploaded/anqyy/2026_07_21/lethirieng_znews.JPG"
+            "title": "Đình Bắc đi vào lịch sử bóng đá Việt Nam",
+            "link": "https://znews.vn/dinh-bac-di-vao-lich-su-bong-da-viet-nam-post1672229.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/mfnuy/2026_07_25/dinhbac1_znews.jpg"
         },
         {
             "title": "Diễn biến mới của giá vàng sau 'cú sập' 7 triệu đồng mỗi lượng",
@@ -128,34 +133,29 @@
             "img": "https://photo.znews.vn/w210/Uploaded/vpcvodbp/2025_12_08/vang_viathantai_25_znews.jpg"
         },
         {
-            "title": "Messi mất điểm nặng tại Anh sau World Cup 2026",
-            "link": "https://znews.vn/messi-mat-diem-nang-tai-anh-sau-world-cup-2026-post1672186.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/mfnuy/2026_07_16/messi_2_1.JPG"
+            "title": "Minh Trang ở tuổi 31",
+            "link": "https://znews.vn/minh-trang-o-tuoi-31-post1672220.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/wpdhnwhnw/2026_07_25/701325290_4418165755134508_5232816585869414052_n_1.jpg"
         },
         {
-            "title": "Bão số 2 ít khả năng ảnh hưởng trực tiếp đất liền Việt Nam",
-            "link": "https://znews.vn/bao-so-2-it-kha-nang-anh-huong-truc-tiep-dat-lien-viet-nam-post1672238.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/wohuhuo/2026_07_25/Anh_man_hinh_2026_07_25_luc_10.45.31.png"
+            "title": "Phát hiện ung thư đại trực tràng giai đoạn 3 từ hai dấu hiệu lạ",
+            "link": "https://znews.vn/phat-hien-ung-thu-dai-truc-trang-giai-doan-3-tu-hai-dau-hieu-la-post1671992.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/sgorvz/2026_07_24/ung_thu_dai_truc_trang.jpg"
         },
         {
-            "title": "Tổng thống Trump cảnh báo Trung Quốc và Nga không được cung cấp vũ khí cho Iran",
-            "link": "https://znews.vn/tong-thong-trump-canh-bao-trung-quoc-va-nga-khong-duoc-cung-cap-vu-khi-cho-iran-post1672180.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/mdfdroqsys/2026_07_25/Trumpmoi.jpg"
+            "title": "Bão Noul giật cấp 15, khả năng còn mạnh thêm",
+            "link": "https://znews.vn/bao-noul-giat-cap-15-kha-nang-con-manh-them-post1672032.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/ecfzyryrzly/2026_07_18/bao_so_2.jpg"
         },
         {
-            "title": "Khách Hàn Quốc tại Việt Nam đã 'thay đổi khẩu vị'",
-            "link": "https://znews.vn/khach-han-quoc-tai-viet-nam-da-thay-doi-khau-vi-post1671869.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/uqvpvpiv/2026_07_23/Noel_znews_51.jpg"
+            "title": "Tác dụng không ngờ của cà phê",
+            "link": "https://znews.vn/tac-dung-khong-ngo-cua-ca-phe-post1671360.html",
+            "img": "https://photo.znews.vn/Uploaded/ofh_cgkztmzt/2026_04_05/Ly_hon_vi_ca_phe.jpg"
         },
         {
-            "title": "Vừa làm thơ vừa giao hàng, shipper nhận giải thưởng văn học Lỗ Tấn",
-            "link": "https://znews.vn/vua-lam-tho-vua-giao-hang-shipper-nhan-giai-thuong-van-hoc-lo-tan-post1671497.html",
-            "img": "https://photo.znews.vn/Uploaded/zagtgt/2026_07_22/766.jpg"
-        },
-        {
-            "title": "Bức tranh thần thoại đưa Botticelli lên đỉnh cao Phục hưng",
-            "link": "https://znews.vn/buc-tranh-than-thoai-dua-botticelli-len-dinh-cao-phuc-hung-post1671272.html",
-            "img": "https://photo.znews.vn/Uploaded/caxwpqdwp/2026_07_21/960px_Botticelli_primavera.jpg"
+            "title": "Web chia sẻ truyện đóng cửa, người dùng vẫn phát tán 40 GB dữ liệu",
+            "link": "https://znews.vn/web-chia-se-truyen-dong-cua-nguoi-dung-van-phat-tan-40-gb-du-lieu-post1671190.html",
+            "img": "https://photo.znews.vn/Uploaded/zagtgt/2026_07_21/IMGL9031_znews.jpg"
         }
     ]
 }
