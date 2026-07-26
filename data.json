@@ -1,24 +1,9 @@
 {
     "VNExpress": [
         {
-            "title": "Tàu Việt Nam chìm ở Biển Đông, 45 người được cứu sống",
-            "link": "https://vnexpress.net/tau-viet-nam-chim-o-bien-dong-45-nguoi-duoc-cuu-song-5101772.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/26/chim-tau-viet-nam-o-bien-17850-3663-8491-1785054930.webp?w=680&h=408&q=100&dpr=1&fit=crop&s=Xe9Uw0GOYgW-Jy9qhHpt7g"
-        },
-        {
-            "title": "Phong cách giúp Lý Nhã Kỳ trông trẻ hơn tuổi",
-            "link": "https://vnexpress.net/phong-cach-giup-ly-nha-ky-trong-tre-hon-tuoi-5101019.html",
-            "img": "https://vcdn1-giaitri.vnecdn.net/2026/07/25/ly-nha-ky-tre-hoa-1784961744.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=f0SqC8ORrmuCaaYEcMAAWQ"
-        },
-        {
-            "title": "Vì sao Costco bán xăng giá rẻ tại Mỹ",
-            "link": "https://vnexpress.net/vi-sao-costco-ban-xang-gia-re-tai-my-5101736.html",
-            "img": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/26/2026t000000z-mt1nurpho000ud7xz-9358-1875-1785042308.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=Bh9cmJcm6Ijf7FuBI7lVcQ"
-        },
-        {
-            "title": "Người phụ nữ New Zealand đến Việt Nam phẫu thuật thay khớp",
-            "link": "https://vnexpress.net/nguoi-phu-nu-new-zealand-den-viet-nam-phau-thuat-thay-khop-5101810.html",
-            "img": "https://vcdn1-suckhoe.vnecdn.net/2026/07/26/img-jpg-1785061491-8333-1785061507.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=wy9y1wOa5u13T3Qx_IF-2g"
+            "title": "Việt Nam ra lò sản phẩm nhôm thỏi đầu tiên",
+            "link": "https://vnexpress.net/viet-nam-ra-lo-san-pham-nhom-thoi-dau-tien-5101765.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/26/Lanh-dao-tham-quan-nhom-thoi-N-7997-6689-1785050640.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=9gSsw_Hhmkr8fh0cMP9Hag"
         },
         {
             "title": "Phòng không Mỹ 'cố tình bỏ lọt' tên lửa, UAV Iran để tiết kiệm đạn",
@@ -26,9 +11,19 @@
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/26/patriot-1785065533-6682-1785065602.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=7y20GzGbLMgw2RIihtJfDA"
         },
         {
-            "title": "Nhà khoa học tạo enzyme tiêu diệt hợp chất gây lão hóa ở người",
-            "link": "https://vnexpress.net/nha-khoa-hoc-tao-enzyme-tieu-diet-hop-chat-gay-lao-hoa-o-nguoi-5101749.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/26/VNEEnzyme-1785042811-5070-1785042944.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=hXBeMqZwChXHVN19M9Rwlw"
+            "title": "Hạ Thái Lan, Việt Nam lần đầu vô địch bóng chuyền nam Đông Nam Á",
+            "link": "https://vnexpress.net/ha-thai-lan-viet-nam-lan-dau-vo-dich-bong-chuyen-nam-dong-nam-a-5101830.html",
+            "img": "https://vcdn1-thethao.vnecdn.net/2026/07/26/758707042-n-1785076481-3610-1785076565.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=Qvi9jngwk-TEo6jKRqcQAg"
+        },
+        {
+            "title": "23 năm son sắt của vợ chồng Matt Damon",
+            "link": "https://vnexpress.net/23-nam-son-sat-cua-vo-chong-matt-damon-5101822.html",
+            "img": "https://vcdn1-giaitri.vnecdn.net/2026/07/26/ap26195840021463-1785076799-3496-1785079614.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=F1v1X5N3zXMT0r6w_gmOLw"
+        },
+        {
+            "title": "Tàu Việt Nam chìm ở Biển Đông, 45 người được cứu sống",
+            "link": "https://vnexpress.net/tau-viet-nam-chim-o-bien-dong-45-nguoi-duoc-cuu-song-5101772.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/26/chim-tau-viet-nam-o-bien-17850-3663-8491-1785054930.webp?w=220&h=132&q=100&dpr=1&fit=crop&s=SO649uJgIlFIbaaZjwFHDQ"
         },
         {
             "title": "Trận đánh cầu Chữ Y qua hồi ức cựu xạ thủ Tiểu đoàn 1",
@@ -36,19 +31,24 @@
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/26/dsc01043-copy-1785071183-1886-1785071265.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=i2ilQD61le-zb6toZRnZ-w"
         },
         {
-            "title": "Messi và gốc gác tổ tiên liên quan đến Brazil",
-            "link": "https://vnexpress.net/messi-va-goc-gac-to-tien-lien-quan-den-brazil-5101762.html",
-            "img": "https://vcdn1-thethao.vnecdn.net/2026/07/26/cc6c278f7136429e83d0059d874d09-7666-5278-1785047116.png?w=220&h=132&q=100&dpr=1&fit=crop&s=FWDijYDwmHDYIpbWg5ewoA"
+            "title": "Đường huyết tăng gấp 10 sau một tháng uống nước ép 'thanh lọc'",
+            "link": "https://vnexpress.net/duong-huyet-tang-gap-10-sau-mot-thang-uong-nuoc-ep-thanh-loc-5101792.html",
+            "img": "https://vcdn1-suckhoe.vnecdn.net/2026/07/26/4-jpg-1785055020-5080-1785055150.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=NygBbqMW0QgHY144faXu_w"
         },
         {
-            "title": "Siêu mẫu gây sốt khi kết hôn ở tuổi 61",
-            "link": "https://vnexpress.net/sieu-mau-gay-sot-khi-ket-hon-o-tuoi-61-5101728.html",
-            "img": "https://vcdn1-giaitri.vnecdn.net/2026/07/26/da-m-cu-o-i-cu-a-sie-u-ma-u-tu-2416-8761-1785045391.png?w=220&h=132&q=100&dpr=1&fit=crop&s=w-s2xxCK1W0IGurLH6mO9w"
+            "title": "Phong cách giúp Lý Nhã Kỳ trông trẻ hơn tuổi",
+            "link": "https://vnexpress.net/phong-cach-giup-ly-nha-ky-trong-tre-hon-tuoi-5101019.html",
+            "img": "https://vcdn1-giaitri.vnecdn.net/2026/07/25/ly-nha-ky-tre-hoa-1784961744.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=f0SqC8ORrmuCaaYEcMAAWQ"
         },
         {
-            "title": "Vì sao thương vụ Elliot Anderson định hình mùa chuyển nhượng bóng đá Anh?",
-            "link": "https://vnexpress.net/vi-sao-thuong-vu-elliot-anderson-dinh-hinh-mua-chuyen-nhuong-bong-da-anh-5101784.html",
-            "img": "https://vcdn1-thethao.vnecdn.net/2026/07/26/Transfer-1785049926-6666-1785051243.png?w=220&h=132&q=100&dpr=1&fit=crop&s=-uzVrbXxfa-97Hvq7kx6Ug"
+            "title": "Người phụ nữ New Zealand đến Việt Nam phẫu thuật thay khớp",
+            "link": "https://vnexpress.net/nguoi-phu-nu-new-zealand-den-viet-nam-phau-thuat-thay-khop-5101810.html",
+            "img": "https://vcdn1-suckhoe.vnecdn.net/2026/07/26/img-jpg-1785061491-8333-1785061507.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=wy9y1wOa5u13T3Qx_IF-2g"
+        },
+        {
+            "title": "Nhà khoa học tạo enzyme tiêu diệt hợp chất gây lão hóa ở người",
+            "link": "https://vnexpress.net/nha-khoa-hoc-tao-enzyme-tieu-diet-hop-chat-gay-lao-hoa-o-nguoi-5101749.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/26/VNEEnzyme-1785042811-5070-1785042944.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=hXBeMqZwChXHVN19M9Rwlw"
         }
     ],
     "Tuổi Trẻ": [],
@@ -108,19 +108,19 @@
     "VietnamNet": [],
     "Znews": [
         {
-            "title": "Nữ chủ nhân huy chương Fields 2026 là ai?",
-            "link": "https://znews.vn/nu-chu-nhan-huy-chuong-fields-2026-la-ai-post1671927.html",
-            "img": "https://photo.znews.vn/w1000/Uploaded/hointt/2026_07_24/Hong_Wang_profile_2_v2_cr_Julien_Pebrel_M.Y.O.P_11zon_1.jpg"
-        },
-        {
             "title": "Bóng chuyền Việt Nam thắng nghẹt thở Thái Lan, vô địch SEA V.Cup",
             "link": "https://znews.vn/bong-chuyen-viet-nam-thang-nghet-tho-thai-lan-vo-dich-sea-vcup-post1672390.html",
-            "img": "https://photo.znews.vn/w480/Uploaded/mfnuy/2026_07_26/vietnam.jpg"
+            "img": "https://photo.znews.vn/w1000/Uploaded/mfnuy/2026_07_26/vietnam.jpg"
         },
         {
             "title": "Đêm tri ân Ngày Thương binh Liệt sĩ xúc động ở công viên Lê Thị Riêng",
             "link": "https://znews.vn/dem-tri-an-ngay-thuong-binh-liet-si-xuc-dong-o-cong-vien-le-thi-rieng-post1672555.html",
             "img": "https://photo.znews.vn/w480/Uploaded/anqyy/2026_07_26/LTR_6_znews.jpg"
+        },
+        {
+            "title": "Nữ chủ nhân huy chương Fields 2026 là ai?",
+            "link": "https://znews.vn/nu-chu-nhan-huy-chuong-fields-2026-la-ai-post1671927.html",
+            "img": "https://photo.znews.vn/w480/Uploaded/hointt/2026_07_24/Hong_Wang_profile_2_v2_cr_Julien_Pebrel_M.Y.O.P_11zon_1.jpg"
         },
         {
             "title": "Cơ ngơi gần tỷ USD trên vai nữ Chủ tịch 27 tuổi của PC1",
@@ -148,14 +148,14 @@
             "img": "https://photo.znews.vn/w210/Uploaded/aohunkx/2023_04_19/truong_gia_binh_zing.jpg"
         },
         {
-            "title": "Hào hứng hay lo ngại khi AI đột phá trong ngành âm thanh?",
-            "link": "https://znews.vn/hao-hung-hay-lo-ngai-khi-ai-dot-pha-trong-nganh-am-thanh-post1671790.html",
-            "img": "https://photo.znews.vn/Uploaded/qoswae/2026_07_23/AI.jpg"
+            "title": "Tại sao Murakami mê mẩn văn học kinh điển của Dostoevsky?",
+            "link": "https://znews.vn/tai-sao-murakami-me-man-van-hoc-kinh-dien-cua-dostoevsky-post1671803.html",
+            "img": "https://photo.znews.vn/Uploaded/ofh_cgkztmzt/2026_01_01/Murakami_2.JPG"
         },
         {
-            "title": "Tác dụng không ngờ của cà phê",
-            "link": "https://znews.vn/tac-dung-khong-ngo-cua-ca-phe-post1671360.html",
-            "img": "https://photo.znews.vn/Uploaded/ofh_cgkztmzt/2026_04_05/Ly_hon_vi_ca_phe.jpg"
+            "title": "Bức tranh thần thoại đưa Botticelli lên đỉnh cao Phục hưng",
+            "link": "https://znews.vn/buc-tranh-than-thoai-dua-botticelli-len-dinh-cao-phuc-hung-post1671272.html",
+            "img": "https://photo.znews.vn/Uploaded/caxwpqdwp/2026_07_21/960px_Botticelli_primavera.jpg"
         }
     ]
 }
