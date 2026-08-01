@@ -1,34 +1,29 @@
 {
     "VNExpress": [
         {
-            "title": "Phát hiện 'rồng đá' dài 10 km, đề xuất thành điểm du lịch Lai Châu",
-            "link": "https://vnexpress.net/phat-hien-rong-da-dai-10-km-de-xuat-thanh-diem-du-lich-lai-chau-5104032.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/01/2aoboqoq6bz20k63p4b1ycmggzud9s-1717-5291-1785557681.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=6L8re8JqpZZ99PMw57Hq7Q"
+            "title": "19 xuồng máy bị cháy trong đêm ở Quảng Ninh",
+            "link": "https://vnexpress.net/19-xuong-may-bi-chay-trong-dem-o-quang-ninh-5104075.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/01/760379031-n-jpeg-1785563414-1991-1785563450.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=HwCNANZJBScj9YsJuoQpOQ"
+        },
+        {
+            "title": "Cô gái sắp lập kỷ lục người trẻ nhất đi hết 195 quốc gia",
+            "link": "https://vnexpress.net/co-gai-sap-lap-ky-luc-nguoi-tre-nhat-di-het-195-quoc-gia-5104013.html",
+            "img": "https://vcdn1-dulich.vnecdn.net/2026/08/01/618798926-n-1785553056-4318-1785553064.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=pKv_KBb4a-5UN1JNgoAulw"
+        },
+        {
+            "title": "Ông Trump tuyên bố sẽ đánh đến khi Iran 'không thể chịu đựng thêm'",
+            "link": "https://vnexpress.net/ong-trump-tuyen-bo-se-danh-den-khi-iran-khong-the-chiu-dung-them-5103980.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/01/afp-c3pp9vc-v1-highres-uspresi-3095-3922-1785547622.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=H-40pak0KDLXDCURLVyP_Q"
+        },
+        {
+            "title": "Người nước ngoài 'choáng ngợp' với sự hiếu khách ở miền Tây",
+            "link": "https://vnexpress.net/nguoi-nuoc-ngoai-choang-ngop-voi-su-hieu-khach-o-mien-tay-5099670.html",
+            "img": "https://vcdn1-giadinh.vnecdn.net/2026/07/20/nha-t-1784558518-3180-1784558867.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=J71gKNGaAnh4oCUDI2B7FA"
         },
         {
             "title": "Nga có thể đang chuyển dữ liệu để Iran tập kích chính xác căn cứ Mỹ",
             "link": "https://vnexpress.net/nga-co-the-dang-chuyen-du-lieu-de-iran-tap-kich-chinh-xac-can-cu-my-5104034.html",
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/01/an-fps-png-1785562499-2604-1785563471.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=Zj7AGCc-I8sSrUCslGJh4A"
-        },
-        {
-            "title": "5 thí sinh bị hủy kết quả thi tốt nghiệp THPT vì gian lận",
-            "link": "https://vnexpress.net/huy-ket-qua-5-thi-sinh-vu-gian-lan-thi-tot-nghiep-o-thpt-le-truc-quang-tri-5104122.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/01/aa-1785575311-7198-1785575383.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=2AzZExA0EfoL_-JEcQQVSg"
-        },
-        {
-            "title": "Chung cư cũ rớt giá",
-            "link": "https://vnexpress.net/chung-cu-cu-rot-gia-5103396.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/31/DJI-0176-4985-1785480244.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=8RBNxaKGCRLjDBnMn8VuXA"
-        },
-        {
-            "title": "Quan chức EU: Người di cư tràn vào Ceuta không thể tự do đến châu Âu",
-            "link": "https://vnexpress.net/quan-chuc-eu-nguoi-di-cu-tran-vao-ceuta-khong-the-tu-do-den-chau-au-5104098.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/01/ap26211515968908-1785570681-6741-1785570989.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=sdOKldzvXt-YADutYgO3Og"
-        },
-        {
-            "title": "Sắc vóc tân Miss Grand Vietnam Emoura Phạm",
-            "link": "https://vnexpress.net/sac-voc-tan-miss-grand-vietnam-emoura-pham-5104014.html",
-            "img": "https://vcdn1-giaitri.vnecdn.net/2026/08/01/Hoa-hau-Emoura-Pham-1-1785558330.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=jmROifM1CgLpuoZA1gyRLw"
         },
         {
             "title": "Vì sao tên lửa Nga bay gần 100 km vào Ba Lan mà không bị F-16 bắn hạ?",
@@ -41,14 +36,19 @@
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/01/Ukraine-1785560415-8270-1785561295.png?w=220&h=132&q=100&dpr=1&fit=crop&s=zl_22wvgaEOf-ZVVD4DYLw"
         },
         {
+            "title": "Lễ cưới của 'Cô gái đẹp nhất thế giới'",
+            "link": "https://vnexpress.net/le-cuoi-cua-co-gai-dep-nhat-the-gioi-5103991.html",
+            "img": "https://vcdn1-giaitri.vnecdn.net/2026/08/01/Da-m-cu-o-i-la-n-hai-cu-a-Thylane-Blondeau-1785551682.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=Y7jTAD9v1O_zK3YnePsSzg"
+        },
+        {
             "title": "Hà Nội nêu nguyên nhân xuất hiện điểm ngập ở Long Biên",
             "link": "https://vnexpress.net/ha-noi-neu-nguyen-nhan-xuat-hien-diem-ngap-o-long-bien-5104080.html",
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/01/ngapung-1785567769-7472-1785567954.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=rtoQeJWzpW_OSo1mqpgJoA"
         },
         {
-            "title": "Ông Trump tuyên bố sẽ đánh đến khi Iran 'không thể chịu đựng thêm'",
-            "link": "https://vnexpress.net/ong-trump-tuyen-bo-se-danh-den-khi-iran-khong-the-chiu-dung-them-5103980.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/01/afp-c3pp9vc-v1-highres-uspresi-3095-3922-1785547622.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=H-40pak0KDLXDCURLVyP_Q"
+            "title": "Tàu chở 200 khách đi Côn Đảo gặp sự cố",
+            "link": "https://vnexpress.net/tau-cho-200-khach-di-con-dao-gap-su-co-5104070.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/01/Tauthanglong11709786776-178556-1624-8308-1785561164.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=78N6fe_ujolBNy8iJMD0Nw"
         }
     ],
     "Tuổi Trẻ": [],
@@ -108,19 +108,19 @@
     "VietnamNet": [],
     "Znews": [
         {
-            "title": "Đối ngoại là nhiệm vụ trọng yếu, thường xuyên trong kỷ nguyên mới",
-            "link": "https://znews.vn/doi-ngoai-la-nhiem-vu-trong-yeu-thuong-xuyen-trong-ky-nguyen-moi-post1674066.html",
-            "img": "https://photo.znews.vn/w1000/Uploaded/asfzyrwtys1/2026_08_01/13_4866_11zon.jpg"
-        },
-        {
             "title": "Khu đất xây depot rộng 11 ha của tuyến metro 36.000 tỷ đồng ở Hà Nội",
             "link": "https://znews.vn/khu-dat-xay-depot-rong-11-ha-cua-tuyen-metro-36000-ty-dong-o-ha-noi-post1673735.html",
-            "img": "https://photo.znews.vn/w480/Uploaded/bokzng/2026_07_31/thumbdepot.jpg"
+            "img": "https://photo.znews.vn/w1000/Uploaded/bokzng/2026_07_31/thumbdepot.jpg"
         },
         {
             "title": "Công ty mẹ của Claude bị tố hủy hàng triệu cuốn sách để huấn luyện AI",
             "link": "https://znews.vn/cong-ty-me-cua-claude-bi-to-huy-hang-trieu-cuon-sach-de-huan-luyen-ai-post1673548.html",
             "img": "https://photo.znews.vn/Uploaded/zagtgt/2026_07_30/AI_pha_sach.gif"
+        },
+        {
+            "title": "Đối ngoại là nhiệm vụ trọng yếu, thường xuyên trong kỷ nguyên mới",
+            "link": "https://znews.vn/doi-ngoai-la-nhiem-vu-trong-yeu-thuong-xuyen-trong-ky-nguyen-moi-post1674066.html",
+            "img": "https://photo.znews.vn/w480/Uploaded/asfzyrwtys1/2026_08_01/13_4866_11zon.jpg"
         },
         {
             "title": "Eximbank có Tổng giám đốc mới từ hôm nay",
@@ -148,14 +148,14 @@
             "img": "https://photo.znews.vn/w210/Uploaded/tmuinu/2025_11_20/Elon_Musk_Reuters_2_.jpg"
         },
         {
+            "title": "Người trẻ Mỹ đang đọc nhiều hơn 20 năm trước",
+            "link": "https://lifestyle.znews.vn/nguoi-tre-my-dang-doc-nhieu-hon-20-nam-truoc-post1673469.html",
+            "img": "https://photo.znews.vn/Uploaded/wqdyqdxwp/2026_07_29/Nguoi_tre_My_dang_doc_nhieu_hon_20_nam_truoc.jpeg"
+        },
+        {
             "title": "Tác động trái ngược của cà phê lên hệ tiêu hóa",
             "link": "https://znews.vn/tac-dong-trai-nguoc-cua-ca-phe-len-he-tieu-hoa-post1673437.html",
             "img": "https://photo.znews.vn/Uploaded/ofh_cgkztmzt/2026_07_29/Ca_phe_ngon.jpg"
-        },
-        {
-            "title": "Cuộc chiến thành Troy khơi mào từ 'quả táo tặng người đẹp nhất'",
-            "link": "https://znews.vn/cuoc-chien-thanh-troy-khoi-mao-tu-qua-tao-tang-nguoi-dep-nhat-post1673477.html",
-            "img": "https://photo.znews.vn/Uploaded/bpcgpivp/2026_07_29/Benny_Safdie_and_Matt_Damon_in_The_Odyssey_1.jpg"
         }
     ]
 }
