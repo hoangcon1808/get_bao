@@ -1,9 +1,44 @@
 {
     "VNExpress": [
         {
-            "title": "Chuyên gia: 'Indonesia cần đội hình mạnh nhất mới gây khó cho Việt Nam'",
-            "link": "https://vnexpress.net/chuyen-gia-indonesia-can-doi-hinh-manh-nhat-moi-gay-kho-cho-viet-nam-5105225.html",
-            "img": "https://vcdn1-thethao.vnecdn.net/2026/08/05/don-jpg-1785885054-1127-1785885132.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=0Cx-l1tiBZktpzkcMxF_7Q"
+            "title": "Thành Long - Hoàng Đức xuất sắc thế nào trước Indonesia?",
+            "link": "https://vnexpress.net/thanh-long-hoang-duc-xuat-sac-the-nao-truoc-indonesia-5105232.html",
+            "img": "https://vcdn1-thethao.vnecdn.net/2026/08/04/Screenshot20260803225008-17858-4280-7476-1785845615.png?w=680&h=408&q=100&dpr=1&fit=crop&s=_o0eF1wtxVjABdSB-UzpLg"
+        },
+        {
+            "title": "Cristiano Ronaldo lần đầu khoe gara toàn siêu xe",
+            "link": "https://vnexpress.net/cristiano-ronaldo-lan-dau-khoe-gara-toan-sieu-xe-5105324.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/05/Ronaldo2-1785893542-3814-1785897782.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=8ONKvwUeyxNtYDWmm_xELQ"
+        },
+        {
+            "title": "Hai phương án nghỉ Tết Đinh Mùi",
+            "link": "https://vnexpress.net/hai-phuong-an-nghi-tet-dinh-mui-5105409.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/05/wm1-wm1-ac137ac4-e5df-4894-b66c-51-8844-1905-1785905380.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=7_PRL-yx29fVLAU5bCR9CQ"
+        },
+        {
+            "title": "Gu mặc của 'Tay vợt nóng bỏng nhất thế giới'",
+            "link": "https://vnexpress.net/gu-mac-cua-tay-vot-nong-bong-nhat-the-gioi-5104494.html",
+            "img": "https://vcdn1-giaitri.vnecdn.net/2026/08/04/eugenie-bouchard-1785804321.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=hwrJ85nDViigI_IoDB8HDg"
+        },
+        {
+            "title": "Vì sao Nauru, quốc gia 12.000 dân, quyết định đổi tên?",
+            "link": "https://vnexpress.net/vi-sao-nauru-quoc-gia-12-000-dan-quyet-dinh-doi-ten-5105104.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/05/491953932-n-1785902729-5207-1785902736.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=NVssnntlBSlIcS7OoJBjJg"
+        },
+        {
+            "title": "Lý do Iran không lùi bước trước đòn nắn gân của ông Trump",
+            "link": "https://vnexpress.net/ly-do-iran-khong-lui-buoc-truoc-don-nan-gan-cua-ong-trump-5104886.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/04/afp-nikoubazl-iranoffi260703-n-6949-2976-1785817966.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=J894wNCopnZPQs1BGJ0mNg"
+        },
+        {
+            "title": "Thanh niên đánh võng xe máy lao thẳng vào xe buýt",
+            "link": "https://vnexpress.net/thanh-nien-danh-vong-xe-may-lao-thang-vao-xe-buyt-5105353.html",
+            "img": "https://via.placeholder.com/300x200?text=No+Image"
+        },
+        {
+            "title": "Vì sao thí sinh gian lận ở Quảng Trị bị hủy điểm, chuyên Tuyên Quang được thi lại?",
+            "link": "https://vnexpress.net/vi-sao-thi-sinh-chuyen-tuyen-quang-thi-lai-quang-tri-bi-huy-ket-qua-5105477.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/05/img-jpg-1785904885-2071-1785905095.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=GGjNGlyZ116VWSYInxorwA"
         },
         {
             "title": "Mẹ một con 'vịt hóa thiên nga' sau giảm 33 kg",
@@ -11,88 +46,53 @@
             "img": "https://vcdn1-suckhoe.vnecdn.net/2026/08/03/nem-jpeg-1785726387-6180-1785726739.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=8oOne9cUPEOSVuxf8lf_VA"
         },
         {
-            "title": "Pavel Durov: 'Thủ đoạn tống tiền khiến Telegram bị gỡ khỏi App Store'",
-            "link": "https://vnexpress.net/pavel-durov-thu-doan-tong-tien-khien-telegram-bi-go-khoi-app-store-5105304.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/05/lq-1785891993-1151-1785892434.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=IwKS0kVw3pqL_9jw-E9wIQ"
-        },
-        {
-            "title": "Thiết kế quốc lộ 13 mở rộng gần gấp ba lần",
-            "link": "https://vnexpress.net/thiet-ke-quoc-lo-13-mo-rong-gan-gap-ba-lan-5105249.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/04/0-1785846987.png?w=220&h=132&q=100&dpr=1&fit=crop&s=sTH0U22zxUrLrXC_Nb-Lvg"
-        },
-        {
-            "title": "Real nâng lương lên 25 triệu USD để níu kéo Vinicius",
-            "link": "https://vnexpress.net/real-nang-luong-len-25-trieu-usd-de-niu-keo-vinicius-5105247.html",
-            "img": "https://vcdn1-thethao.vnecdn.net/2026/08/04/vinicius-1785850580-3880-1785850686.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=fbQ8zOe6nJim81n7UUbtsA"
-        },
-        {
-            "title": "Hương Lan: 'Chồng tặng tôi khu vườn tình yêu'",
-            "link": "https://vnexpress.net/huong-lan-chong-tang-toi-khu-vuon-tinh-yeu-5104978.html",
-            "img": "https://vcdn1-giaitri.vnecdn.net/2026/08/04/vochonghuonglan1JPG-1785827827-8326-1785829830.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=dtWgaURUPO2b2B_BtzZL9w"
-        },
-        {
-            "title": "Cà phê 'vườn thú' ở TP HCM gây tranh cãi vì nuôi nhốt động vật",
-            "link": "https://vnexpress.net/ca-phe-vuon-thu-o-tp-hcm-gay-tranh-cai-vi-nuoi-nhot-dong-vat-5102666.html",
-            "img": "https://vcdn1-dulich.vnecdn.net/2026/08/04/1785847007908bb3022c4a89171828-2471-9892-1785858292.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=m59i7fJFjok6GyrkDRQEyA"
-        },
-        {
-            "title": "Ghế trẻ em trên ôtô thế nào là đúng quy chuẩn?",
-            "link": "https://vnexpress.net/ghe-tre-em-tren-oto-the-nao-la-dung-quy-chuan-5105278.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/04/Thumbngang1-1785859374-2827-1785859872.png?w=220&h=132&q=100&dpr=1&fit=crop&s=uLMKygePT9DLp7L99XbwNw"
-        },
-        {
-            "title": "Nga phóng loạt tên lửa đạn đạo vào Kiev",
-            "link": "https://vnexpress.net/nga-phong-loat-ten-lua-dan-dao-vao-kiev-5105289.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/05/tap-kich-jpeg-1785886234-5611-1785886611.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=EBKWgdMACNHykk1IJL0IGw"
-        },
-        {
-            "title": "Đất đá đổ như thác, suýt vùi ôtô, xe máy lên Sa Pa",
-            "link": "https://vnexpress.net/dat-da-do-nhu-thac-suyt-vui-oto-xe-may-len-sa-pa-5105178.html",
-            "img": "https://via.placeholder.com/300x200?text=No+Image"
+            "title": "Mỹ nhân điền kinh Trung Quốc gây sốt với bộ ảnh sinh nhật",
+            "link": "https://vnexpress.net/my-nhan-dien-kinh-trung-quoc-gay-sot-voi-bo-anh-sinh-nhat-5105276.html",
+            "img": "https://vcdn1-thethao.vnecdn.net/2026/08/04/yanni-1785859814-1294-1785859926.png?w=220&h=132&q=100&dpr=1&fit=crop&s=1SKY-7v1Mq5Q_fc9hWs3dg"
         }
     ],
     "Tuổi Trẻ": [],
     "Thanh Niên": [],
     "Dân Trí": [
         {
+            "title": "5 thí sinh bị hủy kết quả thi vì tiêu cực được thi lại vào năm 2027",
+            "link": "https://dantri.com.vn/giao-duc/5-thi-sinh-bi-huy-ket-qua-thi-vi-tieu-cuc-duoc-thi-lai-vao-nam-2027-20260805120538024.htm",
+            "img": "https://cdnphoto.dantri.com.vn/M5c1-U3dsF81fsjrns92qzIO7ko=/zoom/774_516/2026/08/05/diem-thi-truong-thpt-le-trucnam-nguyen-edited-1785905768205.jpg"
+        },
+        {
+            "title": "328 thí sinh Tuyên Quang phải thi lại sau sai phạm",
+            "link": "https://dantri.com.vn/dt360/328-thi-sinh-tuyen-quang-phai-thi-lai-sau-sai-pham-20260805113405624.htm",
+            "img": "https://cdnphoto.dantri.com.vn/PMZg6_dpvTpMDU0U-0t3mP-1WE0=/zoom/351_234/2026/08/05/bo-text-dan-tri-cropped-1785904328294.jpg"
+        },
+        {
+            "title": "Thí sinh chuyên Tuyên Quang sẽ được xét tuyển đại học riêng",
+            "link": "https://dantri.com.vn/giao-duc/thi-sinh-chuyen-tuyen-quang-se-duoc-xet-tuyen-dai-hoc-rieng-20260805110502599.htm",
+            "img": "https://cdnphoto.dantri.com.vn/r6SBuDmQPspsH8qit9fcwCfzOCc=/zoom/351_234/2026/08/05/img9594-1785902374936.jpg"
+        },
+        {
+            "title": "Đắk Lắk hủy kết quả thi THPT của một thí sinh, xem xét xử lý hội đồng thi",
+            "link": "https://dantri.com.vn/giao-duc/dak-lak-huy-ket-qua-thi-thpt-cua-mot-thi-sinh-xem-xet-xu-ly-hoi-dong-thi-20260805094750341.htm",
+            "img": "https://cdnphoto.dantri.com.vn/VXi_gFDU3BBVGZDbl4ZD7o2d67A=/zoom/192_128/2026/08/03/so-gdctv-edited-1785767059895.jpg"
+        },
+        {
+            "title": "Clip thi nghi thức Đội kiểu “cà thọt” ở Thanh Hóa đã bị cắt ghép?",
+            "link": "https://dantri.com.vn/giao-duc/clip-thi-nghi-thuc-doi-kieu-ca-thot-o-thanh-hoa-da-bi-cat-ghep-20260805102019180.htm",
+            "img": "https://cdnphoto.dantri.com.vn/UHrvlp7e6o3UclJu6zO3UUBITTE=/zoom/192_128/2026/08/05/ezgifcom-video-to-gif-converter-45-1785899299473.gif"
+        },
+        {
+            "title": "Vì sao Quảng Trị hủy kết quả còn thí sinh chuyên Tuyên Quang được thi lại?",
+            "link": "https://dantri.com.vn/giao-duc/vi-sao-quang-tri-huy-ket-qua-con-thi-sinh-chuyen-tuyen-quang-duoc-thi-lai-20260715163123639.htm",
+            "img": "https://cdnphoto.dantri.com.vn/0CHEBeBKjSfsF4NKmqdgo7PKEko=/zoom/192_128/2026/08/05/img9531-1-1785897515661.jpg"
+        },
+        {
+            "title": "Vụ gian lận điểm thi ở Tuyên Quang: Có sự móc nối giữa phụ huynh, giáo viên",
+            "link": "https://dantri.com.vn/giao-duc/vu-gian-lan-diem-thi-o-tuyen-quang-co-su-moc-noi-giua-phu-huynh-giao-vien-20260730225418570.htm",
+            "img": "https://cdnphoto.dantri.com.vn/PrrxpmfVmIKzTN7EdX51Ccv0ZIk=/zoom/192_128/2026/08/05/17858974870926034993614366322227g6139306456906095552920bb00e454d6ac1799fd582cd6e7b32-1785897610105.jpg"
+        },
+        {
             "title": "Chốt phương án bố trí hiệu trưởng, hiệu phó dôi dư sau sáp nhập trường học",
             "link": "https://dantri.com.vn/giao-duc/chot-phuong-an-bo-tri-hieu-truong-hieu-pho-doi-du-sau-sap-nhap-truong-hoc-20260804152440014.htm",
-            "img": "https://cdnphoto.dantri.com.vn/buSLHePT8c1qhBvCMqMeH4wKuGk=/zoom/774_516/2026/08/04/nu-sinh-tu-vong-nha-trangtrung-thi-edited-edited-1785830904997.jpg"
-        },
-        {
-            "title": "SIFT Analytics cùng Học viện Phụ nữ Việt Nam chuẩn hóa SPSS trong giảng dạy và nghiên cứu",
-            "link": "https://dantri.com.vn/giao-duc/sift-analytics-cung-hoc-vien-phu-nu-viet-nam-chuan-hoa-spss-trong-giang-day-va-nghien-cuu-20260804222712230.htm",
-            "img": "https://cdnphoto.dantri.com.vn/HW1WoqzW2IrlZkLFD5MD_7iRUG8=/zoom/351_234/2026/08/04/2-cropped-1785857083405.jpg"
-        },
-        {
-            "title": "Hà Tĩnh giảm 556 hiệu trưởng, hiệu phó sau sắp xếp trường học",
-            "link": "https://dantri.com.vn/giao-duc/ha-tinh-giam-556-hieu-truong-hieu-pho-sau-sap-xep-truong-hoc-20260804164103164.htm",
-            "img": "https://cdnphoto.dantri.com.vn/4Q1Nc04BpQ7O93IVU7rTnLy9adA=/zoom/351_234/2026/08/04/truongphan7-edited-1785836148892.jpg"
-        },
-        {
-            "title": "1,2 triệu học sinh chưa biết bơi, TPHCM đề xuất hỗ trợ mỗi em 700.000 đồng",
-            "link": "https://dantri.com.vn/giao-duc/12-trieu-hoc-sinh-chua-biet-boi-tphcm-de-xuat-ho-tro-moi-em-700000-dong-20260805071506332.htm",
-            "img": "https://cdnphoto.dantri.com.vn/F0SU4pBCjKKHSD6ftuStLk-VcOY=/zoom/192_128/2026/08/05/boiloi-dt-1785888333199.webp"
-        },
-        {
-            "title": "Muốn cấp suất ăn cho trường học Hà Nội, doanh nghiệp phải đăng ký từ 6/8",
-            "link": "https://dantri.com.vn/giao-duc/muon-cap-suat-an-cho-truong-hoc-ha-noi-doanh-nghiep-phai-dang-ky-tu-68-20260804220429741.htm",
-            "img": "https://cdnphoto.dantri.com.vn/Hd-EkTqc0y0dV7SvG62amfA6TAs=/zoom/192_128/2026/07/29/bua-com-ban-trumyha4-cropped-1785294739022.jpg"
-        },
-        {
-            "title": "Nam sinh Quảng Trị 2 lần giành giải Vàng tại Đấu trường Toán học châu Á",
-            "link": "https://dantri.com.vn/giao-duc/nam-sinh-quang-tri-2-lan-gianh-giai-vang-tai-dau-truong-toan-hoc-chau-a-20260804212350294.htm",
-            "img": "https://cdnphoto.dantri.com.vn/ZBfOgkp5rLAJgrZ3VGzDYuLAqKY=/zoom/192_128/2026/08/04/nam-sinh-quang-tri-cropped-1785853027656.jpg"
-        },
-        {
-            "title": "Trường Đại học Phòng cháy chữa cháy chuyển thành Học viện",
-            "link": "https://dantri.com.vn/giao-duc/truong-dai-hoc-phong-chay-chua-chay-chuyen-thanh-hoc-vien-20260804183606600.htm",
-            "img": "https://cdnphoto.dantri.com.vn/sXfp9xoOnqJ49yF-mje_rf7kzek=/zoom/192_128/2026/08/04/hoc-vien-phong-chay-cropped-1785843180324.jpg"
-        },
-        {
-            "title": "Nhà trường đưa 150 học sinh đến học tại trụ sở công ty cũ, Sở yêu cầu khẩn",
-            "link": "https://dantri.com.vn/giao-duc/nha-truong-dua-150-hoc-sinh-den-hoc-tai-tru-so-cong-ty-cu-so-yeu-cau-khan-20260804151604009.htm",
-            "img": "https://cdnphoto.dantri.com.vn/VyTic6vT2UaBb1y-LThJyP3TTc4=/zoom/192_128/2026/08/04/truong-tieu-hoc-thcs-thpt-dong-bac-gathanh-hoa-1785830724823.jpg"
+            "img": "https://cdnphoto.dantri.com.vn/5z9EqISBj4qQ3W61AkRrNg3uJEY=/zoom/192_128/2026/08/04/nu-sinh-tu-vong-nha-trangtrung-thi-edited-edited-1785830904997.jpg"
         },
         {
             "title": "Điện thoại thông minh ảnh hưởng thế nào đến trẻ dưới 12 tuổi?",
@@ -108,54 +108,54 @@
     "VietnamNet": [],
     "Znews": [
         {
-            "title": "Chú mèo không tên đưa văn học Nhật Bản bùng nổ",
-            "link": "https://znews.vn/chu-meo-khong-ten-dua-van-hoc-nhat-ban-bung-no-post1674774.html",
-            "img": "https://photo.znews.vn/w1000/Uploaded/qoswae/2026_08_04/meo.jpg"
+            "title": "Chuyển mạnh hơn, nhanh hơn từ quản lý sang phục vụ, kiến tạo",
+            "link": "https://lifestyle.znews.vn/chuyen-manh-hon-nhanh-hon-tu-quan-ly-sang-phuc-vu-kien-tao-post1674578.html",
+            "img": "https://photo.znews.vn/w1000/Uploaded/wohuhuo/2026_08_03/Tong_Bi_thu_Chu_tich_nuoc_To_Lam.jpg"
+        },
+        {
+            "title": "Đề xuất xây dựng cơ quan xuất bản, truyền thông chủ lực quốc gia",
+            "link": "https://znews.vn/de-xuat-xay-dung-co-quan-xuat-ban-truyen-thong-chu-luc-quoc-gia-post1674946.html",
+            "img": "https://photo.znews.vn/w480/Uploaded/bpcgpivp/2026_08_05/duong_sach_thu_duc_2.jpg"
         },
         {
             "title": "Ba trận, ba bộ mặt của tuyển Việt Nam",
-            "link": "https://znews.vn/ba-tran-ba-bo-mat-cua-tuyen-viet-nam-post1674912.html",
+            "link": "https://lifestyle.znews.vn/ba-tran-ba-bo-mat-cua-tuyen-viet-nam-post1674912.html",
             "img": "https://photo.znews.vn/w480/Uploaded/pwivobiu/2026_08_04/vn3_znews.jpg"
         },
         {
-            "title": "Mô hình nào cho cuộc 'đại phẫu' đại học công lập?",
-            "link": "https://znews.vn/mo-hinh-nao-cho-cuoc-dai-phau-dai-hoc-cong-lap-post1674801.html",
-            "img": "https://photo.znews.vn/w480/Uploaded/hointt/2026_08_04/63_DHBK_znews.jpg"
+            "title": "Bộ GD&ĐT: Hủy tất cả kết quả thi của 328 thí sinh chuyên Tuyên Quang",
+            "link": "https://lifestyle.znews.vn/bo-gd-dt-huy-tat-ca-ket-qua-thi-cua-328-thi-sinh-chuyen-tuyen-quang-post1667598.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/hointt/2026_07_05/IMG_9533.JPG"
         },
         {
-            "title": "Biển Đông đón bão số 3 Kujira, Việt Nam ảnh hưởng thế nào?",
-            "link": "https://znews.vn/bien-dong-don-bao-so-3-kujira-viet-nam-anh-huong-the-nao-post1674203.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/ecfzyryrzly/2026_08_02/bao_so_3_06092473.jpg"
+            "title": "Tuyển Thái Lan nhắc Đông Nam Á về vị thế của mình",
+            "link": "https://lifestyle.znews.vn/tuyen-thai-lan-nhac-dong-nam-a-ve-vi-the-cua-minh-post1674914.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/sotnzt/2026_08_05/764975739_4469871260007404_158971503429322161_n_1.jpeg"
         },
         {
-            "title": "Hoài Lâm giờ ra sao",
-            "link": "https://znews.vn/hoai-lam-gio-ra-sao-post1674919.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/wpdhnwhnw/2026_08_05/hoai_lam_6044.jpg"
+            "title": "Một doanh nghiệp nhà nước nhận hơn 2 tỷ USD từ Honda, Toyota và Ford",
+            "link": "https://znews.vn/mot-doanh-nghiep-nha-nuoc-nhan-hon-2-ty-usd-tu-honda-toyota-va-ford-post1674868.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/spluwao/2026_08_04/images.jpeg"
         },
         {
-            "title": "Ngân hàng giảm mạnh nhân sự, có nơi cắt gần 3.800 người sau 6 tháng",
-            "link": "https://znews.vn/ngan-hang-giam-manh-nhan-su-co-noi-cat-gan-3800-nguoi-sau-6-thang-post1674775.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/vpcvodbp/2025_06_12/DSC_5998_tien_mat_vietcombank_znews.jpg"
+            "title": "Nội Bài chịu đánh giá 1 sao sau khi đổi điểm đón xe công nghệ",
+            "link": "https://znews.vn/noi-bai-chiu-danh-gia-1-sao-sau-khi-doi-diem-don-xe-cong-nghe-post1674975.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/rohuoct/2026_08_05/763944202_1806750670690214_4079500151247234457_n_1.jpg"
         },
         {
-            "title": "Biển vô cực Hưng Yên khiến du khách Australia ngỡ ngàng",
-            "link": "https://znews.vn/bien-vo-cuc-hung-yen-khien-du-khach-australia-ngo-ngang-post1674554.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/neg_yrznlys/2026_08_03/bien_vo_cuc_1.jpg"
+            "title": "Lý do Telegram bị Apple gỡ khỏi App Store toàn cầu",
+            "link": "https://znews.vn/ly-do-telegram-bi-apple-go-khoi-app-store-toan-cau-post1674962.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/cplahuo/2026_08_05/2024_06_24t151431z1650546331mt1zuma0009gi8o4rtrmadp3zuma_1785809795509935341734.jpg"
         },
         {
-            "title": "Ai thắng trong cuộc đấu giữa 58 nghệ sĩ",
-            "link": "https://znews.vn/ai-thang-trong-cuoc-dau-giua-58-nghe-si-post1673865.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/vrwqcqdjw/2026_07_31/BetterImage_1785854856206_2.jpeg"
+            "title": "Hành trình bước vào dòng chảy đại chúng của tiểu thuyết đồ họa",
+            "link": "https://znews.vn/hanh-trinh-buoc-vao-dong-chay-dai-chung-cua-tieu-thuyet-do-hoa-post1673745.html",
+            "img": "https://photo.znews.vn/Uploaded/qoswae/2026_07_31/do_hoa_1.jpg"
         },
         {
-            "title": "Thúc đẩy hoạt động xuất bản phát triển trong bối cảnh chuyển đổi số",
-            "link": "https://znews.vn/thuc-day-hoat-dong-xuat-ban-phat-trien-trong-boi-canh-chuyen-doi-so-post1673885.html",
-            "img": "https://photo.znews.vn/Uploaded/ecfzyryrzly/2026_07_30/ttxvn_luat_xuat_ban.jpg"
-        },
-        {
-            "title": "'Cho tôi xin một vé đi tuổi thơ' bán bản quyền sang Trung Quốc",
-            "link": "https://znews.vn/cho-toi-xin-mot-ve-di-tuoi-tho-ban-ban-quyen-sang-trung-quoc-post1674104.html",
-            "img": "https://photo.znews.vn/Uploaded/zagtgt/2025_11_09/Nha_van_Nguyen_Nhat_Anh.jpg"
+            "title": "'Thực', 'thật', 'thiệt' có liên quan gì đến nhau?",
+            "link": "https://znews.vn/thuc-that-thiet-co-lien-quan-gi-den-nhau-post1673780.html",
+            "img": "https://photo.znews.vn/Uploaded/zagtgt/2026_07_31/10017_thumb_znews.jpg"
         }
     ]
 }
