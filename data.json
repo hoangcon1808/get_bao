@@ -1,17 +1,63 @@
 {
-    "VNExpress": [],
+    "VNExpress": [
+        {
+            "title": "Đình Bắc giúp Việt Nam hạ Campuchia ở ASEAN Cup",
+            "link": "https://vnexpress.net/viet-nam-campuchia-5106492.html",
+            "img": "https://vcdn1-thethao.vnecdn.net/2026/08/07/wm1-wm1-dinh-bac3-jpeg-1786114595-5521-1786114696.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=XCsNLYLmIwsn54TF7tHVqQ"
+        },
+        {
+            "title": "Huyện Hàn Quốc xây 'Thung lũng Việt Nam' để giữ chân cư dân",
+            "link": "https://vnexpress.net/huyen-han-quoc-xay-thung-lung-viet-nam-de-giu-chan-cu-dan-5106507.html",
+            "img": "https://vcdn1-giadinh.vnecdn.net/2026/08/07/bonghwa-county-1786093406-1670-1786093613.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=soS_SmJH7B1rVXeSh-UPCA"
+        },
+        {
+            "title": "Video AI 'tuyệt cảnh thiên đình' gây sốt",
+            "link": "https://vnexpress.net/video-ai-tuyet-canh-thien-dinh-gay-sot-5106255.html",
+            "img": "https://vcdn1-giaitri.vnecdn.net/2026/08/07/an-1786071155-9783-1786071384.png?w=220&h=132&q=100&dpr=1&fit=crop&s=mbHAlEMfBYni9Aa6ZDTdrg"
+        },
+        {
+            "title": "Ông Trump gọi nỗi lo hết pin của người đi xe điện là 'căn bệnh'",
+            "link": "https://vnexpress.net/ong-trump-goi-noi-lo-het-pin-cua-nguoi-di-xe-dien-la-can-benh-5106198.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/07/DonaldTrump1-1786070305-7342-1786070498.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=Qg4UrD0sSXTFfH9hZFFnrQ"
+        },
+        {
+            "title": "Trứng luộc chín bảo quản được bao lâu?",
+            "link": "https://vnexpress.net/trung-luoc-chin-bao-quan-duoc-bao-lau-5106452.html",
+            "img": "https://vcdn1-suckhoe.vnecdn.net/2026/08/07/buoc-1786090126-9493-1786090169.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=9Wzv4dgelwNCa6xlMo15tg"
+        },
+        {
+            "title": "Trung Quốc chuẩn bị ứng phó cơn bão rộng gấp 1.230 lần Hong Kong",
+            "link": "https://vnexpress.net/trung-quoc-chuan-bi-ung-pho-con-bao-rong-gap-1-230-lan-hong-kong-5106557.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/07/20260806T035633Z1390782202RC25-7553-7677-1786100015.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=bnPabO6LaQQNks2PpVaGjA"
+        },
+        {
+            "title": "Trấn Thành khởi động phim Tết 2027",
+            "link": "https://vnexpress.net/tran-thanh-khoi-dong-phim-tet-2027-5106625.html",
+            "img": "https://vcdn1-giaitri.vnecdn.net/2026/08/07/tran-thanh-phim-tet-1786110373-1663-1786110540.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=RQVhC6HBqM5LK59qHjcolw"
+        },
+        {
+            "title": "Tom Holland, Zendaya: Yêu từ màn ảnh đến đời thực",
+            "link": "https://vnexpress.net/tom-holland-zendaya-yeu-tu-man-anh-den-doi-thuc-5103990.html",
+            "img": "https://vcdn1-giaitri.vnecdn.net/2026/08/04/downloadgram-org-n-1785753272-7553-1785814928.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=zNdpcnne2n9kqcOajaIMvw"
+        },
+        {
+            "title": "Cô dâu, chú rể Ấn Độ tổ chức 'siêu đám cưới' tại Nha Trang",
+            "link": "https://vnexpress.net/co-dau-chu-re-an-do-to-chuc-sieu-dam-cuoi-tai-nha-trang-5106610.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/07/india2-1786112418-5214-1786112947.png?w=220&h=132&q=100&dpr=1&fit=crop&s=YY6xzWTK_m55ehZ0winlwA"
+        },
+        {
+            "title": "Cháy hội trường 1.000 chỗ trong resort ở Nha Trang",
+            "link": "https://vnexpress.net/chay-hoi-truong-1-000-cho-trong-resort-o-nha-trang-5106605.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/07/wm1-wm1-1786104886787ecbd3d963af67-2862-9020-1786105250.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=ms1KCjCiTOHGOTH5MfY4WQ"
+        }
+    ],
     "Tuổi Trẻ": [],
     "Thanh Niên": [],
     "Dân Trí": [
         {
-            "title": "Chính phủ yêu cầu đề xuất xử lý sai phạm thi tốt nghiệp THPT ở Tuyên Quang",
-            "link": "https://dantri.com.vn/thoi-su/chinh-phu-yeu-cau-de-xuat-xu-ly-sai-pham-thi-tot-nghiep-thpt-o-tuyen-quang-20260807203918945.htm",
-            "img": "https://cdnphoto.dantri.com.vn/FI-XlG2C7QKEVVyo_uhuXBUpmok=/zoom/774_516/2026/07/07/truong-chuyen-tuyen-quang-cropped-1783427886081.jpg"
-        },
-        {
             "title": "Đưa tiếng Anh thành ngôn ngữ thứ hai không phải để thay thế tiếng Việt",
             "link": "https://dantri.com.vn/giao-duc/dua-tieng-anh-thanh-ngon-ngu-thu-hai-khong-phai-de-thay-the-tieng-viet-20260807173939311.htm",
-            "img": "https://cdnphoto.dantri.com.vn/u3NhreJ-u50fpYxXVJwVfYdJaZA=/zoom/351_234/2025/08/20/hocsinhlop1tuutruongtphcmbaoquyen-edited-edited-1755663673974.jpg"
+            "img": "https://cdnphoto.dantri.com.vn/i8ZLFY1vFrH-gIWAW7m-4aNfOyI=/zoom/774_516/2025/08/20/hocsinhlop1tuutruongtphcmbaoquyen-edited-edited-1755663673974.jpg"
         },
         {
             "title": "Tiêu chí bổ nhiệm hiệu trưởng mới ở Gia Lai khi giảm hơn 700 lãnh đạo",
@@ -21,7 +67,7 @@
         {
             "title": "Doanh thu nhiều trường đại học lập đỉnh mới, học phí vẫn chiếm áp đảo",
             "link": "https://dantri.com.vn/giao-duc/doanh-thu-nhieu-truong-dai-hoc-lap-dinh-moi-hoc-phi-van-chiem-ap-dao-20260807134924790.htm",
-            "img": "https://cdnphoto.dantri.com.vn/NRtg66cskHKAnL_FsKH5P9y_mK4=/zoom/192_128/2026/08/07/iuh-icc-3-1786084788405.jpg"
+            "img": "https://cdnphoto.dantri.com.vn/JA4Tf1QhCEoJ8qhreeolFgljzTo=/zoom/351_234/2026/08/07/iuh-icc-3-1786084788405.jpg"
         },
         {
             "title": "328 thí sinh Tuyên Quang thi lại: Công an tỉnh chặn gian lận công nghệ cao",
@@ -44,6 +90,11 @@
             "img": "https://cdnphoto.dantri.com.vn/T0kKQ0uqb3x6fBRKYL09R3wGydE=/zoom/192_128/2026/08/07/canh-bao-lua-daoctv-edited-1786069443930.jpg"
         },
         {
+            "title": "Một trường đại học ở TPHCM lập kỷ lục mới, có tổng thu gần 2.900 tỷ đồng",
+            "link": "https://dantri.com.vn/giao-duc/mot-truong-dai-hoc-o-tphcm-lap-ky-luc-moi-co-tong-thu-gan-2900-ty-dong-20260807100127061.htm",
+            "img": "https://cdnphoto.dantri.com.vn/wlUILxpdDnywq6bqf96EI4xi0mo=/zoom/192_128/2026/07/20/thi-tot-nghiep-thpt-trinh-nguyen1-cropped-cropped-1784558498098.jpg"
+        },
+        {
             "title": "Lạm dụng AI, không ít người trẻ ra trường cay đắng vì kiến thức rỗng tuếch",
             "link": "https://dantri.com.vn/cong-nghe/lam-dung-ai-khong-it-nguoi-tre-ra-truong-cay-dang-vi-kien-thuc-rong-tuech-20260807105123829.htm",
             "img": "https://cdnphoto.dantri.com.vn/A5uGaFFabtSEdaJcUH7N7D2qlrs=/zoom/774_516/2026/08/07/2-1786074283630.png"
@@ -57,8 +108,8 @@
     "VietnamNet": [],
     "Znews": [
         {
-            "title": "Tuyển Việt Nam 1-0 Campuchia: Xuân Son vào sân",
-            "link": "https://lifestyle.zingnews.vn/tuyen-viet-nam-1-0-campuchia-xuan-son-vao-san-post1675639.html",
+            "title": "Tuyển Việt Nam vào bán kết ASEAN Cup với ngôi nhất bảng",
+            "link": "https://lifestyle.zingnews.vn/tuyen-viet-nam-vao-ban-ket-asean-cup-voi-ngoi-nhat-bang-post1675639.html",
             "img": "https://photo.znews.vn/w1000/Uploaded/sotnzt/2026_07_24/d_1.jpg"
         },
         {
@@ -97,14 +148,14 @@
             "img": "https://photo.znews.vn/w210/Uploaded/vpcvodbp/2026_08_07/vangtrongnuoc_znews_1_.jpg"
         },
         {
+            "title": "Đề xuất bổ sung quy định về AI trong Luật Xuất bản",
+            "link": "https://znews.vn/de-xuat-bo-sung-quy-dinh-ve-ai-trong-luat-xuat-ban-post1674991.html",
+            "img": "https://photo.znews.vn/Uploaded/bpcgpivp/2026_08_05/1785906414500_2059306209657728930_g8189203322856666003_8bafcc654acfd72c02f04ccc64e4e144.jpg"
+        },
+        {
             "title": "Đề xuất xây dựng cơ quan xuất bản, truyền thông chủ lực quốc gia",
             "link": "https://znews.vn/de-xuat-xay-dung-co-quan-xuat-ban-truyen-thong-chu-luc-quoc-gia-post1674946.html",
             "img": "https://photo.znews.vn/Uploaded/bpcgpivp/2026_08_05/duong_sach_thu_duc_2.jpg"
-        },
-        {
-            "title": "Truyện tranh Nhật thiệt hại 8.000 tỷ yên vì các web đọc lậu",
-            "link": "https://znews.vn/truyen-tranh-nhat-thiet-hai-8000-ty-yen-vi-cac-web-doc-lau-post1674586.html",
-            "img": "https://photo.znews.vn/Uploaded/bpcgpivp/2026_08_03/Best_Manga_Reader_App_1.jpg"
         }
     ]
 }
