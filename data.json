@@ -11,9 +11,14 @@
             "img": "https://via.placeholder.com/300x200?text=No+Image"
         },
         {
-            "title": "Nước nào có nhiều cư dân siêu giàu nhất thế giới?",
-            "link": "https://vnexpress.net/nuoc-nao-co-nhieu-cu-dan-sieu-giau-nhat-the-gioi-5107577.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/10/tin-1786365379-2064-1786365387.png?w=220&h=132&q=100&dpr=1&fit=crop&s=cu1thVsIejpzPgde1YeGtA"
+            "title": "Trại cà cuống thu hàng trăm triệu đồng mỗi năm ở miền Tây",
+            "link": "https://vnexpress.net/trai-ca-cuong-thu-hang-tram-trieu-dong-moi-nam-o-mien-tay-5106392.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/07/1-chon-1786091826.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=7YcvFAbm9fwibY6Wnd3E2w"
+        },
+        {
+            "title": "Thế khó với ông Trump trước điều kiện mở cửa Hormuz của Iran",
+            "link": "https://vnexpress.net/the-kho-voi-ong-trump-truoc-dieu-kien-mo-cua-hormuz-cua-iran-5107194.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/10/AP26218745042502-1786334267-2476-1786334776.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=hKVk9SJsHc-3oCKz8g9xNA"
         },
         {
             "title": "Ukraine tập kích cơ sở lọc dầu Nga, 13 người chết",
@@ -26,24 +31,19 @@
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/09/dsc03229-jpg-1786253374-5663-1786253580.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=tpEp7SfSBfadmieUJss6mA"
         },
         {
-            "title": "Động đất rung chuyển Colombia, ít nhất 30 người chết",
-            "link": "https://vnexpress.net/dong-dat-rung-chuyen-colombia-it-nhat-30-nguoi-chet-5107602.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/10/afp20260810c4by7zqv1highrescol-6210-8201-1786375676.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=PF4YPsiZ-evX5uKPbzqBrg"
-        },
-        {
-            "title": "Thế khó với ông Trump trước điều kiện mở cửa Hormuz của Iran",
-            "link": "https://vnexpress.net/the-kho-voi-ong-trump-truoc-dieu-kien-mo-cua-hormuz-cua-iran-5107194.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/10/AP26218745042502-1786334267-2476-1786334776.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=hKVk9SJsHc-3oCKz8g9xNA"
-        },
-        {
-            "title": "Trại cà cuống thu hàng trăm triệu đồng mỗi năm ở miền Tây",
-            "link": "https://vnexpress.net/trai-ca-cuong-thu-hang-tram-trieu-dong-moi-nam-o-mien-tay-5106392.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/07/1-chon-1786091826.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=7YcvFAbm9fwibY6Wnd3E2w"
+            "title": "Nước nào có nhiều cư dân siêu giàu nhất thế giới?",
+            "link": "https://vnexpress.net/nuoc-nao-co-nhieu-cu-dan-sieu-giau-nhat-the-gioi-5107577.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/10/tin-1786365379-2064-1786365387.png?w=220&h=132&q=100&dpr=1&fit=crop&s=cu1thVsIejpzPgde1YeGtA"
         },
         {
             "title": "Bão Cá heo thổi lật xe tải, gây ngập đường Trung Quốc",
             "link": "https://vnexpress.net/bao-ca-heo-thoi-lat-xe-tai-gay-ngap-duong-trung-quoc-5107528.html",
             "img": "https://via.placeholder.com/300x200?text=No+Image"
+        },
+        {
+            "title": "Động đất rung chuyển Colombia, ít nhất 30 người chết",
+            "link": "https://vnexpress.net/dong-dat-rung-chuyen-colombia-it-nhat-30-nguoi-chet-5107602.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/10/afp20260810c4by7zqv1highrescol-6210-8201-1786375676.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=PF4YPsiZ-evX5uKPbzqBrg"
         },
         {
             "title": "Cựu nghị sĩ Thái Lan bắn chết lãnh đạo tỉnh",
@@ -148,9 +148,9 @@
             "img": "https://photo.znews.vn/w210/Uploaded/neg_esfjaex/2026_01_05/truong_dai_hoc_luat_tphcm_1.jpg"
         },
         {
-            "title": "Cú va chạm tạo ra Mặt Trăng và bốn mùa trên Trái Đất",
-            "link": "https://znews.vn/cu-va-cham-tao-ra-mat-trang-va-bon-mua-tren-trai-dat-post1675201.html",
-            "img": "https://photo.znews.vn/Uploaded/ukrspuo/2026_08_06/mat_trang_1.jpg"
+            "title": "Cách Trung Quốc vận hành hệ sinh thái AI",
+            "link": "https://znews.vn/cach-trung-quoc-van-hanh-he-sinh-thai-ai-post1669420.html",
+            "img": "https://photo.znews.vn/Uploaded/bpcgpivp/2026_08_05/3750.jpg"
         },
         {
             "title": "Đọc văn học kinh điển qua 'lăng kính' mới",
