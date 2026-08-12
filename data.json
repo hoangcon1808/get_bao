@@ -1,24 +1,39 @@
 {
     "VNExpress": [
         {
+            "title": "Su-30MK2, Su-27 diễn tập ném bom, bắn đạn thật",
+            "link": "https://vnexpress.net/su-30mk2-su-27-dien-tap-nem-bom-ban-dan-that-5108002.html",
+            "img": "https://via.placeholder.com/300x200?text=No+Image"
+        },
+        {
+            "title": "Ronaldo cưới Georgina Rodriguez",
+            "link": "https://vnexpress.net/ronaldo-cuoi-georgina-rodriguez-5077670.html",
+            "img": "https://vcdn1-thethao.vnecdn.net/2026/08/12/skysportsronaldorodriguez73192-8411-9971-1786491886.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=6V41P_JR7tpwbQTybU8tNQ"
+        },
+        {
+            "title": "Đế chế bán lẻ của nữ tỷ phú giàu nhất Nga lọt tầm ngắm Ukraine",
+            "link": "https://vnexpress.net/de-che-ban-le-cua-nu-ty-phu-giau-nhat-nga-lot-tam-ngam-ukraine-5107743.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/11/afp-aa-v1-highres-platformecon-4723-8961-1786436717.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=EOu9g2-5Y2bybP53aylHjw"
+        },
+        {
+            "title": "Malaysia thiếu gần nửa đội hình trước trận gặp Việt Nam",
+            "link": "https://vnexpress.net/malaysia-thieu-gan-nua-doi-hinh-truoc-tran-gap-viet-nam-5108189.html",
+            "img": "https://vcdn1-thethao.vnecdn.net/2026/08/12/773290711-n-1786508026-6412-1786508032.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=fL5X9IrLpUQ0JjwzhSK3kg"
+        },
+        {
+            "title": "Phát hiện tiền cổ, kiếm trong mộ gạch ở Nghệ An",
+            "link": "https://vnexpress.net/phat-hien-tien-co-kiem-trong-mo-gach-o-nghe-an-5108241.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/12/mo-gach-1786508546-9772-1786508783.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=HwyhwRBeB20vjWvtgdNh8Q"
+        },
+        {
+            "title": "Những cô gái tự giải phóng áp lực 'phải lấy chồng'",
+            "link": "https://vnexpress.net/nhung-co-gai-tu-giai-phong-ap-luc-phai-lay-chong-5106802.html",
+            "img": "https://vcdn1-giadinh.vnecdn.net/2026/08/12/anh1-1786470372-7749-1786470386.png?w=220&h=132&q=100&dpr=1&fit=crop&s=njMy6nzOx-nIYuH6zskxtg"
+        },
+        {
             "title": "Ông Trump giải thích về quyết định đổi máy bay phút chót ở Thổ Nhĩ Kỳ",
             "link": "https://vnexpress.net/ong-trump-giai-thich-ve-quyet-dinh-doi-may-bay-phut-chot-o-tho-nhi-ky-5108130.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/12/afp-c4fc8ew-v1-highres-uspresi-5484-7723-1786500961.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=QbEE5woEX6GqA2FUuAAiuA"
-        },
-        {
-            "title": "Bác sĩ Việt cấp cứu hành khách Mỹ nôn ra máu giữa chuyến bay",
-            "link": "https://vnexpress.net/bac-si-viet-cap-cuu-hanh-khach-my-non-ra-mau-giua-chuyen-bay-5108140.html",
-            "img": "https://vcdn1-suckhoe.vnecdn.net/2026/08/12/769374904282958018407893670203-7818-2455-1786506307.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=zfybsX7CAGTXsFfSuArP6A"
-        },
-        {
-            "title": "Diện mạo cao tốc nối TP HCM với sân bay Long Thành đang mở rộng",
-            "link": "https://vnexpress.net/dien-mao-cao-toc-noi-tp-hcm-voi-san-bay-long-thanh-dang-mo-rong-5106624.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/07/wm1-anh-1-jpg-1786109804-1786109890.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=mUrWN0MDWA_fonCYU03ALA"
-        },
-        {
-            "title": "Julian Alvarez - biểu tượng của một kỳ chuyển nhượng điên rồ",
-            "link": "https://vnexpress.net/julian-alvarez-bieu-tuong-cua-mot-ky-chuyen-nhuong-dien-ro-5108082.html",
-            "img": "https://vcdn1-thethao.vnecdn.net/2026/08/12/Screenshot20260812050712-17864-6133-7816-1786486288.png?w=220&h=132&q=100&dpr=1&fit=crop&s=E06akBRy8QckFqmGS6pWHg"
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/12/afp-c4fc8ew-v1-highres-uspresi-5484-7723-1786500961.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=9jGncwueQG4Ghede8abVtg"
         },
         {
             "title": "'Rich kid' Mỹ trách cha mẹ không giúp mua nhà, mua xe",
@@ -26,29 +41,14 @@
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/11/8-lifestyle-bliss-1786440641-3567-1786440684.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=QgqhLS54mQB3LwgJDw0Mmw"
         },
         {
-            "title": "Cuộc sống tuổi 17 của em bé trong video 'Baby Shark'",
-            "link": "https://vnexpress.net/cuoc-song-tuoi-17-cua-em-be-trong-video-baby-shark-5108049.html",
-            "img": "https://vcdn1-giadinh.vnecdn.net/2026/08/11/a-nh-ma-n-hi-nh-lu-c-178645915-3203-1926-1786459340.png?w=220&h=132&q=100&dpr=1&fit=crop&s=s14Fu8ZQqE3scrwV6OkNIg"
+            "title": "Nỗi đau của dân thường khi Nga - Ukraine trút mưa tập kích vào nhau",
+            "link": "https://vnexpress.net/noi-dau-cua-dan-thuong-khi-nga-ukraine-trut-mua-tap-kich-vao-nhau-5107683.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/12/afp-c48l4a4-v1-highre-17865035-5885-7436-1786503556.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=Pf5ifvfDiKbvOF9zQbmzEA"
         },
         {
             "title": "Ca sĩ AI gây sốt với 'Tự do như cơn gió'",
             "link": "https://vnexpress.net/ca-si-ai-gay-sot-voi-tu-do-nhu-con-gio-5106703.html",
             "img": "https://vcdn1-giaitri.vnecdn.net/2026/08/08/763192795135799019254198669760-6724-2297-1786157027.png?w=220&h=132&q=100&dpr=1&fit=crop&s=wlV8WasHf0IO6PxRbrvElw"
-        },
-        {
-            "title": "Vợ chồng bỏ Thụy Điển đến Nhật Bản sống",
-            "link": "https://vnexpress.net/vo-chong-bo-thuy-dien-den-nhat-ban-song-5107711.html",
-            "img": "https://vcdn1-dulich.vnecdn.net/2026/08/11/6a63239fce52cb26b839362f-17864-6625-5500-1786421899.webp?w=220&h=132&q=100&dpr=1&fit=crop&s=WM9kgnDKexf1L6vcq5hz6w"
-        },
-        {
-            "title": "TP HCM tìm 'đường thoát' cho 14.000 tấn rác mỗi ngày",
-            "link": "https://vnexpress.net/tp-hcm-tim-duong-thoat-cho-14-000-tan-rac-moi-ngay-5107882.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/12/WebPhotoEditor-1786492551-9907-1786492613.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=a_vlt80rFWZOZp65T-sljQ"
-        },
-        {
-            "title": "Maldini: 'Guardiola đã ở rất gần ghế HLV Italy'",
-            "link": "https://vnexpress.net/maldini-guardiola-da-o-rat-gan-ghe-hlv-italy-5108081.html",
-            "img": "https://vcdn1-thethao.vnecdn.net/2026/08/12/Screenshot20260812031306162195-6051-1998-1786504596.png?w=220&h=132&q=100&dpr=1&fit=crop&s=w1hvalmQP-HMJy_q9zDL5A"
         }
     ],
     "Tuổi Trẻ": [],
@@ -70,6 +70,11 @@
             "img": "https://cdnphoto.dantri.com.vn/FFV9Oy9O9ctRDtE_YwH2vn_Nl7I=/zoom/351_234/2026/06/30/hoc-sinh-mam-non-minh-chien-cropped-1782812962640.jpg"
         },
         {
+            "title": "Điểm chuẩn Đại học Sư phạm Hà Nội 2026, cao nhất 29",
+            "link": "https://dantri.com.vn/giao-duc/diem-chuan-dai-hoc-su-pham-ha-noi-2026-cao-nhat-29-20260807001511861.htm",
+            "img": "https://cdnphoto.dantri.com.vn/lTTEo26C6e-OY8C1Gt5p5Ag-m0E=/zoom/192_128/2026/08/07/thiddhsuphamhailong00048-1779504882116-1786036393424.jpg"
+        },
+        {
             "title": "Hơn 220 trường công bố điểm chuẩn đại học, lưu ý đặc biệt với thí sinh",
             "link": "https://dantri.com.vn/giao-duc/hon-220-truong-cong-bo-diem-chuan-dai-hoc-luu-y-dac-biet-voi-thi-sinh-20260809111617458.htm",
             "img": "https://cdnphoto.dantri.com.vn/19_cgmEw_xLzBsh-imkFBaTr1aA=/zoom/192_128/2026/08/12/yeu-cau-xu-ly-viec-tung-tin-sai-su-that-ve-ky-thi-tot-nghiep-thpt-edited-1786495254517.jpg"
@@ -88,11 +93,6 @@
             "title": "Trường Đại học Sư phạm Hà Nội hé lộ thời gian công bố điểm chuẩn",
             "link": "https://dantri.com.vn/giao-duc/truong-dai-hoc-su-pham-ha-noi-he-lo-thoi-gian-cong-bo-diem-chuan-20260811183756708.htm",
             "img": "https://cdnphoto.dantri.com.vn/CNEgGH3nbrJY22VCjOjHQ8poM8s=/zoom/192_128/2026/08/07/thi-danh-gia-nang-luc-su-phammyha-1768286399841-1-1-1786036181470.jpg"
-        },
-        {
-            "title": "Bộ GD&ĐT bác tin đồn lịch sử thành môn tự chọn ở THPT",
-            "link": "https://dantri.com.vn/giao-duc/bo-gddt-bac-tin-don-lich-su-thanh-mon-tu-chon-o-thpt-20260811182454874.htm",
-            "img": "https://cdnphoto.dantri.com.vn/Y-Gr1E5L_WfhtS3jc8N4lDHkEFY=/zoom/192_128/2026/08/11/sach-giao-khoa-lich-suhuyen-nguyen-1jpg-1749908795828-1786447279861.jpg"
         },
         {
             "title": "Trải nghiệm thực tế tính năng AI My Fancam trên Galaxy Z Fold8 Ultra",
@@ -123,9 +123,9 @@
             "img": "https://photo.znews.vn/w480/Uploaded/rohuoct/2026_08_11/elon_.jpeg"
         },
         {
-            "title": "Loạt ngành học thí sinh đạt 9,5 điểm mỗi môn vẫn trượt",
-            "link": "https://lifestyle.zingnews.vn/loat-nganh-hoc-thi-sinh-dat-9-5-diem-moi-mon-van-truot-post1676239.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/hointt/2026_07_16/totnghiepTHPT_8_znews.jpg"
+            "title": "Chênh lệch giá vàng trong nước - thế giới thấp nhất nhiều năm",
+            "link": "https://znews.vn/chenh-lech-gia-vang-trong-nuoc-the-gioi-thap-nhat-nhieu-nam-post1676436.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/vpcvodbp/2024_01_03/vang_mieng_sjc_duy_hieu.jpg"
         },
         {
             "title": "Sự nghiệp hiển hách của HLV Phan Thanh Hùng",
@@ -153,9 +153,9 @@
             "img": "https://photo.znews.vn/Uploaded/qoswae/2026_08_09/kinh_dien.jpg"
         },
         {
-            "title": "Không ngại để 'khối nghỉ hè' đọc miễn phí, nhà sách kiếm tiền thế nào?",
-            "link": "https://znews.vn/khong-ngai-de-khoi-nghi-he-doc-mien-phi-nha-sach-kiem-tien-the-nao-post1676011.html",
-            "img": "https://photo.znews.vn/Uploaded/zagtgt/2026_08_09/Book_Space_Huy_Hoang_znews.jpg"
+            "title": "Marilyn Monroe qua nét cọ Andy Warhol",
+            "link": "https://znews.vn/marilyn-monroe-qua-net-co-andy-warhol-post1674910.html",
+            "img": "https://photo.znews.vn/Uploaded/caxwpqdwp/2026_08_05/marilyn_1.jpgLarge_2.jpg"
         }
     ]
 }
