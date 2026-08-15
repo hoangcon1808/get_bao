@@ -1,9 +1,19 @@
 {
     "VNExpress": [
         {
-            "title": "Bắc Bộ và Bắc Trung Bộ sắp mưa lớn 300-450 mm",
-            "link": "https://vnexpress.net/bac-bo-va-bac-trung-bo-sap-mua-lon-300-450-mm-5109545.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/15/xa-muong-kim-1786793824-1850-1786793893.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=EpLiN2KhDkPRA1uNvUcsjg"
+            "title": "Vì sao đường sắt Lào Cai - Hà Nội - Hải Phòng tăng vốn hơn 86.000 tỷ đồng?",
+            "link": "https://vnexpress.net/vi-sao-duong-sat-lao-cai-ha-noi-hai-phong-tang-von-hon-86-000-ty-dong-5109513.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/15/1786696176173-e5ec303cc20b4e92-6433-6896-1786788002.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=vhFTn12w6q98myB-06PVpA"
+        },
+        {
+            "title": "Khu vườn sống chậm của Kim Hiền tại Mỹ",
+            "link": "https://vnexpress.net/khu-vuon-song-cham-cua-kim-hien-tai-my-5107190.html",
+            "img": "https://vcdn1-giaitri.vnecdn.net/2026/08/15/498124287-1786795767-6683-1786795772.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=TJuz84tFeM-geC_3uvupPw"
+        },
+        {
+            "title": "Cô gái giằng co khiến tên cướp bỏ xe máy, chạy bộ trong hẻm TP HCM",
+            "link": "https://vnexpress.net/co-gai-giang-co-khien-ten-cuop-bo-xe-may-chay-bo-trong-hem-tp-hcm-5109550.html",
+            "img": "https://via.placeholder.com/300x200?text=No+Image"
         },
         {
             "title": "Lời khai của thầy giáo sát hại nữ đồng nghiệp sau tiệc liên hoan",
@@ -16,34 +26,24 @@
             "img": "https://vcdn1-thethao.vnecdn.net/2026/08/15/773957889284513605586586255967-1369-3983-1786807201.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=YXCbzUL38pjp6R29aT_oYg"
         },
         {
-            "title": "Cô gái giằng co khiến tên cướp bỏ xe máy, chạy bộ trong hẻm TP HCM",
-            "link": "https://vnexpress.net/co-gai-giang-co-khien-ten-cuop-bo-xe-may-chay-bo-trong-hem-tp-hcm-5109550.html",
-            "img": "https://via.placeholder.com/300x200?text=No+Image"
-        },
-        {
-            "title": "Khu vườn sống chậm của Kim Hiền tại Mỹ",
-            "link": "https://vnexpress.net/khu-vuon-song-cham-cua-kim-hien-tai-my-5107190.html",
-            "img": "https://vcdn1-giaitri.vnecdn.net/2026/08/15/498124287-1786795767-6683-1786795772.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=TJuz84tFeM-geC_3uvupPw"
-        },
-        {
-            "title": "Hậu trường cân não của an ninh Mỹ khi tráo chuyên cơ chở ông Trump",
-            "link": "https://vnexpress.net/hau-truong-can-nao-cua-an-ninh-my-khi-trao-chuyen-co-cho-ong-trump-5109155.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/14/AFP202607092285378216v1HighRes-5489-9920-1786696679.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=33DcX-yk3JEO0f0hUfRWjQ"
-        },
-        {
-            "title": "Nước nào có mỏ đất hiếm lớn nhất thế giới?",
-            "link": "https://vnexpress.net/nuoc-nao-co-mo-dat-hiem-lon-nhat-the-gioi-5109277.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/14/vne317516288512259175162899584-6355-9658-1786707082.webp?w=220&h=132&q=100&dpr=1&fit=crop&s=Ice_3iMFvfWdhx6aPR9UGw"
-        },
-        {
-            "title": "Xe container nổ lốp, bánh bốc cháy văng ra trên cao tốc Long Thành",
-            "link": "https://vnexpress.net/xe-container-no-lop-banh-boc-chay-vang-ra-tren-cao-toc-long-thanh-5109575.html",
-            "img": "https://via.placeholder.com/300x200?text=No+Image"
-        },
-        {
             "title": "Cách phát ngôn viên Gen Z phản đòn truyền thông để bảo vệ ông Trump",
             "link": "https://vnexpress.net/cach-phat-ngon-vien-gen-z-phan-don-truyen-thong-de-bao-ve-ong-trump-5109064.html",
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/14/afp-nollyaraujo-dcpresss260310-8448-4751-1786694817.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=I2B09W3b02dzGQTSfdT8Ew"
+        },
+        {
+            "title": "Kim cương nhân tạo bền gấp 5 lần kim cương tự nhiên",
+            "link": "https://vnexpress.net/kim-cuong-nhan-tao-ben-gap-5-lan-kim-cuong-tu-nhien-5108676.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/13/VNECrystal-1786596611-3889-1786596676.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=6fmUts-SAuodnpWDlFChDw"
+        },
+        {
+            "title": "Tàu chở dầu UAE bị tấn công ở eo biển Hormuz",
+            "link": "https://vnexpress.net/tau-cho-dau-uae-bi-tan-cong-o-eo-bien-hormuz-5109524.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/15/wpdjjedb75lf7bqc5kihfptyzq-178-9561-5947-1786797316.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=EjbwVddYj5Kx3pGV5mksnQ"
+        },
+        {
+            "title": "Cuộc sống của Khánh Ngọc sau 2 năm định cư ở Mỹ",
+            "link": "https://vnexpress.net/cuoc-song-cua-khanh-ngoc-sau-2-nam-dinh-cu-o-my-5107377.html",
+            "img": "https://vcdn1-giaitri.vnecdn.net/2026/08/10/khanhngoc1-1786348496-4314-1786349310.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=YD6CkfyElljwkDfj4l7I6A"
         },
         {
             "title": "Dàn sao phim 'Troy' ngày ấy - bây giờ",
@@ -148,14 +148,14 @@
             "img": "https://photo.znews.vn/w210/Uploaded/asfzyrwtys1/2026_08_14/tg_drone_vs_plane_pa_17865103086822028827469_11zon.jpg"
         },
         {
-            "title": "'Xuất khẩu tại chỗ' văn hóa Việt",
-            "link": "https://znews.vn/xuat-khau-tai-cho-van-hoa-viet-post1676293.html",
-            "img": "https://photo.znews.vn/Uploaded/bpcgpivp/2026_08_11/sach_ngoai_van_van_hoa_Viet.jpg"
-        },
-        {
             "title": "'House of the Dragon' trên màn ảnh khác gì so với nguyên tác?",
             "link": "https://znews.vn/house-of-the-dragon-tren-man-anh-khac-gi-so-voi-nguyen-tac-post1676155.html",
             "img": "https://photo.znews.vn/Uploaded/bpcgpivp/2026_08_10/emma_d_arcy_0_1.jpg"
+        },
+        {
+            "title": "40.000 lượt khách tạo kỷ lục cho lễ hội văn học ở Brazil",
+            "link": "https://znews.vn/40000-luot-khach-tao-ky-luc-cho-le-hoi-van-hoc-o-brazil-post1675353.html",
+            "img": "https://photo.znews.vn/Uploaded/ecfzyryrzly/2026_08_02/2Q_1.jpg"
         }
     ]
 }
