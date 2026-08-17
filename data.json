@@ -1,14 +1,9 @@
 {
     "VNExpress": [
         {
-            "title": "Cầu Nhật Tân ùn tắc hơn 3 km sau hai vụ tai nạn liên hoàn",
-            "link": "https://vnexpress.net/cau-nhat-tan-un-tac-hon-3-km-sau-hai-vu-tai-nan-lien-hoan-5110153.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/17/20260817203700-1786973850-4426-1786973854.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=dACivrMiZ01ov-2UaFBghA"
-        },
-        {
             "title": "Ông Trump có thể tăng sức ép kinh tế lên Iran bằng cách nào?",
             "link": "https://vnexpress.net/ong-trump-co-the-tang-suc-ep-kinh-te-len-iran-bang-cach-nao-5109856.html",
-            "img": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/17/afp-aa-v1-midres-dailylifeinte-1916-3729-1786939581.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=FthKsJGrqMBLCVkQ2Qbryw"
+            "img": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/17/afp-aa-v1-midres-dailylifeinte-1916-3729-1786939581.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=j3M88sdXx7zOh9UJM8j0Hg"
         },
         {
             "title": "Sam Altman: Bốn năm đại học 'quá dài'",
@@ -21,9 +16,9 @@
             "img": "https://vcdn1-thethao.vnecdn.net/2026/08/17/wu1-1786957841-8842-1786957897.webp?w=220&h=132&q=100&dpr=1&fit=crop&s=zMKLtIfpZKHuStV3V9RW8g"
         },
         {
-            "title": "'Ông chủ' AI đầu tiên sa thải con người",
-            "link": "https://vnexpress.net/ong-chu-ai-dau-tien-sa-thai-con-nguoi-5110004.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/17/image-1786949390-3249-1786949406.png?w=220&h=132&q=100&dpr=1&fit=crop&s=IilmXsYJeY_1XSPveashmw"
+            "title": "Báo Hàn Quốc: 'HLV Kim Sang-sik sắp vượt Park Hang-seo'",
+            "link": "https://vnexpress.net/bao-han-quoc-hlv-kim-sang-sik-sap-vuot-park-hang-seo-5109971.html",
+            "img": "https://vcdn1-thethao.vnecdn.net/2026/08/17/dong2133-jpg-1786940961-6243-1786941163.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=5cx602C1CuNEiatKyghyzQ"
         },
         {
             "title": "Trục Kháng chiến trỗi dậy tiếp sức cho Iran đấu với Mỹ",
@@ -41,14 +36,19 @@
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/17/san-bay-lien-khuong-1786955776.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=hZIta8AzwspuW5e5Q-Lu5A"
         },
         {
-            "title": "Mỹ chi gần 23 tỷ USD để tăng tốc sản xuất tên lửa Tomahawk",
-            "link": "https://vnexpress.net/my-chi-gan-23-ty-usd-de-tang-toc-san-xuat-ten-lua-tomahawk-5110170.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/17/2026t182121z-rc23vja29vbv-rtrm-9697-1758-1786975836.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=l99B9wR7Eet32tG-i8fjNA"
+            "title": "Thiết bị nhỏ bằng đồng xu có thể tấn công máy bay Boeing 737",
+            "link": "https://vnexpress.net/thiet-bi-nho-bang-dong-xu-co-the-tan-cong-may-bay-boeing-737-5109100.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/14/VNEDevice-1786681654-5202-1786681772.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=fVfdhN7UHFkY2Br36SIPuA"
         },
         {
-            "title": "Báo Hàn Quốc: 'HLV Kim Sang-sik sắp vượt Park Hang-seo'",
-            "link": "https://vnexpress.net/bao-han-quoc-hlv-kim-sang-sik-sap-vuot-park-hang-seo-5109971.html",
-            "img": "https://vcdn1-thethao.vnecdn.net/2026/08/17/dong2133-jpg-1786940961-6243-1786941163.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=5cx602C1CuNEiatKyghyzQ"
+            "title": "Thai Rath: 'Đội tuyển Việt Nam sẽ phải chột dạ vì Thái Lan'",
+            "link": "https://vnexpress.net/thai-rath-doi-tuyen-viet-nam-se-phai-chot-da-vi-thai-lan-5110141.html",
+            "img": "https://vcdn1-thethao.vnecdn.net/2026/08/17/tha-i-lan-jpeg-1786963016-6265-1786963251.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=3P0BO6UiqfLjQaUZ4IMikg"
+        },
+        {
+            "title": "Thách thức pháp lý với ý tưởng biến Hormuz thành lãnh thổ Mỹ của ông Trump",
+            "link": "https://vnexpress.net/thach-thuc-phap-ly-voi-y-tuong-bien-hormuz-thanh-lanh-tho-my-cua-ong-trump-5109820.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/17/ap26226704815131-1786954391-7570-1786954427.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=ijW147gdtcpNzQ44HBn3dg"
         }
     ],
     "Tuổi Trẻ": [],
@@ -148,14 +148,14 @@
             "img": "https://photo.znews.vn/w210/Uploaded/lce_jwqqc/2026_08_17/homesweeethome7.jpg"
         },
         {
+            "title": "Chuyện ông giám đốc yêu đau đáu nghề xuất bản",
+            "link": "https://znews.vn/chuyen-ong-giam-doc-yeu-dau-dau-nghe-xuat-ban-post1677012.html",
+            "img": "https://photo.znews.vn/Uploaded/bpcgpivp/2026_08_14/ong_le_huy_hoa_1.jpeg"
+        },
+        {
             "title": "Muốn ăn chay healthy lâu dài, hãy bắt đầu từ 15 bước này",
             "link": "https://znews.vn/muon-an-chay-healthy-lau-dai-hay-bat-dau-tu-15-buoc-nay-post1677049.html",
             "img": "https://photo.znews.vn/Uploaded/caxwpqdwp/2026_08_14/An_thuan_chay_1.jpg"
-        },
-        {
-            "title": "'Thiết tha' nghĩa là gì?",
-            "link": "https://znews.vn/thiet-tha-nghia-la-gi-post1676959.html",
-            "img": "https://photo.znews.vn/Uploaded/bpcgpivp/2026_08_14/noi_co_sach_thiet_tha.jpg"
         }
     ]
 }
