@@ -1,9 +1,14 @@
 {
     "VNExpress": [
         {
-            "title": "LiveThái Lan 0-1 Singapore (H2): Bất ngờ ở Rajamangala",
+            "title": "LiveThái Lan 1-2 Singapore (H2): Teerasak hai lần sút dội cột",
             "link": "https://vnexpress.net/thai-lan-vs-singapore-5110483.html",
-            "img": "https://vcdn1-thethao.vnecdn.net/2026/08/18/singapore-jpeg-1787061523-9264-1787061561.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=vPIrUOc6umpSZhGHR74yTw"
+            "img": "https://vcdn1-thethao.vnecdn.net/2026/08/18/tha-i-lan-jpeg-1787064282-9918-1787064332.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=ZeYO7IBKNrriXNHZTJKBHg"
+        },
+        {
+            "title": "Sai lầm khi ăn sáng làm tăng nguy cơ gan nhiễm mỡ, ung thư",
+            "link": "https://vnexpress.net/sai-lam-khi-an-sang-lam-tang-nguy-co-gan-nhiem-mo-ung-thu-5110420.html",
+            "img": "https://vcdn1-suckhoe.vnecdn.net/2026/08/18/screenshot-at-1787040687-5389-1787040718.png?w=220&h=132&q=100&dpr=1&fit=crop&s=ztTiMBt9HryQkO6aYo3B-A"
         },
         {
             "title": "5 nguyên Ủy viên Bộ Chính trị được trao Huân chương Hồ Chí Minh",
@@ -11,19 +16,9 @@
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/18/hinh-anh-1787035419-1884-1787035710.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=h9u99PK5hDlnxWXBEccwnw"
         },
         {
-            "title": "Mỹ chỉ trích Israel vì không kích Syria",
-            "link": "https://vnexpress.net/my-chi-trich-israel-vi-khong-kich-syria-5110550.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/18/5563187178137269452a-178705510-3455-7371-1787055459.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=czSXAauMXj5CGtdKd6gIew"
-        },
-        {
-            "title": "Nỗi tức giận khiến ông Trump dọa 'ném bom tơi bời' Oman",
-            "link": "https://vnexpress.net/noi-tuc-gian-khien-ong-trump-doa-nem-bom-toi-boi-oman-5110238.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/18/afp-c46c9qa-v5-highres-correct-8366-9203-1787025276.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=GKk4RjnXkOicEX-VOGXrJQ"
-        },
-        {
-            "title": "Tài xế 'dở khóc dở cười' vì bị camera AI báo lỗi không thắt dây an toàn",
-            "link": "https://vnexpress.net/tai-xe-do-khoc-do-cuoi-vi-bi-camera-ai-bao-loi-khong-that-day-an-toan-5110340.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/18/day-an-toan-1787025961-2353-1787025976.png?w=220&h=132&q=100&dpr=1&fit=crop&s=CDL89B2TCUh0EBePuxgSQQ"
+            "title": "Ukraine phóng hơn 600 UAV nhằm vào Moskva, gây cháy nhà kho Wildberries",
+            "link": "https://vnexpress.net/ukraine-phong-hon-600-uav-nham-vao-moskva-gay-chay-nha-kho-wildberries-5110504.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/18/nh-1787045813-7685-1787046207.png?w=220&h=132&q=100&dpr=1&fit=crop&s=acO0SiOxDbGqOpzKu6n7Iw"
         },
         {
             "title": "Ngư dân trôi 4 ngày trên biển: 'Nghĩ về hai con, tôi cố bám tấm xốp'",
@@ -31,24 +26,29 @@
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/18/178704449779581292490970736575-6518-8788-1787044651.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=sYu9SXPOJhMiyzo19TuhbQ"
         },
         {
-            "title": "iPhone 18 tiêu chuẩn 'không ra mắt năm nay'",
-            "link": "https://vnexpress.net/iphone-18-tieu-chuan-khong-ra-mat-nam-nay-5109181.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/18/a1-1787042380-1859-1787042386.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=T4y1fQG2KbHMB1-RWhzyVg"
-        },
-        {
-            "title": "Việt Nam nguy cơ mất hậu vệ trụ cột ở lượt về bán kết ASEAN Cup",
-            "link": "https://vnexpress.net/viet-nam-nguy-co-mat-hau-ve-tru-cot-o-luot-ve-ban-ket-asean-cup-5110529.html",
-            "img": "https://vcdn1-thethao.vnecdn.net/2026/08/18/dong-1787050131.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=KDG7tjvq0pGKk2Afz7tBRw"
-        },
-        {
-            "title": "UAV Việt trình diễn khả năng đánh chặn, tiêu diệt mục tiêu",
-            "link": "https://vnexpress.net/uav-viet-trinh-dien-kha-nang-danh-chan-tieu-diet-muc-tieu-5110439.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/18/wm1-1-jpg-1787037526-1787039929.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=7rUYGM20wwU3r_cLXU5pjQ"
-        },
-        {
             "title": "Công thức nước 'thải độc' giúp minh tinh Hàn Quốc có vóc dáng như thiếu nữ",
             "link": "https://vnexpress.net/cong-thuc-nuoc-thai-doc-giup-minh-tinh-han-quoc-co-voc-dang-nhu-thieu-nu-5110124.html",
             "img": "https://vcdn1-suckhoe.vnecdn.net/2026/08/17/9-1786962374-9242-1786962627.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=1iZKUZyFvLuyCPLnv3JBMA"
+        },
+        {
+            "title": "Nỗi tức giận khiến ông Trump dọa 'ném bom tơi bời' Oman",
+            "link": "https://vnexpress.net/noi-tuc-gian-khien-ong-trump-doa-nem-bom-toi-boi-oman-5110238.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/18/afp-c46c9qa-v5-highres-correct-8366-9203-1787025276.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=GKk4RjnXkOicEX-VOGXrJQ"
+        },
+        {
+            "title": "Các tiêu chí chọn hiệu trưởng sau sáp nhập trường công ở TP HCM",
+            "link": "https://vnexpress.net/tieu-chi-chon-hieu-truong-sau-sap-xep-sap-nhap-truong-cong-o-tp-hcm-5110555.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/18/thitotnghiepthpt-1787058676-9865-1787058992.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=-uLtEaoYdyPBef6XXCwZSg"
+        },
+        {
+            "title": "Tài xế 'dở khóc dở cười' vì bị camera AI báo lỗi không thắt dây an toàn",
+            "link": "https://vnexpress.net/tai-xe-do-khoc-do-cuoi-vi-bi-camera-ai-bao-loi-khong-that-day-an-toan-5110340.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/18/day-an-toan-1787025961-2353-1787025976.png?w=220&h=132&q=100&dpr=1&fit=crop&s=CDL89B2TCUh0EBePuxgSQQ"
+        },
+        {
+            "title": "Thiếu niên cứu người giữa sóng lớn được ông Trump vinh danh tại Nhà Trắng",
+            "link": "https://vnexpress.net/thieu-nien-cuu-nguoi-giua-song-lon-duoc-ong-trump-vinh-danh-tai-nha-trang-5110522.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/18/thewhitehouseahfxs9uhw4encoded-9771-3818-1787048645.png?w=220&h=132&q=100&dpr=1&fit=crop&s=rH3My-Sk5ZmryGg2f_rdiw"
         }
     ],
     "Tuổi Trẻ": [],
@@ -108,14 +108,9 @@
     "VietnamNet": [],
     "Znews": [
         {
-            "title": "Huỳnh Lập có nỗ lực nhưng vẫn chưa thoát khỏi 'web-drama'",
-            "link": "https://lifestyle.zingnews.vn/huynh-lap-co-no-luc-nhung-van-chua-thoat-khoi-web-drama-post1677347.html",
-            "img": "https://photo.znews.vn/w1000/Uploaded/vrwqcqdjw/2026_08_16/BetterImage_1787028475239_1.jpeg"
-        },
-        {
-            "title": "Cục Hàng không kiểm tra tiến độ, chỉ đạo gắt gao ở sân bay Long Thành",
-            "link": "https://znews.vn/cuc-hang-khong-kiem-tra-tien-do-chi-dao-gat-gao-o-san-bay-long-thanh-post1677678.html",
-            "img": "https://photo.znews.vn/w480/Uploaded/mrndcqjwq/2026_08_18/Thu_nghiem_LT_2.jpeg"
+            "title": "Thái Lan 1-2 Singapore: Đội khách lại vượt lên",
+            "link": "https://lifestyle.zingnews.vn/thai-lan-1-2-singapore-doi-khach-lai-vuot-len-post1677677.html",
+            "img": "https://photo.znews.vn/w1000/Uploaded/qdhcadxwp/2026_08_07/singapore_2.jpg"
         },
         {
             "title": "5 cuốn sách nghệ thuật nói về tiền, thị hiếu và người nổi tiếng",
@@ -123,9 +118,14 @@
             "img": "https://photo.znews.vn/w480/Uploaded/ymzaz/2026_08_18/GettyImages_148278015_1024x814_1.jpg"
         },
         {
-            "title": "Thái Lan 0-1 Singapore: Đội khách mở tỷ số",
-            "link": "https://lifestyle.zingnews.vn/thai-lan-0-1-singapore-doi-khach-mo-ty-so-post1677677.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/qdhcadxwp/2026_08_07/singapore_1.jpg"
+            "title": "Huỳnh Lập có nỗ lực nhưng vẫn chưa thoát khỏi 'web-drama'",
+            "link": "https://lifestyle.zingnews.vn/huynh-lap-co-no-luc-nhung-van-chua-thoat-khoi-web-drama-post1677347.html",
+            "img": "https://photo.znews.vn/w480/Uploaded/vrwqcqdjw/2026_08_16/BetterImage_1787028475239_1.jpeg"
+        },
+        {
+            "title": "TP.HCM phát hiện thêm 13 bộ hài cốt liệt sĩ tại 2 địa điểm",
+            "link": "https://lifestyle.zingnews.vn/tphcm-phat-hien-them-13-bo-hai-cot-liet-si-tai-2-dia-diem-post1677843.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/anqyy/2026_08_18/ap_lac_an_1.jpg"
         },
         {
             "title": "Khởi tố Phú Lê và Lã Thúy Kiều",
@@ -148,14 +148,14 @@
             "img": "https://photo.znews.vn/w210/Uploaded/aobhuao/2026_08_17/Patrik_Le_Giang.jpg"
         },
         {
-            "title": "Chuyện ông giám đốc yêu đau đáu nghề xuất bản",
-            "link": "https://znews.vn/chuyen-ong-giam-doc-yeu-dau-dau-nghe-xuat-ban-post1677012.html",
-            "img": "https://photo.znews.vn/Uploaded/bpcgpivp/2026_08_14/ong_le_huy_hoa_1.jpeg"
+            "title": "Ngành sách nhộn nhịp mùa khai trường",
+            "link": "https://znews.vn/nganh-sach-nhon-nhip-mua-khai-truong-post1677115.html",
+            "img": "https://photo.znews.vn/Uploaded/zagtgt/2026_08_15/1786709812874_581753143123612902_581753143123612902_751b21bac32052529b2bc8b38d077759.jpg"
         },
         {
-            "title": "Khi cà phê được dùng như thứ nước tăng lực",
-            "link": "https://znews.vn/khi-ca-phe-duoc-dung-nhu-thu-nuoc-tang-luc-post1677099.html",
-            "img": "https://photo.znews.vn/Uploaded/ofh_cgkztmzt/2022_07_23/ca_phe_3.jpg"
+            "title": "Tiểu thuyết lấy cảm hứng từ Taylor Swift thành sách ăn khách",
+            "link": "https://znews.vn/tieu-thuyet-lay-cam-hung-tu-taylor-swift-thanh-sach-an-khach-post1676986.html",
+            "img": "https://photo.znews.vn/Uploaded/ecfzyryrzly/2026_08_06/alex_aster_1__1.jpg"
         }
     ]
 }
