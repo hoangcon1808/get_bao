@@ -1,29 +1,9 @@
 {
     "VNExpress": [
         {
-            "title": "Nhân viên ngân hàng chạy đua tìm khách gửi tiền",
-            "link": "https://vnexpress.net/nhan-vien-ngan-hang-chay-dua-tim-khach-gui-tien-5110600.html",
-            "img": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/19/bank-jpeg-1787076720-9715-1787077034.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=2ZXDHeJjbQ5etVMZqMljCw"
-        },
-        {
-            "title": "Phổ điểm thi lại tốt nghiệp THPT của thí sinh chuyên Tuyên Quang",
-            "link": "https://vnexpress.net/pho-diem-thi-lai-tot-nghiep-thpt-cua-thi-sinh-chuyen-tuyen-quang-tat-ca-mon-kem-so-sanh-5110459.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/18/ctq-1787041353-4399-1787041389.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=dACD5JFYOXSXXg22L84I1w"
-        },
-        {
-            "title": "Điểm thi lại tốt nghiệp của thí sinh chuyên Tuyên Quang giảm ở tất cả môn",
-            "link": "https://vnexpress.net/diem-thi-lai-tot-nghiep-cua-thi-sinh-chuyen-tuyen-quang-giam-o-tat-ca-mon-5110669.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/19/imtrungbnhhailnthi2-1787104332-8978-1787104530.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=z7SgX2baGw6M3KRpPVYT7Q"
-        },
-        {
-            "title": "Điều gì xảy ra khi uống một cốc nước nóng lúc thức dậy?",
-            "link": "https://vnexpress.net/dieu-gi-xay-ra-khi-uong-mot-coc-nuoc-nong-luc-thuc-day-5110307.html",
-            "img": "https://vcdn1-suckhoe.vnecdn.net/2026/08/18/screenshot-at-1787023522-9523-1787023734.png?w=220&h=132&q=100&dpr=1&fit=crop&s=x_zZ4Mehz0UaBbyRamgrXg"
-        },
-        {
-            "title": "Trùm ma túy và cú đổi đời thành triệu phú từ một hũ kem trong tù",
-            "link": "https://vnexpress.net/trum-ma-tuy-va-cu-doi-doi-thanh-trieu-phu-tu-mot-hu-kem-trong-tu-5110531.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/18/2109-1787050372-7258-1787050571.png?w=220&h=132&q=100&dpr=1&fit=crop&s=XjtkFPnjKXjVq6Th51iB3Q"
+            "title": "Không thí sinh chuyên Tuyên Quang nào đạt 10 điểm Toán thi lại tốt nghiệp",
+            "link": "https://vnexpress.net/cong-bo-diem-thi-lai-tot-nghiep-thpt-cua-326-thi-sinh-truong-chuyen-tuyen-quang-5110503.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/19/wm1-wm1-tuu-jpg-1787095831-9801-1787096401.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=aPHS9yOIZGYfwpl70kpVyA"
         },
         {
             "title": "HLV tuyển Ai Cập ngất xỉu vì hai người vợ hỗn chiến",
@@ -31,9 +11,19 @@
             "img": "https://vcdn1-thethao.vnecdn.net/2026/08/18/hlv-1787069264-2470-1787069603.webp?w=220&h=132&q=100&dpr=1&fit=crop&s=2wFml6OiVRHPX4T70sAOIg"
         },
         {
-            "title": "Chương Tử Di kiếm 45 triệu USD nhờ đầu tư",
-            "link": "https://vnexpress.net/chuong-tu-di-kiem-45-trieu-usd-nho-dau-tu-5110657.html",
-            "img": "https://vcdn1-giaitri.vnecdn.net/2026/08/19/tu-di-1787105331-6915-1787105841.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=jTSp9nokrqo0rGVsZ5vMHw"
+            "title": "Phổ điểm thi lại tốt nghiệp THPT của thí sinh chuyên Tuyên Quang",
+            "link": "https://vnexpress.net/pho-diem-thi-lai-tot-nghiep-thpt-cua-thi-sinh-chuyen-tuyen-quang-tat-ca-mon-kem-so-sanh-5110459.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/18/ctq-1787041353-4399-1787041389.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=dACD5JFYOXSXXg22L84I1w"
+        },
+        {
+            "title": "Lễ giỗ chung 14 người mất vì Covid trong con hẻm TP HCM",
+            "link": "https://vnexpress.net/le-gio-chung-14-nguoi-mat-vi-covid-trong-con-hem-tp-hcm-5109448.html",
+            "img": "https://vcdn1-giadinh.vnecdn.net/2026/08/18/screen-shot-at-1787043793-5943-1787045369.png?w=220&h=132&q=100&dpr=1&fit=crop&s=g4_2Dm8aU-eCm0G3oAvOSg"
+        },
+        {
+            "title": "Cựu bộ trưởng quốc phòng Ukraine kêu gọi bầu cử, thách thức ông Zelensky",
+            "link": "https://vnexpress.net/cuu-bo-truong-quoc-phong-ukraine-keu-goi-bau-cu-thach-thuc-ong-zelensky-5110660.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/19/cuu-bo-truong-quoc-phong-ukrai-8463-3887-1787107647.webp?w=220&h=132&q=100&dpr=1&fit=crop&s=aTMts9vM7fHng5SzE-YvFg"
         },
         {
             "title": "Tỷ phú 87 tuổi chi 40 triệu USD mua xe điện Ferrari đầu tiên",
@@ -41,23 +31,38 @@
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/18/ferrariluce3-1787029697-8603-1787029700.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=tq5KLJxAl9pAp3iP--_jhQ"
         },
         {
-            "title": "Toyota GR GT giá 220.000 USD cháy hàng dù chưa mở bán",
-            "link": "https://vnexpress.net/toyota-gr-gt-gia-220-000-usd-chay-hang-du-chua-mo-ban-5110633.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/19/ToyotaGRGT-1787105098-4339-1787105874.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=WD3V8EFa8q9XMEOXpQuTMw"
+            "title": "Biến động điểm các tổ hợp xét đại học ở chuyên Tuyên Quang",
+            "link": "https://vnexpress.net/so-sanh-diem-cac-to-hop-xet-tuyen-dai-hoc-cua-thi-sinh-chuyen-tuyen-quang-thay-doi-ra-sao-5110719.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/19/wm1-wm1-tuu-jpg-1787111798-8224-1787111805.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=8eaTQWb_7XPqpy_CUJGklA"
         },
         {
-            "title": "Ứng dụng Tammi nằm trong top tải nhiều tại Việt Nam",
-            "link": "https://vnexpress.net/ung-dung-tammi-nam-trong-top-tai-nhieu-tai-viet-nam-5110618.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/19/wm1-wm1-img-8354-jpg-1787099167-8633-1787099327.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=_tlN2crSAbqzIdhAleM1PA"
+            "title": "Gói đầu tư châm ngòi nỗi bất bình của ông Trump với Hàn Quốc",
+            "link": "https://vnexpress.net/goi-dau-tu-cham-ngoi-noi-bat-binh-cua-ong-trump-voi-han-quoc-5110405.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/18/AFP-20260810-C4CJ7RZ-v3-HighRe-1345-9319-1787044575.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=1Oc0mlOH7IiijhrJlXKMWQ"
+        },
+        {
+            "title": "Đoàn tụ sau 26 năm bị dì ruột bắt cóc",
+            "link": "https://vnexpress.net/doan-tu-sau-26-nam-bi-di-ruot-bat-coc-5109578.html",
+            "img": "https://vcdn1-giadinh.vnecdn.net/2026/08/19/03087bf40ad162d9b95e4b8f8ad38a-5477-9277-1787105760.webp?w=220&h=132&q=100&dpr=1&fit=crop&s=8R_lOv1KBaRwNBHAGrDXlg"
+        },
+        {
+            "title": "Nỗi bất lực của khẩu đội Patriot khi tên lửa Nga bay qua",
+            "link": "https://vnexpress.net/noi-bat-luc-cua-khau-doi-patriot-khi-ten-lua-nga-bay-qua-5110343.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/18/Settop-1787039104-1230-1787040188.png?w=220&h=132&q=100&dpr=1&fit=crop&s=XyIBi_EUuBbGcqRnAejziw"
         }
     ],
     "Tuổi Trẻ": [],
     "Thanh Niên": [],
     "Dân Trí": [
         {
+            "title": "Điểm thi lại chuyên Tuyên Quang: Không có điểm 10, khối B00 cao nhất 24",
+            "link": "https://dantri.com.vn/giao-duc/diem-thi-lai-chuyen-tuyen-quang-khong-co-diem-10-khoi-b00-cao-nhat-24-20260819102013416.htm",
+            "img": "https://cdnphoto.dantri.com.vn/ea8xdvktVViW5kQy_0fUx457hE0=/zoom/774_516/2026/08/19/thi-sinh-chuyen-tq-cropped-1787109337711.jpg"
+        },
+        {
             "title": "Chuyên gia: Điểm thi lại phản ánh đúng năng lực thí sinh chuyên Tuyên Quang",
             "link": "https://dantri.com.vn/giao-duc/chuyen-gia-diem-thi-lai-phan-anh-dung-nang-luc-thi-sinh-chuyen-tuyen-quang-20260819094236286.htm",
-            "img": "https://cdnphoto.dantri.com.vn/YM2ng_yck77u_wSzNPUERkN0Mkc=/zoom/774_516/2026/08/19/tuyenquang-thilai-cropped-1787108499098.jpg"
+            "img": "https://cdnphoto.dantri.com.vn/E3tKsdx1zBVnfV2ZEWGnk_5UHL8=/zoom/351_234/2026/08/19/tuyenquang-thilai-cropped-1787108499098.jpg"
         },
         {
             "title": "Phổ điểm các môn thi lại của thí sinh THPT chuyên Tuyên Quang",
@@ -67,17 +72,12 @@
         {
             "title": "Điểm thi lại ở THPT chuyên Tuyên Quang: Thí sinh cao nhất đạt 33,75 điểm",
             "link": "https://dantri.com.vn/giao-duc/diem-thi-lai-o-thpt-chuyen-tuyen-quang-thi-sinh-cao-nhat-dat-3375-diem-20260819090045661.htm",
-            "img": "https://cdnphoto.dantri.com.vn/MEh3j_MpdBfQJkvWfsfM3rfZJFw=/zoom/351_234/2026/08/19/thi-sinh-chuyen-tq-edited-1787104040668.jpg"
+            "img": "https://cdnphoto.dantri.com.vn/fDySOGJtcCg1YUa8_NkEGwSKrqc=/zoom/192_128/2026/08/19/thi-sinh-chuyen-tq-edited-1787104040668.jpg"
         },
         {
             "title": "6 thí sinh điểm văn dưới 5 ở kỳ thi lại THPT chuyên Tuyên Quang",
             "link": "https://dantri.com.vn/giao-duc/6-thi-sinh-diem-van-duoi-5-o-ky-thi-lai-thpt-chuyen-tuyen-quang-20260818210310647.htm",
             "img": "https://cdnphoto.dantri.com.vn/Vl3rjW48HpGfADfJrcvtCGE-IKs=/zoom/192_128/2026/08/18/chuyen-tuyen-quan-myha20-cropped-1787061411129.jpg"
-        },
-        {
-            "title": "Trường Quốc tế Fairmont Việt Nam ra mắt từ năm học 2026-2027",
-            "link": "https://dantri.com.vn/giao-duc/truong-quoc-te-fairmont-viet-nam-ra-mat-tu-nam-hoc-2026-2027-20260818220743507.htm",
-            "img": "https://cdnphoto.dantri.com.vn/DyPJKeFmN3O8YZ2UM95S_9l6o1w=/zoom/192_128/2026/08/18/fa1-cropped-1787065597270.jpg"
         },
         {
             "title": "Điểm trung bình môn toán là 6,24 trong lần thi lại ở chuyên Tuyên Quang",
@@ -148,14 +148,14 @@
             "img": "https://photo.znews.vn/w210/Uploaded/ecfzyryrzly/2026_08_15/bi_can_kieu_1.jpg"
         },
         {
-            "title": "Muốn ăn chay healthy lâu dài, hãy bắt đầu từ 15 bước này",
-            "link": "https://znews.vn/muon-an-chay-healthy-lau-dai-hay-bat-dau-tu-15-buoc-nay-post1677049.html",
-            "img": "https://photo.znews.vn/Uploaded/caxwpqdwp/2026_08_14/An_thuan_chay_1.jpg"
+            "title": "Vì sao Trái đất được xem nằm im bất động suốt nhiều thế kỷ?",
+            "link": "https://znews.vn/vi-sao-trai-dat-duoc-xem-nam-im-bat-dong-suot-nhieu-the-ky-post1677083.html",
+            "img": "https://photo.znews.vn/Uploaded/znang2/2026_08_15/FtZp6QnDfwyCKuLUAvhoQVtIKncj8UWzhYfhe8orMzx.jpg"
         },
         {
-            "title": "Dự thảo Luật Xuất bản định khung pháp lý cho xuất bản số",
-            "link": "https://znews.vn/du-thao-luat-xuat-ban-dinh-khung-phap-ly-cho-xuat-ban-so-post1677041.html",
-            "img": "https://photo.znews.vn/Uploaded/zagtgt/2026_08_14/thanhtran_4194.jpg"
+            "title": "Ngành sách nhộn nhịp mùa khai trường",
+            "link": "https://znews.vn/nganh-sach-nhon-nhip-mua-khai-truong-post1677115.html",
+            "img": "https://photo.znews.vn/Uploaded/zagtgt/2026_08_15/1786709812874_581753143123612902_581753143123612902_751b21bac32052529b2bc8b38d077759.jpg"
         }
     ]
 }
