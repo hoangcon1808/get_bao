@@ -1,9 +1,9 @@
 {
     "VNExpress": [
         {
-            "title": "Bộ Giáo dục và Đào tạo: Đủ sách giáo khoa trước 30/8",
-            "link": "https://vnexpress.net/bo-giao-duc-va-dao-tao-du-sach-giao-khoa-truoc-30-8-5111880.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/21/wm1-wm1-1787139317808c3fe8536f9992-2115-7266-1787320055.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=xwFfdvROLFbgHA7Y84TbmQ"
+            "title": "Nỗi lo phạt nguội",
+            "link": "https://vnexpress.net/noi-lo-phat-nguoi-5109925.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/21/c91r5930-1787328765-1397-1787328964.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=U2HhMttSkrpWExRvKjrMGg"
         },
         {
             "title": "Bế tắc có thể thúc đẩy Iran 'chuyển từ phòng thủ sang tiến công'",
@@ -53,7 +53,58 @@
     ],
     "Tuổi Trẻ": [],
     "Thanh Niên": [],
-    "Dân Trí": [],
+    "Dân Trí": [
+        {
+            "title": "Phụ huynh nhiều tỉnh thành khó mua SGK, Bộ GD&ĐT yêu cầu báo cáo",
+            "link": "https://dantri.com.vn/giao-duc/phu-huynh-nhieu-tinh-thanh-kho-mua-sgk-bo-gddt-yeu-cau-bao-cao-20260821204023105.htm",
+            "img": "https://cdnphoto.dantri.com.vn/gfLKS0NEHcMExcidYhleMHSsHKA=/zoom/774_516/2026/08/21/img3592-cropped-1786979852709-1787319304392.jpg"
+        },
+        {
+            "title": "Sinh viên phản ứng khoản phạt 15 triệu: ĐH Ngân hàng TPHCM thông báo khẩn",
+            "link": "https://dantri.com.vn/giao-duc/sinh-vien-phan-ung-khoan-phat-15-trieu-dh-ngan-hang-tphcm-thong-bao-khan-20260821175311213.htm",
+            "img": "https://cdnphoto.dantri.com.vn/d9mhUoym8c45k9NaVuMDae0Opl8=/zoom/351_234/2026/08/21/sinh-vien-dai-hoc-ngan-hang-hoc-phi-edited-1787309122013.jpg"
+        },
+        {
+            "title": "Nghệ An giảm gần một nửa đầu mối trường học sau sắp xếp",
+            "link": "https://dantri.com.vn/giao-duc/nghe-an-giam-gan-mot-nua-dau-moi-truong-hoc-sau-sap-xep-20260821165132718.htm",
+            "img": "https://cdnphoto.dantri.com.vn/VlMFjY78nVPi6eYGZBC89d3Ozek=/zoom/351_234/2026/08/21/truong-thcs-vinh-tan-gia-the-lop-nghe-an-3-edited-edited-1787305600678.jpg?watermark=true"
+        },
+        {
+            "title": "Phụ huynh \"đội mưa\", vượt 30km về trung tâm vẫn không mua đủ bộ SGK cho con",
+            "link": "https://dantri.com.vn/giao-duc/phu-huynh-doi-mua-vuot-30km-ve-trung-tam-van-khong-mua-du-bo-sgk-cho-con-20260821153219319.htm",
+            "img": "https://cdnphoto.dantri.com.vn/CGYr8DcI7ear2mff64ix1bXmTWc=/zoom/192_128/2026/08/21/sach-giao-khoathanh-hoa-1787300900938.jpg"
+        },
+        {
+            "title": "Hiệu trưởng ở Hà Nội nêu điểm nghẽn cần khắc phục khi sáp nhập trường",
+            "link": "https://dantri.com.vn/giao-duc/hieu-truong-o-ha-noi-neu-diem-nghen-can-khac-phuc-khi-sap-nhap-truong-20260821143422495.htm",
+            "img": "https://cdnphoto.dantri.com.vn/cyXGeKS9ec4ifr64EYD7HRDDEKk=/zoom/192_128/2026/08/21/nguyen-cao-cuong-edited-1787296734384.jpg"
+        },
+        {
+            "title": "5.000 học sinh Phú Quốc chưa có SGK, đặt mua gần 2 tháng vẫn... phải chờ",
+            "link": "https://dantri.com.vn/giao-duc/5000-hoc-sinh-phu-quoc-chua-co-sgk-dat-mua-gan-2-thang-van-phai-cho-20260821134249879.htm",
+            "img": "https://cdnphoto.dantri.com.vn/G97DdBRsFZaxqOoSTNgKCrMQnm4=/zoom/192_128/2026/08/21/thieusach-phuquoc-cropped-1787293997441.jpg"
+        },
+        {
+            "title": "16 năm làm quản lý, hiệu trưởng vẫn quyết về hưu sớm sau sắp xếp trường",
+            "link": "https://dantri.com.vn/giao-duc/16-nam-lam-quan-ly-hieu-truong-van-quyet-ve-huu-som-sau-sap-xep-truong-20260820231037093.htm",
+            "img": "https://cdnphoto.dantri.com.vn/vwqur62PkFaz0Oc--6DDyRMkJvU=/zoom/192_128/2026/08/21/hieu-truong-xin-ve-huu-som-nghi-khong-co-nghia-la-het-gan-bo-voi-giao-duc-1-edited-1787282731072.jpg"
+        },
+        {
+            "title": "Học sinh TPHCM tăng kỷ lục, chạm mốc hơn 2,6 triệu em",
+            "link": "https://dantri.com.vn/giao-duc/hoc-sinh-tphcm-tang-ky-luc-cham-moc-hon-26-trieu-em-20260821112308818.htm",
+            "img": "https://cdnphoto.dantri.com.vn/GcuBoTenSAqR9twAZF8Nrye7TSY=/zoom/192_128/2025/02/20/hoc-sinh-tphcm-phan-khoi-buoc-vao-nam-hoc-2024-2025-3-edited-edited-edited-1740062605798.jpeg"
+        },
+        {
+            "title": "Loạt điện thoại pin lớn trong tầm giá 5 triệu đồng đáng cân nhắc",
+            "link": "https://dantri.com.vn/cong-nghe/loat-dien-thoai-pin-lon-trong-tam-gia-5-trieu-dong-dang-can-nhac-20260821120255291.htm",
+            "img": "https://cdnphoto.dantri.com.vn/1YoV2FPGb8u5Hv2qekrt9pjDBfY=/zoom/774_516/2026/08/21/dien-thoai-gia-re-cropped-1787288490478.jpg"
+        },
+        {
+            "title": "iPhone 18 Pro Max ra mắt khi nào?",
+            "link": "https://dantri.com.vn/cong-nghe/iphone-18-pro-max-ra-mat-khi-nao-20260821000146017.htm",
+            "img": "https://cdnphoto.dantri.com.vn/_kGfQcQIEwpSehj4RdzChD8Edng=/zoom/351_234/2026/08/11/iphone-18-pro-max-apple-insider-cropped-1786464195042.jpg"
+        }
+    ],
     "VietnamNet": [],
     "Znews": [
         {
@@ -97,14 +148,14 @@
             "img": "https://photo.znews.vn/w210/Uploaded/wohuhuo/2026_07_28/ket_xe_o_tphcm_1.jpg"
         },
         {
-            "title": "Sách của nhà văn Nguyễn Nhật Ánh ra mắt tại Thụy Điển",
-            "link": "https://znews.vn/sach-cua-nha-van-nguyen-nhat-anh-ra-mat-tai-thuy-dien-post1677684.html",
-            "img": "https://photo.znews.vn/Uploaded/ukrspuo/2026_07_16/Nguyen_Nhat_Anh_znews.jpg"
+            "title": "'Bước ra từ sách' để gặp khán giả mới",
+            "link": "https://znews.vn/buoc-ra-tu-sach-de-gap-khan-gia-moi-post1677805.html",
+            "img": "https://photo.znews.vn/Uploaded/zagtgt/2026_08_18/778882525_1104295971922896_204300347496093553_n_1.jpg"
         },
         {
-            "title": "Hết thời tăng trưởng 'khủng', Webtoon chuyển chiến lược phát triển IP",
-            "link": "https://znews.vn/het-thoi-tang-truong-khung-webtoon-chuyen-chien-luoc-phat-trien-ip-post1676913.html",
-            "img": "https://photo.znews.vn/Uploaded/qoswae/2026_08_14/7944763b_b793_42c8_bbb6_2d1910a2d080_1.jpg"
+            "title": "Ranh giới cho những người 'nghiện' cà phê",
+            "link": "https://znews.vn/ranh-gioi-cho-nhung-nguoi-nghien-ca-phe-post1677587.html",
+            "img": "https://photo.znews.vn/Uploaded/ofh_cgkztmzt/2025_08_02/Pha_ca_phe.jpg"
         }
     ]
 }
