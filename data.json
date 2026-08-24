@@ -1,14 +1,24 @@
 {
     "VNExpress": [
         {
-            "title": "Hiệu trưởng vụ 'ăn chặn' tiền A80 khai: Bận quá cấp dưới báo gì biết đó",
-            "link": "https://vnexpress.net/hieu-truong-vu-an-chan-tien-a80-khai-ban-qua-cap-duoi-bao-gi-biet-do-5112680.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/24/attHEDkvoW86EA8xzU2wd3pGveheNJ-2198-3484-1787546907.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=2SVWIUdECCfYCiBpciBmUQ"
+            "title": "Báo Hàn Quốc: 'Park gieo mầm, Kim biến vô địch thành thói quen cho Việt Nam'",
+            "link": "https://vnexpress.net/bao-han-quoc-park-gieo-mam-kim-bien-vo-dich-thanh-thoi-quen-cho-viet-nam-5112456.html",
+            "img": "https://vcdn1-thethao.vnecdn.net/2026/08/23/don-jpg-1787487042-6308-1787487178.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=x3eJXVyFFM2BCSYaPmMcHA"
         },
         {
-            "title": "Nhà sáng lập Evergrande - từ giàu nhất châu Á đến tù tội",
-            "link": "https://vnexpress.net/nha-sang-lap-evergrande-tu-giau-nhat-chau-a-den-tu-toi-5112459.html",
-            "img": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/23/afp-v1-highres-pressconference-5581-2163-1787492135.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=YGGOVaQJH1l7I1Fl-3iVRQ"
+            "title": "Tổng thống Zelensky tiết lộ từng bẽ mặt trước ông Trump vì trùm drone Ukraine",
+            "link": "https://vnexpress.net/tong-thong-zelensky-tiet-lo-tung-be-mat-truoc-ong-trump-vi-trum-drone-ukraine-5112547.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/24/ap26197370623875-1787533501-8217-1787533583.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=Lk_X3fo8bnpg4uAT21hA8A"
+        },
+        {
+            "title": "7 sân bay bị bỏ hoang nổi tiếng thế giới",
+            "link": "https://vnexpress.net/7-san-bay-bi-bo-hoang-noi-tieng-the-gioi-5112626.html",
+            "img": "https://vcdn1-dulich.vnecdn.net/2026/08/24/resize-1787543484.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=Kwu7DNuzFrlE748pXm0ZHw"
+        },
+        {
+            "title": "Xe quay đầu va chạm xe đi thẳng - ai sai?",
+            "link": "https://vnexpress.net/xe-quay-dau-va-cham-xe-di-thang-ai-sai-5112550.html",
+            "img": "https://via.placeholder.com/300x200?text=No+Image"
         },
         {
             "title": "Nhiều người ngạc nhiên vì không thấy Hà Nội ngập sau mưa",
@@ -21,29 +31,19 @@
             "img": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/24/wm1-wm1-233a0893-1787541415-9221-1787541459.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=t21ok5kMuo9k1VX6EubFCw"
         },
         {
-            "title": "Báo Hàn Quốc: 'Park gieo mầm, Kim biến vô địch thành thói quen cho Việt Nam'",
-            "link": "https://vnexpress.net/bao-han-quoc-park-gieo-mam-kim-bien-vo-dich-thanh-thoi-quen-cho-viet-nam-5112456.html",
-            "img": "https://vcdn1-thethao.vnecdn.net/2026/08/23/don-jpg-1787487042-6308-1787487178.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=VbXbT3lqdOV6s38EuPw7Yg"
-        },
-        {
-            "title": "Xe quay đầu va chạm xe đi thẳng - ai sai?",
-            "link": "https://vnexpress.net/xe-quay-dau-va-cham-xe-di-thang-ai-sai-5112550.html",
-            "img": "https://via.placeholder.com/300x200?text=No+Image"
-        },
-        {
             "title": "Nguy cơ nếu Iran mở mặt trận mới ở châu Âu",
             "link": "https://vnexpress.net/nguy-co-neu-iran-mo-mat-tran-moi-o-chau-au-5112166.html",
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/23/afpwk3wj-v2-highres-iranusconf-7596-1472-1787421307.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=pKRrPvrop0Yu5_d0K1-Kjg"
         },
         {
+            "title": "Mỗi trẻ Singapore nhận 70.000 SGD hỗ trợ đến năm 17 tuổi",
+            "link": "https://vnexpress.net/moi-tre-singapore-nhan-70-000-sgd-ho-tro-den-nam-17-tuoi-5112691.html",
+            "img": "https://vcdn1-suckhoe.vnecdn.net/2026/08/24/5-1787545354-7736-1787545409.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=u4_W9hvoPGBuPtulcrmong"
+        },
+        {
             "title": "Khủng hoảng bất động sản Trung Quốc vẫn chưa chấm dứt",
             "link": "https://vnexpress.net/khung-hoang-bat-dong-san-trung-quoc-van-chua-cham-dut-5112654.html",
             "img": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/24/2024t143218z-rc2et5afk70z-rtrm-5625-2554-1787541232.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=EnkaPoFQD7z_7VWEDplZuw"
-        },
-        {
-            "title": "Bài toán giá thịt bò chia rẽ ông Trump và nhóm cử tri trung thành nhất",
-            "link": "https://vnexpress.net/bai-toan-gia-thit-bo-chia-re-ong-trump-va-nhom-cu-tri-trung-thanh-nhat-5111946.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/22/AFP20260819C6279FJv2HighRes776-1226-2147-1787372819.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=C7XXokbjFEFvAjb5tYjwcg"
         },
         {
             "title": "'Đốt' não từ thói quen lướt TikTok vài phút trước ngủ",
@@ -148,14 +148,14 @@
             "img": "https://photo.znews.vn/w210/Uploaded/ecfzyryrzly/2026_08_20/anh_2.jpg"
         },
         {
-            "title": "Doanh nghiệp sách cần hỗ trợ gì để lan tỏa giá trị Việt?",
-            "link": "https://znews.vn/doanh-nghiep-sach-can-ho-tro-gi-de-lan-toa-gia-tri-viet-post1678549.html",
-            "img": "https://photo.znews.vn/Uploaded/sgtnrn/2025_10_08/Anh_5_Presserundgang_Ehrengast_Pavillon_Philippinen_2025_5_.jpg"
+            "title": "Cuốn sách của Carl Jung nhắc trân trọng từng ngày được sống",
+            "link": "https://znews.vn/cuon-sach-cua-carl-jung-nhac-tran-trong-tung-ngay-duoc-song-post1677467.html",
+            "img": "https://photo.znews.vn/Uploaded/ecfzyryrzly/2026_08_06/avatar1773581932582_177358193344.jpg"
         },
         {
-            "title": "AI và bài toán làm việc thông minh",
-            "link": "https://znews.vn/ai-va-bai-toan-lam-viec-thong-minh-post1678438.html",
-            "img": "https://photo.znews.vn/Uploaded/cqjrzdhwq/2026_08_21/104663.jpg"
+            "title": "'Chúa tể những chiếc nhẫn' và bài học về quyền lực",
+            "link": "https://znews.vn/chua-te-nhung-chiec-nhan-va-bai-hoc-ve-quyen-luc-post1677571.html",
+            "img": "https://photo.znews.vn/Uploaded/ofh_cgkztmzt/2026_08_17/J.Tolkien.jpg"
         }
     ]
 }
