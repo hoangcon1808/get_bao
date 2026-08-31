@@ -1,58 +1,63 @@
 {
     "VNExpress": [
         {
-            "title": "Phà chở 267 người lật ngoài khơi đảo Cyprus",
-            "link": "https://vnexpress.net/pha-cho-267-nguoi-lat-ngoai-khoi-dao-cyprus-5115234.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/30/anh1-1788090711-5809-1788091180.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=kORnlhNXMsQWGqYnkUxSbA"
-        },
-        {
-            "title": "Du khách ghi lại cảnh sông băng Himalaya sụp đổ trước khi lũ quét tàn phá Nepal",
-            "link": "https://vnexpress.net/du-khach-ghi-lai-canh-song-bang-himalaya-sup-do-truoc-khi-lu-quet-tan-pha-nepal-5115207.html",
-            "img": "https://via.placeholder.com/300x200?text=No+Image"
-        },
-        {
-            "title": "Nước Đông Nam Á nào là chủ nợ lớn của Mỹ?",
-            "link": "https://vnexpress.net/nuoc-dong-nam-a-nao-la-chu-no-lon-cua-my-5115081.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/30/01416553837-1788023327-6012-1788023453.webp?w=220&h=132&q=100&dpr=1&fit=crop&s=lfcAFYLBcdlnPGfStzt7qg"
-        },
-        {
-            "title": "Hàng trăm hành khách chen nhau trên đáy tàu cao tốc lật úp ngoài khơi Cyprus",
-            "link": "https://vnexpress.net/hang-tram-hanh-khach-chen-nhau-tren-day-tau-cao-toc-lat-up-ngoai-khoi-cyprus-5115267.html",
-            "img": "https://via.placeholder.com/300x200?text=No+Image"
-        },
-        {
-            "title": "Cách ông Trump gây quỹ hàng trăm triệu đô từ giới doanh nghiệp",
-            "link": "https://vnexpress.net/cach-ong-trump-gay-quy-hang-tram-trieu-do-tu-gioi-doanh-nghiep-5103560.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/31/anh1-1785469178-5676-1785470536.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=aOnTRHY0_8UhHI1Sk78IAg"
-        },
-        {
-            "title": "Nepal chôn cất tập thể hàng trăm nạn nhân lũ quét vô danh",
-            "link": "https://vnexpress.net/nepal-chon-cat-tap-the-hang-tram-nan-nhan-lu-quet-vo-danh-5115278.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/31/nepal-1788113685-9244-1788114154.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=J_cZFUYxR3EvfKvAQnOPHA"
-        },
-        {
             "title": "Man Utd đại thắng nhờ hat-trick của Fernandes",
             "link": "https://vnexpress.net/man-utd-dai-thang-nho-hat-trick-cua-fernandes-5115276.html",
-            "img": "https://vcdn1-thethao.vnecdn.net/2026/08/31/bruno-fernandes-1788111219-5647-1788111903.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=S389Or1eRwzTFMiWR79mKw"
+            "img": "https://vcdn1-thethao.vnecdn.net/2026/08/31/bruno-fernandes-1788111219-5647-1788111903.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=54xubiwn7onDUsQacp4D1w"
         },
         {
-            "title": "Xuân thì của Võ Sông Hương",
-            "link": "https://vnexpress.net/xuan-thi-cua-vo-song-huong-5113112.html",
-            "img": "https://vcdn1-giaitri.vnecdn.net/2026/08/26/song-huong-1787717314.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=FpChExi9uQIExehAWPUEVQ"
+            "title": "Giấc mơ đường sắt cao tốc dang dở của California",
+            "link": "https://vnexpress.net/giac-mo-duong-sat-cao-toc-dang-do-cua-california-5114365.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/30/calmatters-1788082543-9489-1788082634.png?w=220&h=132&q=100&dpr=1&fit=crop&s=1RHN9-nJhoqS9wTDo4pvdw"
+        },
+        {
+            "title": "Nhiều giáo sư Harvard, MIT 'dứt áo' sang Canada",
+            "link": "https://vnexpress.net/nhieu-giao-su-harvard-mit-dut-ao-sang-canada-5115262.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/30/uoft-1788100726-6910-1788100739.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=w1asiiMOVK85DR_FKxzN2w"
+        },
+        {
+            "title": "Google Maps đổi tên hồ Ontario thành hồ Mỹ",
+            "link": "https://vnexpress.net/google-maps-doi-ten-ho-ontario-thanh-ho-my-5115272.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/31/gg-maps-1788108884-2482-1788109665.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=Xx59VZT6OGNIYTnAZ6s1hQ"
+        },
+        {
+            "title": "Real giữ mạch thắng dưới thời Mourinho",
+            "link": "https://vnexpress.net/real-giu-mach-thang-duoi-thoi-mourinho-5115285.html",
+            "img": "https://vcdn1-thethao.vnecdn.net/2026/08/31/a-nh-ma-n-hi-nh-lu-c-178812616-6526-2339-1788126174.png?w=220&h=132&q=100&dpr=1&fit=crop&s=9icLe8aFi1HoYW4z3kyqpw"
         },
         {
             "title": "Những công trình giao thông quy mô nhất Việt Nam",
             "link": "https://vnexpress.net/nhung-cong-trinh-giao-thong-quy-mo-nhat-viet-nam-5111271.html",
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/24/dji-1787212484-1787215156-1787568184.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=pmPMsRT-U_4nViV_ZqmUNQ"
+        },
+        {
+            "title": "Hết hy vọng mua Alvarez, Barca tuyển mộ Gabriel Jesus",
+            "link": "https://vnexpress.net/het-hy-vong-mua-alvarez-barca-tuyen-mo-gabriel-jesus-5115266.html",
+            "img": "https://vcdn1-thethao.vnecdn.net/2026/08/30/3498962e1d85445b981d5c8a5767cb-1970-2788-1788104025.png?w=220&h=132&q=100&dpr=1&fit=crop&s=NfDzP0n8s6U_8eZevD3e5A"
+        },
+        {
+            "title": "Mua đi bán lại vàng, bạn thiệt gì?",
+            "link": "https://vnexpress.net/mua-di-ban-lai-vang-ban-thiet-gi-5115270.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/30/Thumbngang3-1788105095-2429-1788105173.png?w=220&h=132&q=100&dpr=1&fit=crop&s=nqv5VQ88x2RAnTYfecQuJg"
+        },
+        {
+            "title": "Cách ông Trump gây quỹ hàng trăm triệu đô từ giới doanh nghiệp",
+            "link": "https://vnexpress.net/cach-ong-trump-gay-quy-hang-tram-trieu-do-tu-gioi-doanh-nghiep-5103560.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/07/31/anh1-1785469178-5676-1785470536.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=aOnTRHY0_8UhHI1Sk78IAg"
         }
     ],
     "Tuổi Trẻ": [],
     "Thanh Niên": [],
     "Dân Trí": [
         {
+            "title": "Trường cấp 2, cấp 3 ở Ninh Bình mang tên cố Chủ tịch nước Trần Đại Quang",
+            "link": "https://dantri.com.vn/giao-duc/truong-cap-2-cap-3-o-ninh-binh-mang-ten-co-chu-tich-nuoc-tran-dai-quang-20260830164607115.htm",
+            "img": "https://cdnphoto.dantri.com.vn/G78UUmhfWNI_rJ5FuxzxMMPPlnk=/zoom/774_516/2026/08/30/truong-thcs-tran-dai-quang-1788082779230.jpg"
+        },
+        {
             "title": "Chuyến đi bệnh viện khiến nữ thủ khoa quyết tâm trở thành bác sĩ",
             "link": "https://dantri.com.vn/giao-duc/chuyen-di-benh-vien-khien-nu-thu-khoa-quyet-tam-tro-thanh-bac-si-20260830100339711.htm",
-            "img": "https://cdnphoto.dantri.com.vn/34Gt1gKitQVcHIlXLkRa6cP_tGI=/zoom/774_516/2026/08/30/thu-khoa-1788057942658.png"
+            "img": "https://cdnphoto.dantri.com.vn/AIa4usI4GWi-uwTnmSDzA9ptMs8=/zoom/351_234/2026/08/30/thu-khoa-1788057942658.png"
         },
         {
             "title": "Nam thủ khoa với 11 công bố quốc tế về trí tuệ nhân tạo",
@@ -62,7 +67,7 @@
         {
             "title": "Những cặp song sinh gây ấn tượng trong ngày đầu vào giảng đường đại học",
             "link": "https://dantri.com.vn/giao-duc/nhung-cap-song-sinh-gay-an-tuong-trong-ngay-dau-vao-giang-duong-dai-hoc-20260828232908605.htm",
-            "img": "https://cdnphoto.dantri.com.vn/HM8On8mqhUyTS_BO-VrMv5S0Dro=/zoom/351_234/2026/08/28/uef-sinh-doi-1jj-edited-1787933605121.jpg"
+            "img": "https://cdnphoto.dantri.com.vn/urqD34Xik5bTh5zQ-EwK2chnlCY=/zoom/192_128/2026/08/28/uef-sinh-doi-1jj-edited-1787933605121.jpg"
         },
         {
             "title": "Diện mạo trường nội trú liên cấp được chọn tổ chức khai giảng tại Nghệ An",
@@ -85,72 +90,67 @@
             "img": "https://cdnphoto.dantri.com.vn/UjzdhQ3vf2aYI6hCGmnu97dkCXY=/zoom/192_128/2026/08/23/kinh-te-quoc-dan-myha2-1787444963035.jpg"
         },
         {
-            "title": "Giảm hội họp, cuộc thi hình thức cho giáo viên: Người trong cuộc nói gì?",
-            "link": "https://dantri.com.vn/giao-duc/giam-hoi-hop-cuoc-thi-hinh-thuc-cho-giao-vien-nguoi-trong-cuoc-noi-gi-20260828134240224.htm",
-            "img": "https://cdnphoto.dantri.com.vn/WONZlE6UIemQlDwG2ukhPuzVd0w=/zoom/192_128/2026/08/28/mam-non-hoa-hong1-edited-1787898940493.jpg"
+            "title": "Clip “người phụ nữ bảo vệ chó cưng” gây tranh cãi tuần qua",
+            "link": "https://dantri.com.vn/cong-nghe/clip-nguoi-phu-nu-bao-ve-cho-cung-gay-tranh-cai-tuan-qua-20260830063709115.htm",
+            "img": "https://cdnphoto.dantri.com.vn/ikwYq8J6cEIhS2oS1XKJ_qm5uc0=/zoom/774_516/2026/08/30/clip-gay-sot-1788046447957.gif"
         },
         {
             "title": "Cuộc đua phổ cập WiFi 7 tại Việt Nam",
             "link": "https://dantri.com.vn/cong-nghe/cuoc-dua-pho-cap-wifi-7-tai-viet-nam-20260830114257538.htm",
-            "img": "https://cdnphoto.dantri.com.vn/PQ5VkcalBQBIM5MK_bCmQayIrCg=/zoom/774_516/2026/08/30/wifi-7-1-cropped-1788064066624.jpg"
-        },
-        {
-            "title": "Điểm tuần: iPhone 18 Pro Max ra mắt ngày 9/9, Galaxy S27 Ultra lộ thiết kế",
-            "link": "https://dantri.com.vn/cong-nghe/diem-tuan-iphone-18-pro-max-ra-mat-ngay-99-galaxy-s27-ultra-lo-thiet-ke-20260829225330941.htm",
-            "img": "https://cdnphoto.dantri.com.vn/nHk_NL4MciKHd_jggdFdGV_8OJM=/zoom/351_234/2026/08/29/iphone-18-pro-max-iphone-gap-geeky-gadgets-cropped-1788017760236.jpg"
+            "img": "https://cdnphoto.dantri.com.vn/tTjSgwmnba1rGRIwCbUQPR6GwXs=/zoom/351_234/2026/08/30/wifi-7-1-cropped-1788064066624.jpg"
         }
     ],
     "VietnamNet": [],
     "Znews": [
         {
-            "title": "Hết cảnh xếp hàng 1 tiếng chờ đi xuồng ở cồn Thới Sơn",
-            "link": "https://lifestyle.zingnews.vn/het-canh-xep-hang-1-tieng-cho-di-xuong-o-con-thoi-son-post1680252.html",
-            "img": "https://photo.znews.vn/w1000/Uploaded/zxaint/2026_08_30/thoi_son_znews_3__2.JPG"
+            "title": "Cảnh đông đúc trên biển Vũng Tàu",
+            "link": "https://lifestyle.zingnews.vn/canh-dong-duc-tren-bien-vung-tau-post1680291.html",
+            "img": "https://photo.znews.vn/w1000/Uploaded/zdhwqmjwq/2026_08_30/vung_tau.jpg"
         },
         {
-            "title": "Chủ tịch FIFA đến Việt Nam, cơ hội nào thực sự mở ra?",
-            "link": "https://lifestyle.zingnews.vn/chu-tich-fifa-den-viet-nam-co-hoi-nao-thuc-su-mo-ra-post1680205.html",
-            "img": "https://photo.znews.vn/w480/Uploaded/sotnzt/2026_08_30/2026_08_26T115513Z_1905016566_RC2B6NAUQO2H_RTRMADP_3_SOCCER_ASEAN_INFANTINO.JPG"
+            "title": "Thị trường sản phẩm ăn theo manga và anime hút khách",
+            "link": "https://znews.vn/thi-truong-san-pham-an-theo-manga-va-anime-hut-khach-post1679565.html",
+            "img": "https://photo.znews.vn/w480/Uploaded/qoswae/2026_08_26/anime_an_theo_1.jpg"
         },
         {
-            "title": "5 cuốn sách kỳ ảo bán chạy nhất mọi thời",
-            "link": "https://znews.vn/5-cuon-sach-ky-ao-ban-chay-nhat-moi-thoi-post1679956.html",
-            "img": "https://photo.znews.vn/w480/Uploaded/rohunaa/2026_08_28/TH.jpg"
+            "title": "Đội Công an Hà Nội tiến cử thêm một Việt kiều cho tuyển Việt Nam",
+            "link": "https://lifestyle.zingnews.vn/doi-cong-an-ha-noi-tien-cu-them-mot-viet-kieu-cho-tuyen-viet-nam-post1680301.html",
+            "img": "https://photo.znews.vn/w480/Uploaded/yrfjpysfzyr/2026_08_30/Nguyen_Adou_Legley_Minh_znews_1.jpg"
         },
         {
-            "title": "Vì sao chúng ta nhanh chán những thứ mình từng khao khát?",
-            "link": "https://znews.vn/vi-sao-chung-ta-nhanh-chan-nhung-thu-minh-tung-khao-khat-post1680021.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/ofh_btgazspf/2026_08_27/ngu_8_tieng_4__1.jpg"
+            "title": "Đội nữ Đak Đoa lưỡng lự trước đề nghị của bầu Đức",
+            "link": "https://lifestyle.zingnews.vn/doi-nu-dak-doa-luong-lu-truoc-de-nghi-cua-bau-duc-post1680275.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/anqyy/2026_08_30/DakDoa.jpg"
         },
         {
-            "title": "Real vùi dập đối thủ 4-0",
-            "link": "https://lifestyle.zingnews.vn/real-vui-dap-doi-thu-4-0-post1680290.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/sotnzt/2026_08_30/2026_08_26T205520Z_76150519_UP1EM8Q1LQXPA_RTRMADP_3_SOCCER_SPAIN_RMA_RSO.JPG"
+            "title": "Vì sao những đứa trẻ thiên tài thích đắm chìm vào sách",
+            "link": "https://znews.vn/vi-sao-nhung-dua-tre-thien-tai-thich-dam-chim-vao-sach-post1680292.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/neg_esfjaex/2026_08_30/pexels_rdne_8500280.jpg"
         },
         {
-            "title": "Mấy giờ nên ngừng uống cà phê?",
-            "link": "https://znews.vn/may-gio-nen-ngung-uong-ca-phe-post1678132.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/sotnbn/2026_08_20/pexels_cottonbro_5852472.jpg"
+            "title": "Huỳnh Lập 'ngư ông đắc lợi'",
+            "link": "https://lifestyle.zingnews.vn/huynh-lap-ngu-ong-dac-loi-post1680298.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/rohunaa/2026_08_30/huynhhlap_1.jpg"
         },
         {
-            "title": "'Ông lớn' ngân hàng đóng cửa hơn 130 phòng giao dịch",
-            "link": "https://znews.vn/ong-lon-ngan-hang-dong-cua-hon-130-phong-giao-dich-post1680282.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/vpcvodbp/2025_01_01/khach_hang_giao_dich_tai_vietinbank_anh_viet_dung.jpg"
+            "title": "Có nên giữ lại ‘văn hóa vỉa hè’ ở Việt Nam?",
+            "link": "https://lifestyle.zingnews.vn/co-nen-giu-lai-van-hoa-via-he-o-viet-nam-post1680293.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/ukrspuo/2026_08_30/van_hoa_via_he.jpg"
         },
         {
-            "title": "Chelsea thắng nghẹt thở sau khi dẫn 3-0",
-            "link": "https://lifestyle.zingnews.vn/chelsea-thang-nghet-tho-sau-khi-dan-3-0-post1680299.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/sotnzt/2026_08_30/2026_08_30T144118Z_1763460009_UP1EM8U14SSDV_RTRMADP_3_SOCCER_ENGLAND_CHE_BHA.JPG"
+            "title": "Người có thận yếu thường xuất hiện các dấu hiệu này",
+            "link": "https://znews.vn/nguoi-co-than-yeu-thuong-xuat-hien-cac-dau-hieu-nay-post1679400.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/sgorvz/2024_09_26/truong_hop_nguy_co_suy_than_2.jpg"
         },
         {
-            "title": "'90 phút vàng' trong giấc ngủ",
-            "link": "https://znews.vn/90-phut-vang-trong-giac-ngu-post1679317.html",
-            "img": "https://photo.znews.vn/Uploaded/caxwpqdwp/2026_08_25/pexels_artempodrez_7504706.jpg"
+            "title": "Những tác giả đưa mạng xã hội vào văn chương",
+            "link": "https://znews.vn/nhung-tac-gia-dua-mang-xa-hoi-vao-van-chuong-post1678786.html",
+            "img": "https://photo.znews.vn/Uploaded/zngube/2026_08_23/mang_xa_hoi.png"
         },
         {
-            "title": "Còn 9 ngày tới khai giảng, NXB Giáo dục tăng tốc cung ứng SGK",
-            "link": "https://znews.vn/con-9-ngay-toi-khai-giang-nxb-giao-duc-tang-toc-cung-ung-sgk-post1679601.html",
-            "img": "https://photo.znews.vn/Uploaded/bpcgpivp/2026_08_27/sach_giao_khoa_znews_14.jpg"
+            "title": "Tính cách bộc trực của người Nam Bộ",
+            "link": "https://znews.vn/tinh-cach-boc-truc-cua-nguoi-nam-bo-post1679769.html",
+            "img": "https://photo.znews.vn/Uploaded/caxwpqdwp/2026_08_27/3pc_thoison_znews.jpg"
         }
     ]
 }
