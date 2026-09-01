@@ -1,24 +1,9 @@
 {
     "VNExpress": [
         {
-            "title": "Kẹt đường leo núi Bà Đen dịp 2/9, một khách ngất xỉu",
-            "link": "https://vnexpress.net/ket-duong-leo-nui-ba-den-dip-2-9-mot-khach-ngat-xiu-5115639.html",
-            "img": "https://vcdn1-dulich.vnecdn.net/2026/09/01/2aoboqvauxyc7qdbw5cjvxnp2qs9rq-8369-3617-1788259453.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=vmttdCktOal3sm6AZssmEw"
-        },
-        {
-            "title": "Iran kêu gọi người dân tiết kiệm xăng",
-            "link": "https://vnexpress.net/iran-keu-goi-nguoi-dan-tiet-kiem-xang-5115682.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/02/afp-c6fg4zn-v4-highres-topshot-8685-4016-1788284267.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=rwe2WGN39jMgkFVBN4ncWQ"
-        },
-        {
-            "title": "Tổng thống Mỹ Donald Trump chúc mừng Quốc khánh Việt Nam",
-            "link": "https://vnexpress.net/tong-thong-my-donald-trump-chuc-mung-quoc-khanh-viet-nam-5115663.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/01/tong-thong-trump-chuc-mung-quo-5230-6361-1788269998.webp?w=220&h=132&q=100&dpr=1&fit=crop&s=4AabHzuT01_ufBfKfy8NBQ"
-        },
-        {
-            "title": "Trang phục đi máy bay như dự tiệc hơn 60 năm trước",
-            "link": "https://vnexpress.net/trang-phuc-di-may-bay-nhu-du-tiec-hon-60-nam-truoc-5115577.html",
-            "img": "https://vcdn1-dulich.vnecdn.net/2026/09/01/mbay6-1788263469.webp?w=220&h=132&q=100&dpr=1&fit=crop&s=yiq7-tW86qGLBM9beRwEWA"
+            "title": "Người dân đổ về TP HCM sớm, CSGT mở làn khẩn cấp",
+            "link": "https://vnexpress.net/nguoi-dan-do-ve-tp-hcm-som-csgt-mo-lan-khan-cap-5115660.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/01/2aoboqvc29fypk2lvi4xno4yiumvy3-3766-3224-1788268305.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=b4Giox5-W7-JRZsql05MJA"
         },
         {
             "title": "Đông người đổ về Quảng trường Ba Đình đón lễ Quốc khánh",
@@ -26,24 +11,39 @@
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/01/1ea1e3fea32342d5844c55389ce80d-7073-6361-1788264829.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=JprSnN-2jrWH52O0gT-cRg"
         },
         {
+            "title": "Iran kêu gọi người dân tiết kiệm xăng",
+            "link": "https://vnexpress.net/iran-keu-goi-nguoi-dan-tiet-kiem-xang-5115682.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/02/afp-c6fg4zn-v4-highres-topshot-8685-4016-1788284267.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=rwe2WGN39jMgkFVBN4ncWQ"
+        },
+        {
+            "title": "Trang phục đi máy bay như dự tiệc hơn 60 năm trước",
+            "link": "https://vnexpress.net/trang-phuc-di-may-bay-nhu-du-tiec-hon-60-nam-truoc-5115577.html",
+            "img": "https://vcdn1-dulich.vnecdn.net/2026/09/01/mbay6-1788263469.webp?w=220&h=132&q=100&dpr=1&fit=crop&s=yiq7-tW86qGLBM9beRwEWA"
+        },
+        {
+            "title": "Ôtô chạy hơn 80 km/h tông văng người đi xe đạp",
+            "link": "https://vnexpress.net/oto-chay-hon-80-km-h-tong-vang-nguoi-di-xe-dap-5115670.html",
+            "img": "https://via.placeholder.com/300x200?text=No+Image"
+        },
+        {
             "title": "Dùng búa 'massage' dừa nước để lấy mật",
             "link": "https://vnexpress.net/dung-bua-massage-dua-nuoc-de-lay-mat-5115589.html",
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/01/Massageduanuoc1783575248916617-9453-6566-1788241340.webp?w=220&h=132&q=100&dpr=1&fit=crop&s=b8DpfCfVHEOVrzZbMwN01w"
         },
         {
-            "title": "Giá chung cư, đất nền hạ nhiệt",
-            "link": "https://vnexpress.net/gia-chung-cu-dat-nen-ha-nhiet-5112330.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/01/dji-1788226585-7808-1788226745.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=-rQ1dSoosOXzyYIjsKcNkA"
+            "title": "Tổng thống Mỹ Donald Trump chúc mừng Quốc khánh Việt Nam",
+            "link": "https://vnexpress.net/tong-thong-my-donald-trump-chuc-mung-quoc-khanh-viet-nam-5115663.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/01/tong-thong-trump-chuc-mung-quo-5230-6361-1788269998.webp?w=220&h=132&q=100&dpr=1&fit=crop&s=4AabHzuT01_ufBfKfy8NBQ"
         },
         {
-            "title": "Sắc vóc Lý Nhược Đồng",
-            "link": "https://vnexpress.net/sac-voc-ly-nhuoc-dong-5115550.html",
-            "img": "https://vcdn1-giaitri.vnecdn.net/2026/09/01/top-dong-1-1788233732.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=d2YhTzkMOVy9HF8hiRPKLQ"
+            "title": "Iran kêu gọi Hội đồng Bảo an can thiệp sau vụ Mỹ tấn công đảo Larak",
+            "link": "https://vnexpress.net/iran-keu-goi-hoi-dong-bao-an-can-thiep-sau-vu-my-tan-cong-dao-larak-5115517.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/01/afp-v1-midres-unitednationssec-3253-6829-1788231065.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=zCsF8yFfNGyrVZda2tPDuw"
         },
         {
-            "title": "Tại sao máy bay biến mất khỏi radar khi qua đại dương",
-            "link": "https://vnexpress.net/tai-sao-may-bay-bien-mat-khoi-radar-khi-qua-dai-duong-5114689.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/08/28/VNEPlane-1787913197-5271-1787913251.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=6C7liOlWnU8x8NHn9wObWQ"
+            "title": "Phó tổng thống Mỹ phẫn nộ với ứng viên Dân chủ vì vợ bị nhắc tên",
+            "link": "https://vnexpress.net/pho-tong-thong-my-phan-no-voi-ung-vien-dan-chu-vi-vo-bi-nhac-ten-5115605.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/01/ap26243686283397-1788249745-2072-1788250229.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=V8BNt1pnT9j3Qg0xj8S8FQ"
         }
     ],
     "Tuổi Trẻ": [],
@@ -143,14 +143,14 @@
             "img": "https://photo.znews.vn/Uploaded/zngube/2026_09_01/ezgif_58a995e0f3efc357.gif"
         },
         {
-            "title": "Sức hút của 'Nữ hoàng Ai Cập'",
-            "link": "https://znews.vn/suc-hut-cua-nu-hoang-ai-cap-post1680070.html",
-            "img": "https://photo.znews.vn/Uploaded/mzdgi/2026_08_29/271734330_4796801867032876_5557297557943873523_n.jpg"
+            "title": "Sách mới ra mắt phù hợp thư giãn trong kỳ nghỉ lễ",
+            "link": "https://znews.vn/sach-moi-ra-mat-phu-hop-thu-gian-trong-ky-nghi-le-post1680039.html",
+            "img": "https://photo.znews.vn/Uploaded/zagtgt/2026_08_29/thumb_2.jpg"
         },
         {
-            "title": "Nhà xuất bản thương mại lớn nhất thế giới làm ăn ra sao?",
-            "link": "https://znews.vn/nha-xuat-ban-thuong-mai-lon-nhat-the-gioi-lam-an-ra-sao-post1680034.html",
-            "img": "https://photo.znews.vn/Uploaded/zagtgt/2026_08_29/3500_1__1.jpg"
+            "title": "Trả sách muộn 150 năm, khoản phạt lên tới 28.000 USD",
+            "link": "https://znews.vn/tra-sach-muon-150-nam-khoan-phat-len-toi-28000-usd-post1680037.html",
+            "img": "https://photo.znews.vn/Uploaded/zagtgt/2026_08_29/ac828a809dc3188d1ea0e175a875f716.jpg"
         }
     ]
 }
