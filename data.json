@@ -1,9 +1,29 @@
 {
     "VNExpress": [
         {
-            "title": "Lễ đón Tổng Bí thư, Chủ tịch nước Tô Lâm thăm chính thức Pháp",
-            "link": "https://vnexpress.net/le-don-tong-bi-thu-chu-tich-nuoc-to-lam-tham-chinh-thuc-phap-5118994.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/10/afpc7wz3ekv2highresfrancevietn-4020-2728-1789059512.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=Qip_8w5gfQk70wl9BPDNZg"
+            "title": "Việt - Pháp thống nhất tập trung thúc đẩy các dự án hàng không - vũ trụ, năng lượng sạch",
+            "link": "https://vnexpress.net/viet-phap-thong-nhat-tap-trung-thuc-day-cac-du-an-hang-khong-vu-tru-nang-luong-sach-5119014.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/11/wm30-wm30-tbt-ctn-ta-i-phap-1789084-9299-5074-1789084684.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=cJeNpnFJJuRsDMyW38QVUg"
+        },
+        {
+            "title": "Hầm chui ở cửa ngõ TP HCM ngập nửa mét, ôtô chết máy",
+            "link": "https://vnexpress.net/ham-chui-o-cua-ngo-tp-hcm-ngap-nua-met-oto-chet-may-5118999.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/11/top2-1789061515-2037-1789062270.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=1ewWs-kL4YL_JKdIwczO9g"
+        },
+        {
+            "title": "Đại lộ cảnh quan sông Hồng dự kiến 10 làn xe",
+            "link": "https://vnexpress.net/dai-lo-canh-quan-song-hong-du-kien-10-lan-xe-5118707.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/10/dai-lo-1789055075-5388-1789055337.png?w=220&h=132&q=100&dpr=1&fit=crop&s=Z0lVrAEFcjXCz9xwDoBT8Q"
+        },
+        {
+            "title": "Lý do iPhone Duo dùng màn hình chống lóa, tỷ lệ giấy A4",
+            "link": "https://vnexpress.net/ly-do-iphone-duo-dung-man-hinh-chong-loa-ty-le-giay-a4-5119004.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/11/wm1-dscf0170-1789066748-178906-8203-2136-1789067018.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=ZIbcqkIXBcxdBt0C5zCPsA"
+        },
+        {
+            "title": "Vì sao phụ huynh chật vật săn lùng sách giáo khoa?",
+            "link": "https://vnexpress.net/vi-sao-phu-huynh-chat-vat-san-lung-sach-giao-khoa-5119010.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/11/798432103204485318281111953057-3346-6098-1789080976.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=PZVC_ssFZftVvH4-wzX0-w"
         },
         {
             "title": "Cách hải quân Mỹ 'bí mật dọn thủy lôi' trên eo biển Hormuz",
@@ -11,63 +31,58 @@
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/08/tho-la-n-my-1788833843-8828-1788834046.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=Ucj-trVaJrq66EHfns0JKg"
         },
         {
-            "title": "'Phối cảnh các công trình ở Hồ Gươm chưa phải phương án cuối'",
-            "link": "https://vnexpress.net/phoi-canh-cac-cong-trinh-o-ho-guom-chua-phai-phuong-an-cuoi-5118890.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/10/PGDNguyen-1789035972-3998-1789036638.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=CTLqsGzB-oA08M7uAE2lNA"
+            "title": "Bữa trưa 1,8 triệu đồng trong Dinh Độc Lập",
+            "link": "https://vnexpress.net/bua-trua-1-8-trieu-dong-trong-dinh-doc-lap-5117959.html",
+            "img": "https://vcdn1-dulich.vnecdn.net/2026/09/10/phu-c-vu-1789034538.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=ZRXJ6nzAmkJrfnrgXpB7bQ"
+        },
+        {
+            "title": "Thu nhập giảm, nhiều tài xế Grab rủ nhau 'tắt app'",
+            "link": "https://vnexpress.net/thu-nhap-giam-nhieu-tai-xe-grab-ru-nhau-tat-app-5118991.html",
+            "img": "https://vcdn1-giadinh.vnecdn.net/2026/09/11/233a2757-1789060067-2598-1789060297.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=ZvA_74TEiJhtCTlJ5It_6A"
+        },
+        {
+            "title": "Vingroup tăng 477 bậc trong bảng xếp hạng công ty tốt nhất thế giới",
+            "link": "https://vnexpress.net/vingroup-tang-477-bac-trong-bang-xep-hang-cong-ty-tot-nhat-the-gioi-5118979.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/10/1789040572931-g481291720541440-6313-1740-1789053372.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=WZQlRseuDAROs7mxiE37Tw"
         },
         {
             "title": "Man Utd thắng đậm ngày trở lại Champions League",
             "link": "https://vnexpress.net/man-utd-thang-dam-ngay-tro-lai-champions-league-5119008.html",
             "img": "https://vcdn1-thethao.vnecdn.net/2026/09/11/man-utd-sabah-1789073411-4479-1789073419.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=ztbh5x_wsbA7uRgX42uC7Q"
-        },
-        {
-            "title": "Giá iPhone 18 Pro tăng thế nào so với 17 Pro tại Việt Nam",
-            "link": "https://vnexpress.net/gia-iphone-18-pro-tang-the-nao-so-voi-17-pro-tai-viet-nam-5118658.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/10/DSCF9867-1789005352.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=UxeSvJMZmGF1ZrwxKGDqWw"
-        },
-        {
-            "title": "Xe giường nằm lật trên quốc lộ, 8 người bị thương",
-            "link": "https://vnexpress.net/xe-giuong-nam-lat-tren-quoc-lo-8-nguoi-bi-thuong-5118932.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/10/Xe-lat-1789041334-1485-1789042675.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=irGMZtPAMFy6KT7uo927WQ"
-        },
-        {
-            "title": "Chủ tịch Asia Life lĩnh 15 năm tù vì sản xuất kẹo Kera giả",
-            "link": "https://vnexpress.net/chu-tich-asia-life-linh-15-nam-tu-vi-san-xuat-keo-kera-gia-5118955.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/10/z82490627597361d14f6eed555a217-3309-5439-1789047731.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=1nVw8n73GwGuej_nA8aKbg"
-        },
-        {
-            "title": "Tranh cãi quanh khoản tiền ông Trump tặng nữ trợ lý trung thành",
-            "link": "https://vnexpress.net/tranh-cai-quanh-khoan-tien-ong-trump-tang-nu-tro-ly-trung-thanh-5118632.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/11/afp-c7dx7br-v1-highre-17890369-1491-4620-1789062186.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=i6nu4jaZ8Bhtralr6qSIpg"
-        },
-        {
-            "title": "Người dân TP HCM chật vật lội nước, đẩy xe giờ tan tầm",
-            "link": "https://vnexpress.net/nguoi-dan-tp-hcm-chat-vat-loi-nuoc-day-xe-gio-tan-tam-5118944.html",
-            "img": "https://via.placeholder.com/300x200?text=No+Image"
-        },
-        {
-            "title": "Aeon sẽ mở 5 trung tâm thương mại tại Việt Nam trong năm nay",
-            "link": "https://vnexpress.net/aeon-se-mo-5-trung-tam-thuong-mai-tai-viet-nam-trong-nam-nay-5118914.html",
-            "img": "https://vcdn1-kinhdoanh.vnecdn.net/2026/09/10/pho-i-ca-nh-tttm-aeon-ha-i-du-2710-7558-1789037510.png?w=220&h=132&q=100&dpr=1&fit=crop&s=T_haV13kLIb8MROoF9n4-w"
         }
     ],
     "Tuổi Trẻ": [],
     "Thanh Niên": [],
     "Dân Trí": [
         {
-            "title": "Dòng người tiễn biệt nam sinh lớp 12 chuyên Toán ra đi vì ung thư xương",
-            "link": "https://dantri.com.vn/giao-duc/dong-nguoi-tien-biet-nam-sinh-lop-12-chuyen-toan-ra-di-vi-ung-thu-xuong-20260910144724113.htm",
-            "img": "https://cdnphoto.dantri.com.vn/1LO5pzKHjcFyQp7iYnUeUtT942E=/zoom/774_516/2026/09/10/gia-dinh-2-cropped-1789026229104.jpg"
+            "title": "Người bố thợ xây vui suýt khóc khi con gái đứng thứ 8 kỳ thi bác sĩ nội trú",
+            "link": "https://dantri.com.vn/giao-duc/nguoi-bo-tho-xay-vui-suyt-khoc-khi-con-gai-dung-thu-8-ky-thi-bac-si-noi-tru-20260910182914295.htm",
+            "img": "https://cdnphoto.dantri.com.vn/6ajIHiDHtLhV20aWWaKiINHoYzI=/zoom/774_516/2026/09/10/bb-edited-1789039505291.jpg"
+        },
+        {
+            "title": "Nam sinh ĐH Quốc gia gây bất ngờ ở màn chọn ngành bác sĩ nội trú",
+            "link": "https://dantri.com.vn/giao-duc/nam-sinh-dh-quoc-gia-gay-bat-ngo-o-man-chon-nganh-bac-si-noi-tru-20260910221406808.htm",
+            "img": "https://cdnphoto.dantri.com.vn/wW26CTpLaD9GyZ2DWZ-tI0-8Cnw=/zoom/351_234/2026/09/10/top-4-noi-tru-myha-edited-cropped-1789053105448.jpg"
+        },
+        {
+            "title": "Học sinh TPHCM được miễn đóng BHYT, sinh viên được hỗ trợ thế nào?",
+            "link": "https://dantri.com.vn/giao-duc/hoc-sinh-tphcm-duoc-mien-dong-bhyt-sinh-vien-duoc-ho-tro-the-nao-20260910223642854.htm",
+            "img": "https://cdnphoto.dantri.com.vn/NyHZt907yRucTK61QJTsfd58J2E=/zoom/351_234/2026/08/10/sinh-vien-dai-hoc-van-lang-cropped-1786332161846.jpg"
+        },
+        {
+            "title": "Thiếu SGK, Sở GD&ĐT TPHCM khuyến nghị học sinh dùng sách điện tử",
+            "link": "https://dantri.com.vn/giao-duc/thieu-sgk-so-gddt-tphcm-khuyen-nghi-hoc-sinh-dung-sach-dien-tu-20260910220659539.htm",
+            "img": "https://cdnphoto.dantri.com.vn/L9e1loQ4jiBiZTWbn0lIkY7BOZA=/zoom/192_128/2026/08/19/sgktphcmbaoquyen-edited-1787123961731.jpg"
         },
         {
             "title": "Phó Thủ tướng: Lắp camera giám sát khu vực trọng yếu của kỳ thi quốc gia",
             "link": "https://dantri.com.vn/thoi-su/pho-thu-tuong-lap-camera-giam-sat-khu-vuc-trong-yeu-cua-ky-thi-quoc-gia-20260910195700895.htm",
-            "img": "https://cdnphoto.dantri.com.vn/6hpizccb67N9APAJQeIu22AOoTg=/zoom/351_234/2026/09/10/z7923052200246570a8f77ed8c7d576583bce915a03a60-1781136859592-1789044375597.jpg"
+            "img": "https://cdnphoto.dantri.com.vn/QyQBA39bggabTJmGl3wZLyfSRCA=/zoom/192_128/2026/09/10/z7923052200246570a8f77ed8c7d576583bce915a03a60-1781136859592-1789044375597.jpg"
         },
         {
             "title": "Sinh viên mất cả giờ chờ xe buýt, trường phải tăng thêm 13 xe hỗ trợ",
             "link": "https://dantri.com.vn/giao-duc/sinh-vien-mat-ca-gio-cho-xe-buyt-truong-phai-tang-them-13-xe-ho-tro-20260910184006157.htm",
-            "img": "https://cdnphoto.dantri.com.vn/W_QY7Kl0Xgv2Nc7LskXIYkzmKfw=/zoom/351_234/2026/09/10/xe-buyt-cropped-1789040502620.jpg"
+            "img": "https://cdnphoto.dantri.com.vn/fTvIx8k4WcYqTamB2yWoR3KV-n4=/zoom/192_128/2026/09/10/xe-buyt-cropped-1789040502620.jpg"
         },
         {
             "title": "Lần đầu tiên ĐH Bách khoa Hà Nội có 3 sinh viên tốt nghiệp điểm tối đa",
@@ -80,82 +95,67 @@
             "img": "https://cdnphoto.dantri.com.vn/FJKrYWFtYUfnUdHeftXqnrZ8fkk=/zoom/192_128/2026/09/10/phu-huynh-phan-doi-giai-the-diem-le-140-hoc-sinh-tieu-hoc-chua-den-truong-1-edited-1789037358547.jpg"
         },
         {
-            "title": "Khoảng 1.000 học sinh ở Lâm Đồng tạm nghỉ học do ngập",
-            "link": "https://dantri.com.vn/giao-duc/khoang-1000-hoc-sinh-o-lam-dong-tam-nghi-hoc-do-ngap-20260910151617848.htm",
-            "img": "https://cdnphoto.dantri.com.vn/Nu-BvHfKF0bEXffMW5L_axKxNeY=/zoom/192_128/2026/09/10/ngaplut3-cropped-1789028088260.jpg"
+            "title": "So sánh Apple Watch Ultra 4 và Ultra 3: nâng cấp mới có đáng để lên đời?",
+            "link": "https://dantri.com.vn/cong-nghe/so-sanh-apple-watch-ultra-4-va-ultra-3-nang-cap-moi-co-dang-de-len-doi-20260910042235591.htm",
+            "img": "https://cdnphoto.dantri.com.vn/SJmSoJHBXa3i44gYiionNK-2mdo=/zoom/774_516/2026/09/10/ban-sao-cua-huong-dan-viet-prompt-1788988747789.png"
         },
         {
-            "title": "Cận cảnh bữa cơm bán trú sau khi trường đổi nhà cung cấp vì giao cơm muộn",
-            "link": "https://dantri.com.vn/giao-duc/can-canh-bua-com-ban-tru-sau-khi-truong-doi-nha-cung-cap-vi-giao-com-muon-20260910143846207.htm",
-            "img": "https://cdnphoto.dantri.com.vn/GMFc4hANsiKbH7t26ACY--H0ufA=/zoom/192_128/2026/09/10/suat-an-ban-tru-1789024079347.jpg"
-        },
-        {
-            "title": "Khôi phục bếp ăn bán trú sau vụ 13h học sinh mới được ăn trưa",
-            "link": "https://dantri.com.vn/giao-duc/khoi-phuc-bep-an-ban-tru-sau-vu-13h-hoc-sinh-moi-duoc-an-trua-20260910124417989.htm",
-            "img": "https://cdnphoto.dantri.com.vn/wUanQB1X9Dea4Q2fk9VTkgolXGU=/zoom/192_128/2026/07/22/ha-noi-thay-doi-lon-ve-to-chuc-an-ban-tru-lua-chon-doanh-nghiep-the-nao-1-edited-1784702788618.jpg"
-        },
-        {
-            "title": "iPhone 18 Pro Max có giá từ 42 triệu đồng tại Việt Nam",
-            "link": "https://dantri.com.vn/cong-nghe/iphone-18-pro-max-co-gia-tu-42-trieu-dong-tai-viet-nam-20260910022835021.htm",
-            "img": "https://cdnphoto.dantri.com.vn/5N0uh9aCWxVDaMhznnykjP6i39U=/zoom/774_516/2026/09/10/iphone-18-pro-max-engadget-cropped-1788981999858.jpg"
-        },
-        {
-            "title": "iPhone Duo bị so giá với Galaxy Z Fold8, OPPO Find N6",
-            "link": "https://dantri.com.vn/cong-nghe/iphone-duo-bi-so-gia-voi-galaxy-z-fold8-oppo-find-n6-20260910142951259.htm",
-            "img": "https://cdnphoto.dantri.com.vn/d_PYeNnnTTddimdIbT8P1-Obplo=/zoom/351_234/2026/09/10/iphone-duo-the-verge-1789016466249.jpg"
+            "title": "3 mẫu iPhone vừa bị khai tử sau khi iPhone 18 Pro Max ra mắt",
+            "link": "https://dantri.com.vn/cong-nghe/3-mau-iphone-vua-bi-khai-tu-sau-khi-iphone-18-pro-max-ra-mat-20260910212924152.htm",
+            "img": "https://cdnphoto.dantri.com.vn/9reGnKyE1G_w0uMZ7Aw_FXhGJU8=/zoom/351_234/2025/09/11/iphone-17-pro-max-cnn-cropped-1757601096170.jpg"
         }
     ],
     "VietnamNet": [],
     "Znews": [
         {
-            "title": "Lễ đón Tổng Bí thư, Chủ tịch nước Tô Lâm cùng Phu nhân thăm Cộng hòa Pháp",
-            "link": "https://znews.vn/le-don-tong-bi-thu-chu-tich-nuoc-to-lam-cung-phu-nhan-tham-cong-hoa-phap-post1682343.html",
-            "img": "https://photo.znews.vn/w1000/Uploaded/ecfzyryrzly/2026_09_05/tong_thong_phap_chu_tri_le_don_tong_bi_thu_chu_tich_nuoc_to_lam_va_phu_nhan_9016750_3_1.jpg"
+            "title": "Quan hệ Việt Nam - Pháp ngày càng phát triển toàn diện, mạnh mẽ, thực chất",
+            "link": "https://znews.vn/quan-he-viet-nam-phap-ngay-cang-phat-trien-toan-dien-manh-me-thuc-chat-post1682342.html",
+            "img": "https://photo.znews.vn/w1000/Uploaded/ecfzyryrzly/2026_09_05/ttxvn_tong_bi_thu_chu_tich_nuoc_3.jpg"
         },
         {
-            "title": "FIFA ASEAN Cup có thể đảo lộn trật tự Đông Nam Á",
-            "link": "https://lifestyle.zingnews.vn/fifa-asean-cup-co-the-dao-lon-trat-tu-dong-nam-a-post1682255.html",
-            "img": "https://photo.znews.vn/w480/Uploaded/qfsyy/2026_08_27/67_CK_ASEAN_CUP_2026_znews_2.jpg"
+            "title": "Những người sở hữu cả trăm tỷ USD đọc sách gì?",
+            "link": "https://znews.vn/nhung-nguoi-so-huu-ca-tram-ty-usd-doc-sach-gi-post1681608.html",
+            "img": "https://photo.znews.vn/w480/Uploaded/rohuoct/2026_09_07/ElonMusk_2020_GettyImages_930533866.jpg"
         },
         {
-            "title": "Rượu 'Bàu Đá' hay rượu 'Bầu Đá'?",
-            "link": "https://znews.vn/ruou-bau-da-hay-ruou-bau-da-post1682190.html",
-            "img": "https://photo.znews.vn/w480/Uploaded/zagtgt/2026_09_09/Noi_co_sach_Ruou.jpg"
+            "title": "Ai chiến thắng cuộc đấu của 24 ca sĩ Việt?",
+            "link": "https://lifestyle.zingnews.vn/ai-chien-thang-cuoc-dau-cua-24-ca-si-viet-post1682414.html",
+            "img": "https://photo.znews.vn/w480/Uploaded/qfssu/2026_09_10/tinh_ha_say_hi_ca_si_Quang_Hung_MasterD_2_1.jpg"
         },
         {
-            "title": "Người dân dắt xe, lội nước về nhà sau 2 giờ mưa tầm tã ở TP.HCM",
-            "link": "https://lifestyle.zingnews.vn/nguoi-dan-dat-xe-loi-nuoc-ve-nha-sau-2-gio-mua-tam-ta-o-tphcm-post1682419.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/ovhpihv/2026_09_10/Mua_SG_07_Znews.jpg"
+            "title": "TP.HCM mưa lớn 2 ngày tới, cảnh báo ngập gây ách tắc giao thông",
+            "link": "https://lifestyle.zingnews.vn/tphcm-mua-lon-2-ngay-toi-canh-bao-ngap-gay-ach-tac-giao-thong-post1682418.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/wohuhuo/2026_09_10/Mua_TP.HCM_ngay_1009_Znews.jpg"
         },
         {
-            "title": "Dàn bác sĩ nội trú là trai tài, gái giỏi",
-            "link": "https://lifestyle.zingnews.vn/dan-bac-si-noi-tru-la-trai-tai-gai-gioi-post1682208.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/bzivpqmv/2026_09_09/dai_hoc_y_bac_si_noi_tru_znews_18.jpg"
+            "title": "Điều Apple chưa nói về iPhone Duo",
+            "link": "https://tech.zingnews.vn/dieu-apple-chua-noi-ve-iphone-duo-post1682307.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/yqdlcqrwq/2026_09_10/04710092026_apple_iphone_duo_ra_mat.jpg"
         },
         {
-            "title": "Jack chưa thay đổi",
-            "link": "https://lifestyle.zingnews.vn/jack-chua-thay-doi-post1682173.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/vrwqcqdjw/2026_09_09/79627609316570906659879357236811214532013956n_2_1788586907465982493585_11zon_2.jpg"
+            "title": "MU thắng đậm ngày trở lại Champions League",
+            "link": "https://lifestyle.zingnews.vn/mu-thang-dam-ngay-tro-lai-champions-league-post1682412.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/qfsyy/2026_09_10/2026_09_10T194835Z_1965403744_UP1EM9A1J0X9P_RTRMADP_3_SOCCER_CHAMPIONS_MUN_SAB.JPG"
         },
         {
-            "title": "Quán cơm chỉ mong được 'ế' khách ở TP.HCM",
-            "link": "https://lifestyle.zingnews.vn/quan-com-chi-mong-duoc-e-khach-o-tphcm-post1682046.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/ofh_btgazspf/2026_09_03/Thumb_1_.jpg"
+            "title": "'Cháy hàng' bánh trung thu khách sạn 5 sao",
+            "link": "https://znews.vn/chay-hang-banh-trung-thu-khach-san-5-sao-post1682380.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/mrndcqjwq/2026_09_10/750033994_1440321524793521_2667177964632286017_n_1.jpg"
         },
         {
-            "title": "Bắt tạm giam Phó chủ tịch Phú Thọ, Giám đốc BV đa khoa Phú Thọ",
-            "link": "https://lifestyle.zingnews.vn/bat-tam-giam-pho-chu-tich-phu-tho-giam-doc-bv-da-khoa-phu-tho-post1681731.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/ecfzyryrzly/2026_09_10/library_20260910181814_63c1ca56_0bdb_43ff_a1aa_0828159cde4f_nghuyngoc.jpg"
+            "title": "Fabregas tạo câu chuyện khó tin nhất Champions League",
+            "link": "https://lifestyle.zingnews.vn/fabregas-tao-cau-chuyen-kho-tin-nhat-champions-league-post1682430.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/sotnzt/2026_09_11/2026_09_10T191044Z_862782125_UP1EM9A1H9U7C_RTRMADP_3_SOCCER_CHAMPIONS_COM_RBL.JPG"
+        },
+        {
+            "title": "Bản dịch AI tiểu thuyết Murakami giá 2 USD gây tranh cãi",
+            "link": "https://znews.vn/ban-dich-ai-tieu-thuyet-murakami-gia-2-usd-gay-tranh-cai-post1681693.html",
+            "img": "https://photo.znews.vn/Uploaded/wqdyqdxwp/2026_09_07/Ban_dich_Murakami_bang_AI_gay_tranh_cai_o_Trung_Quoc.jpeg"
         },
         {
             "title": "Góc khuất của thiên tài",
             "link": "https://znews.vn/goc-khuat-cua-thien-tai-post1681704.html",
             "img": "https://photo.znews.vn/Uploaded/caxwpqdwp/2026_09_07/tai_xuong_18_1.jpg"
-        },
-        {
-            "title": "Tác giả, NXB tranh chấp khoản bồi thường 1,5 tỷ USD từ Anthropic",
-            "link": "https://znews.vn/tac-gia-nxb-tranh-chap-khoan-boi-thuong-1-5-ty-usd-tu-anthropic-post1681822.html",
-            "img": "https://photo.znews.vn/Uploaded/bpcgpivp/2026_09_08/vu_kien_anthropic.jpg"
         }
     ]
 }
