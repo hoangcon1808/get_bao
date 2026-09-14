@@ -55,9 +55,14 @@
     "Thanh Niên": [],
     "Dân Trí": [
         {
+            "title": "Khoảnh khắc sinh tử qua đi, những điều đẹp đẽ còn ghi mãi",
+            "link": "https://dantri.com.vn/tam-diem/khoanh-khac-sinh-tu-qua-di-nhung-dieu-dep-de-con-ghi-mai-20260914165102123.htm",
+            "img": "https://cdnphoto.dantri.com.vn/PynUvqEEkZjiFWLnATq1PNTD3FM=/zoom/774_516/2026/09/14/co-giao-hoang-thi-hien-2-1789377359870.jpg"
+        },
+        {
             "title": "Nhịp sống sinh viên ở KTX cách trung tâm Hà Nội gần 30km",
             "link": "https://dantri.com.vn/dt360/nhip-song-sinh-vien-o-ktx-cach-trung-tam-ha-noi-gan-30km-20260914151251288.htm",
-            "img": "https://cdnphoto.dantri.com.vn/l1B5Y0TD6Tlh3kwm44BpfCI47_A=/zoom/774_516/2026/09/14/ba6a8139-1789373021287.jpg"
+            "img": "https://cdnphoto.dantri.com.vn/7qsadITCVyOTij12oGfe2YqNB8w=/zoom/351_234/2026/09/14/ba6a8139-1789373021287.jpg"
         },
         {
             "title": "Tháng 11 mới bổ sung SGK còn thiếu, học sinh chỉ được photocopy tối đa 10%",
@@ -67,7 +72,7 @@
         {
             "title": "Vụ phản đối giải thể điểm trường lẻ: Bữa trưa đủ món, chỗ nghỉ sạch sẽ",
             "link": "https://dantri.com.vn/giao-duc/vu-phan-doi-giai-the-diem-truong-le-bua-trua-du-mon-cho-nghi-sach-se-20260914124857315.htm",
-            "img": "https://cdnphoto.dantri.com.vn/futg28VbtGKupW5ctsEtQp0yhuo=/zoom/351_234/2026/09/14/hoc-sinh-quynh-tam-nghe-an-nguyen-phe-3-edited-1789364697687.jpg"
+            "img": "https://cdnphoto.dantri.com.vn/4r3isNnPPYbwREVaDObmz17XF5c=/zoom/192_128/2026/09/14/hoc-sinh-quynh-tam-nghe-an-nguyen-phe-3-edited-1789364697687.jpg"
         },
         {
             "title": "Nữ sinh duy nhất nhận học bổng Tinh hoa khoa học 320 triệu đồng",
@@ -88,11 +93,6 @@
             "title": "Cảm xúc băn khoăn nói tiếng Anh như thế nào?",
             "link": "https://dantri.com.vn/giao-duc/cam-xuc-ban-khoan-noi-tieng-anh-nhu-the-nao-20260605154901630.htm",
             "img": "https://cdnphoto.dantri.com.vn/_ZgxxxGgUqv4vSQAwJegXXBwQu4=/zoom/192_128/2026/06/05/tu-ta-cropped-1780649146065.jpg"
-        },
-        {
-            "title": "TPHCM bắt đầu chấm KPI giáo viên, tính thu nhập tăng thêm theo cách mới",
-            "link": "https://dantri.com.vn/giao-duc/tphcm-bat-dau-cham-kpi-giao-vien-tinh-thu-nhap-tang-them-theo-cach-moi-20260913223804315.htm",
-            "img": "https://cdnphoto.dantri.com.vn/aYMyDr_5VxA1YdD2GqV_AlmsBS8=/zoom/192_128/2025/12/01/giao-vien-tphcm-tieu-hoc-hiep-tan-huyen-nguyenjpeg-1764553672490.jpeg"
         },
         {
             "title": "Vì sao kính màn hình gập mỏng hơn sợi tóc lại khó vỡ?",
@@ -148,14 +148,14 @@
             "img": "https://photo.znews.vn/w210/Uploaded/asfzyrwtys1/2026_09_14/QRQH6CR2GNLLNFJGEEANW2WPWA.jpg"
         },
         {
-            "title": "Đêm trao giải cuộc thi 'Viết câu chuyện, một Thành phố' nhiều cảm xúc",
-            "link": "https://znews.vn/video-dem-trao-giai-cuoc-thi-viet-cau-chuyen-mot-thanh-pho-nhieu-cam-xuc-post1682981.html",
-            "img": "https://photo.znews.vn/Uploaded/aekxqdryxq/2026_09_13/thi_viet_tphcm_znews_25_1.jpeg"
+            "title": "Giải Nhì 'Viết câu chuyện, một Thành phố': Con đường có lá me bay",
+            "link": "https://znews.vn/giai-nhi-viet-cau-chuyen-mot-thanh-pho-con-duong-co-la-me-bay-post1682492.html",
+            "img": "https://photo.znews.vn/Uploaded/zagtgt/2026_09_11/CON_DUONG_CO_LA_ME_BAY_fid_07a1ebce_faa1_4398_a41d_b9ca684c869a_1.jpg"
         },
         {
-            "title": "Giải Nhất 'Viết câu chuyện, một Thành phố': Chúng tôi nhìn nhau lớn",
-            "link": "https://znews.vn/giai-nhat-viet-cau-chuyen-mot-thanh-pho-chung-toi-nhin-nhau-lon-post1682484.html",
-            "img": "https://photo.znews.vn/Uploaded/anqyy/2025_04_26/phaohoa_7_znews.jpg"
+            "title": "Giải Nhì cuộc thi 'Viết câu chuyện, một Thành phố': Chấm phẩy,",
+            "link": "https://znews.vn/giai-nhi-cuoc-thi-viet-cau-chuyen-mot-thanh-pho-cham-phay-post1682489.html",
+            "img": "https://photo.znews.vn/Uploaded/zagtgt/2026_09_11/IMG_6817_1_fid_8db57867_a60a_4194_8d33_4ecba9ce75b9.jpg"
         }
     ]
 }
