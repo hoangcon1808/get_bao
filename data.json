@@ -11,8 +11,8 @@
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/15/img6852719744301667378081-1789-5267-6999-1789458004.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=GYjEuTGan2HGm7DLllb6aA"
         },
         {
-            "title": "Người đàn ông 40 năm chăm sóc mộ 17 liệt sĩ vô danh",
-            "link": "https://vnexpress.net/nguoi-dan-ong-40-nam-cham-soc-mo-17-liet-si-vo-danh-5120665.html",
+            "title": "40 năm chăm sóc mộ 17 liệt sĩ chưa xác định được danh tính",
+            "link": "https://vnexpress.net/40-nam-cham-soc-mo-17-liet-si-chua-xac-dinh-duoc-danh-tinh-5120665.html",
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/15/1789464436805-cebec9809fa7d6c7-3723-8556-1789472397.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=jMXJcnpwarnd6DiQVcdFBA"
         },
         {
@@ -31,6 +31,11 @@
             "img": "https://vcdn1-thethao.vnecdn.net/2026/09/15/ronaldo-mu-ng-ba-n-1789477233-6260-1789477246.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=O_53hJsH0oSaCZLbjJyPzA"
         },
         {
+            "title": "Ngành dầu mỏ Mỹ cảnh báo khủng hoảng nhiên liệu",
+            "link": "https://vnexpress.net/nganh-dau-mo-my-canh-bao-khung-hoang-nhien-lieu-5120636.html",
+            "img": "https://vcdn1-kinhdoanh.vnecdn.net/2026/09/15/screenshot-1789465507-5827-1789465531.png?w=220&h=132&q=100&dpr=1&fit=crop&s=9twrM1jUNPFr1LQGU8kXyw"
+        },
+        {
             "title": "Đại diện VCCI: Nguồn thu ngân sách tập trung ở số ít doanh nghiệp",
             "link": "https://vnexpress.net/dai-dien-vcci-nguon-thu-ngan-sach-tap-trung-o-so-it-doanh-nghiep-5120667.html",
             "img": "https://vcdn1-kinhdoanh.vnecdn.net/2026/09/15/event1789470028626-1789470045-9014-1789470098.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=jnRpMrA9y4vsWWkfGte-nQ"
@@ -44,11 +49,6 @@
             "title": "Cánh gà chiên còn sống trong suất ăn bán trú",
             "link": "https://vnexpress.net/canh-ga-chien-con-song-trong-suat-an-ban-tru-5120662.html",
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/15/2aoboqynxhftq9478wjyrbfzobffyc-6264-6201-1789468680.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=WZdz5YZLl0STKwbwWIHcqA"
-        },
-        {
-            "title": "CAHN thua đậm ở Cup C1 châu Á",
-            "link": "https://vnexpress.net/cahn-thua-dam-o-cup-c1-chau-a-5120678.html",
-            "img": "https://vcdn1-thethao.vnecdn.net/2026/09/15/dadad-1789474866-4857-1789474979.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=8uNLfP-eyDQpTxbz4jyQuA"
         }
     ],
     "Tuổi Trẻ": [],
@@ -106,5 +106,56 @@
         }
     ],
     "VietnamNet": [],
-    "Znews": []
+    "Znews": [
+        {
+            "title": "TP.HCM ra chỉ đạo nóng về giải quyết hồ sơ nhà đất",
+            "link": "https://znews.vn/tphcm-ra-chi-dao-nong-ve-giai-quyet-ho-so-nha-dat-post1683455.html",
+            "img": "https://photo.znews.vn/w1000/Uploaded/zdhwqmjwq/2026_08_22/nutgiaoanphu_znews_23.JPG"
+        },
+        {
+            "title": "Tủ bánh mì không người bán ở TP.HCM",
+            "link": "https://lifestyle.zingnews.vn/tu-banh-mi-khong-nguoi-ban-o-tphcm-post1683418.html",
+            "img": "https://photo.znews.vn/w480/Uploaded/anqyy/2026_09_15/banh_mi_znews1789449313032_772632809905570742_772632809905570742_fe2003df730f32e3d69dc55759123c3b_1.jpg"
+        },
+        {
+            "title": "Việt Nam - Thái Lan đặt mục tiêu đưa hợp tác đi vào chiều sâu",
+            "link": "https://lifestyle.zingnews.vn/viet-nam-thai-lan-dat-muc-tieu-dua-hop-tac-di-vao-chieu-sau-post1683520.html",
+            "img": "https://photo.znews.vn/w480/Uploaded/asfzyrwtys1/2026_09_10/TBT_tiep_vua_Thai_Lan_8_znews.jpg"
+        },
+        {
+            "title": "Tổng Bí thư, Chủ tịch nước và Phu nhân chủ trì tiệc chiêu đãi Nhà vua và Hoàng hậu Thái Lan",
+            "link": "https://lifestyle.zingnews.vn/tong-bi-thu-chu-tich-nuoc-va-phu-nhan-chu-tri-tiec-chieu-dai-nha-vua-va-hoang-hau-thai-lan-post1683514.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/asfzyrwtys1/2026_09_15/tong_bi_thu_chu_tich_nuoc_va_phu_nhan_chu_tri_tiec_chieu_dai_nha_vua_va_hoang_hau_thai_lan_1509_1_1.jpg"
+        },
+        {
+            "title": "Cục CSGT lên tiếng về vụ chặn vượt xe gây tai nạn liên hoàn ở cao tốc",
+            "link": "https://tech.zingnews.vn/cuc-csgt-len-tieng-ve-vu-chan-vuot-xe-gay-tai-nan-lien-hoan-o-cao-toc-post1683515.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/bpivptvl/2026_09_15/tai_nan_cao_toc_cuc_csgt_1_1.jpg"
+        },
+        {
+            "title": "200 doanh nghiệp nộp ngân sách gần 1 triệu tỷ, sao thiếu Samsung, Intel?",
+            "link": "https://znews.vn/200-doanh-nghiep-nop-ngan-sach-gan-1-trieu-ty-sao-thieu-samsung-intel-post1683471.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/rohuoct/2026_06_30/vietlinh_znews.jpg"
+        },
+        {
+            "title": "Cục A05 có tên gọi mới",
+            "link": "https://tech.zingnews.vn/cuc-a05-co-ten-goi-moi-post1683486.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/ygtmvd/2026_09_07/KOL_znews_2.jpg"
+        },
+        {
+            "title": "Đề xuất 3 trụ cột giải bài toán an sinh cho tài xế công nghệ",
+            "link": "https://lifestyle.zingnews.vn/de-xuat-3-tru-cot-giai-bai-toan-an-sinh-cho-tai-xe-cong-nghe-post1683416.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/sotnbn/2026_09_15/tai_xe_znews_1.jpg"
+        },
+        {
+            "title": "Giải Nhất 'Viết câu chuyện, một Thành phố': Chúng tôi nhìn nhau lớn",
+            "link": "https://znews.vn/giai-nhat-viet-cau-chuyen-mot-thanh-pho-chung-toi-nhin-nhau-lon-post1682484.html",
+            "img": "https://photo.znews.vn/Uploaded/anqyy/2025_04_26/phaohoa_7_znews.jpg"
+        },
+        {
+            "title": "Vị Bảng nhãn thời Lê bị tội giáng làm lính",
+            "link": "https://znews.vn/vi-bang-nhan-thoi-le-bi-toi-giang-lam-linh-post1682819.html",
+            "img": "https://photo.znews.vn/Uploaded/jotnhg/2026_09_12/them_bac_dien_kinh_thien_16752163175111614388171.jpg"
+        }
+    ]
 }
