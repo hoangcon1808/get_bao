@@ -1,14 +1,19 @@
 {
     "VNExpress": [
         {
-            "title": "Vụ án liên quan Thứ trưởng Y tế Trần Văn Thuấn vào diện 'theo dõi'",
-            "link": "https://vnexpress.net/vu-an-lien-quan-thu-truong-y-te-tran-van-thuan-vao-dien-theo-doi-5121495.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/17/wm1-wm1-img-1789639869-5966-1789640057.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=U462wRnoZbuySgbzNgiWEw"
+            "title": "Sở Xây dựng Hà Nội: Công trình chống ngập khẩn cấp phát huy hiệu quả",
+            "link": "https://vnexpress.net/so-xay-dung-ha-noi-cong-trinh-chong-ngap-khan-cap-phat-huy-hieu-qua-5121555.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/17/phudo-1784042678-1784042732-17-2701-4161-1789659436.webp?w=680&h=408&q=100&dpr=1&fit=crop&s=esbbV0O3evYYk4A5U04UCA"
         },
         {
             "title": "Tìm kiếm nam sinh nghi bị cuốn xuống cống ở Hà Nội",
             "link": "https://vnexpress.net/tim-kiem-nam-sinh-nghi-bi-cuon-xuong-cong-o-ha-noi-5121584.html",
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/18/9766819487c045e68ea846eba8772f-7599-8512-1789665791.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=nLXNckxQNYkZVm0QPp8XnA"
+        },
+        {
+            "title": "Vụ án liên quan Thứ trưởng Y tế Trần Văn Thuấn vào diện 'theo dõi'",
+            "link": "https://vnexpress.net/vu-an-lien-quan-thu-truong-y-te-tran-van-thuan-vao-dien-theo-doi-5121495.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/17/wm1-wm1-img-1789639869-5966-1789640057.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=Edi9gNxXTy7WQeYKqF_TrQ"
         },
         {
             "title": "Nam thanh niên leo vòm cầu Cỏ May cao 26 m, cửa ngõ Vũng Tàu ùn ứ",
@@ -44,11 +49,6 @@
             "title": "Sạt lở nhiều nơi, du khách được khuyến cáo dừng đến Tam Đảo",
             "link": "https://vnexpress.net/sat-lo-nhieu-noi-du-khach-duoc-khuyen-cao-dung-den-tam-dao-5121546.html",
             "img": "https://vcdn1-dulich.vnecdn.net/2026/09/17/1789528430072b6-1789650687-7426-1789650915.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=rciBqeFihhrtIrcgXlqJjA"
-        },
-        {
-            "title": "H'Hen Niê làm 81 mâm cỗ đãi tiệc thôi nôi con gái",
-            "link": "https://vnexpress.net/h-hen-nie-lam-81-mam-co-dai-tiec-thoi-noi-con-gai-5121472.html",
-            "img": "https://vcdn1-giaitri.vnecdn.net/2026/09/17/tiec-sinh-nhat-cua-con-gai-h-h-9943-9327-1789638265.png?w=220&h=132&q=100&dpr=1&fit=crop&s=QKQ5B7HYoMWxMolaJKXWzQ"
         }
     ],
     "Tuổi Trẻ": [],
@@ -148,14 +148,14 @@
             "img": "https://photo.znews.vn/w210/Uploaded/uqvpbwiv/2026_09_17/Ratchaburi_1_1.jpeg"
         },
         {
-            "title": "Kiệt tác từ thuần phác",
-            "link": "https://znews.vn/kiet-tac-tu-thuan-phac-post1683655.html",
-            "img": "https://photo.znews.vn/Uploaded/zgsgtn/2026_09_15/1788623268621_706830675123595295_1.jpg"
-        },
-        {
             "title": "Phát hiện mới về tác dụng của đọc sách với sức khỏe",
             "link": "https://znews.vn/phat-hien-moi-ve-tac-dung-cua-doc-sach-voi-suc-khoe-post1683632.html",
             "img": "https://photo.znews.vn/Uploaded/zagtgt/2025_12_13/714063565_1400243692137291_99908_1.jpg"
+        },
+        {
+            "title": "Sói Già Phố Wall: Tôi là Jordan Belfort, tôi đến nhận phòng Tổng thống",
+            "link": "https://znews.vn/ty-phu-post1683854.html",
+            "img": "https://photo.znews.vn/Uploaded/znang2/2026_09_17/Jordan_Belfort_Blog_Image.jpg"
         }
     ]
 }
