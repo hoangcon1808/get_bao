@@ -1,14 +1,14 @@
 {
     "VNExpress": [
         {
+            "title": "'Lương khu vực công phải đủ sức giữ người giỏi'",
+            "link": "https://vnexpress.net/luong-khu-vuc-cong-phai-du-suc-giu-nguoi-gioi-5123511.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/22/base64-1790086939-4172-1790087263.png?w=680&h=408&q=100&dpr=1&fit=crop&s=-1XyDWXAn5tSHgy_djUpMQ"
+        },
+        {
             "title": "Người dân TP HCM đẩy xe giúp nhau qua dòng nước xiết",
             "link": "https://vnexpress.net/nguoi-dan-tp-hcm-day-xe-giup-nhau-qua-dong-nuoc-xiet-5123477.html",
             "img": "https://via.placeholder.com/300x200?text=No+Image"
-        },
-        {
-            "title": "Việt Nam gặp Hàn Quốc ở tứ kết ASIAD 2026",
-            "link": "https://vnexpress.net/viet-nam-gap-han-quoc-o-tu-ket-asiad-2026-5123501.html",
-            "img": "https://vcdn1-thethao.vnecdn.net/2026/09/22/8-1790083542-5264-1790083593.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=qK-JvjNMAHUNsj_-g9OcfQ"
         },
         {
             "title": "Công trình giao thông chậm tiến độ sẽ bị chuyển vốn",
@@ -55,19 +55,19 @@
     "Thanh Niên": [],
     "Dân Trí": [
         {
-            "title": "Đại học Quốc gia TPHCM thành lập 2 tổ chức, bổ nhiệm loạt cán bộ quản lý",
-            "link": "https://dantri.com.vn/giao-duc/dai-hoc-quoc-gia-tphcm-thanh-lap-2-to-chuc-bo-nhiem-loat-can-bo-quan-ly-20260922191057442.htm",
-            "img": "https://cdnphoto.dantri.com.vn/ETqKW9Odmz_vNS9nnRc-mxQ4p9A=/zoom/774_516/2026/09/22/screenshot-2026-09-22-at-19-cropped-1790078827732.jpg"
-        },
-        {
             "title": "Giữ lại 23 trường cao đẳng trực thuộc bộ, ngành",
             "link": "https://dantri.com.vn/giao-duc/giu-lai-23-truong-cao-dang-truc-thuoc-bo-nganh-20260922153338006.htm",
-            "img": "https://cdnphoto.dantri.com.vn/59_Id0s3o4gyFp2qqCewYuf0tyw=/zoom/351_234/2026/09/22/pho-thu-tuong-le-tien-chau-1790065736634.png"
+            "img": "https://cdnphoto.dantri.com.vn/RT_R3fYRb_LhIbaxhjvl5r4PNEg=/zoom/774_516/2026/09/22/pho-thu-tuong-le-tien-chau-1790065736634.png"
         },
         {
             "title": "Bỏ cộng điểm IELTS nhằm giảm \"quyền lực mềm\" của chứng chỉ quốc tế",
             "link": "https://dantri.com.vn/giao-duc/bo-cong-diem-ielts-nham-giam-quyen-luc-mem-cua-chung-chi-quoc-te-20260922133955358.htm",
             "img": "https://cdnphoto.dantri.com.vn/8XN5ojb4NpTJrIOwohvcDaULK_c=/zoom/351_234/2026/06/11/thi-thpt-tphcmphuongquyen9-1781141332755.jpg"
+        },
+        {
+            "title": "Vụ xin không nhận chức hiệu trưởng: Chủ tịch tỉnh ra quyết định mới",
+            "link": "https://dantri.com.vn/giao-duc/vu-xin-khong-nhan-chuc-hieu-truong-chu-tich-tinh-ra-quyet-dinh-moi-20260922143053897.htm",
+            "img": "https://cdnphoto.dantri.com.vn/37ZzDCD9tO1gaH6gH1A8WmjB3Pc=/zoom/351_234/2026/09/22/img4189-edited-1790061881956.jpg"
         },
         {
             "title": "Học sinh TPHCM đi học qua khu vực sông, suối phải có áo phao",
@@ -108,8 +108,8 @@
     "VietnamNet": [],
     "Znews": [
         {
-            "title": "Người dân TP.HCM chật vật về nhà khi mưa lớn, đường hóa sông",
-            "link": "https://lifestyle.zingnews.vn/nguoi-dan-tphcm-chat-vat-ve-nha-khi-mua-lon-duong-hoa-song-post1684920.html",
+            "title": "Người dân TP.HCM chật vật về nhà khi mưa lớn",
+            "link": "https://lifestyle.zingnews.vn/nguoi-dan-tphcm-chat-vat-ve-nha-khi-mua-lon-post1684920.html",
             "img": "https://photo.znews.vn/w1000/Uploaded/anqyy/2026_09_22/mua_4_znews.jpg"
         },
         {
@@ -148,14 +148,14 @@
             "img": "https://photo.znews.vn/w210/Uploaded/anqyy/2026_09_22/lut_1.JPG"
         },
         {
-            "title": "Đồng vàng florin quyền lực",
-            "link": "https://znews.vn/dong-vang-florin-quyen-luc-post1684226.html",
-            "img": "https://photo.znews.vn/Uploaded/znang2/2026_09_19/image_1789779697843.jpg"
+            "title": "Một góc của Sài Gòn",
+            "link": "https://znews.vn/mot-goc-cua-sai-gon-post1683121.html",
+            "img": "https://photo.znews.vn/Uploaded/zagtgt/2026_09_14/120157847_3489887534408411_2047403749976098311_n_fid_570b6766_9f54_4445_b6c4_719618825b57.jpg"
         },
         {
-            "title": "Làm sao đạt mục tiêu 80% người Việt Nam thích đọc sách vào năm 2030?",
-            "link": "https://znews.vn/lam-sao-dat-muc-tieu-80-nguoi-viet-nam-thich-doc-sach-vao-nam-2030-post1684082.html",
-            "img": "https://photo.znews.vn/Uploaded/zagtgt/2026_09_18/50044269996_14d343d677_k.jpg"
+            "title": "Ai là người giàu ngầm ở Mỹ?",
+            "link": "https://znews.vn/ai-la-nguoi-giau-ngam-o-my-post1683860.html",
+            "img": "https://photo.znews.vn/Uploaded/znang2/2026_09_17/100481540_wealthy_college_age_males_laughing_gettyp.jpg"
         }
     ]
 }
