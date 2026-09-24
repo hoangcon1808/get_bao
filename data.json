@@ -1,9 +1,14 @@
 {
     "VNExpress": [
         {
-            "title": "Điền kinh Việt Nam phá kỷ lục quốc gia ở ASIAD 2026",
-            "link": "https://vnexpress.net/dien-kinh-viet-nam-pha-ky-luc-quoc-gia-o-asiad-2026-5124434.html",
-            "img": "https://vcdn1-thethao.vnecdn.net/2026/09/24/afp-c99n68n-v1-highres-athleti-7557-6272-1790260430.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=r6aYbyNzM0LhT-rGB2-jHA"
+            "title": "'Nếu được giao, TP HCM chỉ cần 2 đêm in xong sách giáo khoa còn thiếu'",
+            "link": "https://vnexpress.net/neu-duoc-giao-tp-hcm-chi-can-2-dem-in-xong-sach-giao-khoa-con-thieu-5124421.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/24/f979841e037e8320da6f-179026015-9876-9739-1790260186.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=UgXWQl8kJglAXPDyepr2Pw"
+        },
+        {
+            "title": "Vận hành tuyến tàu container trực tiếp từ Trung Quốc đến Cần Thơ",
+            "link": "https://vnexpress.net/van-hanh-tuyen-tau-container-truc-tiep-tu-trung-quoc-den-can-tho-5124394.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/24/tau-cap-cang-can-tho-chieu-179-8610-6324-1790259072.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=Q3z7mfjRHeTH1AqlJkGwpA"
         },
         {
             "title": "Gia đình ở TP HCM bị tấn công, 2 người chết",
@@ -11,44 +16,39 @@
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/24/45b7ce55f-af76ba8f6219b45-jpeg-7582-3645-1790258444.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=n9WqakyVIknOYnLCJCYnlQ"
         },
         {
-            "title": "Người thân cố nghệ sĩ Vũ Linh được tòa khuyên 'nhường nhau' chuyện di sản",
-            "link": "https://vnexpress.net/nguoi-than-co-nghe-si-vu-linh-duoc-toa-khuyen-nhuong-nhau-chuyen-di-san-5124190.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/24/30ac64e1d38153df0a90-179024096-3066-9823-1790241094.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=Pjw4BbX4acJp7XVaNe0JNw"
-        },
-        {
-            "title": "Đường dây làm giả hơn một triệu viên 'An Cung chống đột quỵ'",
-            "link": "https://vnexpress.net/duong-day-lam-gia-hon-mot-trieu-vien-an-cung-chong-dot-quy-5124412.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/24/11-1790251969-2891-1790252266.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=E97xLJI5GH1gC5Eu8xXNZQ"
-        },
-        {
-            "title": "Ông Đỗ Quang Vinh rời HĐQT Vietravel Airlines",
-            "link": "https://vnexpress.net/ong-do-quang-vinh-roi-hdqt-vietravel-airlines-5124326.html",
-            "img": "https://vcdn1-kinhdoanh.vnecdn.net/2026/09/24/chu-tich-shs-1790244894-2907-1790244934.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=JobyRsxBT_XEk77cu41-iA"
-        },
-        {
-            "title": "Anthropic tuyên bố Claude phát hiện hệ enzyme mới",
-            "link": "https://vnexpress.net/anthropic-tuyen-bo-claude-phat-hien-he-enzyme-moi-5124244.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/24/lq02624-1790233803-7597-1790234178.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=jFxB0nzkr3D3E_ebM4XnXA"
-        },
-        {
-            "title": "Tòa đối chất 'túi có 140.000 USD hay hai hộp xì gà' với cựu công an chạy án",
-            "link": "https://vnexpress.net/toa-doi-chat-tui-co-140-000-usd-hay-hai-hop-xi-ga-voi-cuu-cong-an-chay-an-5124212.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/24/2aobor0zhkmo11emsixlxf3ay504s5-4288-8213-1790236784.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=Y4w01Ys-z-dtFK5qW-3MgA"
-        },
-        {
-            "title": "Giá xăng, dầu cùng tăng",
-            "link": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-24-9-5124238.html",
-            "img": "https://vcdn1-kinhdoanh.vnecdn.net/2026/09/24/wm1-wm1-l1150883jpg-1790233222-1306-1790233307.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=KXNt328CCBDA-AQiHZKcew"
-        },
-        {
-            "title": "Nghị sĩ Iran dọa luận tội Ngoại trưởng",
-            "link": "https://vnexpress.net/nghi-si-iran-doa-luan-toi-ngoai-truong-5124323.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/24/AFP202609232296748498v1HighRes-9588-7543-1790242636.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=V_FWPdj7Rzi80Q8FhvJStQ"
+            "title": "Báo Hàn Quốc: 'Gặp Việt Nam ở ASIAD là cơ hội phục thù'",
+            "link": "https://vnexpress.net/bao-han-quoc-gap-viet-nam-o-asiad-la-co-hoi-phuc-thu-5124354.html",
+            "img": "https://vcdn1-thethao.vnecdn.net/2026/09/24/screenshot-at-1790242617-9760-1790242763.png?w=220&h=132&q=100&dpr=1&fit=crop&s=cPxwSC1SKgf0bIJ6MS7BKg"
         },
         {
             "title": "Cheo leo vách núi Sam tạc tượng Phật cao 81 m",
             "link": "https://vnexpress.net/cheo-leo-vach-nui-sam-tac-tuong-phat-cao-81-m-5121100.html",
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/21/sequence0200100117still005-179-3746-4253-1790007819.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=2hXuvdYXsOB9g5oBEtgfvA"
+        },
+        {
+            "title": "Nhan sắc nữ kiếm sĩ Hàn Quốc được ví như 'sản phẩm AI' tại ASIAD",
+            "link": "https://vnexpress.net/nhan-sac-nu-kiem-si-han-quoc-duoc-vi-nhu-san-pham-ai-tai-asiad-5124432.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/24/top3-1790259269-8257-1790259304.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=i5xQqHiKiTVuKPUxEdkKwg"
+        },
+        {
+            "title": "Hai phi công nhảy dù thoát hiểm trước khi máy bay quân sự Anh phát nổ",
+            "link": "https://vnexpress.net/hai-phi-cong-nhay-du-thoat-hiem-truoc-khi-may-bay-quan-su-anh-phat-no-5124288.html",
+            "img": "https://via.placeholder.com/300x200?text=No+Image"
+        },
+        {
+            "title": "Sát hại hàng xóm để cướp trang sức vàng",
+            "link": "https://vnexpress.net/sat-hai-hang-xom-de-cuop-trang-suc-vang-5124407.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/24/2aobor0r2mzxg8udfmgkjk7rzgumhu-3928-9004-1790251853.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=K017QqqXrg0t0PEk55HScw"
+        },
+        {
+            "title": "Costco bán lại hàng hoàn như thế nào",
+            "link": "https://vnexpress.net/costco-ban-lai-hang-hoan-nhu-the-nao-5123423.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/22/costco1-1790068078-2427-1790068497.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=OJBFyAPJIXHpzckEEdPSDA"
+        },
+        {
+            "title": "Ông Đỗ Quang Vinh rời HĐQT Vietravel Airlines",
+            "link": "https://vnexpress.net/ong-do-quang-vinh-roi-hdqt-vietravel-airlines-5124326.html",
+            "img": "https://vcdn1-kinhdoanh.vnecdn.net/2026/09/24/chu-tich-shs-1790244894-2907-1790244934.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=JobyRsxBT_XEk77cu41-iA"
         }
     ],
     "Tuổi Trẻ": [],
@@ -123,6 +123,11 @@
             "img": "https://photo.znews.vn/w480/Uploaded/kbfoplb/2026_09_24/ngap_luong_dinh_cua_znews_16.jpg"
         },
         {
+            "title": "Ông Trump đón ông Tập tại Nhà Trắng với màn bay oanh tạc cơ B-2",
+            "link": "https://lifestyle.zingnews.vn/ong-trump-don-ong-tap-tai-nha-trang-voi-man-bay-oanh-tac-co-b-2-post1684683.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/zngube/2026_09_21/4839079d_c71b_4951_9833_9b6d6f3f88f6_446d5cbf.jpg"
+        },
+        {
             "title": "Tuyển Thái Lan hết lý do trước Việt Nam",
             "link": "https://lifestyle.zingnews.vn/tuyen-thai-lan-het-ly-do-truoc-viet-nam-post1685166.html",
             "img": "https://photo.znews.vn/w210/Uploaded/qdhcadxwp/2026_09_24/808699918_1148115797543868_3243682546928896413_n.jpg"
@@ -143,19 +148,14 @@
             "img": "https://photo.znews.vn/w210/Uploaded/pwivobiu/2026_09_24/Wang_Chuqin.JPG"
         },
         {
-            "title": "Bí thư Trần Lưu Quang: TP.HCM không cấm xe xăng",
-            "link": "https://lifestyle.zingnews.vn/bi-thu-tran-luu-quang-tphcm-khong-cam-xe-xang-post1685294.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/wohuhuo/2021_07_09/Bi_thu_Znews_1.jpg"
+            "title": "'Đời tám hoánh' là đời nào?",
+            "link": "https://znews.vn/doi-tam-hoanh-la-doi-nao-post1684584.html",
+            "img": "https://photo.znews.vn/Uploaded/bpcgpivp/2026_09_21/noi_co_sach_tam_hoanh.jpg"
         },
         {
-            "title": "Sói già Phố Wall từng muốn nghe lén FBI",
-            "link": "https://znews.vn/soi-gia-pho-wall-tung-muon-nghe-len-fbi-post1685173.html",
-            "img": "https://photo.znews.vn/Uploaded/znang2/2026_09_24/kyle_chandler_and_leonardo_dicaprio_in_the_arrest_scene_in_the_wolf_of_wall_street.jpg"
-        },
-        {
-            "title": "Thứ có khả năng bất tử trong DNA",
-            "link": "https://znews.vn/thu-co-kha-nang-bat-tu-trong-dna-post1685132.html",
-            "img": "https://photo.znews.vn/Uploaded/caxwpqdwp/2026_09_23/tai_xuong_5_.jpg"
+            "title": "Trận động đất thúc đẩy sự ra đời của Cục Dự trữ Liên bang Mỹ",
+            "link": "https://znews.vn/tran-dong-dat-thuc-day-su-ra-doi-cua-cuc-du-tru-lien-bang-my-post1685176.html",
+            "img": "https://photo.znews.vn/Uploaded/znang2/2026_09_24/25f4571f_bc14_4c52_94f1_42b7202e.jpg"
         }
     ]
 }
