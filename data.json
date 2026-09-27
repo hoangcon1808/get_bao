@@ -1,14 +1,24 @@
 {
     "VNExpress": [
         {
-            "title": "Mỹ siết vòng kìm tỏa với Iran",
-            "link": "https://vnexpress.net/my-siet-vong-kim-toa-voi-iran-5124989.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/26/ap26089571647503-1790401364-7000-1790401507.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=XJyD82kW-JNTYVOXdGK7wg"
+            "title": "Tổng Bí thư, Chủ tịch nước: Hà Nội phải có những công trình xứng tầm thời đại",
+            "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-ha-noi-phai-co-nhung-cong-trinh-xung-tam-thoi-dai-5125417.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/27/tbt1-1790512637-6368-1790512882.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=fnhckoA7Z3yPc62wB_yGUw"
         },
         {
-            "title": "Xuân Son bật khóc khi rời sân ở FIFA ASEAN Cup",
-            "link": "https://vnexpress.net/xuan-son-bat-khoc-khi-roi-san-o-fifa-asean-cup-5125246.html",
-            "img": "https://vcdn1-thethao.vnecdn.net/2026/09/27/wm1-dong92-jpg-1790467716.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=FRHCzbW-AJWD_JqE6RzSOg"
+            "title": "Sạt lở đèo trên tuyến Phan Thiết - Đà Lạt",
+            "link": "https://vnexpress.net/sat-lo-deo-tren-tuyen-phan-thiet-da-lat-5125407.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/27/2aobor1zffw9nwkr1zxbij8m0iuf9n-3126-5893-1790508934.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=_e-8RUoWiqmAM20XZLboUw"
+        },
+        {
+            "title": "Công ty gỗ ở Đồng Nai cháy ngùn ngụt, nhà xưởng đổ sập",
+            "link": "https://vnexpress.net/cong-ty-go-o-dong-nai-chay-ngun-ngut-nha-xuong-do-sap-5125403.html",
+            "img": "https://via.placeholder.com/300x200?text=No+Image"
+        },
+        {
+            "title": "Đen, Tuấn Cry so tài bóc vỏ bề bề, lần đầu thử sam biển Hạ Long",
+            "link": "https://vnexpress.net/den-tuan-cry-so-tai-boc-vo-be-be-lan-dau-thu-sam-bien-ha-long-5124549.html",
+            "img": "https://vcdn1-giaitri.vnecdn.net/2026/09/26/adn00018-jpg-1790391151-2454-1790392424.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=yTxynoH98n5MoAVUM74pdA"
         },
         {
             "title": "Cảnh chạy lụt, ngủ trên bàn của người dân Bangkok",
@@ -21,34 +31,24 @@
             "img": "https://vcdn1-giadinh.vnecdn.net/2026/09/27/photo-1790491608-4602-1790491617.webp?w=220&h=132&q=100&dpr=1&fit=crop&s=qZhVfOPG8MfSTj7zRqxrFQ"
         },
         {
+            "title": "Xuân Son chia tay FIFA ASEAN Cup vì chấn thương",
+            "link": "https://vnexpress.net/xuan-son-chia-tay-fifa-asean-cup-vi-chan-thuong-5125359.html",
+            "img": "https://vcdn1-thethao.vnecdn.net/2026/09/27/don-jpg-1790491467-6874-1790491504.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=qdn7cL2ZWcEPWbTn2xoCpA"
+        },
+        {
+            "title": "Thần đồng điền kinh Thái Lan tiếp tục tạo địa chấn ở ASIAD 2026",
+            "link": "https://vnexpress.net/than-dong-dien-kinh-thai-lan-tiep-tuc-tao-dia-chan-o-asiad-2026-5125413.html",
+            "img": "https://vcdn1-thethao.vnecdn.net/2026/09/27/ap26270385952775-1790507372-8627-1790507468.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=cNxMQG7ONrNHMYIvdWiHsA"
+        },
+        {
+            "title": "Lở tuyết ở Nepal, ít nhất 10 người mất tích",
+            "link": "https://vnexpress.net/lo-tuyet-o-nepal-it-nhat-10-nguoi-mat-tich-5125382.html",
+            "img": "https://vcdn1-dulich.vnecdn.net/2026/09/27/base-1790499877-7657-1790499888.webp?w=220&h=132&q=100&dpr=1&fit=crop&s=z8H5Lc72D-8chKm7fIXu3A"
+        },
+        {
             "title": "Nước tràn vào sân bay Bangkok giữa đợt lũ diện rộng ở Thái Lan",
             "link": "https://vnexpress.net/nuoc-tran-vao-san-bay-bangkok-giua-dot-lu-dien-rong-o-thai-lan-5125367.html",
             "img": "https://via.placeholder.com/300x200?text=No+Image"
-        },
-        {
-            "title": "Trung Quốc gửi gấu trúc tới Mỹ sau chuyến thăm của ông Tập",
-            "link": "https://vnexpress.net/trung-quoc-gui-gau-truc-toi-my-sau-chuyen-tham-cua-ong-tap-5125306.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/27/fa4bc2bd-fd10b-b45cc4efd79850-5747-8633-1790483060.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=PU1PRwP8mXeu8UveWkDJxA"
-        },
-        {
-            "title": "Nhân viên Google từ chức vì lo AI 'phát triển quá nhanh'",
-            "link": "https://vnexpress.net/nhan-vien-google-tu-chuc-vi-lo-ai-phat-trien-qua-nhanh-5125305.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/27/img0718-1790478622-9122-1790479004.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=O5gFtS4KCvSoR28REIVFvA"
-        },
-        {
-            "title": "Lãnh tụ Tối cao Iran từng hai lần suýt chết trong xung đột",
-            "link": "https://vnexpress.net/lanh-tu-toi-cao-iran-tung-hai-lan-suyt-chet-trong-xung-dot-5125253.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/27/afp-a2fw8nq-v2-highres-topshot-5217-2073-1790474888.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=Ocn3dDw8QCcCtCMkTcWLlg"
-        },
-        {
-            "title": "Nỗi lo AI 'cướp chén cơm' của người dẫn livestream bán hàng Trung Quốc",
-            "link": "https://vnexpress.net/noi-lo-ai-cuop-chen-com-cua-nguoi-dan-livestream-ban-hang-trung-quoc-5124115.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/26/image-1790389007-6121-1790389054.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=KbahQLs0w2tJh3oaMwno8g"
-        },
-        {
-            "title": "Khách đổ xô ngắm hoàng hôn Mù Cang Chải, đường tắc hai tiếng",
-            "link": "https://vnexpress.net/khach-do-xo-ngam-hoang-hon-mu-cang-chai-duong-tac-hai-tieng-5125279.html",
-            "img": "https://vcdn1-dulich.vnecdn.net/2026/09/27/cdb3bc2ad645561b0f545-17904898-9230-1477-1790494308.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=CBlWZxkmiGMhfuPnpOWYhQ"
         }
     ],
     "Tuổi Trẻ": [],
@@ -95,22 +95,27 @@
             "img": "https://cdnphoto.dantri.com.vn/5bq0MJ7hdG2tfXbPwGurbWRM4r8=/zoom/192_128/2026/09/26/thu-khoa-bach-khoa-myha3-1790402750261.jpg"
         },
         {
-            "title": "Làm nghề lạ \"cho Tây chụp ảnh\", cô nông dân sinh lời nhiều lần từ đồi chè",
-            "link": "https://dantri.com.vn/khoa-hoc/lam-nghe-la-cho-tay-chup-anh-co-nong-dan-sinh-loi-nhieu-lan-tu-doi-che-20260926212528141.htm",
-            "img": "https://cdnphoto.dantri.com.vn/rTYAZXyruyP-nnvwycI_fcQO7kI=/zoom/774_516/2026/09/26/doi-che-long-coc499-1790225119617-1790432404995.jpg"
+            "title": "Thiết kế của iPhone Duo dường như bỏ qua một nhóm khách hàng quan trọng",
+            "link": "https://dantri.com.vn/cong-nghe/thiet-ke-cua-iphone-duo-duong-nhu-bo-qua-mot-nhom-khach-hang-quan-trong-20260927125347149.htm",
+            "img": "https://cdnphoto.dantri.com.vn/BabpMN3vG-ibz0kJyHW1zIg7K0c=/zoom/774_516/2026/09/27/iphone-duo-phonearena-cropped-1790486458290.jpg"
         },
         {
-            "title": "Clip “người đàn ông phản ứng nhanh cứu em bé khỏi tai nạn” nổi bật tuần qua",
-            "link": "https://dantri.com.vn/cong-nghe/clip-nguoi-dan-ong-phan-ung-nhanh-cuu-em-be-khoi-tai-nan-noi-bat-tuan-qua-20260926160530897.htm",
-            "img": "https://cdnphoto.dantri.com.vn/w-SGPwTrgQJ63thfBVbXSGLAJQc=/zoom/351_234/2026/09/26/tinh-huong-thot-tim-1790413456849.gif"
+            "title": "Làm nghề lạ \"cho Tây chụp ảnh\", cô nông dân sinh lời nhiều lần từ đồi chè",
+            "link": "https://dantri.com.vn/khoa-hoc/lam-nghe-la-cho-tay-chup-anh-co-nong-dan-sinh-loi-nhieu-lan-tu-doi-che-20260926212528141.htm",
+            "img": "https://cdnphoto.dantri.com.vn/ElkvJii0QAR-nSaLVHG1eVH6wEc=/zoom/351_234/2026/09/26/doi-che-long-coc499-1790225119617-1790432404995.jpg"
         }
     ],
     "VietnamNet": [],
     "Znews": [
         {
+            "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm yêu cầu Thủ đô phải đi trước, làm gương",
+            "link": "https://lifestyle.zingnews.vn/tong-bi-thu-chu-tich-nuoc-to-lam-yeu-cau-thu-do-phai-di-truoc-lam-guong-post1685965.html",
+            "img": "https://photo.znews.vn/w1000/Uploaded/zagtgt/2026_09_27/ttxvn_tong_bi_thu_chu_tich_nuoc_tiep_xuc_cu_tri_ha_noi_truoc_ky_hop_thu_hai_quoc_hoi_khoa_xvi_5082.jpg"
+        },
+        {
             "title": "Việt Nam lấy ai thay Xuân Son đấu Thái Lan?",
             "link": "https://lifestyle.zingnews.vn/viet-nam-lay-ai-thay-xuan-son-dau-thai-lan-post1685784.html",
-            "img": "https://photo.znews.vn/w1000/Uploaded/qfsyy/2026_08_16/IMG_7187.jpg"
+            "img": "https://photo.znews.vn/w480/Uploaded/qfsyy/2026_08_16/IMG_7187.jpg"
         },
         {
             "title": "'Cập kê' là bao nhiêu tuổi mà có thể lấy chồng?",
@@ -118,44 +123,39 @@
             "img": "https://photo.znews.vn/w480/Uploaded/zagtgt/2026_09_27/noicosach_27092026.jpg"
         },
         {
-            "title": "'Thủ phạm' khiến Bangkok mưa suốt 48 giờ, ngập trong biển nước",
-            "link": "https://lifestyle.zingnews.vn/thu-pham-khien-bangkok-mua-suot-48-gio-ngap-trong-bien-nuoc-post1685619.html",
-            "img": "https://photo.znews.vn/w480/Uploaded/lce_jwqqc/2026_09_25/inFocus_27092026.jpg"
+            "title": "Hoàng Đức dầm mưa với đội dự bị",
+            "link": "https://lifestyle.zingnews.vn/hoang-duc-dam-mua-voi-doi-du-bi-post1685979.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/jopluat/2026_09_27/Hoang_Duc.jpg"
         },
         {
-            "title": "Vận động viên 11 tuổi giành HCV tại ASIAD là ai?",
-            "link": "https://tech.zingnews.vn/game-thu-11-tuoi-gianh-hcv-asian-games-post1685904.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/ovhunst/2026_09_27/Yuki_Kurihara_Japan_Times_3.jpg"
+            "title": "Thái Lan thắng 4-0, có thật mạnh hơn Việt Nam?",
+            "link": "https://lifestyle.zingnews.vn/thai-lan-thang-4-0-co-that-manh-hon-viet-nam-post1685787.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/sotnzt/2026_09_26/t_znews_4__1.jpg"
         },
         {
-            "title": "Kịch bản Man City bị xóa sổ khỏi bóng đá Anh",
-            "link": "https://lifestyle.zingnews.vn/kich-ban-man-city-bi-xoa-so-khoi-bong-da-anh-post1685934.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/mfnuy/2025_02_28/man_city_1.JPG"
+            "title": "'Đại hội' leo núi Tà Chì Nhù",
+            "link": "https://lifestyle.zingnews.vn/dai-hoi-leo-nui-ta-chi-nhu-post1685946.html",
+            "img": "https://photo.znews.vn/Uploaded/bfjyseclyr1/2026_09_27/ta_chi_nhu_11_17.gif"
         },
         {
-            "title": "'Cá mập' toàn cầu đổ xô bán tài sản, trữ tiền mặt",
-            "link": "https://znews.vn/ca-map-toan-cau-do-xo-ban-tai-san-tru-tien-mat-post1685911.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/rohuoct/2026_09_27/8b7b33ccabe6cdf0c1e851aa71ac4e445098564b.jpg"
+            "title": "Người dân Bangkok: 'Nước ngập tới cổ tôi rồi'",
+            "link": "https://lifestyle.zingnews.vn/nguoi-dan-bangkok-nuoc-ngap-toi-co-toi-roi-post1685907.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/anqyy/2026_09_27/2026_09_27T101528Z_1481592380_RC2IRNALDCZI_RTRMADP_3_ASIA_WEATHER_THAILAND_FLOODS_1.JPG"
         },
         {
-            "title": "Tâm thư của Xuân Son sau khi chia tay FIFA ASEAN Cup",
-            "link": "https://lifestyle.zingnews.vn/tam-thu-cua-xuan-son-sau-khi-chia-tay-fifa-asean-cup-post1685903.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/viuoqivo/2026_09_26/Xuan_Son_thumb.jpg"
+            "title": "Trung Quốc và Mỹ đổ xô mua hạt điều Việt Nam",
+            "link": "https://znews.vn/trung-quoc-va-my-do-xo-mua-hat-dieu-viet-nam-post1685920.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/yzfsm/2026_09_27/Trung_Quoc_va_My_do_xo_mua_hat_dieu_Viet_Nam2.jpg"
         },
         {
-            "title": "Khán đài trống và tương lai mờ mịt của FIFA ASEAN Cup",
-            "link": "https://lifestyle.zingnews.vn/khan-dai-trong-va-tuong-lai-mo-mit-cua-fifa-asean-cup-post1685794.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/fsmyz/2026_09_27/FIFA_ASEAN_Cup_1.jpg"
+            "title": "'Đời tám hoánh' là đời nào?",
+            "link": "https://znews.vn/doi-tam-hoanh-la-doi-nao-post1684584.html",
+            "img": "https://photo.znews.vn/Uploaded/bpcgpivp/2026_09_21/noi_co_sach_tam_hoanh.jpg"
         },
         {
-            "title": "Hội Xuất bản Việt Nam tổ chức Ngày hội Văn hóa đọc tại Quốc Học Huế",
-            "link": "https://znews.vn/hoi-xuat-ban-viet-nam-to-chuc-ngay-hoi-van-hoa-doc-tai-quoc-hoc-hue-post1685250.html",
-            "img": "https://photo.znews.vn/Uploaded/bpcgpivp/2026_09_24/hue_van_hoa_doc.jpg"
-        },
-        {
-            "title": "Vì sao cá có thể sống sót kể cả khi nước đóng băng?",
-            "link": "https://znews.vn/vi-sao-ca-co-the-song-sot-ke-ca-khi-nuoc-dong-bang-post1684959.html",
-            "img": "https://photo.znews.vn/Uploaded/ukrspuo/2026_09_23/ca.jpeg"
+            "title": "Trận động đất thúc đẩy sự ra đời của Cục Dự trữ Liên bang Mỹ",
+            "link": "https://znews.vn/tran-dong-dat-thuc-day-su-ra-doi-cua-cuc-du-tru-lien-bang-my-post1685176.html",
+            "img": "https://photo.znews.vn/Uploaded/znang2/2026_09_24/25f4571f_bc14_4c52_94f1_42b7202e.jpg"
         }
     ]
 }
