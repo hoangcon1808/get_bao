@@ -1,73 +1,88 @@
 {
     "VNExpress": [
         {
-            "title": "Bộ Công Thương: Sắp tới, mỗi cây xăng có thể bán một giá khác nhau",
-            "link": "https://vnexpress.net/bo-cong-thuong-sap-toi-moi-cay-xang-co-the-ban-mot-gia-khac-nhau-5126542.html",
-            "img": "https://vcdn1-kinhdoanh.vnecdn.net/2026/09/30/wm1-wm1-xang6-1790739515-5091-1790741147.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=0MVMNT5KaYMPVdNemKHXag"
+            "title": "Khói lửa bao trùm tầng 3 quán ăn ở trung tâm Hà Nội",
+            "link": "https://vnexpress.net/khoi-lua-bao-trum-tang-3-quan-an-o-trung-tam-ha-noi-5126813.html",
+            "img": "https://via.placeholder.com/300x200?text=No+Image"
         },
         {
-            "title": "Vỡ mộng sau những cuộc tình công sở vụng trộm",
-            "link": "https://vnexpress.net/vo-mong-sau-nhung-cuoc-tinh-cong-so-vung-trom-5126249.html",
-            "img": "https://vcdn1-giadinh.vnecdn.net/2026/09/29/a-1790669184-8972-1790669379.png?w=220&h=132&q=100&dpr=1&fit=crop&s=eRKcLTY3ue0uaUWOqWYgwQ"
+            "title": "Cơ phó bị nghi tìm cách lao máy bay UAE xuống đất",
+            "link": "https://vnexpress.net/co-pho-bi-nghi-tim-cach-lao-may-bay-uae-xuong-dat-5126714.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/30/may-bay-ha-canh-khan-179075736-9578-9227-1790758177.webp?w=220&h=132&q=100&dpr=1&fit=crop&s=FYKefiiYNSiEc9II4Gcmwg"
+        },
+        {
+            "title": "Hành khách kể giây phút khống chế, ngăn cơ phó lao máy bay UAE xuống đất",
+            "link": "https://vnexpress.net/hanh-khach-ke-giay-phut-khong-che-ngan-co-pho-lao-may-bay-uae-xuong-dat-5126819.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/30/anh2-1790776540-5877-1790776671.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=7NBwOaJM3RbFLQhmqhZfyg"
+        },
+        {
+            "title": "Va xe đẩy vào khuỷu tay khách, tiếp viên Trung Quốc phải quỳ xin lỗi",
+            "link": "https://vnexpress.net/va-xe-day-vao-khuyu-tay-khach-tiep-vien-trung-quoc-phai-quy-xin-loi-5126655.html",
+            "img": "https://vcdn1-dulich.vnecdn.net/2026/09/30/china-eastern-airlines-scaled-7377-7738-1790767650.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=pR_T4a77_zYbhfauxKMaLg"
+        },
+        {
+            "title": "Nước ngập hơn một mét, chảy xiết trên đường TP HCM",
+            "link": "https://vnexpress.net/nuoc-ngap-hon-mot-met-chay-xiet-tren-duong-tp-hcm-5126817.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/30/2aobor2gst5rtrnqrj67bhycamntmj-7740-8103-1790775660.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=6F5NP1c20oIpHu2-2CLppw"
+        },
+        {
+            "title": "Nước tràn vào xe buýt, hàng quán sau mưa lớn ở TP HCM",
+            "link": "https://vnexpress.net/nuoc-tran-vao-xe-buyt-hang-quan-sau-mua-lon-o-tp-hcm-5126823.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/30/2aobor2gspgtlup4wdkvctpy1v2cwhqwtwwlt7a430-1790777621.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=xAGuqIH5hLhTsQ87pACEUw"
+        },
+        {
+            "title": "iPhone Duo có thể khan hàng vì gặp sự cố sản xuất",
+            "link": "https://vnexpress.net/iphone-duo-co-the-khan-hang-vi-gap-su-co-san-xuat-5126381.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/30/wm1-wm1-wm1-dscf0086-1790723414-4249-1790723904.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=_u80P643uE1LI7_tD5QEmA"
+        },
+        {
+            "title": "Thầy giáo về hưu bị nghi làm 'chim mồi' ngáng đường thượng nghị sĩ Cộng hòa",
+            "link": "https://vnexpress.net/thay-giao-ve-huu-bi-nghi-lam-chim-moi-ngang-duong-thuong-nghi-si-cong-hoa-5123370.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/22/tns1-1790064270-8933-1790064597.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=gK7Ve8XpMa0NkyPxMEW1uA"
+        },
+        {
+            "title": "Hàn Quốc nêu lý do ông Zelensky tiết lộ thông tin về tù binh Triều Tiên",
+            "link": "https://vnexpress.net/han-quoc-neu-ly-do-ong-zelensky-tiet-lo-thong-tin-ve-tu-binh-trieu-tien-5126682.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/30/ap26266647546018-1790763758-3283-1790763808.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=bjr6H7YA77QQ7fgX7z66dw"
         },
         {
             "title": "Chàng trai 23 tuổi mở startup 10 tỷ USD đối đầu Meta",
             "link": "https://vnexpress.net/chang-trai-23-tuoi-mo-startup-10-ty-usd-doi-dau-meta-5125818.html",
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/28/VNEAI-1790585927-7719-1790586048.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=GHL19e22yql6wkwH2tCjeQ"
-        },
-        {
-            "title": "'Taxi bay' được đề xuất thử nghiệm ở Hà Nội có gì đặc biệt?",
-            "link": "https://vnexpress.net/taxi-bay-duoc-de-xuat-thu-nghiem-o-ha-noi-co-gi-dac-biet-5126403.html",
-            "img": "https://via.placeholder.com/300x200?text=No+Image"
-        },
-        {
-            "title": "Khoảng cách giàu nghèo trên đoạn đường 1,6 km ở Mỹ",
-            "link": "https://vnexpress.net/khoang-cach-giau-ngheo-tren-doan-duong-1-6-km-o-my-5125774.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/28/qe64zrojpytjvmni6rocma45ai-179-1739-8554-1790584472.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=keLTRZXeTjk1OMfr1berCw"
-        },
-        {
-            "title": "Thông tin 'tù binh Triều Tiên' thổi bùng căng thẳng Ukraine - Hàn Quốc",
-            "link": "https://vnexpress.net/thong-tin-tu-binh-trieu-tien-thoi-bung-cang-thang-ukraine-han-quoc-5126015.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/29/ap26266646980152-1790658053-8485-1790659712.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=nPLM34wUzmRSalQ2A8VDLw"
-        },
-        {
-            "title": "Ronaldo không tập cùng đội tuyển Bồ Đào Nha",
-            "link": "https://vnexpress.net/ronaldo-khong-tap-cung-doi-tuyen-bo-dao-nha-5126533.html",
-            "img": "https://vcdn1-thethao.vnecdn.net/2026/09/30/ap262678355621001-1790739140-4680-1790739276.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=FfjAp65gM-VRmI6WgX907A"
-        },
-        {
-            "title": "Trộm thùng hàng với logo Nvidia, bên trong chỉ có 18 tấn cát",
-            "link": "https://vnexpress.net/trom-thung-hang-voi-logo-nvidia-ben-trong-chi-co-18-tan-cat-5126298.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/29/6abab693d15f8a572974b754-17906-9006-9078-1790673511.webp?w=220&h=132&q=100&dpr=1&fit=crop&s=rMMoCq8IjyhBj6rsA5yEyw"
-        },
-        {
-            "title": "Khu phố ở Đồng Nai chìm trong nước",
-            "link": "https://vnexpress.net/khu-pho-o-dong-nai-chim-trong-nuoc-5126619.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/30/wm1-anh-3-jpg-1790744869-1790745523.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=PUsGcqs2y-9PBOaeBSkCHw"
-        },
-        {
-            "title": "Đề xuất làn vượt xe trên ba tuyến cao tốc từ Bắc vào Nam",
-            "link": "https://vnexpress.net/de-xuat-lan-vuot-xe-tren-ba-tuyen-cao-toc-tu-bac-vao-nam-5126620.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/09/30/3-1790743503-1369-1790743620.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=A0geWNbXkEW52ghyc1eLBA"
         }
     ],
     "Tuổi Trẻ": [],
     "Thanh Niên": [],
     "Dân Trí": [
         {
-            "title": "Học sinh ăn sáng cạnh thùng rác vì... không được mang đồ ăn vào trường",
-            "link": "https://dantri.com.vn/giao-duc/hoc-sinh-an-sang-canh-thung-rac-vi-khong-duoc-mang-do-an-vao-truong-20260930140228130.htm",
-            "img": "https://cdnphoto.dantri.com.vn/8527ERb0rqXv4TAA9ptOnrEN3Co=/zoom/774_516/2026/09/30/truong1ctv-1790750750727.jpg"
+            "title": "Cấm ban phụ huynh thu tiền hỗ trợ, đặt ra khoản đóng góp bắt buộc",
+            "link": "https://dantri.com.vn/giao-duc/cam-ban-phu-huynh-thu-tien-ho-tro-dat-ra-khoan-dong-gop-bat-buoc-20260930185840695.htm",
+            "img": "https://cdnphoto.dantri.com.vn/_8jYm-cmRWmPsEH38VBGVoReYtU=/zoom/774_516/2026/09/30/hoi-truong-hoi-phu-huynh-la-chuc-khong-ai-muon-lam-1790770424057.jpg"
+        },
+        {
+            "title": "Hết tháng 9, nhiều học sinh và giáo viên vẫn chưa có đủ sách giáo khoa",
+            "link": "https://dantri.com.vn/giao-duc/het-thang-9-nhieu-hoc-sinh-va-giao-vien-van-chua-co-du-sach-giao-khoa-20260930164723437.htm",
+            "img": "https://cdnphoto.dantri.com.vn/CUFxhPtpfKTObSJTxhxAAT-EktM=/zoom/351_234/2026/09/30/thieu-sach-giao-khoactv-1790761236354.jpg"
+        },
+        {
+            "title": "Phụ huynh bức xúc vì con phải ăn sáng ngoài cổng trường, cạnh thùng rác",
+            "link": "https://dantri.com.vn/giao-duc/phu-huynh-buc-xuc-vi-con-phai-an-sang-ngoai-cong-truong-canh-thung-rac-20260930140228130.htm",
+            "img": "https://cdnphoto.dantri.com.vn/2Mh_CuL-jPSpREmDDEEGaVAx-fc=/zoom/351_234/2026/09/30/truong1ctv-1790750750727.jpg"
+        },
+        {
+            "title": "\"Ma trận\" mức phí đào tạo chứng chỉ IELTS ở Hà Nội",
+            "link": "https://dantri.com.vn/giao-duc/ma-tran-muc-phi-dao-tao-chung-chi-ielts-o-ha-noi-20260929145528897.htm",
+            "img": "https://cdnphoto.dantri.com.vn/hkQW2eyYkQg40QI8OYlrrTn-va0=/zoom/192_128/2026/09/30/ielts-myha12-cropped-1790752104693.jpg"
         },
         {
             "title": "Hơn 26.000 học sinh còn thiếu sách giáo khoa",
             "link": "https://dantri.com.vn/giao-duc/hon-26000-hoc-sinh-con-thieu-sach-giao-khoa-20260930091706494.htm",
-            "img": "https://cdnphoto.dantri.com.vn/uuFwBWSIelOgBkP-7wmPjN0-Pd4=/zoom/351_234/2025/08/27/bo-chinh-tri-cung-cap-bo-sgk-chung-den-2030-mien-phi-cho-tat-ca-hoc-sinh-1756285617383.jpg"
+            "img": "https://cdnphoto.dantri.com.vn/ndZLB3qoodMELC6O1YjSH9adYlk=/zoom/192_128/2025/08/27/bo-chinh-tri-cung-cap-bo-sgk-chung-den-2030-mien-phi-cho-tat-ca-hoc-sinh-1756285617383.jpg"
         },
         {
             "title": "Vụ sinh viên phải nộp đoàn phí cao bất thường: Cần làm rõ tổng tiền đã thu",
             "link": "https://dantri.com.vn/giao-duc/vu-sinh-vien-phai-nop-doan-phi-cao-bat-thuong-can-lam-ro-tong-tien-da-thu-20260929220838309.htm",
-            "img": "https://cdnphoto.dantri.com.vn/zGT1c9clFGkdbOpiPn4b7aOZGKs=/zoom/351_234/2026/09/29/dai-hoc-tn-mt-cropped-1790694362173.jpg"
+            "img": "https://cdnphoto.dantri.com.vn/i8CvwYXx_NwVQDp50WGx88feZeU=/zoom/192_128/2026/09/29/dai-hoc-tn-mt-cropped-1790694362173.jpg"
         },
         {
             "title": "TPHCM yêu cầu rà soát dữ liệu, bảo đảm đủ chỗ học lớp 1, lớp 6",
@@ -80,82 +95,67 @@
             "img": "https://cdnphoto.dantri.com.vn/NXUZahKiFhG6fMZQA6uVsrGsVqc=/zoom/192_128/2026/09/29/bao-luc-hoc-duong-cropped-1790670157033.jpg"
         },
         {
-            "title": "Nam sinh lớp 9 tử vong khi đi trải nghiệm: Nhà trường nhận trách nhiệm",
-            "link": "https://dantri.com.vn/giao-duc/nam-sinh-lop-9-tu-vong-khi-di-trai-nghiem-nha-truong-nhan-trach-nhiem-20260929113318462.htm",
-            "img": "https://cdnphoto.dantri.com.vn/9bOaNDXbJD_HVFcy7xm0VKUd1qc=/zoom/192_128/2026/09/28/1790553020023190984925660096134170502046374035242033867ee51bf1fe66a9a45f0ff4c3c2c0e-edited-edited-1790553180125.jpg"
+            "title": "TikTok xác nhận gỡ bỏ video AI 18+ sau phản ánh của Dân trí",
+            "link": "https://dantri.com.vn/cong-nghe/tiktok-xac-nhan-go-bo-video-ai-18-sau-phan-anh-cua-dan-tri-20260930145038563.htm",
+            "img": "https://cdnphoto.dantri.com.vn/1_Z94Sz6V5o-fWThBHD8ksYyaCs=/zoom/774_516/2026/09/30/tiktok-ai-18-tiktok-anh-ai-1790753593682.png"
         },
         {
-            "title": "Một trường quân đội sẽ tuyển kỹ sư tài năng, xét thành tích thi Olympic",
-            "link": "https://dantri.com.vn/giao-duc/mot-truong-quan-doi-se-tuyen-ky-su-tai-nang-xet-thanh-tich-thi-olympic-20260929115721719.htm",
-            "img": "https://cdnphoto.dantri.com.vn/xnPpa20hhOOtQLA02i4VMEF1AoQ=/zoom/192_128/2026/09/29/hoc-vien-ky-thuat-quan-su-cropped-1790656897085.jpg"
-        },
-        {
-            "title": "Bộ GD&ĐT dự kiến cho phép học nghề ngay tại doanh nghiệp",
-            "link": "https://dantri.com.vn/giao-duc/bo-gddt-du-kien-cho-phep-hoc-nghe-ngay-tai-doanh-nghiep-20260929093312925.htm",
-            "img": "https://cdnphoto.dantri.com.vn/qdd523LSI006R3y_i9bEwEKAAIs=/zoom/192_128/2026/09/29/tu-van-tyen-sinhmyha3-edited-edited-cropped-1790649105075.jpg"
-        },
-        {
-            "title": "Người Việt mê đồ ship, cả nước có 5 tỷ bưu gửi trong 1 năm",
-            "link": "https://dantri.com.vn/khoa-hoc/nguoi-viet-me-do-ship-ca-nuoc-co-5-ty-buu-gui-trong-1-nam-20260930125406899.htm",
-            "img": "https://cdnphoto.dantri.com.vn/JTZ4N-QUbTyPflVQFFYGABr1NIE=/zoom/774_516/2026/09/30/image005-1326-1790747462669.jpg"
-        },
-        {
-            "title": "Việt Nam đứng thứ 7 thế giới về tỷ lệ sử dụng Internet thế hệ mới",
-            "link": "https://dantri.com.vn/khoa-hoc/viet-nam-dung-thu-7-the-gioi-ve-ty-le-su-dung-internet-the-he-moi-20260930120523127.htm",
-            "img": "https://cdnphoto.dantri.com.vn/vq_CJemM_ueTlYRzoQlwHnYPztU=/zoom/351_234/2026/09/30/mang-internet-1743672051541-1790744522220.jpg"
+            "title": "Việt Nam đề xuất ba ưu tiên hợp tác sở hữu trí tuệ với Hàn Quốc",
+            "link": "https://dantri.com.vn/khoa-hoc/viet-nam-de-xuat-ba-uu-tien-hop-tac-so-huu-tri-tue-voi-han-quoc-20260930142205790.htm",
+            "img": "https://cdnphoto.dantri.com.vn/P-1Wu_twYwYyo_jYFLt5f93dOq4=/zoom/351_234/2026/09/30/hinh-anh-70-1790752668054.jpg"
         }
     ],
     "VietnamNet": [],
     "Znews": [
         {
-            "title": "Xuyên đêm lắp mái Trung tâm Hội nghị và Triển lãm APEC ở Phú Quốc",
-            "link": "https://znews.vn/xuyen-dem-lap-mai-trung-tam-hoi-nghi-va-trien-lam-apec-o-phu-quoc-post1685691.html",
-            "img": "https://photo.znews.vn/w1000/Uploaded/spluwao/2026_09_26/thumbphuquoc.jpg"
+            "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm dự Hội nghị Đảng ủy Công an Trung ương",
+            "link": "https://lifestyle.zingnews.vn/tong-bi-thu-chu-tich-nuoc-to-lam-du-hoi-nghi-dang-uy-cong-an-trung-uong-post1686611.html",
+            "img": "https://photo.znews.vn/w1000/Uploaded/ecfzyryrzly/2026_09_30/tong_bi_thu_chu_tich_nuoc_du_hoi_nghi_dang_uy_cong_an_trung_uong_quy_iii_1960_1.jpg"
         },
         {
-            "title": "Cục trưởng Cục Điện ảnh: 'Ngăn chặn phim AI nhảm nhí, tràn lan mạng xã hội'",
-            "link": "https://znews.vn/cuc-truong-cuc-dien-anh-ngan-chan-phim-ai-nham-nhi-tran-lan-mang-xa-hoi-post1685805.html",
-            "img": "https://photo.znews.vn/w480/Uploaded/rohunaa/2026_09_27/586013808_122141689262936185_1079945684795005459_n_1.jpg"
+            "title": "Người dân TP.HCM sáng chấm công trễ, tối kẹt ở công ty vì mưa lớn",
+            "link": "https://lifestyle.zingnews.vn/nguoi-dan-tphcm-sang-cham-cong-tre-toi-ket-o-cong-ty-vi-mua-lon-post1686259.html",
+            "img": "https://photo.znews.vn/Uploaded/lce_jwqqc/2026_09_28/ngp_ezgif.com_resize_1_.gif"
         },
         {
-            "title": "'Quặng vàng' điện ảnh Việt chưa khai thác",
-            "link": "https://znews.vn/quang-vang-dien-anh-viet-chua-khai-thac-post1686397.html",
-            "img": "https://photo.znews.vn/w480/Uploaded/bpcgpivp/2026_09_29/1790735577446_2059306209657728930_2059306209657728930_808ee498913fa991def5baf17db4ba23.jpg"
+            "title": "TP.HCM phát triển tài sản trí tuệ từ sách như thế nào?",
+            "link": "https://znews.vn/tphcm-phat-trien-tai-san-tri-tue-tu-sach-nhu-the-nao-post1686550.html",
+            "img": "https://photo.znews.vn/w480/Uploaded/zagtgt/2026_09_30/Ong_Hoi_tham_NXB_Tre_2.jpg"
         },
         {
-            "title": "Mưa lớn từ đêm đến sáng gây ngập, kẹt xe ở TP.HCM, Đồng Nai",
-            "link": "https://lifestyle.zingnews.vn/mua-lon-tu-dem-den-sang-gay-ngap-ket-xe-o-tphcm-dong-nai-post1686478.html",
-            "img": "https://photo.znews.vn/Uploaded/anqyy/2026_09_30/ngaplut_ezgif.com_speed.gif"
+            "title": "Vì sao ‘Trại buôn người’ gây tranh cãi vẫn thu 150 tỷ",
+            "link": "https://lifestyle.zingnews.vn/vi-sao-trai-buon-nguoi-gay-tranh-cai-van-thu-150-ty-post1686651.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/rohunaa/2026_09_30/TBN5.jpg"
         },
         {
-            "title": "Không nhận ra Bangkok",
-            "link": "https://lifestyle.zingnews.vn/khong-nhan-ra-bangkok-post1686184.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/anqyy/2026_09_28/ngap_bangkok_2026_09_29T113124Z_756680947_RC2WSNA3H3CJ_RTRMADP_3_ASIA_WEATHER_THAILAND_FLOODS_1.JPG"
+            "title": "HLV Jorge Jesus tự làm khó mình với Ronaldo",
+            "link": "https://lifestyle.zingnews.vn/hlv-jorge-jesus-tu-lam-kho-minh-voi-ronaldo-post1686560.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/sotnzt/2026_09_30/2026_09_27T192602Z_716918661_RC2URNATCOB4_RTRMADP_3_SOCCER_UEFANATIONS_NOR_POR.JPG"
         },
         {
-            "title": "Câu hỏi về đội hình lạ của tuyển Việt Nam",
-            "link": "https://lifestyle.zingnews.vn/cau-hoi-ve-doi-hinh-la-cua-tuyen-viet-nam-post1686374.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/sotnzt/2026_08_16/uu_2.jpg"
+            "title": "Nước mưa chảy xiết như thác, người dân té ngã trên đường TP.HCM",
+            "link": "https://lifestyle.zingnews.vn/nuoc-mua-chay-xiet-nhu-thac-nguoi-dan-te-nga-tren-duong-tphcm-post1686661.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/anqyy/2026_09_28/muwa25_znews.jpg"
         },
         {
-            "title": "PNJ điều chỉnh chính sách mua lại, khách bán vàng nhận tiền sau 2 ngày",
-            "link": "https://znews.vn/pnj-dieu-chinh-chinh-sach-mua-lai-khach-ban-vang-nhan-tien-sau-2-ngay-post1686486.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/spluwao/2020_05_27/PNJ_thumb_1ge.jpg"
+            "title": "Con vào nhóm 'ghét bố mẹ' đầy rủi ro, phụ huynh nên làm gì?",
+            "link": "https://lifestyle.zingnews.vn/con-vao-nhom-ghet-bo-me-day-rui-ro-phu-huynh-nen-lam-gi-post1686488.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/hointt/2026_09_30/con_ghet_bo_me_4_znews.jpg"
         },
         {
-            "title": "Việt Nam thua Thái Lan là do dùng quá ít cầu thủ thuần nội?",
-            "link": "https://lifestyle.zingnews.vn/viet-nam-thua-thai-lan-la-do-dung-qua-it-cau-thu-thuan-noi-post1686470.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/jopluat/2026_09_30/Chanathip_vs_Hoang_Duc_4_znews_1.jpg"
+            "title": "PNJ đã mất hơn 1 tỷ USD vốn hóa",
+            "link": "https://znews.vn/pnj-da-mat-hon-1-ty-usd-von-hoa-post1686629.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/mrndcqjwq/2026_09_22/DSC08353_1_1.jpg"
         },
         {
-            "title": "'Theo đuôi' đoàn xe đạp mini, tìm về thư viện làng",
-            "link": "https://znews.vn/theo-duoi-doan-xe-dap-mini-tim-ve-thu-vien-lang-post1685964.html",
-            "img": "https://photo.znews.vn/Uploaded/bpcgpivp/2026_09_27/thu_vien_duong_lieu.jpg"
+            "title": "Siêu trộm bản thảo tái xuất?",
+            "link": "https://znews.vn/sieu-trom-ban-thao-tai-xuat-post1685560.html",
+            "img": "https://photo.znews.vn/Uploaded/zgsgtn/2026_09_25/4e7763e8_4211_4cba_8754_1376e17c.jpg"
         },
         {
-            "title": "TP.HCM muốn đưa sách đến bến xe, nhà ga, khu công nghiệp",
-            "link": "https://znews.vn/tphcm-muon-dua-sach-den-ben-xe-nha-ga-khu-cong-nghiep-post1686040.html",
-            "img": "https://photo.znews.vn/Uploaded/qhj_rwsabuimsb/2018_04_21/Bussach_zing_2.jpg"
+            "title": "'Quán quân', 'á quân', vậy đứng 'hạng ba' gọi là gì?",
+            "link": "https://znews.vn/quan-quan-a-quan-vay-dung-hang-ba-goi-la-gi-post1686530.html",
+            "img": "https://photo.znews.vn/Uploaded/bpcgpivp/2026_09_30/noi_co_sach_quan_quan.jpg"
         }
     ]
 }
