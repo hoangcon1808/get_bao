@@ -1,34 +1,39 @@
 {
     "VNExpress": [
         {
-            "title": "Thủ tướng: Phấn đấu hoàn thành 176.000 căn nhà ở xã hội, cho thuê năm 2027",
-            "link": "https://vnexpress.net/thu-tuong-phan-dau-hoan-thanh-176-000-can-nha-o-xa-hoi-cho-thue-nam-2027-5133467.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/thu-tu-o-ng-1792204247-1574-1792204265.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=F3g0EpRtXe3cBceg21nmuQ"
-        },
-        {
-            "title": "Ông Trump không biết ai đã ra lệnh hạn chế Starlink ở Ukraine",
-            "link": "https://vnexpress.net/ong-trump-khong-biet-ai-da-ra-lenh-han-che-starlink-o-ukraine-5133444.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/afp-d37v4qr-v1-highres-uspolit-1564-7302-1792193166.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=TFAUVcYAdEBVDETvpF_HOg"
-        },
-        {
-            "title": "12 loại tài khoản cần liên kết VNeID",
-            "link": "https://vnexpress.net/12-loai-tai-khoan-can-lien-ket-vneid-5132740.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/15/5x3-1792050879-4381-1792051905.png?w=220&h=132&q=100&dpr=1&fit=crop&s=TD_mzx94NsKEPQGrTvbPYA"
-        },
-        {
-            "title": "Ông Putin: Nga đang lập 'vùng an ninh không thương lượng' dọc biên giới",
-            "link": "https://vnexpress.net/ong-putin-nga-dang-lap-vung-an-ninh-khong-thuong-luong-doc-bien-gioi-5133449.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/putin-1792201326-8630-1792202700.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=H-jghbOR-if5Lawv_cTMqA"
-        },
-        {
-            "title": "Thầy giáo YouTube thành tỷ phú trẻ nhất Ấn Độ",
-            "link": "https://vnexpress.net/thay-giao-youtube-thanh-ty-phu-tre-nhat-an-do-5133432.html",
-            "img": "https://vcdn1-giadinh.vnecdn.net/2026/10/17/a-nh-ma-n-hi-nh-lu-c-179217201-2487-2579-1792172078.png?w=220&h=132&q=100&dpr=1&fit=crop&s=bwz1_YGzTfU2ae4DrL5prA"
-        },
-        {
             "title": "Tesla hé lộ quá trình phát triển siêu xe biết bay",
             "link": "https://vnexpress.net/tesla-he-lo-qua-trinh-phat-trien-sieu-xe-biet-bay-5133348.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/16/TeslaRoadster7-1792150528-7316-1792162076.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=uYYlUjg3fVSnOO6dqS7N0A"
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/16/TeslaRoadster7-1792150528-7316-1792162076.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=ql0zF4X70QZFn3lNjnaDgA"
+        },
+        {
+            "title": "Chàng kỹ sư Bỉ mang 11 con lợn hỏi cưới cô gái Pa Cô",
+            "link": "https://vnexpress.net/chang-ky-su-bi-mang-11-con-lon-hoi-cuoi-co-gai-pa-co-5131387.html",
+            "img": "https://vcdn1-giadinh.vnecdn.net/2026/10/17/1792034978059-1792171773-4470-1792171808.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=p4hzvDUUUimnf6tLQc8CRQ"
+        },
+        {
+            "title": "Ông Trump ca ngợi phụ huynh bắn hạ kẻ xả súng trường học",
+            "link": "https://vnexpress.net/ong-trump-ca-ngoi-phu-huynh-ban-ha-ke-xa-sung-truong-hoc-5133456.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/nguoi-hung-1792200925-4463-1792201741.webp?w=220&h=132&q=100&dpr=1&fit=crop&s=N_YtZB5E9LptzCmwoMO33g"
+        },
+        {
+            "title": "Khói cuồn cuộn từ cơ sở massage cũ bốc cháy",
+            "link": "https://vnexpress.net/khoi-cuon-cuon-tu-co-so-massage-cu-boc-chay-5133565.html",
+            "img": "https://via.placeholder.com/300x200?text=No+Image"
+        },
+        {
+            "title": "Đi khắp thế giới, khách Mỹ nhận ra không đâu bằng Campuchia",
+            "link": "https://vnexpress.net/di-khap-the-gioi-khach-my-nhan-ra-khong-dau-bang-campuchia-5132430.html",
+            "img": "https://vcdn1-dulich.vnecdn.net/2026/10/14/6ac5bf62215acfce661c1b53-17919-8406-9630-1791994942.webp?w=220&h=132&q=100&dpr=1&fit=crop&s=EWBecliSomkBuA8TEpGBPg"
+        },
+        {
+            "title": "Tân thư ký báo chí Nhà Trắng mất chức sau chưa đầy một tuần",
+            "link": "https://vnexpress.net/tan-thu-ky-bao-chi-nha-trang-mat-chuc-sau-chua-day-mot-tuan-5133443.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/AFP20261013D34W7DDv1HighResUsP-5589-7148-1792192149.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=xG-cPG25CBkA_yR1_ZhiVg"
+        },
+        {
+            "title": "Hơn 100 năm thăng trầm của hoa sữa Hà Nội",
+            "link": "https://vnexpress.net/hon-100-nam-thang-tram-cua-hoa-sua-ha-noi-5132618.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/wm1-wm1-1792213952-5991-1792213959.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=mi-GhvnEJXQc6ln1vrYyKg"
         },
         {
             "title": "Bác sĩ tâm thần: 'Nhiều lúc tôi phải nói dối bệnh nhân'",
@@ -36,28 +41,23 @@
             "img": "https://vcdn1-suckhoe.vnecdn.net/2026/10/16/1-1792135229-7285-1792135250.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=o5MKbOGSuBLsYRM_SGmNEg"
         },
         {
-            "title": "Giáo hoàng điện đàm với Tổng thống Putin từ bệnh viện",
-            "link": "https://vnexpress.net/giao-hoang-dien-dam-voi-tong-thong-putin-tu-benh-vien-5133445.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/anh1-1792193893-4506-1792194232.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=J_F2iOvRhKmFujNduqrNLQ"
+            "title": "Nghi phạm xả súng trường học Mỹ 'sống thu mình'",
+            "link": "https://vnexpress.net/nghi-pham-xa-sung-truong-hoc-my-song-thu-minh-5133474.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/cats-1792208274-6250-1792208304.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=oi1YZTUPhXrfX2ZY0q01Xw"
         },
         {
-            "title": "Bí quyết giúp ca sĩ 51 tuổi sở hữu vóc dáng như gái đôi mươi",
-            "link": "https://vnexpress.net/bi-quyet-giup-ca-si-51-tuoi-so-huu-voc-dang-nhu-gai-doi-muoi-5133403.html",
-            "img": "https://vcdn1-suckhoe.vnecdn.net/2026/10/16/screenshot-at-1792162084-7643-1792162495.png?w=220&h=132&q=100&dpr=1&fit=crop&s=4o1XMMjxJwVIo94yH342KQ"
-        },
-        {
-            "title": "Kim Tiểu Long: 'Tôi có cuộc sống viên mãn'",
-            "link": "https://vnexpress.net/kim-tieu-long-toi-co-cuoc-song-vien-man-5132072.html",
-            "img": "https://vcdn1-giaitri.vnecdn.net/2026/10/14/798743999-n-1791945835-9149-1791946388.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=hYkr5JpGAuFn1dyRxJvDaw"
+            "title": "Tài xế đập phá ôtô, đuổi đánh người sau va chạm",
+            "link": "https://vnexpress.net/tai-xe-dap-pha-oto-duoi-danh-nguoi-sau-va-cham-5133558.html",
+            "img": "https://via.placeholder.com/300x200?text=No+Image"
         }
     ],
     "Tuổi Trẻ": [],
     "Thanh Niên": [],
     "Dân Trí": [
         {
-            "title": "Những trường tư thục đầu tiên ở Hà Nội tuyển sinh đầu cấp 2027",
-            "link": "https://dantri.com.vn/giao-duc/nhung-truong-tu-thuc-dau-tien-o-ha-noi-tuyen-sinh-dau-cap-2027-20261016160642232.htm",
-            "img": "https://cdnphoto.dantri.com.vn/QTEeBXI2KUKgb4UdcApR7m78ja8=/zoom/774_516/2026/10/16/ngoi-sao-hanoi-edited-cropped-1792141504734.jpg"
+            "title": "Yêu cầu công khai trách nhiệm tổ chức, cá nhân để thiếu sách giáo khoa",
+            "link": "https://dantri.com.vn/giao-duc/yeu-cau-cong-khai-trach-nhiem-to-chuc-ca-nhan-de-thieu-sach-giao-khoa-20261017111358461.htm",
+            "img": "https://cdnphoto.dantri.com.vn/Fo2j0a83ly8jDcN3Dgn0EoVbnQQ=/zoom/774_516/2026/08/19/sgktphcmbaoquyen-1787114752762.jpg"
         },
         {
             "title": "Sao trường không dùng máy lạnh, tivi cũ của khóa trước cho khóa sau?",
@@ -65,9 +65,24 @@
             "img": "https://cdnphoto.dantri.com.vn/9LedNNFgAO8AkQ-aGwq3QZ1lJH8=/zoom/351_234/2026/10/12/hinh-minh-hoa-1791789822054.png"
         },
         {
+            "title": "Cùng lớp mẫu giáo, mức hỗ trợ ăn trưa chênh 200.000 đồng",
+            "link": "https://dantri.com.vn/giao-duc/cung-lop-mau-giao-muc-ho-tro-an-trua-chenh-200000-dong-20261017095540118.htm",
+            "img": "https://cdnphoto.dantri.com.vn/5lyIsgZYM4UNy8DBr1RIpCMllzk=/zoom/351_234/2026/10/17/com-ban-truhuyen-nguyen-1792205532021.jpg"
+        },
+        {
+            "title": "Những trường tư thục đầu tiên ở Hà Nội tuyển sinh đầu cấp 2027",
+            "link": "https://dantri.com.vn/giao-duc/nhung-truong-tu-thuc-dau-tien-o-ha-noi-tuyen-sinh-dau-cap-2027-20261016160642232.htm",
+            "img": "https://cdnphoto.dantri.com.vn/ZmlN5vd8ZiOanWQhJqj2QJU87x4=/zoom/192_128/2026/10/16/ngoi-sao-hanoi-edited-cropped-1792141504734.jpg"
+        },
+        {
+            "title": "Cắt, bỏ môn liên kết, phụ huynh \"choáng váng\" vì kịch bản đón con sớm",
+            "link": "https://dantri.com.vn/giao-duc/cat-bo-mon-lien-ket-phu-huynh-choang-vang-vi-kich-ban-don-con-som-20261016215402841.htm",
+            "img": "https://cdnphoto.dantri.com.vn/Kdk091Ef5y_mM4EU9aY07-U4l0I=/zoom/192_128/2026/10/16/mon-lien-ket-1792161123101.png"
+        },
+        {
             "title": "Cơm bán trú chỉ có ít muối lạc, 2 viên thịt: Chủ tịch tỉnh chỉ đạo kiểm tra",
             "link": "https://dantri.com.vn/giao-duc/com-ban-tru-chi-co-it-muoi-lac-2-vien-thit-chu-tich-tinh-chi-dao-kiem-tra-20261016224208115.htm",
-            "img": "https://cdnphoto.dantri.com.vn/89LmFrfoefapFQ6cicwVuwcNCnU=/zoom/351_234/2026/10/16/ban-tru-phu-tho-edited-cropped-edited-1792116038228.jpg"
+            "img": "https://cdnphoto.dantri.com.vn/wbX-eGCbrQwIyFwUpX4XD7fS1gM=/zoom/192_128/2026/10/16/ban-tru-phu-tho-edited-cropped-edited-1792116038228.jpg"
         },
         {
             "title": "Chuyên gia nêu những câu nói bất thường cảnh báo nguy cơ tự hại ở trẻ",
@@ -78,21 +93,6 @@
             "title": "Vụ khay cơm bán trú chỉ có ít muối lạc, 2 miếng thịt viên: Thay đổi bất ngờ",
             "link": "https://dantri.com.vn/giao-duc/vu-khay-com-ban-tru-chi-co-it-muoi-lac-2-mieng-thit-vien-thay-doi-bat-ngo-20261016151407027.htm",
             "img": "https://cdnphoto.dantri.com.vn/x1pOa1OcIM0hJ4eGML_k2JYbfh4=/zoom/192_128/2026/10/16/collage-cropped-edited-1792139710389.jpg"
-        },
-        {
-            "title": "Một trường học ở TPHCM sẽ dừng chương trình liên kết có thu phí",
-            "link": "https://dantri.com.vn/giao-duc/mot-truong-hoc-o-tphcm-se-dung-chuong-trinh-lien-ket-co-thu-phi-20261016151352460.htm",
-            "img": "https://cdnphoto.dantri.com.vn/iBQauaAoS6XIb1xBD_nRuC9I0qU=/zoom/192_128/2026/10/16/thpt-nguyen-huu-tho-cropped-1792138173848.jpg"
-        },
-        {
-            "title": "Bài tập đặc biệt ngày 20/10 của hiệu trưởng khiến học trò khó lòng làm ngơ",
-            "link": "https://dantri.com.vn/giao-duc/bai-tap-dac-biet-ngay-2010-cua-hieu-truong-khien-hoc-tro-kho-long-lam-ngo-20261016092943781.htm",
-            "img": "https://cdnphoto.dantri.com.vn/qoFv-ZiFe6GlmUyL97fMcLOYrFk=/zoom/192_128/2026/10/16/ngay-phu-nu-viet-nam-20-10-1792117527958.png"
-        },
-        {
-            "title": "Bé trai lớp 1 tử vong sau khi ngã từ ghế đá ở sân trường",
-            "link": "https://dantri.com.vn/giao-duc/be-trai-lop-1-tu-vong-sau-khi-nga-tu-ghe-da-o-san-truong-20261016114745163.htm",
-            "img": "https://cdnphoto.dantri.com.vn/CWKAcDzD3sGB9Rd1FLYivL6VUWY=/zoom/192_128/2026/10/16/khoa-cap-cuu-cropped-1792126000955.jpg"
         },
         {
             "title": "Khách mua iPhone Duo có thể phải chờ đến Tết Nguyên đán 2027 để nhận máy",
@@ -108,29 +108,39 @@
     "VietnamNet": [],
     "Znews": [
         {
-            "title": "Chủ tịch Quốc hội: Khối lượng công việc càng lớn, trách nhiệm càng cao",
-            "link": "https://lifestyle.zingnews.vn/chu-tich-quoc-hoi-khoi-luong-cong-viec-cang-lon-trach-nhiem-cang-cao-post1689593.html",
-            "img": "https://photo.znews.vn/w1000/Uploaded/bpcgtqmv/2026_10_09/chu_tich_quoc_hoi.jpg"
+            "title": "Mỗi sự chậm trễ đều có thể làm mất cơ hội của đất nước và nhân dân",
+            "link": "https://znews.vn/moi-su-cham-tre-deu-co-the-lam-mat-co-hoi-cua-dat-nuoc-va-nhan-dan-post1690208.html",
+            "img": "https://photo.znews.vn/w1000/Uploaded/wohuhuo/2026_10_17/thumb.jpg"
         },
         {
-            "title": "Khoảng lặng trên hành trình làm mẹ của Giang Ơi",
-            "link": "https://znews.vn/khoang-lang-tren-hanh-trinh-lam-me-cua-giang-oi-post1690082.html",
-            "img": "https://photo.znews.vn/w480/Uploaded/zagtgt/2026_10_16/Giang_Oi_Page_Turner.jpg"
+            "title": "Thủ tướng yêu cầu giảm lãi suất cho vay, thúc đẩy tăng trưởng 2 con số",
+            "link": "https://znews.vn/thu-tuong-yeu-cau-giam-lai-suat-cho-vay-thuc-day-tang-truong-2-con-so-post1690225.html",
+            "img": "https://photo.znews.vn/w480/Uploaded/rohuoct/2026_10_17/171020260923_1792202428636_8674287068595257451_g5347417357753378367_be0f77800e0ee62b02c95f7384df21ab.jpg"
         },
         {
-            "title": "Điều khiến 1,6 triệu người trẻ mắc kẹt ở ‘3 không’",
-            "link": "https://lifestyle.zingnews.vn/dieu-khien-1-6-trieu-nguoi-tre-mac-ket-o-3-khong-post1690114.html",
-            "img": "https://photo.znews.vn/w480/Uploaded/wqdyqdxwp/2024_09_26/Retour_Seoul_5.jpg"
+            "title": "Hơn 80 đơn vị báo chí quốc tế hướng tới tiêu chuẩn chung về AI",
+            "link": "https://znews.vn/hon-80-don-vi-bao-chi-quoc-te-huong-toi-tieu-chuan-chung-ve-ai-post1690205.html",
+            "img": "https://photo.znews.vn/w480/Uploaded/qoswae/2026_10_17/AI.jpg"
         },
         {
-            "title": "Dự báo TP.HCM mưa lớn 4 ngày, có nơi trên 250 mm",
-            "link": "https://lifestyle.zingnews.vn/du-bao-tphcm-mua-lon-4-ngay-co-noi-tren-250-mm-post1690202.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/wohuhuo/2026_09_25/Mua_Sai_Gon_Znews.jpg"
+            "title": "Chính phủ đặt mục tiêu GDP năm 2027 tăng 10% trở lên",
+            "link": "https://znews.vn/chinh-phu-dat-muc-tieu-gdp-nam-2027-tang-10-tro-len-post1690236.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/rohuoct/2026_10_17/171020260924_1792202428638_8674287068595257451_g5347417357753378367_88244fd019e881ebc57b89214f5d980a.jpg"
         },
         {
-            "title": "Vì sao giới đầu tư tin vàng sẽ lập đỉnh mới?",
-            "link": "https://lifestyle.zingnews.vn/vi-sao-gioi-dau-tu-tin-vang-se-lap-dinh-moi-post1689816.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/gtntnn/2026_10_15/Vang_the_gioi_tang_vuot_4.100_USD.jpeg"
+            "title": "Người mua vàng tiếp tục lỗ hơn 4 triệu đồng/lượng",
+            "link": "https://znews.vn/nguoi-mua-vang-tiep-tuc-lo-hon-4-trieu-dongluong-post1690228.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/vpcvodbp/2025_02_17/Vang_znews_48_1_.jpg"
+        },
+        {
+            "title": "Vô địch World Cup rồi vẫn trắng tay",
+            "link": "https://lifestyle.zingnews.vn/vo-dich-world-cup-roi-van-trang-tay-post1690214.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/sotnzt/2026_08_21/2026_08_20T200025Z_1478365272_UP1EM8K1JKOFQ_RTRMADP_3_SOCCER_ITALY_RONALDINHO.JPG"
+        },
+        {
+            "title": "Thư ký báo chí Nhà Trắng mất chức sau 5 ngày làm việc",
+            "link": "https://lifestyle.zingnews.vn/thu-ky-bao-chi-nha-trang-mat-chuc-sau-5-ngay-lam-viec-post1688930.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/asfzyrwtys1/2026_10_15/Thu_ky_bao_chi_Nha_Trang.jpg"
         },
         {
             "title": "Chi 500 triệu đồng tập gym, khách hàng phản ánh nhiều dịch vụ bị cắt",
@@ -138,24 +148,14 @@
             "img": "https://photo.znews.vn/w210/Uploaded/lce_jwqqc/2026_10_11/gym1.jpg"
         },
         {
-            "title": "Điều gì khiến iPhone Duo cháy hàng sau 30 phút?",
-            "link": "https://lifestyle.zingnews.vn/dieu-gi-khien-iphone-duo-chay-hang-sau-30-phut-post1689970.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/lepz/2026_10_16/iPhone_Duo_Open_1.jpg"
+            "title": "6 tháng đầu năm, 71 vụ việc vi phạm bản quyền bị xử phạt",
+            "link": "https://znews.vn/6-thang-dau-nam-71-vu-viec-vi-pham-ban-quyen-bi-xu-phat-post1689779.html",
+            "img": "https://photo.znews.vn/Uploaded/bpcgpivp/2026_10_15/sach_gia_1778626975_1.jpeg"
         },
         {
-            "title": "5 nhóm người nên đi khám gan sớm và thường xuyên",
-            "link": "https://lifestyle.zingnews.vn/5-nhom-nguoi-nen-di-kham-gan-som-va-thuong-xuyen-post1690081.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/sgorvz/2026_03_04/Dau_hieu_benh_gan_tren_da_1_1.jpg"
-        },
-        {
-            "title": "Hoạt chất kỳ diệu có trong hạt cà phê",
-            "link": "https://znews.vn/hoat-chat-ky-dieu-co-trong-hat-ca-phe-post1689676.html",
-            "img": "https://photo.znews.vn/Uploaded/ofh_cgkztmzt/2026_10_14/Hat_ca_phe.jpg"
-        },
-        {
-            "title": "Sở thích mua hàng giảm giá của Warren Buffett và Bill Gates",
-            "link": "https://znews.vn/so-thich-mua-hang-giam-gia-cua-warren-buffett-va-bill-gates-post1689645.html",
-            "img": "https://photo.znews.vn/Uploaded/znang2/2026_10_14/image_1791978478223.jpg"
+            "title": "Bản chất của 'Rác AI'",
+            "link": "https://znews.vn/ban-chat-cua-rac-ai-post1688827.html",
+            "img": "https://photo.znews.vn/Uploaded/ecfzyryrzly/2026_10_10/premium_photo_1744791903367_0d538305928f.jpg"
         }
     ]
 }
