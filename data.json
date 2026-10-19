@@ -1,19 +1,44 @@
 {
     "VNExpress": [
         {
-            "title": "Hà Nội lấy ý kiến người dân về việc di chuyển cây hoa sữa",
-            "link": "https://vnexpress.net/ha-noi-lay-y-kien-nguoi-dan-ve-viec-di-chuyen-cay-hoa-sua-5133913.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/18/cayhs-1792333895-6832-1792334318.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=lDeMz8C4Ya9dRkppQpZ0Cw"
+            "title": "Thủ tướng Lê Minh Hưng: Quyết liệt giảm chi phí đầu vào cho nền kinh tế",
+            "link": "https://vnexpress.net/thu-tuong-le-minh-hung-quyet-liet-giam-chi-phi-dau-vao-cho-nen-kinh-te-5133941.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/19/l1790733jpg-1792343134-4536-1792343477.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=yCrDvOnSALDM_Kul5lFpVQ"
         },
         {
-            "title": "Vòm thép cầu đi bộ 3.400 tấn tiếp tục hành trình về trung tâm TP HCM",
-            "link": "https://vnexpress.net/vom-thep-cau-di-bo-3-400-tan-tiep-tuc-hanh-trinh-ve-trung-tam-tp-hcm-5133902.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/18/179229782779629905439835188674-1279-3445-1792326753.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=-yFJVlxES3oq7c-yZBoU6A"
+            "title": "Phở gà 160.000 đồng hút khách ở phố cổ Hà Nội",
+            "link": "https://vnexpress.net/pho-ga-160-000-dong-hut-khach-o-pho-co-ha-noi-5131376.html",
+            "img": "https://vcdn1-dulich.vnecdn.net/2026/10/12/vne-pho-ba-o-kha-nh-of-1791801579.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=Q-LGG1QY9hnK4d6oxqAVnw"
         },
         {
-            "title": "Cơ trưởng flydubai kể lại thời khắc sinh tử khi chống trả cơ phó",
-            "link": "https://vnexpress.net/co-truong-flydubai-ke-lai-thoi-khac-sinh-tu-khi-chong-tra-co-pho-5133858.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/18/20261004t064551z646846548rc26w-8546-1168-1792324948.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=YTmRFe8urCbYM-RbADLqyw"
+            "title": "Giáo viên than kiệt sức vì 'việc không tên'",
+            "link": "https://vnexpress.net/giao-vien-than-kiet-suc-vi-viec-khong-ten-5132613.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/15/233a3191-1792077430-1207-1792077550.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=UAzF1lRPTm2X3kxvPVcskQ"
+        },
+        {
+            "title": "TP HCM tính hỗ trợ tiền cho người dân đổi sang xe điện",
+            "link": "https://vnexpress.net/tp-hcm-tinh-ho-tro-tien-cho-nguoi-dan-doi-sang-xe-dien-5133916.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/18/thumbnailngang1-1792332558-1777-1792333392.png?w=220&h=132&q=100&dpr=1&fit=crop&s=R5ByW0tWJh2zYxPatk6GVg"
+        },
+        {
+            "title": "Lý do sóng biểu tình bùng phát, đẩy nước Pháp vào hỗn loạn",
+            "link": "https://vnexpress.net/ly-do-song-bieu-tinh-bung-phat-day-nuoc-phap-vao-hon-loan-5128872.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/18/afp-aa-1792334164-2383-1792334191.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=b3WMUXSDspGwBrNI9BCgZA"
+        },
+        {
+            "title": "Cuộc sống cùng dàn trợ lý AI của nữ giám đốc về hưu",
+            "link": "https://vnexpress.net/cuoc-song-cung-dan-tro-ly-ai-cua-nu-giam-doc-ve-huu-5131172.html",
+            "img": "https://vcdn1-giadinh.vnecdn.net/2026/10/16/anh5-1792080071-6106-1792123551.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=Nsg1XL_214rtd7ViWeJrIQ"
+        },
+        {
+            "title": "Renault hết kiên nhẫn với đối tác chỉ biết copy thiết kế",
+            "link": "https://vnexpress.net/renault-het-kien-nhan-voi-doi-tac-chi-biet-copy-thiet-ke-5133615.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/4c7ebf0cc9654cc48bbeabb5bbe5a5-6507-9635-1792229312.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=B9q-RU2cieOK6nXJfmqIaA"
+        },
+        {
+            "title": "Cầu thủ Brighton tái hiện siêu phẩm giữa sân của Beckham",
+            "link": "https://vnexpress.net/cau-thu-brighton-tai-hien-sieu-pham-giua-san-cua-beckham-5133991.html",
+            "img": "https://via.placeholder.com/300x200?text=No+Image"
         },
         {
             "title": "Bạo loạn ở Pháp có thể gây thiệt hại hàng trăm triệu euro",
@@ -24,50 +49,35 @@
             "title": "Rơi vào cảnh 'ba không' dù rải 2.000 thư xin việc",
             "link": "https://vnexpress.net/roi-vao-canh-ba-khong-du-rai-2-000-thu-xin-viec-5133942.html",
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/19/931aff3fee6-ae5d-ce2e58c38957-3375-3880-1792342819.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=Zqm1jAw6ilJxHt_uz82kQg"
-        },
-        {
-            "title": "Chồng cũ Hằng Du Mục bị bắt liên quan đến nhãn hiệu táo đỏ",
-            "link": "https://vnexpress.net/chong-cu-hang-du-muc-bi-bat-lien-quan-den-nhan-hieu-tao-do-5133909.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/18/20261018212053-1792333281-9493-1792333749.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=gjiUOtdKkAe8lgxqQoXEiA"
-        },
-        {
-            "title": "Kiếm triệu USD nhờ làm trang trại bí ngô",
-            "link": "https://vnexpress.net/kiem-trieu-usd-nho-lam-trang-trai-bi-ngo-5133755.html",
-            "img": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/18/108420164-kelly-schultz-and-be-3521-8477-1792297126.webp?w=220&h=132&q=100&dpr=1&fit=crop&s=T49-8cGibtYGerUaMrnDYA"
-        },
-        {
-            "title": "Từ ruộng lúa phèn mặn đến trang trại tôm lãi hàng tỷ đồng",
-            "link": "https://vnexpress.net/tu-ruong-lua-phen-man-den-trang-trai-tom-lai-hang-ty-dong-5131855.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/18/tang-van-xua-1792054043-2600-1792334668.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=7_uQjoJH8km8-wDkQkal5w"
-        },
-        {
-            "title": "Renault hết kiên nhẫn với đối tác chỉ biết copy thiết kế",
-            "link": "https://vnexpress.net/renault-het-kien-nhan-voi-doi-tac-chi-biet-copy-thiet-ke-5133615.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/4c7ebf0cc9654cc48bbeabb5bbe5a5-6507-9635-1792229312.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=B9q-RU2cieOK6nXJfmqIaA"
-        },
-        {
-            "title": "Những cử tri 'đầu tắt mặt tối' có thể định đoạt bầu cử giữa kỳ Mỹ",
-            "link": "https://vnexpress.net/nhung-cu-tri-dau-tat-mat-toi-co-the-dinh-doat-bau-cu-giua-ky-my-5131736.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/13/imrs-1791882067-3371-1791882298.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=yYXsZEvwz-LY4JEawFKQlQ"
         }
     ],
     "Tuổi Trẻ": [],
     "Thanh Niên": [],
     "Dân Trí": [
         {
+            "title": "Thủ khoa, sinh viên tốt nghiệp xuất sắc cũng… chật vật tìm việc",
+            "link": "https://dantri.com.vn/giao-duc/thu-khoa-sinh-vien-tot-nghiep-xuat-sac-cung-chat-vat-tim-viec-20261018234658975.htm",
+            "img": "https://cdnphoto.dantri.com.vn/yHNdLO4LlyAxr3yAva_JumVn3JI=/zoom/774_516/2026/10/18/sinh-vien-tot-nghiep-1792341646961.png"
+        },
+        {
+            "title": "Học sinh chuyên Lê Hồng Phong TPHCM trở thành quán quân “Trường Teen 2026”",
+            "link": "https://dantri.com.vn/giao-duc/hoc-sinh-chuyen-le-hong-phong-tphcm-tro-thanh-quan-quan-truong-teen-2026-20261018205006846.htm",
+            "img": "https://cdnphoto.dantri.com.vn/1gJa4LHTtTYK-UrzFbsI8TylGug=/zoom/351_234/2026/10/18/hoc-sinh-thpt-le-hong-phong-edited-1792330953824.jpg"
+        },
+        {
             "title": "Không học môn liên kết, phụ huynh “sốc” khi phiếu thu tiền chỉ 10.000/tháng",
             "link": "https://dantri.com.vn/giao-duc/khong-hoc-mon-lien-ket-phu-huynh-soc-khi-phieu-thu-tien-chi-10000thang-20261018120809536.htm",
-            "img": "https://cdnphoto.dantri.com.vn/sbi-IGDVvwqdp7G0zbgCyMbpi9Q=/zoom/774_516/2026/10/18/phieu-thu-tien-cropped-1792299874555.jpg"
+            "img": "https://cdnphoto.dantri.com.vn/9JE25rUQh2lC9g2yzjlW4uvfPas=/zoom/351_234/2026/10/18/phieu-thu-tien-cropped-1792299874555.jpg"
         },
         {
             "title": "Sáp nhập thêm 2 trường, Đại học Sư phạm TPHCM có quy mô lớn ra sao?",
             "link": "https://dantri.com.vn/giao-duc/sap-nhap-them-2-truong-dai-hoc-su-pham-tphcm-co-quy-mo-lon-ra-sao-20261018015048091.htm",
-            "img": "https://cdnphoto.dantri.com.vn/_xtnTJ4MQ7l9H39gzQVx0XQY-OA=/zoom/351_234/2025/06/16/truong-dh-su-pham-ha-noi-cong-bo-diem-thi-danh-gia-nang-luc-2025-1750049739295.jpeg"
+            "img": "https://cdnphoto.dantri.com.vn/NkORGlMNXd8mzK_sWJZ6dRftHHw=/zoom/192_128/2025/06/16/truong-dh-su-pham-ha-noi-cong-bo-diem-thi-danh-gia-nang-luc-2025-1750049739295.jpeg"
         },
         {
             "title": "Sinh viên phát hiện 4 lỗ hổng bảo mật được cấp mã quốc tế",
             "link": "https://dantri.com.vn/giao-duc/sinh-vien-phat-hien-4-lo-hong-bao-mat-duoc-cap-ma-quoc-te-20261013214454726.htm",
-            "img": "https://cdnphoto.dantri.com.vn/T-lod9gdTH7-E2EJZ3eWJ0FzzNk=/zoom/351_234/2026/10/13/nguyen-chi-khanh-lo-hong-bao-mat-cropped-1791902209517.jpg"
+            "img": "https://cdnphoto.dantri.com.vn/StUuyndKLRbfZvVHYL1JQM5iGx4=/zoom/192_128/2026/10/13/nguyen-chi-khanh-lo-hong-bao-mat-cropped-1791902209517.jpg"
         },
         {
             "title": "Cơm bán trú chỉ có ít muối lạc, 2 viên thịt: Hiệu trưởng nói \"chưa phù hợp\"",
@@ -85,32 +95,22 @@
             "img": "https://cdnphoto.dantri.com.vn/2NCeWxmrqFu74KY19EnUn4s1BRY=/zoom/192_128/2026/10/17/hoc-sinh-cropped-cropped-1792217121310.jpg"
         },
         {
-            "title": "Bộ GD&ĐT yêu cầu trường đại học không hạ chuẩn để tăng tỷ lệ giỏi, xuất sắc",
-            "link": "https://dantri.com.vn/giao-duc/bo-gddt-yeu-cau-truong-dai-hoc-khong-ha-chuan-de-tang-ty-le-gioi-xuat-sac-20261017091647886.htm",
-            "img": "https://cdnphoto.dantri.com.vn/i7B4PRGTeIrSMYu7UgkZ7WaPB7M=/zoom/192_128/2026/09/16/thiddhsuphamhailong00048-1779504882116-1-1789531440087.jpg"
-        },
-        {
-            "title": "Yêu cầu công khai trách nhiệm tổ chức, cá nhân để thiếu sách giáo khoa",
-            "link": "https://dantri.com.vn/giao-duc/yeu-cau-cong-khai-trach-nhiem-to-chuc-ca-nhan-de-thieu-sach-giao-khoa-20261017111358461.htm",
-            "img": "https://cdnphoto.dantri.com.vn/XucYvuOOtsQlscPzo3Yp9Sqx-6Q=/zoom/192_128/2026/08/19/sgktphcmbaoquyen-1787114752762.jpg"
+            "title": "Clip “nhóm trẻ gặp tai nạn nguy hiểm vì ghế đá” nổi bật tuần qua",
+            "link": "https://dantri.com.vn/cong-nghe/clip-nhom-tre-gap-tai-nan-nguy-hiem-vi-ghe-da-noi-bat-tuan-qua-20261018055620302.htm",
+            "img": "https://cdnphoto.dantri.com.vn/mvaecdvQEPQUi8TRsTtdzubK628=/zoom/774_516/2026/10/18/tai-nan-ghe-da-1792277700600.gif"
         },
         {
             "title": "Người mê iPhone cổ trổ tài nhận diện những chiếc điện thoại gần 20 năm tuổi",
             "link": "https://dantri.com.vn/cong-nghe/nguoi-me-iphone-co-tro-tai-nhan-dien-nhung-chiec-dien-thoai-gan-20-nam-tuoi-20261017082738721.htm",
-            "img": "https://cdnphoto.dantri.com.vn/OCh-RxkmRmTy-ahme96aGfUV7iE=/zoom/774_516/2026/10/17/game-3x2-1792200158966.png"
-        },
-        {
-            "title": "Điểm tuần: iPhone Duo cháy hàng, thị trường di động gặp khủng hoảng",
-            "link": "https://dantri.com.vn/cong-nghe/diem-tuan-iphone-duo-chay-hang-thi-truong-di-dong-gap-khung-hoang-20261017225523649.htm",
-            "img": "https://cdnphoto.dantri.com.vn/_TysOd3MlEKBEsKWlZMv-gg4WZg=/zoom/351_234/2026/10/16/iphone-duo-theverge-2-1792145385929.png"
+            "img": "https://cdnphoto.dantri.com.vn/Ol0LQ5gzNx_ZKB6tv6Zqfo4eHno=/zoom/351_234/2026/10/17/game-3x2-1792200158966.png"
         }
     ],
     "VietnamNet": [],
     "Znews": [
         {
-            "title": "VN-Index đi xuống, nhà đầu tư nên làm gì?",
-            "link": "https://znews.vn/vn-index-di-xuong-nha-dau-tu-nen-lam-gi-post1690471.html",
-            "img": "https://photo.znews.vn/w1000/Uploaded/rohuoct/2026_09_06/75chungkhoan2_znews.jpg"
+            "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm cùng Phu nhân lên đường thăm Đan Mạch, Liên minh châu Âu và Bỉ",
+            "link": "https://lifestyle.zingnews.vn/tong-bi-thu-chu-tich-nuoc-to-lam-cung-phu-nhan-len-duong-tham-dan-mach-lien-minh-chau-au-va-bi-post1690545.html",
+            "img": "https://photo.znews.vn/w1000/Uploaded/asfzyrwtys1/2026_10_19/tong_bi_thu_chu_tich_nuoc_to_lam_va_phu_nhan_len_duong_tham_dan_mach_eu_va_bi_9096877_1.jpg"
         },
         {
             "title": "Người đàn ông vừa 'đánh bại' Trấn Thành là ai?",
@@ -128,9 +128,9 @@
             "img": "https://photo.znews.vn/w210/Uploaded/sotnzt/2026_10_19/2026_10_18T172639Z_1726894924_UP1EMAI1CGEZX_RTRMADP_3_SOCCER_ENGLAND_NFO_ARS.JPG"
         },
         {
-            "title": "MU nối dài chuỗi trận đáng thất vọng",
-            "link": "https://lifestyle.zingnews.vn/mu-noi-dai-chuoi-tran-dang-that-vong-post1690376.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/sotnzt/2026_10_18/2026_10_18T131741Z_146492575_UP1EMAI10XFJX_RTRMADP_3_SOCCER_ENGLAND_LEE_MUN.JPG"
+            "title": "Leeds cho thấy MU đã tụt lại xa đến mức nào",
+            "link": "https://lifestyle.zingnews.vn/leeds-cho-thay-mu-da-tut-lai-xa-den-muc-nao-post1690518.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/sotnzt/2026_10_18/2026_10_18T150049Z_248159223_UP1EMAI15PCSY_RTRMADP_3_SOCCER_ENGLAND_LEE_MUN.JPG"
         },
         {
             "title": "Lối ra cho 1,6 triệu thanh niên '3 không'",
@@ -153,9 +153,9 @@
             "img": "https://photo.znews.vn/Uploaded/caxwpqdwp/2026_10_17/tai_xuong_78_.jpg"
         },
         {
-            "title": "Hơn 80 đơn vị báo chí quốc tế hướng tới tiêu chuẩn chung về AI",
-            "link": "https://znews.vn/hon-80-don-vi-bao-chi-quoc-te-huong-toi-tieu-chuan-chung-ve-ai-post1690205.html",
-            "img": "https://photo.znews.vn/Uploaded/qoswae/2026_10_17/AI.jpg"
+            "title": "Thương mại buôn bán nô lệ trong lịch sử loài người",
+            "link": "https://znews.vn/thuong-mai-buon-ban-no-le-trong-lich-su-loai-nguoi-post1690243.html",
+            "img": "https://photo.znews.vn/Uploaded/znang2/2026_10_17/image_1792208392347.jpg"
         }
     ]
 }
