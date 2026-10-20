@@ -1,9 +1,19 @@
 {
     "VNExpress": [
         {
-            "title": "Bộ Nội vụ và Hà Nội sẽ thí điểm vị trí việc làm để cải cách tiền lương",
-            "link": "https://vnexpress.net/bo-noi-vu-va-ha-noi-se-thi-diem-vi-tri-viec-lam-de-cai-cach-tien-luong-5134720.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/15-tru-so-bnv-1792488759-2883-1792488974.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=_ZFk3Um1lyaXrKa2dHhazg"
+            "title": "Nhịp cầu đi bộ nặng 3.400 tấn qua sông Sài Gòn lắp đặt thế nào?",
+            "link": "https://vnexpress.net/nhip-cau-di-bo-nang-3-400-tan-qua-song-sai-gon-lap-dat-the-nao-5134792.html",
+            "img": "https://via.placeholder.com/300x200?text=No+Image"
+        },
+        {
+            "title": "Loạt thỏa thuận hợp tác năng lượng, logistics, công nghệ của Việt Nam - Đan Mạch",
+            "link": "https://vnexpress.net/loat-thoa-thuan-hop-tac-nang-luong-logistics-cong-nghe-cua-viet-nam-dan-mach-5134816.html",
+            "img": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/20/wm30-wm30-vnapotaltongbithuchutichn-4996-3954-1792508766.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=KuseYIo9WWet0uKz4y70xw"
+        },
+        {
+            "title": "Nghiên cứu tính giá điện sinh hoạt theo khung giờ sử dụng",
+            "link": "https://vnexpress.net/nghien-cuu-tinh-gia-dien-sinh-hoat-theo-khung-gio-su-dung-5134693.html",
+            "img": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/20/wm1-wm1-z7207132164076c23529a70521-9879-5373-1792490971.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=P_F2lRUPPG1OrYquRpDdmQ"
         },
         {
             "title": "Đề xuất chặn truy cập phim vi phạm trên Internet",
@@ -16,19 +26,9 @@
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/vang-pho-duc-nam-1792475700-2617-1792475770.webp?w=220&h=132&q=100&dpr=1&fit=crop&s=FKs8cF6u8qAQT1o01mnesQ"
         },
         {
-            "title": "Ông Trump 'bực bội' vì cáo buộc gây tổn hại cho Ukraine",
-            "link": "https://vnexpress.net/ong-trump-buc-boi-vi-cao-buoc-gay-ton-hai-cho-ukraine-5134785.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/afp-d3qw8qn-v1-highres-uspolit-8652-7422-1792496131.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=345ufmiwiAG-FBdj0NmeFA"
-        },
-        {
-            "title": "Hơn 13 tỷ USD sắp rót vào TP HCM",
-            "link": "https://vnexpress.net/hon-13-ty-usd-sap-rot-vao-tp-hcm-5134752.html",
-            "img": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/20/img-jpg-1792492542-9543-1792492747.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=ODhDOkNnKhPdE_Iaz4sCmQ"
-        },
-        {
-            "title": "Vệ tinh Nga áp sát radar không gian 'đang hỗ trợ Ukraine'",
-            "link": "https://vnexpress.net/ve-tinh-nga-ap-sat-radar-khong-gian-dang-ho-tro-ukraine-5134511.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/5563187178137269270a-179246619-6789-5796-1792466930.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=Bi2kZAsKR1-9IkyGZuiCZQ"
+            "title": "Tỷ lệ ủng hộ ông Trump thấp kỷ lục trước bầu cử giữa kỳ",
+            "link": "https://vnexpress.net/ty-le-ung-ho-ong-trump-thap-ky-luc-truoc-bau-cu-giua-ky-5134812.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/afp-d3t86ta-v1-highres-uspolit-7356-6094-1792504765.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=REGvH4hagUKg383UeadKUg"
         },
         {
             "title": "Bé trai 3 tuổi được tìm thấy trong bể nước sau 14 tiếng mất tích",
@@ -36,28 +36,33 @@
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/855071600-n-1792487791-3312-1792487833.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=orhiSoZU8IRFebuzpoqQzA"
         },
         {
+            "title": "Ông Trump 'bực bội' vì cáo buộc gây tổn hại cho Ukraine",
+            "link": "https://vnexpress.net/ong-trump-buc-boi-vi-cao-buoc-gay-ton-hai-cho-ukraine-5134785.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/afp-d3qw8qn-v1-highres-uspolit-8652-7422-1792496131.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=345ufmiwiAG-FBdj0NmeFA"
+        },
+        {
             "title": "Ronaldo viện dẫn 5 Quả Bóng Vàng để được giảm án",
             "link": "https://vnexpress.net/ronaldo-vien-dan-5-qua-bong-vang-de-duoc-giam-an-5134648.html",
             "img": "https://vcdn1-thethao.vnecdn.net/2026/10/20/643427315-n-1792482393-9054-1792482402.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=BAx01zgkn0egiYSvFzf8AA"
         },
         {
-            "title": "Phòng khách sạn 220 triệu một đêm trong tòa nhà cao nhất TP HCM",
-            "link": "https://vnexpress.net/phong-khach-san-220-trieu-mot-dem-trong-toa-nha-cao-nhat-tp-hcm-5133212.html",
-            "img": "https://vcdn1-dulich.vnecdn.net/2026/10/19/pho-ng-ngu-de-p-1792384419.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=NCZaKis_WdAjiYnCyMLq8g"
-        },
-        {
-            "title": "Nhân viên ngân hàng 'săn' khách gửi tiền trước khi hạ lãi suất",
-            "link": "https://vnexpress.net/nhan-vien-ngan-hang-san-khach-gui-tien-truoc-khi-ha-lai-suat-5134398.html",
-            "img": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/20/lsaee00d79-f572f9-b448dba9592d-7664-9746-1792486443.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=L2lGMB-FnPu-aAnkxJ3UqA"
+            "title": "Nga xây radar vượt đường chân trời, tầm 3.000 km giữa lòng NATO",
+            "link": "https://vnexpress.net/nga-xay-radar-vuot-duong-chan-troi-tam-3-000-km-giua-long-nato-5134668.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/5563187178137269271b-179248272-1865-6028-1792482864.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=gbOoiJFsogKUxkszbl08lA"
         }
     ],
     "Tuổi Trẻ": [],
     "Thanh Niên": [],
     "Dân Trí": [
         {
+            "title": "“Chốt” thay học bạ giấy và đánh giá cuối kỳ trên máy tính",
+            "link": "https://dantri.com.vn/giao-duc/chot-thay-hoc-ba-giay-va-danh-gia-cuoi-ky-tren-may-tinh-20261020192946877.htm",
+            "img": "https://cdnphoto.dantri.com.vn/QDNcvbLllH8y2euhpHCgUw41WB0=/zoom/774_516/2026/09/05/khaigiangtphcmbaoquyen-1788580034799.jpg"
+        },
+        {
             "title": "Thủ tướng yêu cầu xử lý nghiêm hành vi gian lận thi cử",
             "link": "https://dantri.com.vn/giao-duc/thu-tuong-yeu-cau-xu-ly-nghiem-hanh-vi-gian-lan-thi-cu-20261020171137403.htm",
-            "img": "https://cdnphoto.dantri.com.vn/UZbUnyY34MGt7PfGsAY0bm1SAfk=/zoom/774_516/2026/08/20/thi-sinh-chuyen-tuyen-quang-edited-1787197951120-1787213991125.jpg"
+            "img": "https://cdnphoto.dantri.com.vn/mf1WvhyTDGqhd5ioOk2OnjGK9No=/zoom/351_234/2026/08/20/thi-sinh-chuyen-tuyen-quang-edited-1787197951120-1787213991125.jpg"
         },
         {
             "title": "Nữ tiến sĩ lái Porsche đi dạy và quan niệm về phụ nữ hiện đại",
@@ -67,7 +72,7 @@
         {
             "title": "Tiền ăn bán trú trường chất lượng cao ở Hà Nội tối đa bao nhiêu?",
             "link": "https://dantri.com.vn/giao-duc/tien-an-ban-tru-truong-chat-luong-cao-o-ha-noi-toi-da-bao-nhieu-20261019210034765.htm",
-            "img": "https://cdnphoto.dantri.com.vn/tBUl2rG9JsdVQlMl5-zyHlgLClg=/zoom/351_234/2026/10/19/ban-tru-phu-luong-edited-cropped-1792418054147.jpg"
+            "img": "https://cdnphoto.dantri.com.vn/l_DKVc_rg6cVKV_VylR-tY8VecQ=/zoom/192_128/2026/10/19/ban-tru-phu-luong-edited-cropped-1792418054147.jpg"
         },
         {
             "title": "Giảng viên ngại cho điểm kém vì sợ bị \"bóc phốt\", liệt vào danh sách đen",
@@ -90,11 +95,6 @@
             "img": "https://cdnphoto.dantri.com.vn/gb9w65smNY76axd51iuTZr8ev0E=/zoom/192_128/2026/10/19/179153015202269809720552045357536980972055204535753377c3a0f40e8ceb3c5211a58916d57c9-1792395207088.jpg"
         },
         {
-            "title": "Lời chúc 20/10 chạm đến trái tim mà học sinh gửi bà, mẹ và cô giáo",
-            "link": "https://dantri.com.vn/giao-duc/loi-chuc-2010-cham-den-trai-tim-ma-hoc-sinh-gui-ba-me-va-co-giao-20261019143424052.htm",
-            "img": "https://cdnphoto.dantri.com.vn/33ojiA_OZAU1cvCv-PNBrWFGdtQ=/zoom/192_128/2026/10/19/10-chan-thanh-cham-den-trai-tim-hoc-sinh-gui-ba-me-va-co-giao-2-edited-1792397447733.jpg"
-        },
-        {
             "title": "Sắp có ứng dụng an sinh xã hội cho người lao động tại TPHCM",
             "link": "https://dantri.com.vn/cong-nghe/sap-co-ung-dung-an-sinh-xa-hoi-cho-nguoi-lao-dong-tai-tphcm-20261020105708509.htm",
             "img": "https://cdnphoto.dantri.com.vn/ZhkDko3IcCdVvxx1k1VIF7sBkXM=/zoom/774_516/2026/10/20/an-sinh-xa-hoi-theanh-1-1792468505652.jpg"
@@ -108,9 +108,9 @@
     "VietnamNet": [],
     "Znews": [
         {
-            "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm gặp lãnh đạo doanh nghiệp của Đan Mạch",
-            "link": "https://lifestyle.zingnews.vn/tong-bi-thu-chu-tich-nuoc-to-lam-gap-lanh-dao-doanh-nghiep-cua-dan-mach-post1690865.html",
-            "img": "https://photo.znews.vn/w1000/Uploaded/asfzyrwtys1/2026_10_20/potal_tong_bi_thu_chu_tich_nuoc_to_lam_gap_lanh_dao_mot_so_doanh_nghiep_tieu_bieu_cua_dan_mach_stand_5825_1.jpg"
+            "title": "Tổng Bí thư, Chủ tịch nước dự Diễn đàn Doanh nghiệp Việt Nam - Đan Mạch",
+            "link": "https://lifestyle.zingnews.vn/tong-bi-thu-chu-tich-nuoc-du-dien-dan-doanh-nghiep-viet-nam-dan-mach-post1690921.html",
+            "img": "https://photo.znews.vn/w1000/Uploaded/asfzyrwtys1/2026_10_20/tong_bi_thu_chu_tich_nuoc_to_lam_du_dien_dan_doanh_nghiep_viet_nam_dan_mach_9100837_3.jpg"
         },
         {
             "title": "Thủ tướng: Tăng trưởng hai con số cần nhu cầu điện rất lớn",
@@ -123,39 +123,39 @@
             "img": "https://photo.znews.vn/w480/Uploaded/mfnuy/2026_10_20/IMG_1742.jpeg"
         },
         {
-            "title": "Sếp Coteccons nói về VinCons, Tân Minh Nhân: Chúng tôi không sợ cạnh tranh",
-            "link": "https://znews.vn/sep-coteccons-noi-ve-vincons-tan-minh-nhan-chung-toi-khong-so-canh-tranh-post1690846.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/spluwao/2025_04_30/Coteccons_CTD_2.jpeg"
+            "title": "Bắt giữ đối tượng chặn ôtô, đâm tử vong tài xế giữa phố Hà Nội",
+            "link": "https://lifestyle.zingnews.vn/bat-giu-doi-tuong-chan-oto-dam-tu-vong-tai-xe-giua-pho-ha-noi-post1689919.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/ecfzyryrzly/2026_10_15/857997242_1153745320658156_9027022024427303325_n_22245605.jpeg"
         },
         {
-            "title": "VinFast VF 3 là xe điện bán chạy nhất Philippines",
-            "link": "https://tech.zingnews.vn/vinfast-vf-3-la-xe-dien-ban-chay-nhat-philippines-post1690899.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/bpivptvl/2024_07_31/vinfast_vf3_tphcm_znews.jpg"
+            "title": "'Thần đồng' Trung Quốc 17 tuổi gia nhập công ty của quái kiệt AI Việt Nam",
+            "link": "https://tech.zingnews.vn/than-dong-trung-quoc-17-tuoi-gia-nhap-cong-ty-cua-quai-kiet-ai-viet-nam-post1690944.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/sfrsm/2026_10_20/Anh_man_hinh_2026_10_20_luc_21.54.18.jpg"
         },
         {
-            "title": "Gần 200.000 người đi xem loạt concert ở TP.HCM - chuyện gì đang xảy ra?",
-            "link": "https://znews.vn/gan-200000-nguoi-di-xem-loat-concert-o-tphcm-chuyen-gi-dang-xay-ra-post1690830.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/vrwqcqdjw/2026_10_20/854143802_2557725881299474_6385382485157064476_n_1.jpg"
+            "title": "Cuộc chiến mới của Super League",
+            "link": "https://lifestyle.zingnews.vn/cuoc-chien-moi-cua-super-league-post1690938.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/mfnuy/2021_08_16/skysports_big_six_super_league_5350715.jpg"
         },
         {
-            "title": "Diễn viên Vương Anh cưới vợ hơn 5 tuổi",
-            "link": "https://lifestyle.zingnews.vn/dien-vien-vuong-anh-cuoi-vo-hon-5-tuoi-post1690826.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/wpdhnwhnw/2026_10_20/727313370178721374776850175288394056147720610n_162609_1792458276292_1792458278046306183128_1.jpg"
+            "title": "TP.HCM sắp công bố 12 dự án FDI tổng vốn hơn 13 tỷ USD",
+            "link": "https://znews.vn/tphcm-sap-cong-bo-12-du-an-fdi-tong-von-hon-13-ty-usd-post1690885.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/yzfsm/2026_10_20/TP.HCM_sap_cong_bo_12_du_an_FDI_co_tong_von_dau_tu_vuot_13_ty_USD.jpg"
         },
         {
-            "title": "Cổ phiếu PNJ 'cháy hàng' trước ngày họp bất thường",
-            "link": "https://znews.vn/co-phieu-pnj-chay-hang-truoc-ngay-hop-bat-thuong-post1690862.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/vpcvodbp/2026_09_16/KIM_CUONG_39_Znews_1.jpg"
+            "title": "Dấu hiệu nhận biết đái tháo đường giai đoạn đầu",
+            "link": "https://lifestyle.zingnews.vn/dau-hieu-nhan-biet-dai-thao-duong-giai-doan-dau-post1686493.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/sgorvz/2025_04_19/tieu_duong_o_chan_tay_1.jpg"
         },
         {
-            "title": "Đấu giá sách hiếm triệu USD của 3 thiên tài",
-            "link": "https://znews.vn/dau-gia-sach-hiem-trieu-usd-cua-3-thien-tai-post1690355.html",
-            "img": "https://photo.znews.vn/Uploaded/qoswae/2026_10_18/17SCI_RARE_BOOKS_01_lpjt_superJumbo.jpg"
+            "title": "Trật tự không thể đảo ngược suốt nhiều thiên niên kỷ",
+            "link": "https://znews.vn/trat-tu-khong-the-dao-nguoc-suot-nhieu-thien-nien-ky-post1688976.html",
+            "img": "https://photo.znews.vn/Uploaded/ofh_cgkztmzt/2026_10_11/58375.jpg"
         },
         {
-            "title": "Rác nội dung",
-            "link": "https://znews.vn/rac-noi-dung-post1690582.html",
-            "img": "https://photo.znews.vn/Uploaded/ecfzyryrzly/2026_10_17/AI_znews_1_.jpg"
+            "title": "Làn sóng câu lạc bộ đi bộ nghe sách nói tại Mỹ",
+            "link": "https://znews.vn/lan-song-cau-lac-bo-di-bo-nghe-sach-noi-tai-my-post1689576.html",
+            "img": "https://photo.znews.vn/Uploaded/qoswae/2026_10_14/sach_noi_di_bo_1.jpg"
         }
     ]
 }
