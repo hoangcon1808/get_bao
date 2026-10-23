@@ -1,14 +1,19 @@
 {
     "VNExpress": [
         {
-            "title": "Thủ tướng Bỉ chủ trì lễ đón Tổng Bí thư, Chủ tịch nước Tô Lâm",
-            "link": "https://vnexpress.net/thu-tuong-bi-chu-tri-le-don-tong-bi-thu-chu-tich-nuoc-to-lam-5136201.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/23/wm30-wm30-vnapotalthutuongbichutril-5367-1664-1792761164.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=SV-CghiM_KMpV1isjZLpxA"
-        },
-        {
             "title": "40.000 người Việt sập bẫy 'giấc mơ kiếm tiền' bằng AI trên Tatao Live",
             "link": "https://vnexpress.net/40-000-nguoi-viet-sap-bay-giac-mo-kiem-tien-bang-ai-tren-tatao-live-5135952.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/23/1-1792747722-1190-1792760947.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=JDGuZh6X_P60znFWlm6QGQ"
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/23/1-1792747722-1190-1792760947.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=3-zahYg_frRH4uVAJdhC6A"
+        },
+        {
+            "title": "Công bố lịch xét tuyển đại học năm 2027",
+            "link": "https://vnexpress.net/lich-tuyen-sinh-dai-hoc-2027-chi-tiet-cap-nhat-nhat-tu-bo-giao-duc-va-dao-tao-5136204.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/23/wm1-wm1-dsc05298-1792762947-5243-1792763000.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=ZejGDbDg_wBHbXdZgJdAlw"
+        },
+        {
+            "title": "Kompany ngã gục trên sân tập Bayern",
+            "link": "https://vnexpress.net/kompany-nga-guc-tren-san-tap-bayern-5136238.html",
+            "img": "https://vcdn1-thethao.vnecdn.net/2026/10/23/kompany-1792771498-5808-1792771606.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=-HFovAGxH3usoznD2xpbTQ"
         },
         {
             "title": "Sân bay Long Thành thiếu thợ lành nghề khi gần về đích",
@@ -44,11 +49,6 @@
             "title": "Cách ông Putin hóa giải sức ép trừng phạt từ Mỹ",
             "link": "https://vnexpress.net/cach-ong-putin-hoa-giai-suc-ep-trung-phat-tu-my-5135841.html",
             "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/23/afpnj8f9-v2-highre-1792742104-2754-1792742110.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=BdYAe8SFl5pt0SgGOJ-Seg"
-        },
-        {
-            "title": "Bộ Y tế: Giảm tuổi hiến mô, tạng để mở rộng nguồn cứu chữa người bệnh",
-            "link": "https://vnexpress.net/bo-y-te-giam-tuoi-hien-mo-tang-de-mo-rong-nguon-cuu-chua-nguoi-benh-5136002.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/23/wm1-wm1-15e23498477be825b16a-17927-1445-6433-1792734707.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=lrTo_lpimCbZLzPueAt0hw"
         }
     ],
     "Tuổi Trẻ": [],
@@ -148,14 +148,14 @@
             "img": "https://photo.znews.vn/w210/Uploaded/rohuoct/2024_09_20/phuonglllam_znews.jpg"
         },
         {
-            "title": "'Đông Kinh Nghĩa Thục' là gì?",
-            "link": "https://znews.vn/dong-kinh-nghia-thuc-la-gi-post1691201.html",
-            "img": "https://photo.znews.vn/Uploaded/bpcgpivp/2026_10_22/1792662267532_2059306209657728930_2059306209657728930_acf7fcb31743595545c11b0da05adb8d.jpg"
+            "title": "Bốn giây vàng trong bán hàng",
+            "link": "https://znews.vn/bon-giay-vang-trong-ban-hang-post1691232.html",
+            "img": "https://photo.znews.vn/Uploaded/znang2/2026_10_22/job_interview.jpg"
         },
         {
-            "title": "Thói quen của Vua Charles III và Vương hậu Camilla trước giờ ăn",
-            "link": "https://znews.vn/thoi-quen-cua-vua-charles-iii-va-vuong-hau-camilla-truoc-gio-an-post1691055.html",
-            "img": "https://photo.znews.vn/Uploaded/zagtgt/2026_10_21/34SBS62FLRLFXGBJOBYN7ECIVQ_1.jpg"
+            "title": "Sách hay cho cung Bạch Dương",
+            "link": "https://znews.vn/sach-hay-cho-cung-bach-duong-post1691088.html",
+            "img": "https://photo.znews.vn/Uploaded/zagtgt/2026_10_21/c039ff974fc853f64b2b89480f4a1aa3_1.jpg"
         }
     ]
 }
