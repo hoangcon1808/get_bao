@@ -1,63 +1,68 @@
 {
     "VNExpress": [
         {
+            "title": "Hơn 1.300 người bị bắt trong biểu tình tại Pháp",
+            "link": "https://vnexpress.net/hon-1-300-nguoi-bi-bat-trong-bieu-tinh-tai-phap-5136687.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/25/afp-d4bh29a-v3-highres-topshot-8568-7169-1792931715.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=v19xStE2RGDHYCpE3WDc8Q"
+        },
+        {
+            "title": "Đề xuất miễn phí ví điện tử cho xe ít qua trạm",
+            "link": "https://vnexpress.net/de-xuat-mien-phi-vi-dien-tu-cho-xe-it-qua-tram-5136690.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/25/cg2a1492-png-1792929624-2336-1792930087.webp?w=220&h=132&q=100&dpr=1&fit=crop&s=f78WhYrT35hIFdOT8Ri8TA"
+        },
+        {
+            "title": "Phe vé 'hét' giá hàng chục triệu đồng tại concert BigBang",
+            "link": "https://vnexpress.net/phe-ve-het-gia-hang-chuc-trieu-dong-tai-concert-bigbang-5136674.html",
+            "img": "https://vcdn1-giaitri.vnecdn.net/2026/10/25/wm1-wm1-phe-ve-giao-dich-179292290-5520-1219-1792923103.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=gnzIVeoRc_v7WKJw7T9cqg"
+        },
+        {
+            "title": "Khánh thành khu thử nghiệm UAV tại Hòa Lạc",
+            "link": "https://vnexpress.net/khanh-thanh-khu-thu-nghiem-uav-tai-hoa-lac-5136677.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/25/uav-dhqg-1792924088-1628-1792924100.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=kFX7m3IXzu3D1Iv4w65sIA"
+        },
+        {
+            "title": "Thợ make-up đắt khách, kiếm hơn chục triệu đồng nhờ concert BigBang",
+            "link": "https://vnexpress.net/tho-make-up-dat-khach-kiem-hon-chuc-trieu-dong-nho-concert-bigbang-5136688.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/25/20261025185640-1792929428-8061-1792929557.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=X4_2gM5CIg0iwoYF3aBHvw"
+        },
+        {
+            "title": "Ông Trump: Mỹ dừng hạ sát lãnh đạo Iran để biết đàm phán với ai",
+            "link": "https://vnexpress.net/ong-trump-my-dung-ha-sat-lanh-dao-iran-de-biet-dam-phan-voi-ai-5136653.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/25/ap26298052958193-1792919273-8359-1792919795.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=O3RFcJs1Z14zL9zAYXsIQA"
+        },
+        {
+            "title": "Nam sinh Ams giành vé cuối vào chung kết Olympia 2026",
+            "link": "https://vnexpress.net/kich-tinh-tran-tranh-ve-cuoi-vao-chung-ket-duong-len-dinh-olympia-2026-5136650.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/25/anhc-1792914012-2358-1792915682.png?w=220&h=132&q=100&dpr=1&fit=crop&s=Hh3s-lLhnqPtZrSv_uf9SA"
+        },
+        {
+            "title": "Đề xuất bỏ nghiệm thu PCCC trước khi đưa công trình vào sử dụng",
+            "link": "https://vnexpress.net/de-xuat-bo-nghiem-thu-pccc-truoc-khi-dua-cong-trinh-vao-su-dung-5136605.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/25/C91R7205JPG-1792900431-6472-1792900473.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=DaN_zrUG7KYdpFDt3kmjkA"
+        },
+        {
+            "title": "TP HCM nới khung định giá đất cho các siêu dự án lên đến 11 năm",
+            "link": "https://vnexpress.net/tp-hcm-noi-khung-dinh-gia-dat-cho-cac-sieu-du-an-len-den-11-nam-5136670.html",
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/25/sieuduan-jpeg-1792921902-3478-1792922366.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=6Fga_v4QZvaok7a71CqcXA"
+        },
+        {
             "title": "Hà Nội nghiên cứu cải tạo sông Hồng, sông Đà",
             "link": "https://vnexpress.net/ha-noi-nghien-cuu-cai-tao-song-hong-song-da-5136590.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/25/songHong-1792901430-4297-1792901798.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=FLRvCU7vLuPp24scE3eI5Q"
-        },
-        {
-            "title": "Người dân mang bao tải nhận tiền đền bù dự án mở rộng quốc lộ 1A",
-            "link": "https://vnexpress.net/nguoi-dan-mang-bao-tai-nhan-tien-den-bu-du-an-mo-rong-quoc-lo-1a-5136190.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/23/Sequence0200000000Still001-179-3182-2878-1792755754.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=awtTB358XCjWVCoiof-AZg"
-        },
-        {
-            "title": "Xả súng trong ngày hội trường ở Mỹ, 11 người trúng đạn",
-            "link": "https://vnexpress.net/xa-sung-trong-ngay-hoi-truong-o-my-11-nguoi-trung-dan-5136644.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/25/2026t052949z-mt1usatoday301811-5904-5233-1792914880.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=4RfMJHni0r_rVrNOy9mnxg"
-        },
-        {
-            "title": "Hai xe máy va chạm, bốn người tử vong",
-            "link": "https://vnexpress.net/hai-xe-may-va-cham-bon-nguoi-tu-vong-5136595.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/25/tai-nan-jfif-1792901279-8433-1792901994.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=-QF5rrmiEuThR1wlqgurpA"
-        },
-        {
-            "title": "'Đánh đổi' của Trung Quốc khi sản xuất chip không EUV",
-            "link": "https://vnexpress.net/danh-doi-cua-trung-quoc-khi-san-xuat-chip-khong-euv-5136522.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/25/IMG-20260925-082010-1-5923-1792862342.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=KIPWWdhhN8K4jp-FBU8z5A"
-        },
-        {
-            "title": "Công an đang mở cao điểm 'làm sạch' dữ liệu ôtô, xe máy",
-            "link": "https://vnexpress.net/cong-an-dang-mo-cao-diem-lam-sach-du-lieu-oto-xe-may-5136625.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/25/1-1792905162-6793-1792905179.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=WukPkbtXpB4k-3v6INPAPw"
-        },
-        {
-            "title": "Khói lửa bao trùm nước Pháp khi biểu tình biến thành bạo lực",
-            "link": "https://vnexpress.net/khoi-lua-bao-trum-nuoc-phap-khi-bieu-tinh-bien-thanh-bao-luc-5136563.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/25/AFP-20261024-D4BD8Z8-v2-HighRes-TopshotFranceSocialDemo-1792895149.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=Hkq9aOjfK_YHAOtBjZNcfA"
-        },
-        {
-            "title": "Cách bà Melania giúp Nga - Ukraine ngừng bắn tại Oleshky",
-            "link": "https://vnexpress.net/cach-ba-melania-giup-nga-ukraine-ngung-ban-tai-oleshky-5136584.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/25/afp-nollyaraujo-dcpresid261019-2808-8621-1792901015.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=FXb0g6dFnW3gEi-0G52KAQ"
-        },
-        {
-            "title": "Concert BigBang ở Hà Nội: Những giai điệu thanh xuân",
-            "link": "https://vnexpress.net/concert-bigbang-o-ha-noi-nhung-giai-dieu-thanh-xuan-5136536.html",
-            "img": "https://vcdn1-giaitri.vnecdn.net/2026/10/25/bigbang-concert-t1-1792894500-6556-1792894521.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=znZop1hfl1Dssn9BuXNp4A"
-        },
-        {
-            "title": "Đóng bảo hiểm xã hội tự nguyện, bạn 'lời' không?",
-            "link": "https://vnexpress.net/dong-bao-hiem-xa-hoi-tu-nguyen-ban-loi-khong-5136524.html",
-            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/24/Thumb-1792854800-9617-1792855937.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=NdwITTmHqW1vNTDGT8onvQ"
+            "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/25/songHong-1792901430-4297-1792901798.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=xYc5Agzs3o0BqmEAflG-kQ"
         }
     ],
     "Tuổi Trẻ": [],
     "Thanh Niên": [],
     "Dân Trí": [
         {
+            "title": "\"Chạy sô\" đám cưới nuôi đam mê, nữ sinh xuất sắc trở thành thủ khoa đầu ra",
+            "link": "https://dantri.com.vn/giao-duc/chay-so-dam-cuoi-nuoi-dam-me-nu-sinh-xuat-sac-tro-thanh-thu-khoa-dau-ra-20261024204355394.htm",
+            "img": "https://cdnphoto.dantri.com.vn/u2UAEjvd_Em4WV5Bgqi8s9zuz-U=/zoom/774_516/2026/10/24/img1290-edited-cropped-1792849264785.jpg"
+        },
+        {
             "title": "1,6 triệu thanh niên 3 không: Cú trượt dài bi kịch của nam sinh bỏ học sớm",
             "link": "https://dantri.com.vn/giao-duc/16-trieu-thanh-nien-3-khong-cu-truot-dai-bi-kich-cua-nam-sinh-bo-hoc-som-20261023225513722.htm",
-            "img": "https://cdnphoto.dantri.com.vn/q4CMmZk3cQqCf_rhA1cM8sOXNPk=/zoom/774_516/2026/10/23/nguoi-tre-3-khong-1792770417304.png"
+            "img": "https://cdnphoto.dantri.com.vn/0TpqcNjH8gPlee8FPzvID8uDX0c=/zoom/351_234/2026/10/23/nguoi-tre-3-khong-1792770417304.png"
         },
         {
             "title": "Đề xuất giảm điểm cộng ưu tiên vào lớp 10, điểm khuyến khích tối đa còn 1",
@@ -67,7 +72,7 @@
         {
             "title": "Đà Nẵng có 11 trường hơn 100 lớp, có điểm lẻ cách trụ sở chính 30km",
             "link": "https://dantri.com.vn/giao-duc/da-nang-co-11-truong-hon-100-lop-co-diem-le-cach-tru-so-chinh-30km-20261024134420436.htm",
-            "img": "https://cdnphoto.dantri.com.vn/J85zx5SlRqhbc-4NA9Zxo1JiFfQ=/zoom/351_234/2026/10/24/giam-doc-so-giao-duc-da-nanghoai-son1-1792823590392.jpg"
+            "img": "https://cdnphoto.dantri.com.vn/LnCcGi7EQM94kUZ2XoaKnHIr_VY=/zoom/192_128/2026/10/24/giam-doc-so-giao-duc-da-nanghoai-son1-1792823590392.jpg"
         },
         {
             "title": "Sẽ sử dụng công nghệ AI hỗ trợ công tác quản lý ngành giáo dục",
@@ -90,11 +95,6 @@
             "img": "https://cdnphoto.dantri.com.vn/OEhyVVJ94muDqLjXAglDTh4i_jY=/zoom/192_128/2026/08/29/noi-tru2-cropped-1787967987039.jpg"
         },
         {
-            "title": "Ngôi trường là di tích cấp quốc gia đặc biệt tròn 130 năm tuổi",
-            "link": "https://dantri.com.vn/giao-duc/ngoi-truong-la-di-tich-cap-quoc-gia-dac-biet-tron-130-nam-tuoi-20261023151610237.htm",
-            "img": "https://cdnphoto.dantri.com.vn/Fi3fgfyk_2aV3luDKDbVJeXOw1c=/zoom/192_128/2026/10/23/quoc-hoc-hue-edited-1792742670541.jpg?watermark=v1"
-        },
-        {
             "title": "Điểm tuần: iPhone Duo lên kệ, Internet toàn cầu gặp sự cố",
             "link": "https://dantri.com.vn/cong-nghe/diem-tuan-iphone-duo-len-ke-internet-toan-cau-gap-su-co-20261024180142213.htm",
             "img": "https://cdnphoto.dantri.com.vn/Rhvq1q6vtuzETB60Nc3_Zll-t18=/zoom/774_516/2026/10/24/iphone-duo-the-anh-8-edited-1792839590141.jpg"
@@ -108,54 +108,54 @@
     "VietnamNet": [],
     "Znews": [
         {
-            "title": "Vì sao concert BigBang ở Mỹ Đình cháy vé?",
-            "link": "https://lifestyle.zingnews.vn/vi-sao-concert-bigbang-o-my-dinh-chay-ve-post1691903.html",
-            "img": "https://photo.znews.vn/w1000/Uploaded/qfssu/2026_10_25/big_bang_3_1.jpg"
+            "title": "Đêm diễn cuối của BigBang ở sân Mỹ Đình trước giờ bùng nổ",
+            "link": "https://lifestyle.zingnews.vn/dem-dien-cuoi-cua-bigbang-o-san-my-dinh-truoc-gio-bung-no-post1691984.html",
+            "img": "https://photo.znews.vn/w1000/Uploaded/rohunaa/2026_10_25/anh11_znews_1.jpg"
         },
         {
-            "title": "'Con dao hai lưỡi' giết chết các chuỗi gym",
-            "link": "https://lifestyle.zingnews.vn/con-dao-hai-luoi-giet-chet-cac-chuoi-gym-post1691891.html",
-            "img": "https://photo.znews.vn/w480/Uploaded/anqyy/2026_10_25/gym_8.jpg"
+            "title": "Ấn bản được Tổng Bí thư, Chủ tịch nước tặng Thư viện Hoàng gia Bỉ",
+            "link": "https://znews.vn/an-ban-duoc-tong-bi-thu-chu-tich-nuoc-tang-thu-vien-hoang-gia-bi-post1691943.html",
+            "img": "https://photo.znews.vn/w480/Uploaded/bpcgpivp/2026_10_25/2410_tong_bi_thu_chu_tich_nuoc_tang_sach_thu_vien_hoang_gia_bi_1_1.jpg"
         },
         {
-            "title": "370 cuốn sách với AI trong 20 tháng: Nhà văn giữa làn sóng tranh cãi",
-            "link": "https://znews.vn/370-cuon-sach-voi-ai-trong-20-thang-nha-van-giua-lan-song-tranh-cai-post1691904.html",
-            "img": "https://photo.znews.vn/w480/Uploaded/qoswae/2026_10_25/AI.jpg"
+            "title": "Sắp hết thời mua nhà ở xã hội bán kiếm lời sau 5 năm",
+            "link": "https://znews.vn/sap-het-thoi-mua-nha-o-xa-hoi-ban-kiem-loi-sau-5-nam-post1691948.html",
+            "img": "https://photo.znews.vn/w480/Uploaded/bpcgtqmv/2026_03_20/noxh.jpg"
         },
         {
-            "title": "BLV Anh Quân xin lỗi khán giả vì lạm dụng AI",
-            "link": "https://tech.zingnews.vn/blv-anh-quan-xin-loi-khan-gia-vi-lam-dung-ai-post1691932.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/ycivoviu/2026_10_25/anh_quan.jpg"
+            "title": "Fan quốc tế 'nổi da gà' vì dàn đồng ca tại concert BigBang ở Hà Nội",
+            "link": "https://lifestyle.zingnews.vn/fan-quoc-te-noi-da-ga-vi-dan-dong-ca-tai-concert-bigbang-o-ha-noi-post1691957.html",
+            "img": "https://photo.znews.vn/Uploaded/anqyy/2026_10_25/E7cgxg_LBGMUjsBJ_ezgif.com_speed.gif"
         },
         {
-            "title": "Phó Đức Nam và Lê Khắc Ngọ bị thu hồi bao nhiêu tài sản?",
-            "link": "https://lifestyle.zingnews.vn/pho-duc-nam-va-le-khac-ngo-bi-thu-hoi-bao-nhieu-tai-san-post1691491.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/ecfzyryrzly/2026_10_23/pho_duc_nam.jpg"
+            "title": "Siêu đô thị thể thao 9.000 ha được huy động 237.000 tỷ đồng xây nhà ở",
+            "link": "https://znews.vn/sieu-do-thi-the-thao-9000-ha-duoc-huy-dong-237000-ty-dong-xay-nha-o-post1691733.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/spluwao/2026_10_11/SVD_Trong_Dong_6.jpg"
         },
         {
-            "title": "adidas rất gần mốc 30 tỷ USD",
-            "link": "https://lifestyle.zingnews.vn/adidas-rat-gan-moc-30-ty-usd-post1691820.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/rotnba/2026_10_24/adidas_0002.jpg"
+            "title": "Cú sốc cho Real Madrid ở El Clasico",
+            "link": "https://lifestyle.zingnews.vn/cu-soc-cho-real-madrid-o-el-clasico-post1691988.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/mfnuy/2026_10_25/courtois_2_.JPG"
         },
         {
-            "title": "Apple lại bị chê sau khi iPhone Duo lên kệ",
-            "link": "https://tech.zingnews.vn/apple-lai-bi-che-post1691912.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/yqdlcqrwq/2026_10_25/04525102026_apple_steve_jobs_iphone_duo.jpg"
+            "title": "Hiến tạng ở người dưới 18 tuổi: Thế giới quy định như thế nào?",
+            "link": "https://lifestyle.zingnews.vn/hien-tang-o-nguoi-duoi-18-tuoi-the-gioi-quy-dinh-nhu-the-nao-post1691793.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/sgorvz/2026_10_24/hien_tang_2.jpg"
         },
         {
-            "title": "Tiệc thời trang ở concert BigBang: Từ mũ lông đến túi Chanel độc bản",
-            "link": "https://lifestyle.zingnews.vn/tiec-thoi-trang-o-concert-bigbang-tu-mu-long-den-tui-chanel-doc-ban-post1691804.html",
-            "img": "https://photo.znews.vn/w210/Uploaded/ymzaz/2026_10_24/THUMB_CONCERT_BIGBANG_HA_NOI_ZNEWS.jpg"
+            "title": "MU vs Bournemouth: Carrick loại Bruno khỏi đội hình chính",
+            "link": "https://lifestyle.zingnews.vn/mu-vs-bournemouth-carrick-loai-bruno-khoi-doi-hinh-chinh-post1691778.html",
+            "img": "https://photo.znews.vn/w210/Uploaded/qdhcadxwp/2026_10_24/2026_10_21T181554Z_1238442120_UP1EMAL1EQHSY_RTRMADP_3_SOCCER_CHAMPIONS_COM_MUN_2_.JPG"
         },
         {
-            "title": "Ảnh hưởng của Melinda tới Bill Gates",
-            "link": "https://znews.vn/anh-huong-cua-melinda-toi-bill-gates-post1691654.html",
-            "img": "https://photo.znews.vn/Uploaded/znang2/2026_10_23/image_1792808875229.jpg"
+            "title": "Hành trình từ quần đảo Galapagos đến thuyết chọn lọc tự nhiên",
+            "link": "https://znews.vn/hanh-trinh-tu-quan-dao-galapagos-den-thuyet-chon-loc-tu-nhien-post1691821.html",
+            "img": "https://photo.znews.vn/Uploaded/caxwpqdwp/2026_10_24/Charles_Darwin_31_1.jpg"
         },
         {
-            "title": "Đề xuất đưa Việt Nam trở thành quốc gia đọc sách",
-            "link": "https://znews.vn/de-xuat-dua-viet-nam-tro-thanh-quoc-gia-doc-sach-post1691703.html",
-            "img": "https://photo.znews.vn/Uploaded/hointt/2026_07_03/THChuVanAn_82_znews.jpg"
+            "title": "Cà phê giúp con người gia tăng sức bền",
+            "link": "https://znews.vn/ca-phe-giup-con-nguoi-gia-tang-suc-ben-post1691862.html",
+            "img": "https://photo.znews.vn/Uploaded/ofh_cgkztmzt/2026_10_25/cf.jpg"
         }
     ]
 }
